@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>PTOROS VERLAG</title>
+  <style>
+    :root{
+      --bg:#052b70;    /* deep blue */
+      --gold:#d4b24a;  /* gold-ish text */
+      --max-width:900px;
+      font-family: Junicode, Gentium Plus, Gentium, serif;
+    }
+    html,body{
+      height:100%;
+      margin:0;
+      background:var(--bg);
+      color:var(--gold);
+    }
+    .wrap{
+      min-height:100%;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:32px;
+      box-sizing:border-box;
+    }
+
+    .card{
+      width:100%;
+      max-width:var(--max-width);
+      text-align:center;
+    }
+
+    /* Centerpiece: grid 6x2 letters for "PTOROS VERLAG" */
+    .grid{
+      display:grid;
+      grid-template-columns:repeat(6,1fr);
+      grid-template-rows:repeat(2,1fr);
+      gap:12px;
+      justify-items:center;
+      align-items:center;
+      margin:0 auto 28px;
+      max-width:720px;
+    }
+    .cell{
+      font-size:clamp(28px,6vw,64px);
+      font-weight:700;
+      letter-spacing:0.06em;
+      text-transform:uppercase;
+      padding:12px 6px;
+      color:var(--gold);
+      background:rgba(255,255,255,0.02);
+      border:1px solid rgba(212,178,74,0.08);
+      width:100%;
+      box-sizing:border-box;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+
+    /* optional subtitle / description */
+    .subtitle{
+      color:var(--gold);
+      opacity:0.95;
+      margin-bottom:18px;
+      font-weight:500;
+    }
+
+    /* simple footer / impressum */
+    footer{
+      margin-top:28px;
+      font-size:0.9rem;
+      color:var(--gold);
+      opacity:0.95;
+      background:transparent;
+    }
+    .impressum{
+      text-align:left;
+      display:inline-block;
+      max-width:720px;
+      padding:14px 18px;
+      border-radius:6px;
+      background:rgba(255,255,255,0.01);
+      border:1px solid rgba(212,178,74,0.06);
+      line-height:1.5;
+    }
+
+    a { color:var(--gold); text-decoration:underline; opacity:0.95; }
+
+    /* Responsive tweaks */
+    @media (max-width:560px){
+      .grid{ gap:8px; }
+      .cell{ font-size:clamp(20px,8vw,40px); padding:10px 4px; }
+      .impressum{ font-size:0.85rem; padding:12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <main class="card" role="main">
+      <div class="grid" aria-label="PTOROS VERLAG">
+        <!-- Row 1: P T O R O S -->
+        <div class="cell">P</div>
+        <div class="cell">T</div>
+        <div class="cell">O</div>
+        <div class="cell">R</div>
+        <div class="cell">O</div>
+        <div class="cell">S</div>
+
+        <!-- Row 2: V E R L A G -->
+        <div class="cell">V</div>
+        <div class="cell">E</div>
+        <div class="cell">R</div>
+        <div class="cell">L</div>
+        <div class="cell">A</div>
+        <div class="cell">G</div>
+      </div>
+
+      <p class="subtitle">Selbstverlag • Bücher &amp; kurze Werke</p>
+
+      <footer>
+        <div class="impressum" role="contentinfo">
+          <strong>Impressum</strong><br>
+          PTOROS VERLAG<br>
+          Musterstraße 1<br>
+          10115 Berlin<br>
+          Deutschland<br><br>
+
+          Verantwortlich: Vorname Nachname<br>
+          E‑Mail: info(at)ptoros-verlag.de<br>
+          Umsatzsteuer-ID: DE123456789 (falls vorhanden)<br><br>
+
+          Dieses Impressum gilt auch für die Social‑Media‑Profile: @ptorosverlag
+        </div>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
