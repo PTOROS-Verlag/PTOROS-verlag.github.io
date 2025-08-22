@@ -1,104 +1,275 @@
 <!doctype html>
 <html lang="de">
+
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>PTOROS Verlag</title>
+  <title>PTOROS Verlag – Zeitlos mit Nachdruck</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
   <style>
-    :root{
-      --bg:#033F63;    /* indigo dye */
-      --gold:#FADF7F;  /* jasmine */
-      --max-width:900px;
-      font-family: Gentium Plus, Gentium, serif;
-    }
-    html,body{
-      height:100%;
-      margin:0;
-      background:var(--bg);
-      color:var(--gold);
-    }
-    .wrap{
-      min-height:100%;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      padding:32px;
-      box-sizing:border-box;
+    :root {
+      /* indigo dye */
+      --bg: #031950;
+      /* jasmine */
+      --gold: #FADF7F;
+      --spine: #1A1A1A;
+      --stars: #011037;
+      --muted: rgba(255, 255, 255, 0.7);
+      --max-width: 900px;
+      font-family: Alegreya Sans, serif;
     }
 
-    .card{
-      width:100%;
-      max-width:var(--max-width);
-      text-align:center;
+    html,
+    body {
+      height: 100%;
+      font-size: 13pt;
+      margin: 0;
+      background: var(--bg);
+      color: white;
     }
 
-    /* Centerpiece: grid 6x2 letters for "PTOROS VERLAG" */
-    .grid{
-      display:grid;
-      grid-template-columns:repeat(6,1fr);
-      grid-template-rows:repeat(2,1fr);
-      gap:12px;
-      justify-items:center;
-      align-items:center;
-      margin:0 auto 28px;
-      max-width:720px;
-    }
-    .cell{
-      font-size:clamp(28px,6vw,64px);
-      font-weight:700;
-      letter-spacing:0.06em;
-      text-transform:uppercase;
-      padding:12px 6px;
-      color:var(--gold);
-      background:rgba(255,255,255,0.02);
-      border:1px solid rgba(212,178,74,0.08);
-      width:100%;
-      box-sizing:border-box;
-      display:flex;
-      align-items:center;
-      justify-content:center;
+    .wrap {
+      min-height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px;
+      box-sizing: border-box;
     }
 
-    /* optional subtitle / description */
-    .subtitle{
-      color:var(--gold);
-      opacity:0.95;
-      margin-bottom:18px;
-      font-weight:500;
+    .card {
+      width: 100%;
+      max-width: var(--max-width);
     }
 
-    /* simple footer / impressum */
-    footer{
-      margin-top:28px;
-      font-size:0.9rem;
-      color:var(--gold);
-      opacity:0.95;
-      background:transparent;
-    }
-    .impressum{
-      text-align:left;
-      display:inline-block;
-      max-width:720px;
-      padding:14px 18px;
-      border-radius:6px;
-      background:rgba(255,255,255,0.01);
-      border:1px solid rgba(212,178,74,0.06);
-      line-height:1.5;
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      gap: 6px;
+      /* engerer Abstand */
+      justify-items: center;
+      align-items: center;
+      margin: 0 auto 20px;
+      /* weniger Abstand nach unten */
+      max-width: 600px;
+      /* schmaler als vorher */
     }
 
-    a { color:var(--gold); text-decoration:underline; opacity:0.95; }
+    .cell {
+      font-size: clamp(20px, 4vw, 42px);
+      /* kleinere Schrift */
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 6px 4px;
+      /* weniger Padding */
+      color: var(--gold);
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(212, 178, 74, 0.08);
+      width: 100%;
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .cell.slogan {
+      font-size: clamp(16px, 2.5vw, 24px);
+      letter-spacing: 0.04em;
+      text-transform: none;
+      padding: 6px 0;
+      color: var(--muted);
+      opacity: 0.9;
+    }
+
+    /* Responsive für kleine Screens */
+    @media (max-width: 560px) {
+      .grid {
+        gap: 4px;
+        max-width: 100%;
+      }
+
+      .cell {
+        font-size: clamp(16px, 7vw, 32px);
+        padding: 5px 3px;
+      }
+    }
+
+    .site-footer {
+      margin-top: 28px;
+      font-size: 0.9rem;
+      color: var(--gold);
+      opacity: 0.95;
+      background: transparent;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.25);
+      /* dunkler, leicht transparent */
+      color: var(--muted);
+      padding: 24px 16px;
+      box-sizing: border-box;
+      margin-top: 40px;
+    }
+
+    .site-footer .impressum {
+      max-width: 900px;
+      margin: 0 auto;
+      line-height: 1.6;
+      font-size: 0.95rem;
+    }
+
+    .site-footer a {
+      color: rgba(255, 255, 255, 0.85);
+      text-decoration: underline;
+      opacity: 0.95;
+    }
+
+    a {
+      color: var(--gold);
+      text-decoration: underline;
+      opacity: 0.95;
+    }
+
+
+    .books {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+      margin: 20px auto;
+      max-width: var(--max-width);
+    }
+
+    .book {
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(212, 178, 74, 0.08);
+      padding: 16px;
+    }
+
+    .cover {
+      width: 120px;
+      flex-shrink: 0;
+    }
+
+    .info {
+      text-align: left;
+      flex: 1;
+    }
+
+    .info h2 {
+      margin: 0 0 4px;
+      font-size: 1.3rem;
+    }
+
+    .author {
+      margin: 0 0 10px;
+      font-style: italic;
+      opacity: 0.9;
+    }
+
+    .desc {
+      margin: 0 0 12px;
+      line-height: 1.5;
+      color: var(--muted);
+    }
+
+    blockquote footer {
+      text-align: right;
+      font-size: 0.9em;
+    }
+
+    .meta {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      font-size: 0.95rem;
+      opacity: 0.9;
+    }
+
+    .meta li {
+      margin-right: 20px;
+    }
+
+    .links a {
+      color: var(--gold);
+      font-weight: 600;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      margin-right: 12px;
+    }
+
+    .links a:hover {
+      color: #fff;
+      /* hellere Farbe beim Hover */
+      text-decoration: underline;
+      transform: scale(1.05);
+    }
+
+    h2.section-title {
+      text-align: center;
+      font-size: 1.3rem;
+      font-weight: 600;
+      color: var(--gold);
+      margin-top: 40px;
+      letter-spacing: 0.05em;
+    }
+
+    @media (max-width: 640px) {
+      .book {
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: left;
+      }
+
+      .cover {
+        width: 160px;
+        margin-bottom: 12px;
+      }
+    }
 
     /* Responsive tweaks */
-    @media (max-width:560px){
-      .grid{ gap:8px; }
-      .cell{ font-size:clamp(20px,8vw,40px); padding:10px 4px; }
-      .impressum{ font-size:0.85rem; padding:12px; }
+    @media (max-width:560px) {
+      .impressum {
+        font-size: 0.85rem;
+        padding: 12px;
+      }
+    }
+
+    .about {
+      max-width: var(--max-width);
+      margin: 0 auto;
+      line-height: 1.6;
+      padding: 16px;
+      color: var(--muted);
+    }
+
+    .about p {
+      font-size: 1.1rem;
+    }
+
+    mark {
+      background: unset;
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-color: var(--gold);
+      text-decoration-thickness: 1px;
+    }
+
+    @media (max-width: 640px) {
+      .about {
+        font-size: 0.95rem;
+        margin: 16px auto;
+      }
     }
   </style>
 </head>
+
 <body>
   <div class="wrap">
     <main class="card" role="main">
@@ -118,27 +289,75 @@
         <div class="cell">L</div>
         <div class="cell">A</div>
         <div class="cell">G</div>
+
+        <div class="cell slogan" style="grid-column: 1 / -1;">Zeitlos mit Nachdruck</div>
       </div>
 
-      <p class="subtitle">Zeitlos mit Nachdruck</p>
+      <section class="about">
+        <h2 class="section-title">Über uns</h2>
+        <p>
+          Der PTOROS Verlag widmet sich der Veröffentlichung typographisch anspruchsvoller und preiswerter Leseausgaben
+          gemeinfreier Werke.
+          Unser Interesse gilt vor allem den weniger bekannten Texten, die eine Wiederentdeckung verdienen.
+        </p>
+        <p>Für uns gehören Inhalt und Gestaltung untrennbar zusammen: Sorgfältige Typographie und durchdachte
+          Seitengestaltung sind wesentliche Bestandteile einer gelungenen Buchausgabe. Dabei sollen schöne Bücher
+          zugänglich bleiben und nicht zum Privileg werden.</p>
+      </section>
 
-      <footer>
+      <h2 class="section-title">Unsere Bücher</h2>
+
+      <section class="books">
+        <article class="book">
+          <img src="img/9783819734922.png" alt="Weisheit des Brahmanen" class="cover">
+          <div class="info">
+            <h2>Die Weisheit des Brahmanen. Ein Lehrgedicht in Bruchstücken</h2>
+            <p class="author">von Friedrich Rückert</p>
+            <div class="desc">
+              Friedrich Rückerts imposantes Lehrgedicht <em>Die Weisheit des Brahmanen</em>, zwischen 1836 und 1839 in
+              sechs
+              Bänden erschienen, bündelt in einzigartiger Weise Anregungen aus Christentum, Islam, Hinduismus und
+              abendländischer Philosophie.
+
+              <blockquote>Schließlich zog er
+                einen abgebleichten Leinenband heraus, dessen Titel ›Weisheit des Brahmanen‹ ihn lockte. Stehend erst,
+                dann sitzend blätterte er in dem Buch, das <mark>viele Hunderte von Lehrgedichten</mark> enthielt,
+                <mark>ein kurioses
+                  Nebeneinander von lehrhafter Gesprächigkeit und wirklicher Weisheit, von Philistrosität und echtem
+                  Dichtergeist</mark>. Es fehlte diesem sonderbaren und rührenden Buch, so wollte es ihm scheinen,
+                keineswegs an
+                Esoterik, aber sie stak in derben hausbackenen Schalen, und nicht jene Gedichte darin waren die
+                hübschesten, in welchen wirklich eine Lehre und Weisheit nach Gestalt strebte, sondern jene, in welchen
+                des Dichters Gemüt, sein Liebesvermögen, seine Redlichkeit und Menschenliebe, sein bürgerlich gediegener
+                Charakter Ausdruck fand. <br />
+                <footer>(Hermann Hesse, <cite>Das Glasperlenspiel</cite>)</footer>
+              </blockquote>
+            </div>
+            <ul class="meta">
+              <li><strong>Preis:</strong> 25 €</li>
+              <li><strong>Seiten:</strong> 676 </li>
+              <li><strong>ISBN:</strong> 978-3-81973-492-2</li>
+            </ul>
+            <p class="links">
+              <a href="https://www.epubli.com/shop/die-weisheit-des-brahmanen-9783819734922" target="_blank">epubli</a>
+              <a href="https://www.amazon.com/Die-Weisheit-Brahmanen-Ungek%C3%BCrzte-Gesamtausgabe/dp/3819734929"
+                target="_blank">Amazon</a>
+            </p>
+          </div>
+        </article>
+      </section>
+
+      <footer class="site-footer">
         <div class="impressum" role="contentinfo">
           <strong>Impressum</strong><br>
-          PTOROS Verlag<br>
-          ℅ Kierán Meinhardt<br>
-          Albrechtstr. 59 A<br>
-          12103 Berlin<br>
-          Deutschland<br><br>
+          PTOROS Verlag (Einzelunternehmen)<br>
+          Verantwortlich für den Inhalt: Kierán Meinhardt, Albrechtstr. 59 A, 12103 Berlin, Deutschland<br><br>
 
-          Verantwortlich: Kierán Meinhardt<br>
-          E‑Mail: ptoros@web.de<br>
-          <!-- Umsatzsteuer-ID: DE123456789 (falls vorhanden)<br><br> -->
-
-          <!-- Dieses Impressum gilt auch für die Social‑Media‑Profile: @ptorosverlag -->
+          E‑Mail: <a href="mailto:ptoros@web.de">ptoros@web.de</a><br>
         </div>
       </footer>
     </main>
   </div>
 </body>
+
 </html>
