@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="21.889999"
+   inkscape:export-ydpi="21.889999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -63,17 +66,18 @@
        y="-1.3843842" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.997px;font-family:StefanGeorge;-inkscape-font-specification:'StefanGeorge, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fadf7f;fill-opacity:1;stroke:#000000;stroke-width:0.228745"
-       x="-41.051445"
-       y="247.41327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.452px;font-family:StefanGeorge;-inkscape-font-specification:'StefanGeorge, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#fadf7f;fill-opacity:1;stroke:#000000;stroke-width:0.347723"
+       x="10.542496"
+       y="204.17769"
        id="text6-4"
        inkscape:label="text6-4"
-       inkscape:transform-center-x="0.80176768"
-       inkscape:transform-center-y="-78.573232"><tspan
+       inkscape:transform-center-x="1.2838093"
+       inkscape:transform-center-y="-113.39084"
+       transform="scale(1.053365,0.94933854)"><tspan
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:121.997px;font-family:StefanGeorge;-inkscape-font-specification:'StefanGeorge, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fadf7f;fill-opacity:1;stroke-width:0.228745"
-         x="-41.051445"
-         y="247.41327"
-         id="tspan8-3">ptoros</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.452px;font-family:StefanGeorge;-inkscape-font-specification:'StefanGeorge, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fadf7f;fill-opacity:1;stroke-width:0.347723"
+         x="10.542496"
+         y="204.17769"
+         id="tspan8-3">pt</tspan></text>
   </g>
 </svg>
