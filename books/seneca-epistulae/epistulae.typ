@@ -42,7 +42,7 @@
 #set text(
   font: seriffont,
   size: textSize,
-  lang: "lt"
+  lang: "la"
 )
 
 #align(right, text[Seneca · Epistulae morales])
