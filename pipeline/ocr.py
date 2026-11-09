@@ -122,6 +122,8 @@ def read(vid, order, engine):
         elif top["bbox"][3] < min(ln["bbox"][1] for ln in kept):
             number = top["words"][0][0]
     for a, b in zip(kept, kept[1:]):
+        if not a["words"] or not b["words"]:
+            continue
         last, first = a["words"][-1], b["words"][0]
         if re.search(r"[^\W\d_]-$", last[0]) and first[0][:1].islower():
             a["words"][-1] = (last[0][:-1] + first[0], last[1])

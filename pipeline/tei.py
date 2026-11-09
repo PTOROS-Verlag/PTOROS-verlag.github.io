@@ -244,7 +244,8 @@ class Builder:
                 raise BuildError(f"{path}: loose text {c.tail.strip()[:40]!r}")
             cls = c.get("class", "")
             if c.tag in ("h2", "h3", "h4", "h5", "h6"):
-                if c.get("pp") == "no":
+                # the label "Widmung" is zeno's; the print has none
+                if c.get("pp") == "no" or c.text_content().strip() == "Widmung":
                     continue
                 if set(c.attrib) - {"pp"}:
                     raise BuildError(f"{path}: unknown heading attributes {dict(c.attrib)}")

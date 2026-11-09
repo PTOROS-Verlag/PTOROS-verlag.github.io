@@ -7,13 +7,15 @@ from . import config
 def main():
     ap = argparse.ArgumentParser(prog="python3 -m pipeline")
     sub = ap.add_subparsers(dest="cmd", required=True)
-    for name in ["fetch-zeno", "fetch-scans", "ocr", "build", "collate", "apply", "validate", "status"]:
+    for name in ["fetch-zeno", "fetch-scans", "ocr", "build", "collate", "align-pages", "apply", "validate", "status"]:
         p = sub.add_parser(name)
         p.add_argument("ids", nargs="*")
         if name == "build":
             p.add_argument("--force", action="store_true")
         if name == "collate":
             p.add_argument("--tei", help="collate this file instead of tei/<id>.xml")
+        if name == "align-pages":
+            p.add_argument("--write", action="store_true", help="rewrite the page breaks, not just list them")
     a = ap.parse_args()
     ids = a.ids or config.IDS
     for v in ids:
@@ -44,6 +46,10 @@ def main():
             ap.error("--tei needs exactly one volume")
         for v in ids:
             collate.run(v, a.tei)
+    elif a.cmd == "align-pages":
+        from . import pages
+        for v in ids:
+            pages.align(v, a.write)
     elif a.cmd == "apply":
         from . import apply
         for v in ids:
