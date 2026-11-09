@@ -344,7 +344,7 @@
           <head>II</head>
           <lg type="poem">
             <l>Hier prangt die fülle lacht der Ewigen milde</l>
-            <l>Arn frühlingsstrande ihrer wahl .. nur rauch</l>
+            <l>Am frühlingsstrande ihrer wahl .. nur rauch</l>
             <l>Des bergs verrät gewaltig innere feuer ..</l>
             <l>Du zögling dieser erd – entflammt und hold –</l>
             <l>Tritt vor der güldnen alter erzgebild</l>
@@ -464,7 +464,7 @@
         <lg type="poem">
           <lg n="1">
             <pb n="28" facs="#f0032"/>
-            <l rendition="#et"><hi rendition="#smaller">...WEM DAS GEWISSEN DROHE</hi></l>
+            <l rendition="#et"><hi rendition="#smaller">.........WEM DAS GEWISSEN DROHE</hi></l>
             <l rendition="#et"><hi rendition="#smaller">MIT EIGNER ODER FREMDER SCHANDE DRUCKE</hi></l>
             <l rendition="#et"><hi rendition="#smaller">EMPFINDET DEINE WORTE WOL ALS ROHE.</hi></l>
           </lg>
@@ -659,8 +659,8 @@
         <pb n="35" facs="#f0039"/>
         <head>DER DICHTER IN ZEITEN DER WIRREN</head>
         <pb n="36" facs="#f0040"/>
-        <p rendition="#right"><hi rendition="#smaller">Dem Andenken des</hi></p>
-        <p rendition="#right"><hi rendition="#smaller">Grafen Bernhard Uxkull</hi></p>
+        <p rendition="#right"><hi rendition="#smaller">DEM ANDENKEN DES</hi></p>
+        <p rendition="#right"><hi rendition="#smaller">GRAFEN BERNHARD UXKULL</hi></p>
         <lg type="poem">
           <lg n="1">
             <l>Der Dichter heisst im stillern gang der zeit</l>
@@ -793,7 +793,7 @@
             <l>Standest du traurig vor mir wie wenn nach prunkendem fest</l>
             <l>Nüchterne woche beginnt schmückender ehren beraubt ..</l>
             <l>Tränen brachen dir aus um den vergeudeten schatz</l>
-            <l>Wichtigster jähre.</l>
+            <l>Wichtigster jahre.</l>
           </lg>
           <lg n="4">
             <l>Du aber tu es nicht gleich unbedachtsamem schwarm</l>
@@ -816,8 +816,8 @@
       <div n="1">
         <pb n="45" facs="#f0049"/>
         <head>DIE WINKE</head>
-        <p rendition="#c"><hi rendition="#smaller">*</hi></p>
         <pb n="46" facs="#f0050"/>
+        <p rendition="#c"><hi rendition="#smaller">*</hi></p>
         <p rendition="#c">M</p>
         <lg type="poem">
           <lg n="1">
@@ -902,7 +902,7 @@
             <l>Und · was als eifer treibt in meine tage ·</l>
             <l>In dumpfen stoff mein feuer nicht mehr presste ..</l>
             <l>Dass mir der schönsten leuchten führung fehlte</l>
-            <l>Und ich mich rückwäris in die nacht verlöre.</l>
+            <l>Und ich mich rückwärts in die nacht verlöre.</l>
             <l>Da kommt herüber vom gebirg ein wehen</l>
             <l>In grauen garten flutet glanz und bläue ..</l>
             <l>Perlfarbner duft behaucht die schattengegend</l>
@@ -946,7 +946,7 @@
         <pb n="53" facs="#f0057"/>
         <head>BURG FALKENSTEIN</head>
         <pb n="54" facs="#f0058"/>
-        <p rendition="#right"><hi rendition="#smaller">An Ernst</hi></p>
+        <p rendition="#right"><hi rendition="#smaller">AN ERNST</hi></p>
         <lg type="poem">
           <lg n="1">
             <l>Zur bewaldeten kuppe</l>
@@ -1026,7 +1026,7 @@
             <l>bis zu der zedern gewölb</l>
             <l>Bis an den strahlenden golf</l>
             <l>ohne vielstimmig gewirr</l>
-            <l>Hallend von reinerm rnetall</l>
+            <l>Hallend von reinerm metall</l>
             <l>dringt der gewaltige hauch ..</l>
             <l>Mit der gestalten zug</l>
             <l>flutet zum norden zurück</l>
@@ -1090,7 +1090,7 @@
           <lg n="7">
             <l>›Kehr in die heilige heimat</l>
             <l>Findst ursprünglichen boden</l>
-            <l>Mit dem geschärfteten aug</l>
+            <l>Mit dem geschärfteren aug</l>
             <l>Schlummernder fülle schooss</l>
             <l>Und so unbetretnes gebiet</l>
             <l>Wie den finstersten urwald‹ ..</l>
@@ -1193,11 +1193,11 @@
         <pb n="67" facs="#f0071"/>
         <head>DER GEHENKTE</head>
         <pb n="68" facs="#f0072"/>
-        <p rendition="#c">Der Frager:</p>
+        <p rendition="#c">DER FRAGER:</p>
         <lg type="poem">
           <l>Den ich vom galgen schnitt · wirst du mir reden?</l>
         </lg>
-        <p rendition="#c">Der Gehenkte:</p>
+        <p rendition="#c">DER GEHENKTE:</p>
         <lg type="poem">
           <l>Als unter der verwünschung und dem schrei</l>
           <l>Der ganzen stadt man mich zum tore schleppte</l>
@@ -1228,7 +1228,7 @@
         <pb n="71" facs="#f0075"/>
         <head>DER MENSCH UND DER DRUD</head>
         <pb n="72" facs="#f0076"/>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Das enge bachbett sperrt ein wasserfall –</l>
           <l>Doch wer hängt das behaarte bein herab</l>
@@ -1239,18 +1239,18 @@
           <l>Der weg ist dir verlegt · verbirg auch nichts!</l>
           <l>Aus klarer welle schaut ein ziegenfuss.</l>
         </lg>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Nicht dich noch mich wird freun dass du mich fandst.</l>
         </lg>
         <pb n="73" facs="#f0077"/>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Ich wusste wol von dir verwandtem volk</l>
           <l>Aus vorzeitlicher märe – nicht dass heut</l>
           <l>So nutzlos hässlich ungetüm noch lebt.</l>
         </lg>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Wenn du den lezten meiner art vertriebst</l>
           <l>Spähst du vergeblich aus nach edlem wild</l>
@@ -1258,7 +1258,7 @@
           <l>Und wenn ins lezte dickicht du gebrochen</l>
           <l>Vertrocknet bald dein nötigstes: der quell.</l>
         </lg>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Du ein weit niedrer lehrst mich? Unser geist</l>
           <l>Hat hyder riese drache greif erlegt</l>
@@ -1273,7 +1273,7 @@
           <l>Das licht die ordnung folgen unsrer spur.</l>
         </lg>
         <pb n="74" facs="#f0078"/>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Du bist nur mensch .. wo deine weisheit endet</l>
           <l>Beginnt die unsre · du merkst erst den rand</l>
@@ -1293,11 +1293,11 @@
           <l>Und staub und strahl und sterben und entstehn</l>
           <l>Nicht mehr im gang der dinge fassen kann.</l>
         </lg>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Wer sagt dir so? dies sei der götter sorge.</l>
         </lg>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Wir reden nie von ihnen · doch ihr toren</l>
           <l>Meint dass sie selbst euch helfen. Unvermittelt</l>
@@ -1305,21 +1305,21 @@
           <l>Sind sie euch nie genaht. Du wirst du stirbst –</l>
           <l>Wess wahr geschöpf du bist erfährst du nie.</l>
         </lg>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Bald ist kein raum mehr für dein zuchtlos spiel.</l>
         </lg>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Bald rufst du drinnen den du draussen schmähst.</l>
         </lg>
-        <p rendition="#c">Der Mensch</p>
+        <p rendition="#c">DER MENSCH</p>
         <lg type="poem">
           <l>Du giftiger unhold mit dem schiefen mund</l>
           <l>Trotz deiner missgestalt bist du der unsren</l>
           <l>Zu nah · sonst träfe jezt dich mein geschoss ..</l>
         </lg>
-        <p rendition="#c">Der Drud</p>
+        <p rendition="#c">DER DRUD</p>
         <lg type="poem">
           <l>Das tier kennt nicht die scham der mensch nicht dank.</l>
           <l>Mit allen künsten lernt ihr nie was euch</l>
@@ -2814,7 +2814,7 @@
             <lg n="3">
               <l>Dieser lässt ohne verdruss</l>
               <l>Wissen was zu uns steht ·</l>
-              <l>Heben vorn tisch wir ihn bloss.</l>
+              <l>Heben vom tisch wir ihn bloss.</l>
             </lg>
             <lg n="4">
               <l>Jener bringt den beschluss</l>
@@ -2902,7 +2902,7 @@
       <div n="1" type="appendix">
         <pb n="140" facs="#f0144"/>
         <head>ANHANG</head>
-        <p>Goethes lezte Nacht in Italien erschien zuerst im dritten Bondi’schen Ausleseband der Bl.f.d.K.: einer vorwegnahme der VIII. folge. Hyperion · An die Kinder des Meeres · Gebet I · Der Mensch und der Drud · Gespräch des Herrn mit dem römischen Hauptmann · sowie von den Sprüchen: Der Himmel bis Belehrung in der X. folge. Die XI.–XII. F. enthielt von den grössern gedichten: Die Winke · Gebete II und III · Der Brand des Tempels .. von den Sprüchen: Wartend am Kreuzweg bis Rätsel flimmern alt und neu · sowie A. Werwey I II und IV · und sämtliche An die Toten. Das 2. der lieder ist in der IX. das 3. in der X. das 4. 5. 6. 8. 9. und 12. in der XI.–XII. folge erschienen. Der Krieg wurde zuerst 1917 als sonderheft veröffentlicht · ebenso die gedichte: An die Toten · Der Dichter in Zeiten der Wirren · Einem jungen Führer im ersten Weltkrieg · unter dem Titel Drei Gesänge 1921.</p>
+        <p>Goethes lezte Nacht in Italien erschien zuerst im dritten Bondi’schen Ausleseband der Bl.f.d.K.: einer vorwegnahme der VIII. folge. Hyperion · An die Kinder des Meeres · Gebet I · Der Mensch und der Drud · Gespräch des Herrn mit dem römischen Hauptmann · sowie von den Sprüchen: Der Himmel bis Belehrung in der X. folge. Die XI.–XII. F. enthielt von den grössern gedichten: Die Winke · Gebete II und III · Der Brand des Tempels .. von den Sprüchen: Wartend am Kreuzweg bis Rätsel flimmern alt und neu · sowie A. Verwey I II und IV · und sämtliche An die Toten. Das 2. der lieder ist in der IX. das 3. in der X. das 4. 5. 6. 8. 9. und 12. in der XI.–XII. folge erschienen. Der Krieg wurde zuerst 1917 als sonderheft veröffentlicht · ebenso die gedichte: An die Toten · Der Dichter in Zeiten der Wirren · Einem jungen Führer im ersten Weltkrieg · unter dem Titel Drei Gesänge 1921.</p>
         <p>Die einzige abweichung vom ersten druck ist die umstellung von: Freu dich an dem wert der gabe (S. 95) und: Liebe freilich nennt kein maass (S. 96).</p>
         <div n="2">
           <figure>
