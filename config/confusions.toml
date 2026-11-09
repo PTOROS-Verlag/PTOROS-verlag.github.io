@@ -1,10 +1,13 @@
 # per-engine OCR misreadings of St.-G.-Schrift: [regex, replacement], each
 # applied optionally while expanding an OCR token into candidates
 # the single guillemets ›‹ read as > < (ga04, ga02); the St.-G. T read as C
-# (ga03–05)
+# (ga03–05); the Hochpunkt, a short raised stroke in most volumes, read by
+# tesseract as ":" and by the OCR-D ALTO of ga06-07 as »/« (the TEI has no
+# double guillemets left, so these cannot mask real ones); tesseract glues the
+# stroke to the word as "ı", the OCR-D ALTO reads the St.-G. t as r
 [tesseract]
-rules = [["ı","t"],["kK","k"],["tt","t"],["rt$","t"],["VW","V"],["^K","k"],["^F","f"],["^-$","·"],["^-$","–"],["^—$","–"],["^•$","·"],["^>$","›"],["^<$","‹"],["^TC","T"],["C","T"]]
+rules = [["ı$","·"],["ı","t"],["kK","k"],["tt","t"],["rt$","t"],["VW","V"],["^K","k"],["^F","f"],["^-$","·"],["^-$","–"],["^—$","–"],["^•$","·"],["^>$","›"],["^<$","‹"],["^TC","T"],["C","T"],["^:$","·"]]
 
 [alto]
-# ga02 on: the Hochpunkt (a short raised stroke there) comes out as "*"
-rules = [["^[•■\\-]$","·"],["^\\*$","·"],["^-$","–"],["^—$","–"],["K","k"],["^U","V"],["^U","v"],["ui","w"],["x","t"],["i","t"],["si","st"],["^S","s"],["^W","w"],["^>$","›"],["^<$","‹"],["C","T"]]
+# ga02 on: the Hochpunkt comes out as "*"
+rules = [["^[•■\\-]$","·"],["^\\*$","·"],["^[»«]$","·"],["^-$","–"],["^—$","–"],["K","k"],["^U","V"],["^U","v"],["ui","w"],["x","t"],["i","t"],["r","t"],["si","st"],["^S","s"],["^W","w"],["^>$","›"],["^<$","‹"],["^»$","›"],["^«$","‹"],["C","T"]]
