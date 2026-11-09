@@ -12,12 +12,16 @@ title = "Hymnen · Pilgerfahrten · Algabal"
 zeno = "Hymnen,+Pilgerfahrten,+Algabal"
 source = "sbb"
 ppn = "PPN828540063"
+year = 1928
+month = "Juni"
 
 [ga03]
 title = "Die Bücher der Hirten- und Preisgedichte · der Sagen und Sänge und der hängenden Gärten"
 zeno = "Die+B%C3%BCcher+der+Hirten-+und+Preisgedichte+%C2%B7+der+Sagen+und+S%C3%A4nge+und+der+h%C3%A4ngenden+G%C3%A4rten"
 source = "sbb"
 ppn = "PPN828550093"
+year = 1930
+month = "Februar"
 
 [ga04]
 title = "Das Jahr der Seele"
@@ -32,6 +36,8 @@ title = "Der Teppich des Lebens und die Lieder von Traum und Tod mit einem Vorsp
 zeno = "Der+Teppich+des+Lebens+und+die+Lieder+von+Traum+und+Tod"
 source = "sbb"
 ppn = "PPN828581576"
+year = 1932
+month = "Juli"
 
 [ga06-07]
 title = "Der siebente Ring"

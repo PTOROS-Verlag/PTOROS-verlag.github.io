@@ -27,7 +27,7 @@
       </availability>
     </publicationStmt>
     <sourceDesc>
-      <bibl type="M">George, Stefan: Hymnen · Pilgerfahrten · Algabal. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi.</bibl>
+      <bibl type="M">George, Stefan: Hymnen · Pilgerfahrten · Algabal. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi, Juni 1928.</bibl>
       <biblFull>
         <titleStmt>
           <title level="m" type="main">Hymnen · Pilgerfahrten · Algabal</title>
@@ -41,7 +41,7 @@
         <publicationStmt>
           <publisher><name>Georg Bondi</name></publisher>
           <pubPlace>Berlin</pubPlace>
-          
+          <date type="publication">1928</date>
         </publicationStmt>
         <seriesStmt>
           <title level="s" type="main">Gesamt-Ausgabe der Werke. Endgültige Fassung</title>
