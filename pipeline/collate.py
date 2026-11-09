@@ -195,7 +195,7 @@ def segments(tokens, pbs, rows):
     return out
 
 
-def run(vid, tei_path=None):
+def run(vid, tei_path=None, report=True):
     tei_path = tei_path or config.tei_file(vid)
     tokens, elems, pbs, _ = tei_tokens(tei_path)
     rows = scans.pages(vid)
@@ -234,7 +234,8 @@ def run(vid, tei_path=None):
     # unsure items keep their crops for the user
     write_review(vid, [it for it in items if dec.get(it["key"]) == "unsure"], rows, "unsure",
                  config.path("review", vid, "unsure.tsv"))
-    print(f"{vid}: {len(tokens)} tokens, {len(open_items)} open, {len(items) - len(open_items)} decided")
+    if report:
+        print(f"{vid}: {len(tokens)} tokens, {len(open_items)} open, {len(items) - len(open_items)} decided")
     return tokens, items, open_items
 
 

@@ -18,11 +18,12 @@ def bad_char(ch):
     return ch == "\ufffd" or unicodedata.category(ch) == "Co"
 
 
-def run(vid):
+def run(vid, required=True):
+    """required: fail on a volume that is not built yet (it was named)"""
     path = config.tei_file(vid)
     if not path.exists():
-        print(f"{vid}: no {path.relative_to(config.ROOT)}")
-        return False
+        print(f"{vid}: no {path.relative_to(config.ROOT)}{'' if required else ', skipped'}")
+        return not required
     ok = True
     r = subprocess.run(["jing", str(config.path("schema", "basisformat.rng")), str(path)], capture_output=True, text=True)
     if r.returncode:
@@ -61,7 +62,7 @@ def status(ids):
         if not config.tei_file(vid).exists() or not scans.pages(vid):
             print(f"{vid}: not built or no scans")
             continue
-        tokens, items, open_items = collate.run(vid)
+        tokens, items, open_items = collate.run(vid, report=False)
         dec = config.read_tsv(config.decisions_tsv(vid))
         n_unsure = sum(1 for d in dec if d["decision"] == "unsure")
         mism = [r for r in scans.pages(vid) if r["label"] and r["ocr_label"] and r["label"] != r["ocr_label"]]

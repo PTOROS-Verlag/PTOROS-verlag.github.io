@@ -57,7 +57,7 @@ def main():
     elif a.cmd == "validate":
         from . import validate
         for v in ids:
-            ok &= validate.run(v)
+            ok &= validate.run(v, required=bool(a.ids))
     elif a.cmd == "status":
         from . import validate
         validate.status(ids)
