@@ -261,7 +261,8 @@ class Builder:
                 if verse:
                     verse.close()
                 fig = E("figure")
-                fig.append(E("p", text=nfc(" ".join(cap.text_content().split()))))
+                # zeno describes the image; DTABf has no figDesc
+                fig.append(E("note", {"type": "editorial"}, nfc(" ".join(cap.text_content().split()))))
                 state["div"].append(fig)
                 state["content"] = True
                 self.pending_heads = []
@@ -481,6 +482,7 @@ def header(vid, snap):
       <p>Grundlage ist die Transkription von zeno.org (<ref target="{snap["root"]}">{snap["root"]}</ref>), abgerufen am {snap["fetched"]}.</p>
       <p>Jede Seite wurde gegen die Digitalisate geprüft; als unabhängige Zeugen dienten tesseract-OCR und, wo vorhanden, die ALTO-Volltexte der Staatsbibliothek zu Berlin. Jede Abweichung wurde am Bildausschnitt entschieden.</p>
       <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
+      <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
       <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
       <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben.</p>
       <p>Die Orthographie ist nicht normalisiert.</p>
@@ -567,10 +569,12 @@ def indent(el, level=0):
 def serialize(tei):
     """add the TEI namespace and pretty-print"""
     s = etree.tostring(tei, encoding="unicode").replace("<TEI>", f'<TEI xmlns="{TEI_NS}">', 1)
-    root = etree.fromstring(s)
+    return dump(etree.fromstring(s))
+
+
+def dump(root):
+    """the file layout of a TEI master; also used after edits"""
     indent(root)
-    hdr = root[0]
-    hdr.tail = "\n  "
     return (
         b'<?xml version="1.0" encoding="UTF-8"?>\n'
         b'<?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>\n'

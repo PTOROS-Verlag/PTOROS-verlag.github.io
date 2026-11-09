@@ -1,0 +1,89 @@
+key	decision	text	note
+21|du|'|s	fix	’	druck hat den typographischen apostroph
+33|ruder|·|Drüben	fix	–	druck: gedankenstrich, nicht hochpunkt
+53|von|mal|und	fix	mai	druck: mai (zeno-tippfehler)
+7|ein|wissen - darum|für	unsure		druck: 'wissen-' am zeilenende, 'darum' auf der nächsten zeile; zeno 'wissen- darum'. wissen-darum, wissendarum oder wissen darum?
+13|den|bütten|·	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|uns|nickt|Erkennen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|Von|schatten|singen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|.|Verächtlich|wirst	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|blicken|Auf|roher	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+57|Der|schmächtigen|fingers	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+59|und|tal|Soviel	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+78|wunschlosen|götter|·	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+80|die|gottentsandten|sprecher	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+83|Und|Tiburs|wasser	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+91|erklären|Warum|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+95|jener|bettler|dudelt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+122|im|schattenschleier|Mild	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+124|erste|öffentliche|ausgabe	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+124|mittlere|strofe|fehlt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+124|.|Traurige Tänze|1	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|in|T|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|Paul|Gérardy|herausgegebenen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|herausgegebenen|Floréal|im	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|les|invités|de	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|-|le|-	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+125|Mont|T|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+126|:|Ich|suchte	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|.|I|Indes	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+67|NACHTWACHEN|I|Deine	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+71|^|V|Wenn	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+55|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+57|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+67|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+68|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+69|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+76|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+78|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+80|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+82|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+84|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+86|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+61|lines	keep		mehrzeilige überschrift im druck
+73|lines	keep		mehrzeilige überschrift im druck
+75|lines	keep		zeilenzahl stimmt mit dem druck; ocr-rauschen am rand
+77|lines	keep		zeilenzahl stimmt mit dem druck; ocr-rauschen am rand
+124|das|titel -|und	keep		ergänzungsstrich/hochpunkt am zeilenende, ocr zieht zusammen
+124|in|format · verteilung|und	keep		ergänzungsstrich/hochpunkt am zeilenende, ocr zieht zusammen
+124|überschrift|›|aus	keep		druck hat ›‹, ocr liest > < «
+124|Sänge|‹|unter	keep		druck hat ›‹, ocr liest > < «
+124|:|›|Indess	keep		druck hat ›‹, ocr liest > < «
+124|säugt|‹|und	keep		druck hat ›‹, ocr liest > < «
+124|und|›|Deine	keep		druck hat ›‹, ocr liest > < «
+124|.|‹|(	keep		druck hat ›‹, ocr liest > < «
+124|von|›|Nun	keep		druck hat ›‹, ocr liest > < «
+124|nicht|‹|und	keep		druck hat ›‹, ocr liest > < «
+124|:|›|Die	keep		druck hat ›‹, ocr liest > < «
+124|.|‹ ›|Mir	keep		druck hat ›‹, ocr liest > < «
+124|.|‹ ›|Ich	keep		druck hat ›‹, ocr liest > < «
+124|.|‹|(#2	keep		druck hat ›‹, ocr liest > < «
+125|februar|1893 ·|mit	keep		druck: hochpunkt nach 1893
+130|uncovered	keep		Abbildung (handschriftprobe)
+131|uncovered	keep		Abbildung (handschriftprobe)
+132|uncovered	keep		Abbildung (handschriftprobe)
+133|uncovered	keep		Abbildung (handschriftprobe)
+134|uncovered	keep		Abbildung (handschriftprobe)
+135|uncovered	keep		Abbildung (handschriftprobe)
+136|uncovered	keep		Abbildung (handschriftprobe)
+137|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+138|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+139|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+140|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+141|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+6|pb|5	edited		pb nach seitenabgleich mit den scans neu gesetzt
+56|pb|55	edited		pb nach seitenabgleich mit den scans neu gesetzt
+5|^|Widmung|ANNA	edited		zeno-überschrift 'Widmung' steht nicht im druck; entfernt
+126|.|∅|$	edited		bildunterschrift FRÜHERE FASSUNG DES GEDICHTES S. 24. ergänzt
+127|.|∅|$	edited		bildunterschrift FRÜHERE FASSUNG DES GEDICHTES S. 67. ergänzt
+126|lines	edited		unterschrift ergänzt (s.o.)
+127|lines	edited		unterschrift ergänzt; frühere fassung ohne strofentrennung
+128|lines	edited		prosaabsatz war als vers kodiert; als p gesetzt; titel HANDSCHRIFTPROBEN (s. 129, bei zeno pp=no) ergänzt
+13|lines	edited		pb nach seitenabgleich: abschnittstitel auf eigenen seiten (9, 11), gedicht ab s. 12
+25|lines	edited		pb nach seitenabgleich: WALLER IM SCHNEE s. 23, gedicht s. 24
+37|lines	edited		pb nach seitenabgleich: SIEG DES SOMMERS s. 35, gedicht s. 36
+50|lines	edited		pb nach seitenabgleich: ÜBERSCHRIFTEN UND WIDMUNGEN s. 47, gedicht s. 49
+56|lines	edited		pb nach seitenabgleich: SPRÜCHE … I auf s. 55
+63|lines	edited		pb nach seitenabgleich: ERINNERUNGEN s. 61, Blumen s. 62
+92|lines	edited		pb nach seitenabgleich: TRAURIGE TÄNZE s. 89, erstes gedicht s. 91
+124|^|ANHANG|Die	edited		pb nach seitenabgleich: ANHANG s. 123

@@ -1,0 +1,7 @@
+# per-engine OCR misreadings of St.-G.-Schrift: [regex, replacement], each
+# applied optionally while expanding an OCR token into candidates
+[tesseract]
+rules = [["ı","t"],["kK","k"],["tt","t"],["rt$","t"],["VW","V"],["^K","k"],["^F","f"],["^-$","·"],["^-$","–"],["^—$","–"],["^•$","·"]]
+
+[alto]
+rules = [["^[•■\\-]$","·"],["^-$","–"],["^—$","–"],["K","k"],["^U","V"],["^U","v"],["ui","w"],["x","t"],["i","t"],["si","st"],["^S","s"],["^W","w"]]
