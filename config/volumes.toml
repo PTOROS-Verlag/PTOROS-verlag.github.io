@@ -1,0 +1,50 @@
+# zeno: path segment after …/Gesamtausgabe+der+Werke/
+# year, month: from the printer's note on the last printed page of the scan
+
+[ga01]
+title = "Die Fibel. Auswahl erster Verse"
+zeno = "Die+Fibel.+Auswahl+Erster+Verse"
+source = "pdf"
+google = "XqtEAQAAIAAJ"
+
+[ga02]
+title = "Hymnen · Pilgerfahrten · Algabal"
+zeno = "Hymnen,+Pilgerfahrten,+Algabal"
+source = "sbb"
+ppn = "PPN828540063"
+
+[ga03]
+title = "Die Bücher der Hirten- und Preisgedichte · der Sagen und Sänge und der hängenden Gärten"
+zeno = "Die+B%C3%BCcher+der+Hirten-+und+Preisgedichte+%C2%B7+der+Sagen+und+S%C3%A4nge+und+der+h%C3%A4ngenden+G%C3%A4rten"
+source = "sbb"
+ppn = "PPN828550093"
+
+[ga04]
+title = "Das Jahr der Seele"
+zeno = "Das+Jahr+der+Seele"
+source = "sbb"
+ppn = "PPN828550425"
+
+[ga05]
+title = "Der Teppich des Lebens und die Lieder von Traum und Tod mit einem Vorspiel"
+zeno = "Der+Teppich+des+Lebens+und+die+Lieder+von+Traum+und+Tod"
+source = "sbb"
+ppn = "PPN828581576"
+
+[ga06-07]
+title = "Der siebente Ring"
+zeno = "Der+siebente+Ring"
+source = "sbb"
+ppn = "PPN828582548"
+
+[ga08]
+title = "Der Stern des Bundes"
+zeno = "Der+Stern+des+Bundes"
+source = "sbb"
+ppn = "PPN828583684"
+
+[ga09]
+title = "Das Neue Reich"
+zeno = "Das+Neue+Reich"
+source = "sbb"
+ppn = "PPN828585296"
