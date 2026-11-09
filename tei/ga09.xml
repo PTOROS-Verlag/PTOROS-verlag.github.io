@@ -27,7 +27,7 @@
       </availability>
     </publicationStmt>
     <sourceDesc>
-      <bibl type="M">George, Stefan: Das Neue Reich. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi.</bibl>
+      <bibl type="M">George, Stefan: Das Neue Reich. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi, Oktober 1928.</bibl>
       <biblFull>
         <titleStmt>
           <title level="m" type="main">Das Neue Reich</title>
@@ -41,7 +41,7 @@
         <publicationStmt>
           <publisher><name>Georg Bondi</name></publisher>
           <pubPlace>Berlin</pubPlace>
-          
+          <date type="publication">1928</date>
         </publicationStmt>
         <seriesStmt>
           <title level="s" type="main">Gesamt-Ausgabe der Werke. Endgültige Fassung</title>
@@ -60,8 +60,9 @@
       <p>Grundlage ist die Transkription von zeno.org (<ref target="http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Neue+Reich">http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Neue+Reich</ref>), abgerufen am 2026-11-09.</p>
       <p>Jede Seite wurde gegen die Digitalisate geprüft; als unabhängige Zeugen dienten tesseract-OCR und, wo vorhanden, die ALTO-Volltexte der Staatsbibliothek zu Berlin. Jede Abweichung wurde am Bildausschnitt entschieden.</p>
       <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
+      <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
       <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
-      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben.</p>
+      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹), der Apostroph ist wie im Druck typographisch (’).</p>
       <p>Die Orthographie ist nicht normalisiert.</p>
     </editorialDecl>
     <tagsDecl>
@@ -89,18 +90,19 @@
   <text>
     <front>
       <div n="1" type="preface">
-        <pb n="6"/>
+        <pb n="5" facs="#f0009"/>
         <head>VORREDE</head>
         <p>Dieser band umfasst alle seit dem Stern des Bundes entstandenen gedichte. Viele sind in den Blättern für die Kunst erschienen (1914–19). Der Krieg und Der Dichter in Zeiten der Wirren mit zwei andern gedichten in gesonderten heften. Goethes lezte Nacht in Italien · die eröffnung einer neuen reihe · reicht bis 1908 zurück.</p>
       </div>
     </front>
     <body>
       <div n="1">
-        <pb n="8"/>
+        <pb n="7" facs="#f0011"/>
         <head>GOETHES</head>
         <head>LEZTE NACHT IN ITALIEN</head>
         <lg type="poem">
           <lg n="1">
+            <pb n="8" facs="#f0012"/>
             <l>Welch ein schimmer traf mich vom südlichen meer?</l>
             <l>Fichten seh ich zwei ihre schwarzen flügel</l>
             <l>Recken ins stetige blau der nacht und dazwischen</l>
@@ -113,9 +115,9 @@
             <l>Staunend hört ihren heldengesang die verklärung</l>
             <l>Ewiger räume · dann trägt ihn der duftige wind</l>
             <l>Über das schlummernde land und die raunende see.</l>
-            <pb n="9"/>
           </lg>
           <lg n="2">
+            <pb n="9" facs="#f0013"/>
             <l>Abschied reisst durch die brust – von dem heiligen boden</l>
             <l>Wo ich erstmals wesen wandeln im licht</l>
             <l>Sah und durch reste der säulen der Seligen reigen ..</l>
@@ -123,7 +125,7 @@
             <l>›Echtesten erben‹: hier hab ich vor armut gezittert ·</l>
             <l>Hier ward erst mensch der hier wiederbegonnen als kind.</l>
             <l>Durch die nebel schon hör ich euch schmälende stimmen:</l>
-            <l>›Hellas' lotus liess ihn die heimat vergessen‹ ...</l>
+            <l>›Hellas’ lotus liess ihn die heimat vergessen‹ ...</l>
             <l>O dass mein wort ihr verstündet – kein weiseres frommt euch –</l>
             <l>›Nicht nur in tropfen · nein traget auch fürder in strömen</l>
             <l>Von eurem blute das edelste jenseit der berge ·</l>
@@ -142,9 +144,9 @@
             <l>Die widerstrebenden schreienden niederrang</l>
             <l>Ihnen die formel entreissend mit der er beschwört ...</l>
             <l>Solch einer ward euch nicht und ich bin es nicht.</l>
-            <pb n="10"/>
           </lg>
           <lg n="4">
+            <pb n="10" facs="#f0014"/>
             <l>Früh einst – so denkt es mir – trug ein bewimpeltes schiff</l>
             <l>Uns in das nachbarlich rheinische rebengeländ ..</l>
             <l>Hellblauer himmel des herbstes besonnte die gaue</l>
@@ -171,9 +173,9 @@
             <l>Steine und kräuter und erze: nun alles · nun nichts ..</l>
             <l>Bis sich verklebung der augen euch löst und ihr merket:</l>
             <l>Zauber des Dings – und des Leibes · der göttlichen norm.</l>
-            <pb n="11"/>
           </lg>
           <lg n="6">
+            <pb n="11" facs="#f0015"/>
             <l>Lange zwar sträuben sich gegen die Freudige Botschaft</l>
             <l>Grad eure klügsten · sie streichen die wallenden bärte ·</l>
             <l>Zeigen mit fingern in stockige bücher und rufen:</l>
@@ -200,20 +202,19 @@
             <l>Wunder hat sich erfüllt von marmor und rosen ...</l>
             <l>Welch ein schauer des ungebahnten erbebt?</l>
             <l>Welch ein schimmer traf mich vom südlichen meer?</l>
-            <pb n="12"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="14"/>
+        <pb n="13" facs="#f0017"/>
         <head>HYPERION</head>
         <lg type="poem">
+          <pb n="14" facs="#f0018"/>
           <l><hi rendition="#smaller"> DEM SEHNENDEN WAR</hi></l>
           <l><hi rendition="#smaller">DER WINK GENUG · UND WINKE SIND</hi></l>
           <l><hi rendition="#smaller">VON ALTERS HER DIE SPRACHE DER GÖTTER</hi></l>
         </lg>
         <div n="2">
-          <pb n="15"/>
           <head>I</head>
           <lg type="poem">
             <l>Wo an entlegnem gestade</l>
@@ -232,7 +233,7 @@
             <l>Ihr die in tönen verströmten</l>
             <l>Schlaff dann beim werke:</l>
             <l>Klagend an ach welchen wassern</l>
-            <pb n="16"/>
+            <pb n="15" facs="#f0019"/>
             <l>Weinend an ach welchen weiden</l>
             <l>Nach – welchem glücke!</l>
             <l>Lernt nicht des tanzenden schritte</l>
@@ -256,7 +257,7 @@
             <l>helden gestaltend als mann</l>
             <l>Lieblichen gastmahls ist herr</l>
             <l>lenker in staates gefahr</l>
-            <pb n="17"/>
+            <pb n="16" facs="#f0020"/>
             <l>Eifernder stämme bewerb</l>
             <l>einigte tempel und spiel</l>
             <l>Und keine weisheit bis heut</l>
@@ -284,6 +285,7 @@
           </lg>
         </div>
         <div n="2">
+          <pb n="17" facs="#f0021"/>
           <head>III</head>
           <lg type="poem">
             <l>Ich kam zur heimat: solch gewog von blüten</l>
@@ -298,20 +300,20 @@
             <l>Dem frommen .. der im Reich nie wandeln darf:</l>
             <l>Ich werde heldengrab · ich werde scholle</l>
             <l>Der heilige sprossen zur vollendung nahn:</l>
-            <l>MIT DIESEN KOMMT DAS ZWEITE ALTER · LIEBE</l>
-            <l>GEBAR DIE WELT · LIEBE GEBIERT SIE NEU.</l>
+            <l><hi rendition="#k">Mit diesen kommt das zweite alter · liebe</hi></l>
+            <l><hi rendition="#k">Gebar die welt · liebe gebiert sie neu.</hi></l>
             <l>Ich sprach den spruch · der zirkel ist gezogen ..</l>
             <l>Eh mich das dunkel überholt entrückt</l>
             <l>Mich hohe schau: bald geht mit leichten sohlen</l>
             <l>Durch teure flur greifbar im glanz der Gott.</l>
-            <pb n="18"/>
           </lg>
         </div>
       </div>
       <div n="1">
-        <pb n="21"/>
+        <pb n="19" facs="#f0023"/>
         <head>AN DIE KINDER DES MEERES</head>
         <div n="2">
+          <pb n="20" facs="#f0024"/>
           <head>I</head>
           <lg type="poem">
             <l>Einst mir verehrt und gastlich · dann gemieden</l>
@@ -338,6 +340,7 @@
           </lg>
         </div>
         <div n="2">
+          <pb n="21" facs="#f0025"/>
           <head>II</head>
           <lg type="poem">
             <l>Hier prangt die fülle lacht der Ewigen milde</l>
@@ -364,7 +367,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="22"/>
+          <pb n="22" facs="#f0026"/>
           <head>III</head>
           <lg type="poem">
             <l>Ersehnter kömmling der an unsrer tür</l>
@@ -391,7 +394,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="23"/>
+          <pb n="23" facs="#f0027"/>
           <head>IV</head>
           <head>NACHKLANG</head>
           <lg type="poem">
@@ -406,9 +409,9 @@
               <l>Tönt in der meergeraubten muschel brausen</l>
               <l>Die dort ein knabe in die ferne blickend</l>
               <l>Zum ohr hebt · lauschend ernst im feuchten wind.</l>
-              <pb n="24"/>
             </lg>
             <lg n="2">
+              <pb n="24" facs="#f0028"/>
               <l>Dir gilt das lied · so lebst du uns nun fort</l>
               <l>So unergründbar · kalten augs der tiefe</l>
               <l>Noch kaum entstiegen · doch dem untergang</l>
@@ -435,7 +438,7 @@
               <l>Was folgst du uns du ende dieser zeit?</l>
               <l>Wählst uns zu flüchtigem spiel wie andere mehr?</l>
               <l>Die welle treibt dich wechselnd mit dem wunsch</l>
-              <pb n="25"/>
+              <pb n="25" facs="#f0029"/>
               <l>Doch ausgestorben liegt bald jeder strand</l>
               <l>Und klagend irrt dein herrenloser geist!</l>
             </lg>
@@ -451,16 +454,16 @@
               <l>Und tönt in meergeraubter muschel brausen</l>
               <l>Die dort ein knabe in die ferne blickend</l>
               <l>Zum ohr hebt · lauschend ernst im feuchten wind.</l>
-              <pb n="26"/>
             </lg>
           </lg>
         </div>
       </div>
       <div n="1">
-        <pb n="28"/>
+        <pb n="27" facs="#f0031"/>
         <head>DER KRIEG</head>
         <lg type="poem">
           <lg n="1">
+            <pb n="28" facs="#f0032"/>
             <l rendition="#et"><hi rendition="#smaller">...WEM DAS GEWISSEN DROHE</hi></l>
             <l rendition="#et"><hi rendition="#smaller">MIT EIGNER ODER FREMDER SCHANDE DRUCKE</hi></l>
             <l rendition="#et"><hi rendition="#smaller">EMPFINDET DEINE WORTE WOL ALS ROHE.</hi></l>
@@ -489,9 +492,9 @@
             <l>Ergriffen von dem welthaft hohen schauer</l>
             <l>Vergass der feigen jahre wust und tand</l>
             <l>Das volk und sah sich gross in seiner not.</l>
-            <pb n="29"/>
           </lg>
           <lg n="5">
+            <pb n="29" facs="#f0033"/>
             <l>Sie kamen zu dem Siedler auf dem berg:</l>
             <l>›Liegst du noch still beim ungeheuren los?‹</l>
             <l>Der sprach: dies frösteln war das edelste!..</l>
@@ -518,9 +521,9 @@
             <l>Der graue bart ehr schuld als stich und schuss</l>
             <l>Des widerparts an unsrer söhn und enkel</l>
             <l>Verglasten augen und zerfeztem leib.</l>
-            <pb n="30"/>
           </lg>
           <lg n="7">
+            <pb n="30" facs="#f0034"/>
             <l><hi rendition="#k">Sein</hi> amt ist lob und fem · gebet und sühne ·</l>
             <l>Er liebt und dient auf seinem weg. Die jüngsten</l>
             <l>Der teuren sandt er aus mit segenswunsch ..</l>
@@ -547,9 +550,9 @@
             <l>Erkrankte welten fiebern sich zu ende</l>
             <l>In dem getob. Heilig sind nur die säfte</l>
             <l>Noch makelfrei versprizt – ein ganzer strom.</l>
-            <pb n="31"/>
           </lg>
           <lg n="9">
+            <pb n="31" facs="#f0035"/>
             <l>Wo zeigt der Mann sich der vertritt? das Wort</l>
             <l>Das einzig gilt fürs spätere gericht?</l>
             <l>Spotthafte könige mit bühnenkronen ·</l>
@@ -576,9 +579,9 @@
             <l>Gemeinsten schimpfs!.. und was sich eben hezt</l>
             <l>Umkröche sich geschmiegt wenn sich erhöbe</l>
             <l>Furchtbar vor ihm das künftige gesicht.</l>
-            <pb n="32"/>
           </lg>
           <lg n="11">
+            <pb n="32" facs="#f0036"/>
             <l>Und was schwillt auf als geist! Solch zart gewächs</l>
             <l>Hat fernab sein entstehn ... Wie faulige frucht</l>
             <l>Schmeckt das gered von hoh-zeit auferstehung</l>
@@ -605,9 +608,9 @@
             <l>Ein nachwuchs auf · der hat kein heuchel-auge:</l>
             <l>Er hat das schicksalsauge das der schreck</l>
             <l>Des ehernen fugs gorgonisch nicht versteint.</l>
-            <pb n="33"/>
           </lg>
           <lg n="13">
+            <pb n="33" facs="#f0037"/>
             <l>In beiden lagern kein Gedanke – wittrung</l>
             <l>Um was es geht ... Hier: sorge nur zu krämern</l>
             <l>Wo schon ein andrer krämert .. ganz zu werden</l>
@@ -634,9 +637,9 @@
             <l>Zerfallnen weissen Art zuerst enthüllte</l>
             <l>Ihr echtes antlitz .. Land dem viel verheissung</l>
             <l>Noch innewohnt – das drum nicht untergeht!</l>
-            <pb n="34"/>
           </lg>
           <lg n="15">
+            <pb n="34" facs="#f0038"/>
             <l>Die jugend ruft die Götter auf .. Erstandne</l>
             <l>Wie Ewige nach des Tages fülle .. Lenker</l>
             <l>Im sturmgewölk gibt Dem des heitren himmels</l>
@@ -649,13 +652,13 @@
             <l>Der kampf entschied sich schon auf sternen: Sieger</l>
             <l>Bleibt wer das schutzbild birgt in seinen marken</l>
             <l>Und Herr der zukunft wer sich wandeln kann.</l>
-            <pb n="35"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="36"/>
+        <pb n="35" facs="#f0039"/>
         <head>DER DICHTER IN ZEITEN DER WIRREN</head>
+        <pb n="36" facs="#f0040"/>
         <p rendition="#right"><hi rendition="#smaller">Dem Andenken des</hi></p>
         <p rendition="#right"><hi rendition="#smaller">Grafen Bernhard Uxkull</hi></p>
         <lg type="poem">
@@ -677,9 +680,9 @@
             <l>Der weise Rat hat sichreren bericht</l>
             <l>Verlacht den mahner · sperrt ihn ins verlies.</l>
             <l>Wenn rings die Heilige Stadt umzingelt ist</l>
-            <pb n="37"/>
           </lg>
           <lg n="2">
+            <pb n="37" facs="#f0041"/>
             <l>Bürger und krieger durcheinander rennen</l>
             <l>Fürsten und priester drin sich blutig raufen</l>
             <l>Um einen besenstiel indes schon draussen</l>
@@ -706,7 +709,7 @@
             <l>Das kläglich scheiterte · heil sucht in mehrung</l>
             <l>Ihr lieben tandes? wo die klügsten fabeln</l>
             <l>Vom frischen aufbau mit den alten sünden</l>
-            <pb n="38"/>
+            <pb n="38" facs="#f0042"/>
             <l>Und raten: macht euch klein wie würmer dass euch</l>
             <l>Der donner schont der blitz euch nicht gewahrt ...</l>
             <l>Der ganze stamm der lebenden der hinfuhr</l>
@@ -733,7 +736,7 @@
             <l>Er schürt die heilige glut die über-springt</l>
             <l>Und sich die leiber formt · er holt aus büchern</l>
             <l>Der ahnen die verheissung die nicht trügt</l>
-            <pb n="39"/>
+            <pb n="39" facs="#f0043"/>
             <l>Dass die erkoren sind zum höchsten ziel</l>
             <l>Zuerst durch tiefste öden ziehn dass einst</l>
             <l>Des erdteils herz die welt erretten soll ..</l>
@@ -759,15 +762,15 @@
             <l>Er führt durch sturm und grausige signale</l>
             <l>Des frührots seiner treuen schar zum werk</l>
             <l>Des wachen tags und pflanzt das Neue Reich.</l>
-            <pb n="40"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="42"/>
+        <pb n="41" facs="#f0045"/>
         <head>EINEM JUNGEN FÜHRER IM ERSTEN WELTKRIEG</head>
         <lg type="poem">
           <lg n="1">
+            <pb n="42" facs="#f0046"/>
             <l>Wenn in die heimat du kamst aus dem zerstampften gefild</l>
             <l>Heil aus dem prasselnden guss höhlen von berstendem schutt</l>
             <l>Keusch fast die rede dir floss wie von notwendigem dienst</l>
@@ -782,9 +785,9 @@
             <l>Dass der weit ältre geheim seine erschüttrung bekämpft</l>
             <l>Als sich die knabengestalt hochaufragend und leicht</l>
             <l>Schwang aus dem sattel.</l>
-            <pb n="43"/>
           </lg>
           <lg n="3">
+            <pb n="43" facs="#f0047"/>
             <l>Anders als ihr euch geträumt fielen die würfel des streits ..</l>
             <l>Da das zerrüttete heer sich seiner waffen begab</l>
             <l>Standest du traurig vor mir wie wenn nach prunkendem fest</l>
@@ -807,14 +810,14 @@
             <l>Wurde vom abend der sank um dein aufflatterndes haar</l>
             <l>Um deinen scheitel der schein erst von strahlen ein ring</l>
             <l>Dann eine krone.</l>
-            <pb n="44"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="46"/>
+        <pb n="45" facs="#f0049"/>
         <head>DIE WINKE</head>
         <p rendition="#c"><hi rendition="#smaller">*</hi></p>
+        <pb n="46" facs="#f0050"/>
         <p rendition="#c">M</p>
         <lg type="poem">
           <lg n="1">
@@ -833,9 +836,9 @@
             <l>Er erschrak und bebt am ganzen leib:</l>
             <l>Herr! erkenn ich deine zeichen recht?</l>
             <l>Stimme scholl herab: Es ist so weit.</l>
-            <pb n="47"/>
           </lg>
           <lg n="3">
+            <pb n="47" facs="#f0051"/>
             <l>Dreie standen in dem raum voll angst</l>
             <l>Hielten sich im kreis geeint die hand</l>
             <l>Tauschten glühend der verzückten blick:</l>
@@ -854,14 +857,14 @@
             <l>So du lange brache noch verhängst</l>
             <l>Harren wir als wächter deiner höh</l>
             <l>Sterben gern seit wir dein licht gesehn.</l>
-            <pb n="48"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="51"/>
+        <pb n="49" facs="#f0053"/>
         <head>GEBETE</head>
         <div n="2">
+          <pb n="50" facs="#f0054"/>
           <head>I</head>
           <lg type="poem">
             <l>Kam mir erinnerung jener frühlingsstrassen</l>
@@ -887,6 +890,7 @@
           </lg>
         </div>
         <div n="2">
+          <pb n="51" facs="#f0055"/>
           <head>II</head>
           <lg type="poem">
             <l>In wilden wirren · schauerlichem harren</l>
@@ -912,7 +916,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="52"/>
+          <pb n="52" facs="#f0056"/>
           <head>III</head>
           <lg type="poem">
             <l>So hohes glück war keinem je erschienen</l>
@@ -935,13 +939,13 @@
             <l>Dann wieder schaut er aus wo sich ihm weise</l>
             <l>Ein fester stern – dein stern – zu stetem preise</l>
             <l>Und wo ein ruhen sei im allgekreise.</l>
-            <pb n="53"/>
           </lg>
         </div>
       </div>
       <div n="1">
-        <pb n="54"/>
+        <pb n="53" facs="#f0057"/>
         <head>BURG FALKENSTEIN</head>
+        <pb n="54" facs="#f0058"/>
         <p rendition="#right"><hi rendition="#smaller">An Ernst</hi></p>
         <lg type="poem">
           <lg n="1">
@@ -957,9 +961,9 @@
             <l>ringsum hügel und ort</l>
             <l>Bis zum fernen geleucht</l>
             <l>unseres ewigen Stromes.</l>
-            <pb n="55"/>
           </lg>
           <lg n="2">
+            <pb n="55" facs="#f0059"/>
             <l>Ich deutete abwärts:</l>
             <l>sieh das rätselgesicht</l>
             <l>Dieser massigen veste</l>
@@ -986,9 +990,9 @@
             <l>frist behaglichen glücks</l>
             <l>Und der altväter gefühl</l>
             <l>mit den schalmeien der schäfer</l>
-            <pb n="56"/>
           </lg>
           <lg n="4">
+            <pb n="56" facs="#f0060"/>
             <l>Denk dies volk und sein loos:</l>
             <l>streng bemüht bis zur fron</l>
             <l>Selten heimisch bei sich</l>
@@ -1004,7 +1008,7 @@
           </lg>
           <lg n="5">
             <l>Aber schon deutlichen klang</l>
-            <l>wittr' ich durch schläfrige luft ·</l>
+            <l>wittr’ ich durch schläfrige luft ·</l>
             <l>Eh eine saite zerriss</l>
             <l>war schon die neue gespannt.</l>
             <l>Ungewohnt noch dem ohr</l>
@@ -1015,9 +1019,9 @@
             <l>über der täler gewell</l>
             <l>Dunstiger städte betrieb</l>
             <l>zuckt er durchs alternde herz.</l>
-            <pb n="57"/>
           </lg>
           <lg n="6">
+            <pb n="57" facs="#f0061"/>
             <l>Über das felsengebirg</l>
             <l>bis zu der zedern gewölb</l>
             <l>Bis an den strahlenden golf</l>
@@ -1030,15 +1034,15 @@
             <l>mär von glut und von glanz:</l>
             <l>Unserer kaiser gepräng</l>
             <l>unserer kämpfer gedröhn.</l>
-            <pb n="58"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="60"/>
+        <pb n="59" facs="#f0063"/>
         <head>GEHEIMES DEUTSCHLAND</head>
         <lg type="poem">
           <lg n="1">
+            <pb n="60" facs="#f0064"/>
             <l>Reiss mich an deinen rand</l>
             <l>Abgrund – doch wirre mich nicht!</l>
           </lg>
@@ -1065,9 +1069,9 @@
             <l>Wo nicht · den riesen ernährend ·</l>
             <l>Wilde inseln mehr grünen</l>
             <l>Noch ein jungfrauen-land:</l>
-            <pb n="61"/>
           </lg>
           <lg n="5">
+            <pb n="61" facs="#f0065"/>
             <l>Da in den äussersten nöten</l>
             <l>Sannen die Untern voll sorge ·</l>
             <l>Holten die Himmlischen gnädig</l>
@@ -1094,9 +1098,9 @@
           <lg n="8">
             <l>Fittich des sonnentraums</l>
             <l>Streiche nun nah am grund!</l>
-            <pb n="62"/>
           </lg>
           <lg n="9">
+            <pb n="62" facs="#f0066"/>
             <l>Da hört ich von Ihm der am klippengestad</l>
             <l>Aus klaffendem himmel im morgenschein</l>
             <l>Ein nu lang die Olympischen sah</l>
@@ -1119,9 +1123,9 @@
             <l>Da ging vor den blicken der blöden umhegt</l>
             <l>Im warmen hell-duftenden frühlingswehn</l>
             <l>Der Gott die blumigen bahnen.</l>
-            <pb n="63"/>
           </lg>
           <lg n="12">
+            <pb n="63" facs="#f0067"/>
             <l>Der horcher der wisser von überall</l>
             <l>Ballwerfer mit sternen in taumel und tanz</l>
             <l>Der fänger unfangbar – hier hatte geraunt</l>
@@ -1144,9 +1148,9 @@
             <l>Zum liebling des glückes bis spät er gestand</l>
             <l>Im halt des gefährten hab er sich verzehrt –</l>
             <l>Sein ganzes dasein ein opfer.</l>
-            <pb n="64"/>
           </lg>
           <lg n="15">
+            <pb n="64" facs="#f0068"/>
             <l>Den liebt ich der · mein eigenstes blut ·</l>
             <l>Den besten gesang <hi rendition="#g">nach</hi> dem besten sang ..</l>
             <l>Weil einst ein kostbares gut ihm entging</l>
@@ -1173,22 +1177,22 @@
             <l>Dass was meist heut euch wert dünkt</l>
             <l>Faules laub ist im herbstwind</l>
             <l>Endes- und todesbereich:</l>
-            <pb n="65"/>
           </lg>
           <lg n="19">
+            <pb n="65" facs="#f0069"/>
             <l>Nur was im schützenden schlaf</l>
             <l>Wo noch kein taster es spürt</l>
             <l>Lang in tiefinnerstem schacht</l>
             <l>Weihlicher erde noch ruht –</l>
             <l>Wunder undeutbar für heut</l>
             <l>Geschick wird des kommenden tages.</l>
-            <pb n="66"/>
           </lg>
         </lg>
       </div>
       <div n="1">
-        <pb n="68"/>
+        <pb n="67" facs="#f0071"/>
         <head>DER GEHENKTE</head>
+        <pb n="68" facs="#f0072"/>
         <p rendition="#c">Der Frager:</p>
         <lg type="poem">
           <l>Den ich vom galgen schnitt · wirst du mir reden?</l>
@@ -1210,7 +1214,7 @@
           <l>Tugend – die ich verbrach – auf ihrem antlitz</l>
           <l>Und sittiger frau und maid · sei sie auch wahr ·</l>
           <l>So strahlen kann sie nur wenn ich so fehle!</l>
-          <pb n="69"/>
+          <pb n="69" facs="#f0073"/>
           <l>Als man den hals mir in die schlinge steckte</l>
           <l>Sah schadenfroh ich den triumf voraus:</l>
           <l>Als sieger dring ich einst in euer hirn</l>
@@ -1218,12 +1222,12 @@
           <l>Wirk ich als held auf den man lieder singt</l>
           <l>Als gott ..und eh ihrs euch versahet · biege</l>
           <l>Ich diesen starren balken um zum rad.</l>
-          <pb n="70"/>
         </lg>
       </div>
       <div n="1">
-        <pb n="72"/>
+        <pb n="71" facs="#f0075"/>
         <head>DER MENSCH UND DER DRUD</head>
+        <pb n="72" facs="#f0076"/>
         <p rendition="#c">Der Mensch</p>
         <lg type="poem">
           <l>Das enge bachbett sperrt ein wasserfall –</l>
@@ -1238,8 +1242,8 @@
         <p rendition="#c">Der Drud</p>
         <lg type="poem">
           <l>Nicht dich noch mich wird freun dass du mich fandst.</l>
-          <pb n="73"/>
         </lg>
+        <pb n="73" facs="#f0077"/>
         <p rendition="#c">Der Mensch</p>
         <lg type="poem">
           <l>Ich wusste wol von dir verwandtem volk</l>
@@ -1267,8 +1271,8 @@
           <l>Zum himmel rufen steine unsre siege ..</l>
           <l>Was willst du überbleibsel grauser wildnis?</l>
           <l>Das licht die ordnung folgen unsrer spur.</l>
-          <pb n="74"/>
         </lg>
+        <pb n="74" facs="#f0078"/>
         <p rendition="#c">Der Drud</p>
         <lg type="poem">
           <l>Du bist nur mensch .. wo deine weisheit endet</l>
@@ -1297,7 +1301,7 @@
         <lg type="poem">
           <l>Wir reden nie von ihnen · doch ihr toren</l>
           <l>Meint dass sie selbst euch helfen. Unvermittelt</l>
-          <pb n="75"/>
+          <pb n="75" facs="#f0079"/>
           <l>Sind sie euch nie genaht. Du wirst du stirbst –</l>
           <l>Wess wahr geschöpf du bist erfährst du nie.</l>
         </lg>
@@ -1327,12 +1331,12 @@
           <l>Wär euer schlag zerstört und all sein tun</l>
           <l>Wär euer holz verdorrt und saatfeld brach ..</l>
           <l>Nur durch den zauber bleibt das leben wach.</l>
-          <pb n="76"/>
         </lg>
       </div>
       <div n="1">
-        <pb n="78"/>
+        <pb n="77" facs="#f0081"/>
         <head>GESPRÄCH DES HERRN MIT DEM RÖMISCHEN HAUPTMANN</head>
+        <pb n="78" facs="#f0082"/>
         <p rendition="#c">HAUPTMANN</p>
         <lg type="poem">
           <l>Ich weiss Herr dass du worte ewigen lebens hast</l>
@@ -1355,8 +1359,8 @@
           <l>Der blinde sah der lahme nahm sein bett und ging</l>
           <l>Das wasser ward zu wein · doch was bedräun sie dich</l>
           <l>Da du kein solcher bist der sie an sich erfährt?</l>
-          <pb n="79"/>
         </lg>
+        <pb n="79" facs="#f0083"/>
         <p rendition="#c">HAUPTMANN</p>
         <lg type="poem">
           <l>Du predigst nie den Weisen sondern ärmstem leut</l>
@@ -1386,7 +1390,7 @@
         <p rendition="#c">HAUPTMANN</p>
         <lg type="poem">
           <l>Erhabner sieh mich flehn: du weisst im heiligen hag</l>
-          <pb n="80"/>
+          <pb n="80" facs="#f0084"/>
           <l>Eh man das höchste schauen darf wird offenbart</l>
           <l>Dass nur des reigens führer mit der gottheit eint ·</l>
           <l>Du schlangst ihn nie noch nennst ihn .. irren denn die weihn?</l>
@@ -1416,12 +1420,12 @@
         <lg type="poem">
           <l>Weil deine dünne lymphe Gottes kraft nicht mehr erträgt ..</l>
           <l>Du hast nun was du haben kannst. Steh auf und geh!</l>
-          <pb n="81"/>
         </lg>
       </div>
       <div n="1">
-        <pb n="82"/>
+        <pb n="81" facs="#f0085"/>
         <head>DER BRAND DES TEMPELS</head>
+        <pb n="82" facs="#f0086"/>
         <p rendition="#c">DIE PRIESTER: DER ÄLTESTE</p>
         <p rendition="#c">ERSTER ZWEITER DRITTER ·</p>
         <p rendition="#c">VIERTER UND FÜNFTER ALS BOTEN</p>
@@ -1439,8 +1443,8 @@
           <l>Durchschlich · sich auf dem grunde niederbog</l>
           <l>Mit seinen weissen fingern wurzeln steckte</l>
           <l>Ins trockne erdreich.</l>
-          <pb n="83"/>
         </lg>
+        <pb n="83" facs="#f0087"/>
         <p rendition="#c">ZWEITER</p>
         <lg type="poem">
           <l>Alles wankt und bricht</l>
@@ -1470,8 +1474,8 @@
         <lg type="poem">
           <l>Und mürber adel</l>
           <l>Meint: <hi rendition="#k">der</hi> wird nie besiegt.</l>
-          <pb n="84"/>
         </lg>
+        <pb n="84" facs="#f0088"/>
         <p rendition="#c">DRITTER</p>
         <lg type="poem">
           <l>Er gilt für billig.</l>
@@ -1501,9 +1505,9 @@
             <l>Wie wies ers ab! Mit unsren giftigen eifrern</l>
             <l>Die lass geschont von je gesetz und staat</l>
             <l>Verachtet – mit <hi rendition="#g">der</hi> schar versteht er sich:</l>
-            <pb n="85"/>
           </lg>
           <lg n="2">
+            <pb n="85" facs="#f0089"/>
             <l>›Ihr könnt nicht eures landes fäulnis heilen.</l>
             <l>Was sind die götter die euch nicht mehr helfen?</l>
             <l>Was bücher bilder die euch nicht mehr heben?</l>
@@ -1531,8 +1535,8 @@
         <p rendition="#c">ERSTER</p>
         <lg type="poem">
           <l>Er betet · heissts · vor einem rohen stein.</l>
-          <pb n="86"/>
         </lg>
+        <pb n="86" facs="#f0090"/>
         <p rendition="#c">ZWEITER</p>
         <lg type="poem">
           <l>Des jünglings ist sein wuchs und seine wange</l>
@@ -1560,7 +1564,7 @@
           <l>›Dein schmerz kann dich nicht sühnen · denn der meine</l>
           <l>Ist gross im übermaass. Erinnre dich</l>
           <l>Es war an unsrem stolzten schlachten-abend</l>
-          <pb n="87"/>
+          <pb n="87" facs="#f0091"/>
           <l>Wir beide eifernd wer den kranz verdient ..</l>
           <l>Da schwuren wir uns eine bitte zu</l>
           <l>Die jeder unbedingt erfülle .. deine</l>
@@ -1587,7 +1591,7 @@
           <l>Ist sie der herrschaft untergang.‹ Vorm abschied</l>
           <l>Versuchte sie ihn · sagt man · mit der mär:</l>
           <l>›Du lagst an meiner brust noch: auf der flucht</l>
-          <pb n="88"/>
+          <pb n="88" facs="#f0092"/>
           <l>Vor deines oheims häschern eilten wir</l>
           <l>Mit Phrixos über die verschneiten berge ..</l>
           <l>Da fiel ein wölfe-paar uns an · der treue</l>
@@ -1615,9 +1619,9 @@
             <l>Mit götter-säulen heiligen tafeln schriften</l>
             <l>Das köstlichste vermächtnis vieler ahnen</l>
             <l>Als dessen wahrer wir bisher gelebt</l>
-            <pb n="89"/>
           </lg>
           <lg n="2">
+            <pb n="89" facs="#f0093"/>
             <l>Ist von zertrümmerung bedroht .. vollbracht</l>
             <l>Sind alle opfer und ererbten bräuche.</l>
             <l>Wir haben unsre eigne macht erschöpft ..</l>
@@ -1648,7 +1652,7 @@
           <l>Dies ist die botschaft: Mit drommeten-schall</l>
           <l>Gleich einer königin liess er sie empfangen ..</l>
           <l>Lud sie zum thron · erfragte ihr begehr.</l>
-          <pb n="90"/>
+          <pb n="90" facs="#f0094"/>
           <l>Sie trug beredt ihm vor was selbst sie fühlte</l>
           <l>Und was ihr eingabt .. dass den ruhm ihm mehre</l>
           <l>Die wunder dieses bauwerks zu behüten.</l>
@@ -1673,7 +1677,7 @@
           <l>Wenn sinn dabei verlezt wird. So ists hier.</l>
           <l>Soll ich <hi rendition="#g">euch</hi> um <hi rendition="#g">den</hi> preis gewogen sein?</l>
           <l>Was heut mich umbiegt wird mich morgen brechen.‹</l>
-          <pb n="91"/>
+          <pb n="91" facs="#f0095"/>
           <l>Vor seiner miene senkte sie die lider</l>
           <l>Vor trauer wankend glitt sie durch den saal.</l>
           <l>Kaum heimgekehrt · mit ihren treuen mägden</l>
@@ -1699,8 +1703,8 @@
         <lg type="poem">
           <l>Sie zeigt</l>
           <l>Was uns zu tun erübrigt.</l>
-          <pb n="92"/>
         </lg>
+        <pb n="92" facs="#f0096"/>
         <p rendition="#c">FÜNFTER</p>
         <p rendition="#c"><hi rendition="#smaller">eintretend</hi></p>
         <lg type="poem">
@@ -1716,16 +1720,16 @@
         <lg type="poem">
           <l>Der tempel brennt. Ein halbes tausend-jahr</l>
           <l>Muss weiterrollen bis er neu erstehe.</l>
-          <pb n="93"/>
         </lg>
       </div>
       <div n="1">
-        <pb n="95"/>
+        <pb n="93" facs="#f0097"/>
         <head>SPRÜCHE</head>
         <div n="2">
           <head>AN DIE LEBENDEN</head>
           <div n="3">
             <lg type="poem">
+              <pb n="94" facs="#f0098"/>
               <l>Wartend am kreuzweg stehst du in schweben:</l>
               <l>Ob nach rechts ob nach links mich begeben ..</l>
               <l>Liebe lädt dich · folge dem bann!</l>
@@ -1745,6 +1749,7 @@
           </div>
           <div n="3">
             <lg type="poem">
+              <pb n="95" facs="#f0099"/>
               <l>Tauch hinab in den strom</l>
               <l>Den das weidicht umrauscht</l>
               <l>Den der mond überblinkt!</l>
@@ -1760,7 +1765,6 @@
           </div>
           <div n="3">
             <lg type="poem">
-              <pb n="96"/>
               <l>Freu dich an dem wert der gabe</l>
               <l>Nie entfällt sie deinen händen ..</l>
               <l>Doch nicht voll kannst du sie schätzen</l>
@@ -1772,6 +1776,7 @@
           <div n="3">
             <lg type="poem">
               <lg n="1">
+                <pb n="96" facs="#f0100"/>
                 <l>Solches bleibt nunmehr zu tun:</l>
                 <l>Schritte die dein blick begriff</l>
                 <l>Innen als ein wunder sehn.</l>
@@ -1790,7 +1795,6 @@
           </div>
           <div n="3">
             <lg type="poem">
-              <pb n="97"/>
               <l>Liebe freilich nennt kein maass</l>
               <l>Deine zählen wäre sünde</l>
               <l>Denn sie tat das grosse gross.</l>
@@ -1803,6 +1807,7 @@
           <div n="3">
             <lg type="poem">
               <lg n="1">
+                <pb n="97" facs="#f0101"/>
                 <l>Wenn es dein geist von selbst nicht finde</l>
                 <l>So wird es dir am tage licht</l>
                 <l>Wo einen ich des eids entbinde</l>
@@ -1819,7 +1824,6 @@
           <div n="3">
             <lg type="poem">
               <lg n="1">
-                <pb n="98"/>
                 <l>Rätsel flimmern alt und neu</l>
                 <l>Heut von dir noch nicht gewusst</l>
                 <l>Doch die bald du wissen musst.</l>
@@ -1834,6 +1838,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="98" facs="#f0102"/>
             <head>A : I</head>
             <lg type="poem">
               <l>Dess wort wol – doch dess seele nie mir klang:</l>
@@ -1843,7 +1848,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="99"/>
             <head>A : II</head>
             <lg type="poem">
               <lg n="1">
@@ -1870,6 +1874,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="99" facs="#f0103"/>
             <head>B : I</head>
             <lg type="poem">
               <l>Nächtlich am tor gehn wir im gleichen tritte</l>
@@ -1879,7 +1884,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="100"/>
             <head>B : II</head>
             <lg type="poem">
               <lg n="1">
@@ -1907,6 +1911,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="100" facs="#f0104"/>
             <head>W : I</head>
             <lg type="poem">
               <lg n="1">
@@ -1926,7 +1931,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="101"/>
             <head>W : II</head>
             <lg type="poem">
               <l>Du hast gewählt und meinst du hast noch wahl</l>
@@ -1945,6 +1949,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="101" facs="#f0105"/>
             <head>P:</head>
             <lg type="poem">
               <lg n="1">
@@ -1962,7 +1967,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="102"/>
             <head>G.R.H:</head>
             <lg type="poem">
               <l>In alter scholle wurzelt noch dein fuss</l>
@@ -1981,6 +1985,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="102" facs="#f0106"/>
             <head>L : I</head>
             <lg type="poem">
               <l>Wol ziemt zu schweigen über gross beginnen</l>
@@ -1990,7 +1995,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="103"/>
             <head>L : II</head>
             <lg type="poem">
               <l>Immer-harren macht zum spott</l>
@@ -2018,6 +2022,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="103" facs="#f0107"/>
             <head>E:</head>
             <lg type="poem">
               <l>Ich traf dich edlen spross in deinem lenze</l>
@@ -2027,7 +2032,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="104"/>
             <head>R ...</head>
             <lg type="poem">
               <l>Den ersten rang hat wem der Gott hienieden</l>
@@ -2049,6 +2053,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="104" facs="#f0108"/>
             <head>A. VERWEY</head>
             <lg type="poem">
               <lg n="1">
@@ -2070,9 +2075,9 @@
                 <l>Was? Was ihr berget? was ihr offen sagt?</l>
                 <l>Dass nochmals wachstum bricht aus toten-welten ..</l>
                 <l>Das andre – Dichter! sei dem dichter leicht.</l>
-                <pb n="105"/>
               </lg>
               <lg n="4">
+                <pb n="105" facs="#f0109"/>
                 <l>Du allein <hi rendition="#k">van buiten</hi></l>
                 <l>Musstest richtig deuten</l>
                 <l>Wie der Ewigen Reiche</l>
@@ -2099,7 +2104,7 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="106"/>
+            <pb n="106" facs="#f0110"/>
             <head>M:</head>
             <lg type="poem">
               <lg n="1">
@@ -2123,7 +2128,7 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="107"/>
+            <pb n="107" facs="#f0111"/>
             <head>DER TÄNZER</head>
             <lg type="poem">
               <lg n="1">
@@ -2145,7 +2150,7 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="109"/>
+            <pb n="108" facs="#f0112"/>
             <head>B.v.ST.</head>
             <div n="4">
               <head>I</head>
@@ -2169,11 +2174,11 @@
                   <l>Was dient · sei sie auch mehr als frommer wahn ·</l>
                   <l>Gleichheit von allen und ihr breitstes glück!</l>
                   <l>Wenn uns die anmut stirbt.</l>
-                  <pb n="110"/>
                 </lg>
               </lg>
             </div>
             <div n="4">
+              <pb n="109" facs="#f0113"/>
               <head>II</head>
               <lg type="poem">
                 <lg n="1">
@@ -2190,6 +2195,7 @@
             </div>
           </div>
           <div n="3">
+            <pb n="110" facs="#f0114"/>
             <head>DER HIMMEL</head>
             <lg type="poem">
               <l>Komm mit zu jenem Mysten der so schön uns überzeugt</l>
@@ -2199,7 +2205,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="111"/>
             <head>DER SCHLÜSSEL</head>
             <lg type="poem">
               <l>Ich hab dich angehört · kein andrer führer zeigt mir</l>
@@ -2225,6 +2230,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="111" facs="#f0115"/>
             <head>DER WEISHEITSLEHRER</head>
             <lg type="poem">
               <l>Seit dreissig jahren hast du gepredigt vor scharen</l>
@@ -2234,7 +2240,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="112"/>
             <head>ERZIEHER</head>
             <lg type="poem">
               <l>Die alte bahn führt nicht zum ziel. Versuchen wir!</l>
@@ -2255,6 +2260,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="112" facs="#f0116"/>
             <head>ZWEIFEL DER JÜNGER</head>
             <lg type="poem">
               <lg n="1">
@@ -2285,11 +2291,12 @@
           </div>
         </div>
         <div n="2">
-          <pb n="115"/>
+          <pb n="113" facs="#f0117"/>
           <head>AN DIE TOTEN</head>
           <div n="3">
             <lg type="poem">
               <lg n="1">
+                <pb n="114" facs="#f0118"/>
                 <l>Wenn einst dies geschlecht sich gereinigt von schande</l>
                 <l>Vom nacken geschleudert die fessel des fröners</l>
                 <l>Nur spürt im geweide den hunger nach ehre:</l>
@@ -2312,6 +2319,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="115" facs="#f0119"/>
             <head>HEINRICH F.</head>
             <lg type="poem">
               <lg n="1">
@@ -2329,7 +2337,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="116"/>
             <head>WALTER W.</head>
             <lg type="poem">
               <lg n="1">
@@ -2343,9 +2350,9 @@
                 <l>Die pfosten faulen alle angeln rasseln</l>
                 <l>Bald wird im morschen bau die flamme prasseln.</l>
                 <l>Was ist zu tun für uns? was not was nütze?</l>
-                <pb n="117"/>
               </lg>
               <lg n="3">
+                <pb n="116" facs="#f0120"/>
                 <l>Ich ahnte licht sah die ersehnte schwelle</l>
                 <l>Ich rief ich pochte .. hilft nicht wort und wissen?</l>
                 <l>Den hort zu kennen und für immer missen</l>
@@ -2371,6 +2378,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="117" facs="#f0121"/>
             <head>NORBERT</head>
             <lg type="poem">
               <lg n="1">
@@ -2388,7 +2396,6 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="118"/>
             <head>BALDUIN</head>
             <lg type="poem">
               <l>Mit welcher haltung ihr den markt durchrittet</l>
@@ -2398,6 +2405,7 @@
             </lg>
           </div>
           <div n="3">
+            <pb n="118" facs="#f0122"/>
             <head>BALDUIN</head>
             <lg type="poem">
               <lg n="1">
@@ -2430,7 +2438,7 @@
             </lg>
           </div>
           <div n="3">
-            <pb n="119"/>
+            <pb n="119" facs="#f0123"/>
             <head>VICTOR * ADALBERT</head>
             <lg type="poem">
               <l>V: Was über unsrer sonnenseligkeit</l>
@@ -2449,7 +2457,7 @@
               <l>V: Doch das ist flucht und flucht ist feig.</l>
               <l>A: Für den</l>
               <l>Der mit dem leben geizt · das tu ich nicht ..</l>
-              <pb n="120"/>
+              <pb n="120" facs="#f0124"/>
               <l>V: Du greifst den Göttern vor – sprichst nicht mehr fromm.</l>
               <l>A: Sie selber gaben mir das andre auge.</l>
               <l>V: Gemahnt ich dich wen all du weinend lässest</l>
@@ -2474,7 +2482,7 @@
               <l>Und schlief den schönsten frühling ohne sorge.</l>
               <l>Nur manchmal schien seit unsrer lezten einung</l>
               <l>Dass etwas dünnres uns umweht als luft</l>
-              <pb n="121"/>
+              <pb n="121" facs="#f0125"/>
               <l>Dass etwas leichtres in uns pulst als blut.</l>
               <l>A: Ich will nicht bitten und ich darf nicht binden</l>
               <l>Folgst du nicht meinem – nein – dem andren ruf</l>
@@ -2485,7 +2493,7 @@
               <l>Voll reichtum und voll glanz.</l>
               <l>A: Nun ist die wende!</l>
               <l>V: Dort liegt der Hexenberg in falbem schein</l>
-              <l>'s ist zeit der grausen tänze .. Eh du · Wilder ·</l>
+              <l>’s ist zeit der grausen tänze .. Eh du · Wilder ·</l>
               <l>Nochmals so redest warte bis zum neumond!</l>
               <l>A: Du kind machst scherz am grab · der dunkelgeist</l>
               <l>Der in mir waltet kennt nicht solchen spuk.</l>
@@ -2499,7 +2507,7 @@
               <l>Ob dies nicht sühne heischt – ich weiss es nicht ..</l>
               <l>Ob eine andre not als die wir kennen</l>
               <l>Die düstre tat befiehlt – ich weiss es nicht.</l>
-              <pb n="122"/>
+              <pb n="122" facs="#f0126"/>
               <l>Ich spüre keinen götterwink für mich.</l>
               <l>Doch glaub ich alles dir was für Dich gilt ..</l>
               <l>Und bleibe treu dem schwur der uns verbunden</l>
@@ -2507,23 +2515,22 @@
               <l>Ich bin untrennbar mit dir · seis auch schuld ·</l>
               <l>Und wenn nach deinem schicksal du beschlossen</l>
               <l>Durchs dunkle tor zu gehn: so nimm mich mit!</l>
-              <pb n="123"/>
             </lg>
           </div>
         </div>
       </div>
       <div n="1">
-        <pb n="124"/>
+        <pb n="123" facs="#f0127"/>
         <head>DAS LIED</head>
         <lg type="poem">
+          <pb n="124" facs="#f0128"/>
           <l><hi rendition="#smaller"> WAS ICH NOCH SINNE UND WAS ICH NOCH FÜGE</hi></l>
           <l><hi rendition="#smaller">WAS ICH NOCH LIEBE TRÄGT DIE GLEICHEN ZÜGE</hi></l>
-          <pb n="125"/>
         </lg>
         <div n="2">
           <lg type="poem">
             <lg n="1">
-              <pb n="126"/>
+              <pb n="125" facs="#f0129"/>
               <l>Welch ein kühn-leichter schritt</l>
               <l>Wandert durchs eigenste reich</l>
               <l>Des märchengartens der ahnin?</l>
@@ -2541,6 +2548,7 @@
           </lg>
         </div>
         <div n="2">
+          <pb n="126" facs="#f0130"/>
           <head>DAS LIED</head>
           <lg type="poem">
             <lg n="1">
@@ -2566,9 +2574,9 @@
               <l>Ihm fremd ins angesicht ·</l>
               <l>Der vater starb die mutter starb</l>
               <l>Ein andrer kannt ihn nicht.</l>
-              <pb n="127"/>
             </lg>
             <lg n="5">
+              <pb n="127" facs="#f0131"/>
               <l>Vor tagen hab ich mich verirrt</l>
               <l>Ich war im wunderwald</l>
               <l>Dort kam ich recht zu einem fest</l>
@@ -2595,13 +2603,13 @@
             <lg n="9">
               <l>Nur kinder horchten seinem lied</l>
               <l>Und sassen oft zur seit ..</l>
-              <l>Sie sangen's als er lang schon tot</l>
+              <l>Sie sangen’s als er lang schon tot</l>
               <l>Bis in die spätste zeit.</l>
             </lg>
           </lg>
         </div>
         <div n="2">
-          <pb n="128"/>
+          <pb n="128" facs="#f0132"/>
           <head>SCHIFFERLIED</head>
           <head>ABSCHIED YVOS VON JOLANDA</head>
           <lg type="poem">
@@ -2634,7 +2642,7 @@
         <div n="2">
           <lg type="poem">
             <lg n="1">
-              <pb n="129"/>
+              <pb n="129" facs="#f0133"/>
               <l>Horch was die dumpfe erde spricht:</l>
               <l>Du frei wie vogel oder fisch –</l>
               <l>Worin du hängst · das weisst du nicht.</l>
@@ -2655,7 +2663,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="130"/>
+          <pb n="130" facs="#f0134"/>
           <head>SEELIED</head>
           <lg type="poem">
             <lg n="1">
@@ -2663,9 +2671,9 @@
               <l>Eintaucht der feurig rote ball:</l>
               <l>Dann halt ich auf der düne rast</l>
               <l>Ob sich mir zeigt ein lieber gast.</l>
-              <pb n="131"/>
             </lg>
             <lg n="2">
+              <pb n="131" facs="#f0135"/>
               <l>Zu dieser stund ists öd daheim ·</l>
               <l>Die blume welkt im salzigen feim.</l>
               <l>Im lezten haus beim fremden weib</l>
@@ -2698,7 +2706,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="132"/>
+          <pb n="132" facs="#f0136"/>
           <head>DIE TÖRICHTE PILGERIN</head>
           <lg type="poem">
             <lg n="1">
@@ -2732,17 +2740,17 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="133"/>
+          <pb n="133" facs="#f0137"/>
           <head>DER LEZTE DER GETREUEN</head>
           <lg type="poem">
             <lg n="1">
               <l>Noch weilt der Eine ausser lands</l>
               <l>Drum ist auch mir die heimat leer</l>
-              <l>Ich haus' als fremdling nur in ihr</l>
+              <l>Ich haus’ als fremdling nur in ihr</l>
               <l>Bei meines königs banne.</l>
             </lg>
             <lg n="2">
-              <l>Ich zähle nicht nach freud' und fest</l>
+              <l>Ich zähle nicht nach freud’ und fest</l>
               <l>Der Andern und ich warte gleich</l>
               <l>Den sommer durch · den winter lang</l>
               <l>Bis mich mein könig rufe ..</l>
@@ -2756,7 +2764,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="134"/>
+          <pb n="134" facs="#f0138"/>
           <head>DAS WORT</head>
           <lg type="poem">
             <lg n="1">
@@ -2790,7 +2798,7 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="135"/>
+          <pb n="135" facs="#f0139"/>
           <head>DIE BECHER</head>
           <lg type="poem">
             <lg n="1">
@@ -2816,14 +2824,14 @@
           </lg>
         </div>
         <div n="2">
-          <pb n="136"/>
+          <pb n="136" facs="#f0140"/>
           <head>DAS LICHT</head>
           <lg type="poem">
             <lg n="1">
               <l>Wir sind in trauer wenn · uns minder günstig</l>
               <l>Du dich zu andren · mehr beglückten · drehst</l>
               <l>Wenn unser geist · nach anbetungen brünstig ·</l>
-              <l>An abenden in deinem abglanz wes't.</l>
+              <l>An abenden in deinem abglanz wes’t.</l>
             </lg>
             <lg n="2">
               <l>Wir wären töricht · wollten wir dich hassen</l>
@@ -2836,7 +2844,7 @@
         <div n="2">
           <lg type="poem">
             <lg n="1">
-              <pb n="137"/>
+              <pb n="137" facs="#f0141"/>
               <l>In stillste ruh</l>
               <l>Besonnenen tags</l>
               <l>Bricht jäh ein blick</l>
@@ -2862,7 +2870,7 @@
         <div n="2">
           <lg type="poem">
             <lg n="1">
-              <pb n="138"/>
+              <pb n="138" facs="#f0142"/>
               <l>Du schlank und rein wie eine flamme</l>
               <l>Du wie der morgen zart und licht</l>
               <l>Du blühend reis vom edlen stamme</l>
@@ -2885,7 +2893,6 @@
               <l>Du wie ein quell geheim und schlicht</l>
               <l>Du schlank und rein wie eine flamme</l>
               <l>Du wie der morgen zart und licht.</l>
-              <pb n="139"/>
             </lg>
           </lg>
         </div>
@@ -2893,23 +2900,22 @@
     </body>
     <back>
       <div n="1" type="appendix">
-        <pb n="141"/>
+        <pb n="140" facs="#f0144"/>
         <head>ANHANG</head>
-        <p>Goethes lezte Nacht in Italien erschien zuerst im dritten Bondi'schen Ausleseband der Bl.f.d.K.: einer vorwegnahme der VIII. folge. Hyperion · An die Kinder des Meeres · Gebet I · Der Mensch und der Drud · Gespräch des Herrn mit dem römischen Hauptmann · sowie von den Sprüchen: Der Himmel bis Belehrung in der X. folge. Die XI.–XII. F. enthielt von den grössern gedichten: Die Winke · Gebete II und III · Der Brand des Tempels .. von den Sprüchen: Wartend am Kreuzweg bis Rätsel flimmern alt und neu · sowie A. Werwey I II und IV · und sämtliche An die Toten. Das 2. der lieder ist in der IX. das 3. in der X. das 4. 5. 6. 8. 9. und 12. in der XI.–XII. folge erschienen. Der Krieg wurde zuerst 1917 als sonderheft veröffentlicht · ebenso die gedichte: An die Toten · Der Dichter in Zeiten der Wirren · Einem jungen Führer im ersten Weltkrieg · unter dem Titel Drei Gesänge 1921.</p>
+        <p>Goethes lezte Nacht in Italien erschien zuerst im dritten Bondi’schen Ausleseband der Bl.f.d.K.: einer vorwegnahme der VIII. folge. Hyperion · An die Kinder des Meeres · Gebet I · Der Mensch und der Drud · Gespräch des Herrn mit dem römischen Hauptmann · sowie von den Sprüchen: Der Himmel bis Belehrung in der X. folge. Die XI.–XII. F. enthielt von den grössern gedichten: Die Winke · Gebete II und III · Der Brand des Tempels .. von den Sprüchen: Wartend am Kreuzweg bis Rätsel flimmern alt und neu · sowie A. Werwey I II und IV · und sämtliche An die Toten. Das 2. der lieder ist in der IX. das 3. in der X. das 4. 5. 6. 8. 9. und 12. in der XI.–XII. folge erschienen. Der Krieg wurde zuerst 1917 als sonderheft veröffentlicht · ebenso die gedichte: An die Toten · Der Dichter in Zeiten der Wirren · Einem jungen Führer im ersten Weltkrieg · unter dem Titel Drei Gesänge 1921.</p>
         <p>Die einzige abweichung vom ersten druck ist die umstellung von: Freu dich an dem wert der gabe (S. 95) und: Liebe freilich nennt kein maass (S. 96).</p>
-        <pb n="142"/>
         <div n="2">
           <figure>
-            <p>Gebete Seite 51 (Rohrfederschrift): [Dass mir der schönen Sterne führung schwände] (GAW 9, S. 142)</p>
+            <note type="editorial">Gebete Seite 51 (Rohrfederschrift): [Dass mir der schönen Sterne führung schwände] (GAW 9, S. 142)</note>
           </figure>
           <figure>
-            <p>Sprüche Seite 94: [Da das zittern noch waltet] (GAW 9, S. 143). Sprüche Seite 96: [Solches bleibt nunmehr zu tun] (GAW 9, S. 143)</p>
+            <note type="editorial">Sprüche Seite 94: [Da das zittern noch waltet] (GAW 9, S. 143). Sprüche Seite 96: [Solches bleibt nunmehr zu tun] (GAW 9, S. 143)</note>
           </figure>
           <figure>
-            <p>Lieder Seite 125: [Welch ein kühn-leichter schritt] (GAW 9, S. 144)</p>
+            <note type="editorial">Lieder Seite 125: [Welch ein kühn-leichter schritt] (GAW 9, S. 144)</note>
           </figure>
           <figure>
-            <p>Lieder Seite 137: [In stillste ruh] (GAW 9, S. 145)</p>
+            <note type="editorial">Lieder Seite 137: [In stillste ruh] (GAW 9, S. 145)</note>
           </figure>
         </div>
       </div>

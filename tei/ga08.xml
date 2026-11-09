@@ -282,7 +282,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="18" facs="#f0022"/>
-            <l>DA DEIN GEWITTER O DONNRER DIE WOLKEN ZERREISST</l>
+            <l><hi rendition="#k">Da dein gewitter o donnrer die wolken zerreisst</hi></l>
             <l>Dein sturmwind unheil weht und die vesten erschüttert</l>
             <l>Ist da nicht nach klängen zu suchen ein frevles bemühn?</l>
             <l>›Die hehre harfe und selbst die geschmeidige leier</l>
@@ -432,7 +432,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="28" facs="#f0032"/>
-            <l>AUS PURPURGLUTEN SPRACH DES HIMMELS ZORN:</l>
+            <l><hi rendition="#k">Aus purpurgluten sprach des himmels zorn:</hi></l>
             <l>Mein blick ist abgewandt von diesem volk ..</l>
             <l>Siech ist der geist! tot ist die tat!</l>
             <l>Nur sie die nach dem heiligen bezirk</l>
@@ -586,7 +586,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="38" facs="#f0042"/>
-            <l>HELFER VON DAMALS! RICHTTAG RÜCKT HERAN</l>
+            <l><hi rendition="#k">Helfer von damals! richttag rückt heran</hi></l>
             <l>Sein Für und Wider schneidet andres band</l>
             <l>Und frühere liebe schweigt und beider träne ·</l>
             <l>Wir sind hinüber und ihr bliebet dort.</l>
@@ -866,7 +866,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="60" facs="#f0064"/>
-            <l>WER SEINES REICHTUMS UNWERT IHN NICHT NÜZT</l>
+            <l><hi rendition="#k">Wer seines reichtums unwert ihn nicht nüzt</hi></l>
             <l>Muss weinen: nicht wer arm ist wer verlor ..</l>
             <l>Du bist der gerte finder deren ruck</l>
             <l>Verrät wo heilsam wasser steigen will</l>
@@ -1008,7 +1008,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="70" facs="#f0074"/>
-            <l>ÜBER WUNDER SANN ICH NACH</l>
+            <l><hi rendition="#k">Über wunder sann ich nach</hi></l>
             <l>In der weisheit untern kammern:</l>
             <l>War der gott der mich erleuchtet</l>
             <l>War der geist der mir erschienen</l>
@@ -1164,7 +1164,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="82" facs="#f0086"/>
-            <l>VON WELCHEN WUNDERN LACHT DIE MORGEN-ERDE</l>
+            <l><hi rendition="#k">Von welchen wundern lacht die morgen-erde</hi></l>
             <l>Als wär ihr erster tag? Erstauntes singen</l>
             <l>Von neuerwachten welten trägt der wind</l>
             <l>Verändert sieht der alten berge form</l>
@@ -1310,7 +1310,7 @@
         <div n="2">
           <lg type="poem">
             <pb n="92" facs="#f0096"/>
-            <l>AUF NEUE TAFELN SCHREIBT DER NEUE STAND:</l>
+            <l><hi rendition="#k">Auf neue tafeln schreibt der neue stand:</hi></l>
             <l>Lasst greise des erworbnen guts sich freuen</l>
             <l>Das ferne wettern reicht nicht an ihr ohr.</l>
             <l>Doch alle jugend sollt ihr sklaven nennen</l>
@@ -1604,7 +1604,7 @@
           <head>SCHLUSSCHOR</head>
           <lg type="poem">
             <pb n="114" facs="#f0118"/>
-            <l>GOTTES PFAD IST UNS GEWEITET</l>
+            <l><hi rendition="#k">Gottes pfad ist uns geweitet</hi></l>
             <l>Gottes land ist uns bestimmt</l>
             <l>Gottes krieg ist uns entzündet</l>
             <l>Gottes kranz ist uns erkannt.</l>
