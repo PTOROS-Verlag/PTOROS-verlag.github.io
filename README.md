@@ -50,12 +50,20 @@ section, and section-title pages carry none. Page breaks were therefore
 re-placed by aligning the TEI with the OCR of the whole volume and checked
 against the images; those changes are logged as `edited`.
 
+Neither OCR tells the St.-G. k from K or f from F, so a zeno capital there
+passes unnoticed: mid-line capital K/F in verse are checked against the
+images separately.
+
 ## Conventions
 
 - Inside `<hi rendition="#k">` lower-case letters stand for small capitals;
   zeno writes them in capitals.
 - Hochpunkt (U+00B7) and dash (U+2013) are kept as zeno has them; the
-  typographic apostrophe is the print's.
+  typographic apostrophe is the print's, and so are the single guillemets
+  ›‹ that zeno often doubles.
+- zeno's headings "Widmung" and "Vorrede" are its own labels, not printed.
+- A verse set on two lines only because it is too long for the measure is
+  one `<l>`; lines George breaks on purpose stay separate.
 - DTABf has no `figDesc` and allows `milestone/@rendition` only for rules, so
   images are `<figure><note type="editorial">` with zeno's description, and
   zeno's lines of asterisks stay text.
