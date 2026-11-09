@@ -62,7 +62,7 @@
       <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
       <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
       <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
-      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹).</p>
+      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹), der Apostroph ist wie im Druck typographisch (’).</p>
       <p>Die Orthographie ist nicht normalisiert.</p>
     </editorialDecl>
     <tagsDecl>
@@ -113,7 +113,7 @@
               <l>›Im bund noch diesen freund!‹ und nicht nur lechzend</l>
               <l>Nach tat war der empörer eingedrungen</l>
               <l>Mit dolch und fackel in des feindes haus ..</l>
-              <l>Ihr kundige las't kein schauern · las't kein lächeln ·</l>
+              <l>Ihr kundige las’t kein schauern · las’t kein lächeln ·</l>
               <l>Wart blind für was in dünnem schleier schlief.</l>
             </lg>
             <lg n="3">
@@ -839,7 +839,7 @@
                 <l>Der steckte auf das dach den bänderstrauss.</l>
               </lg>
               <lg n="2">
-                <l>Die trieben ihre pferde durch mit schrei'n ·</l>
+                <l>Die trieben ihre pferde durch mit schrei’n ·</l>
                 <l>Die luden waaren auf: sie schauten drein</l>
                 <l>Doch hatten ihre augen keinen glanz.</l>
               </lg>
@@ -1165,7 +1165,7 @@
             <lg n="2">
               <l>Auf unbenamter bahn in karger stille</l>
               <l>Drehn wir den speer und drehn die dunkle spille.</l>
-              <l>In feiger zeit schreckt unsrer waffen loh'n ·</l>
+              <l>In feiger zeit schreckt unsrer waffen loh’n ·</l>
               <l>Wir geisseln volk und schlagen lärm am tron.</l>
             </lg>
             <lg n="3">
@@ -1197,7 +1197,7 @@
               <l>Und jede eherne tat und nötige wende:</l>
               <l>Nur unser-einer ist der sie vollende –</l>
               <l>Zu der man uns in arger wirrsal ruft</l>
-              <l>Und dann uns steinigt: fluch dem was ihr schuf't!</l>
+              <l>Und dann uns steinigt: fluch dem was ihr schuf’t!</l>
             </lg>
             <lg n="8">
               <l>Und wenn die grosse Nährerin im zorne</l>
@@ -2418,7 +2418,7 @@
               </lg>
               <lg n="4">
                 <l>›Frühling · wie niemals verlockst du mich heuer!</l>
-                <l>Dürft ich noch einmal die knospenden mai'n</l>
+                <l>Dürft ich noch einmal die knospenden mai’n</l>
                 <l>Einmal noch sehen mit euch die mir teuer</l>
                 <l>Lieblichste blumen am irdischen rain!‹</l>
               </lg>
@@ -2597,7 +2597,7 @@
             <lg n="2">
               <l>Das haar geb ich dem zarten winde preis ·</l>
               <l>Des gartens düfte öffnen jede pore.</l>
-              <l>Da kos't die hand manch purpurschwellend reis ·</l>
+              <l>Da kos’t die hand manch purpurschwellend reis ·</l>
               <l>Da kühlt die wange sich im schneeigen flore.</l>
             </lg>
             <lg n="3">
