@@ -1,9 +1,10 @@
 # per-engine OCR misreadings of St.-G.-Schrift: [regex, replacement], each
 # applied optionally while expanding an OCR token into candidates
-# the single guillemets ›‹ read as > < (ga04, ga02)
+# the single guillemets ›‹ read as > < (ga04, ga02); the St.-G. T read as C
+# (ga03–05)
 [tesseract]
-rules = [["ı","t"],["kK","k"],["tt","t"],["rt$","t"],["VW","V"],["^K","k"],["^F","f"],["^-$","·"],["^-$","–"],["^—$","–"],["^•$","·"],["^>$","›"],["^<$","‹"]]
+rules = [["ı","t"],["kK","k"],["tt","t"],["rt$","t"],["VW","V"],["^K","k"],["^F","f"],["^-$","·"],["^-$","–"],["^—$","–"],["^•$","·"],["^>$","›"],["^<$","‹"],["^TC","T"],["C","T"]]
 
 [alto]
 # ga02 on: the Hochpunkt (a short raised stroke there) comes out as "*"
-rules = [["^[•■\\-]$","·"],["^\\*$","·"],["^-$","–"],["^—$","–"],["K","k"],["^U","V"],["^U","v"],["ui","w"],["x","t"],["i","t"],["si","st"],["^S","s"],["^W","w"],["^>$","›"],["^<$","‹"]]
+rules = [["^[•■\\-]$","·"],["^\\*$","·"],["^-$","–"],["^—$","–"],["K","k"],["^U","V"],["^U","v"],["ui","w"],["x","t"],["i","t"],["si","st"],["^S","s"],["^W","w"],["^>$","›"],["^<$","‹"],["C","T"]]

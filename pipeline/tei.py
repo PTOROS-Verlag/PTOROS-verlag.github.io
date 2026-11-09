@@ -21,6 +21,7 @@ SPAN_STYLE = {
 }
 PARA_CLASS = re.compile(r"zenoPLm(\d+)n(\d+)")
 ET_LEVEL = {4: "#et", 8: "#et2", 12: "#et3"}
+GUILLEMETS = str.maketrans("»«", "›‹")
 
 
 class BuildError(Exception):
@@ -92,7 +93,8 @@ def normalize(runs):
     out = []
     for r in runs:
         if r[0] == "t":
-            t = re.sub(r"\s+", " ", nfc(r[1]))
+            # the GA prints only single guillemets; zeno often doubles them
+            t = re.sub(r"\s+", " ", nfc(r[1])).translate(GUILLEMETS)
             if out and out[-1][0] == "t" and out[-1][2] == r[2]:
                 out[-1] = ("t", out[-1][1] + t, r[2])
             elif t:
@@ -485,7 +487,7 @@ def header(vid, snap):
       <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
       <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
       <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
-      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben.</p>
+      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹).</p>
       <p>Die Orthographie ist nicht normalisiert.</p>
     </editorialDecl>
     <tagsDecl>
