@@ -52,9 +52,13 @@ title = "Der Stern des Bundes"
 zeno = "Der+Stern+des+Bundes"
 source = "sbb"
 ppn = "PPN828583684"
+year = 1928
+month = "November"
 
 [ga09]
 title = "Das Neue Reich"
 zeno = "Das+Neue+Reich"
 source = "sbb"
 ppn = "PPN828585296"
+year = 1928
+month = "Oktober"

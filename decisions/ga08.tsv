@@ -1,0 +1,42 @@
+key	decision	text	note
+116|waren|von|der	fix	vor	druck: vor der buchausgabe
+8|^|DU|STETS	edited		erste zeile des buches in kapitälchen (grösserer anfangsbuchstabe); zeno in versalien
+50|DER|STILLE|DEN	edited		erste zeile des buches in kapitälchen (grösserer anfangsbuchstabe); zeno in versalien
+102|GRÜNDUNG|WIE|ICH	edited		erste zeile des buches in kapitälchen (grösserer anfangsbuchstabe); zeno in versalien
+14|O|Retter|‹	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+16|dein|Gott|?	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+18|vesten|erschüttert|Ist	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+18|Die|hehre harfe|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+18|Kein|herzog kein|heiland	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+28|die|tat !|Nur	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+35|Vom|schutt|behütet	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+43|Ihr|habt ·|fürs	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+46|mauern|wittert|Nach	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+47|und|nackt|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+51|^|Entbinde|mich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+59|der|gott|nur	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+70|der|gott|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+83|namen|Väter|mütter	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+99|und|schüttert Was|wird	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+99|erstehn|Verführend|gleissen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+107|wesen|Verwandtes|dir	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+110|.|Aus|jedes	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+114|bestimmt|Gottes|krieg	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|:|›|Da	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|geist|‹|(	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|stelle|‹|(	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|nach|‹|(	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|geistes|‹|(	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|flamme|umschritt ‹|(	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+13|lines	keep		zeilenzahl stimmt mit dem druck; ocr-rauschen (stempel, getrennte zeile)
+51|lines	keep		zeilenzahl stimmt mit dem druck; ocr-rauschen (stempel, getrennte zeile)
+99|lines	keep		zeilenzahl stimmt mit dem druck; ocr-rauschen (stempel, getrennte zeile)
+118|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+119|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+121|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+122|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+123|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+124|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+125|uncovered	keep		Abbildung/Inhaltsverzeichnis (nicht kodiert)
+117|pb|116	edited		pb nach seitenabgleich mit den scans neu gesetzt
+50|der|stille|den	keep		druck bestätigt (kapitälchen STILLE); ocr-fehler
