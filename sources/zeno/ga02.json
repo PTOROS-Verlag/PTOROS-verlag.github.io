@@ -1,0 +1,859 @@
+{
+ "fetched": "2026-11-09",
+ "root": "http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal",
+ "nodes": [
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal",
+   "depth": 0,
+   "title": "Hymnen · Pilgerfahrten · Algabal",
+   "categories": [
+    "Deutsche Literatur",
+    "Gedichtsammlung"
+   ],
+   "html": "<h2>HYMNEN</h2>\r\n<h2>PILGERFAHRTEN</h2>\r\n<h2>ALGABAL</h2>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Titelblatt+des+Erstdrucks+der+Hymnen",
+   "depth": 1,
+   "title": "Titelblatt des Erstdrucks der Hymnen",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h5 pp=\"no\">Titelblatt des Erstdrucks der Hymnen</h5>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:356px;\"><a href=\"/Literatur/I/st020003\"><img src=\"/Literatur.images/I/st020003.jpg?w=354&amp;h=500&amp;vid=1169352817\" width=\"354\" height=\"500\" class=\"zenoIMBreak\" alt=\"UMSCHLAG UND TITEL DES ERSTDRUCKES\"/></a><div class=\"zenoIMBreakText\">UMSCHLAG UND TITEL DES ERSTDRUCKES</div></div></div>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Vorrede+der+zweiten+Ausgabe",
+   "depth": 1,
+   "title": "Vorrede der zweiten Ausgabe",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>VORREDE DER ZWEITEN AUSGABE</h5>\r\n\r\n<p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"5\">[5]</a> Den ersten druck seiner dichtungen die vor einem jahrzehent zu erscheinen begannen reichte der verfasser freunden und gönnern als geschenk · so blieb er bis in einzelheiten der rücksicht auf die lesende menge enthoben die damals besonders wenig willens oder fähig war ein dichtwerk als gebilde zu begrüssen und zu geniessen. Heute da mit dem freudigen aufschwunge von malerei und verzierung bei uns vielerorten ein neues schönheitverlangen erwacht glaubt er den wachsenden wünschen<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"5\">[5]</a>  nachgeben und auf den schutz seiner abgeschlossenheit verzichten zu dürfen. Hymnen Pilgerfahrten und Algabal führen die reihe seiner veröffentlichungen. Fast ganz in der form worin man sie früher liebgewann &#8211; mit kleinen herstellungen (änderungen oder beigaben) und mit den manchmal erbetenen wiewol oft entbehrlichen lesezeichen: so möge sich an diesen büchern ein weniges von dem erfüllen was ihnen geweissagt wurde.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"6\">[6]</a> </p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen",
+   "depth": 1,
+   "title": "Hymnen",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h4>HYMNEN</h4>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Widmung",
+   "depth": 2,
+   "title": "Widmung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>Widmung</h5>\r\n\r\n<p class=\"zenoPC\"><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"9\">[9]</a> AN</p>\r\n<p class=\"zenoPC\">CARL AUGUST KLEIN</p>\r\n<p class=\"zenoPC\">DEN TRAUTEN UND TREUEN SEIT DER JUGEND</p>\r\n<br/>\r\n<p class=\"zenoPC\">BERLIN</p>\r\n<p class=\"zenoPC\">MDCCCXC</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Aufschrift",
+   "depth": 2,
+   "title": "Aufschrift",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> AUFSCHRIFT</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"9\">[9]</a> Kurz eh es frühling ward begann dies Lied</p>\r\n <p>Bei weissen Mauern und im Uferried</p>\r\n <p>All unsres volkes neuen Söhnen hold</p>\r\n <p>Spielt durch ein Jahr der Traum in blau und gold.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Weihe",
+   "depth": 2,
+   "title": "Weihe",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>WEIHE</h5>\r\n\r\n <p>Hinaus zum strom! wo stolz die hohen rohre</p>\r\n <p>Im linden winde ihre fahnen schwingen</p>\r\n <p>Und wehren junger wellen schmeichelchore</p>\r\n <p>Zum ufermoose kosend vorzudringen.</p>\r\n<br/>\r\n <p>Im rasen rastend sollst du dich betäuben</p>\r\n <p>An starkem urduft · ohne denkerstörung ·</p>\r\n <p>So dass die fremden hauche all zerstäuben.</p>\r\n <p>Das auge schauend harre der erhörung.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"12\">[12]</a> </p><br/> <p>Siehst du im takt des strauches laub schon zittern</p>\r\n <p>Und auf der glatten fluten dunkelglanz</p>\r\n <p>Die dünne nebelmauer sich zersplittern?</p>\r\n <p>Hörst du das elfenlied zum elfentanz?</p>\r\n<br/>\r\n <p>Schon scheinen durch der zweige zackenrahmen</p>\r\n <p>Mit sternenstädten selige gefilde ·</p>\r\n <p>Der zeiten flug verliert die alten namen</p>\r\n <p>Und raum und dasein bleiben nur im bilde.</p>\r\n<br/>\r\n <p>Nun bist du reif · nun schwebt die herrin nieder ·</p>\r\n <p>Mondfarbne gazeschleier sie umschlingen ·</p>\r\n <p>Halboffen ihre traumesschweren lider</p>\r\n <p>Zu dir geneigt die segnung zu vollbringen:</p>\r\n<br/>\r\n <p>Indem ihr mund auf deinem antlitz bebte</p>\r\n <p>Und sie dich rein und so geheiligt sah</p>\r\n <p>Dass sie im kuss nicht auszuweichen strebte</p>\r\n <p>Dem finger stützend deiner lippe nah.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Im+Park",
+   "depth": 2,
+   "title": "Im Park",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> IM PARK</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"13\">[13]</a> Rubinen perlen schmücken die fontänen ·</p>\r\n <p>Zu boden streut sie fürstlich jeder strahl ·</p>\r\n <p>In eines teppichs seidengrünen strähnen<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"14\">[14]</a> </p><br/> <p>Verbirgt sich ihre unbegrenzte zahl.</p>\r\n <p>Der dichter dem die vögel angstlos nahen</p>\r\n <p>Träumt einsam in dem weiten schattensaal ..</p>\r\n<br/>\r\n <p>Die jenen wonnetag erwachen sahen</p>\r\n <p>Empfinden heiss von weichem klang berauscht ·</p>\r\n <p>Es schmachtet leib und leib sich zu umfahen.</p>\r\n<br/>\r\n <p>Der dichter auch der töne lockung lauscht.</p>\r\n <p>Doch heut darf ihre weise nicht ihn rühren</p>\r\n <p>Weil er mit seinen geistern rede tauscht:</p>\r\n<br/>\r\n <p>Er hat den griffel der sich sträubt zu führen.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Einladung",
+   "depth": 2,
+   "title": "Einladung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> EINLADUNG</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"15\">[15]</a> Lassen wir mauern und staub!</p>\r\n <p>&#8211; Sprach ladend deine güte &#8211;</p>\r\n <p>Fern wo leichter und freier</p>\r\n <p>Sinn und odem sich glaubt</p>\r\n <p>Begehen wir die blüten-</p>\r\n <p>Die auferstehungsfeier.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"16\">[16]</a> </p><br/> <p>&#8211; Dankvoll rauhem getobe</p>\r\n <p>Quälendem irren entflohn!</p>\r\n <p>Wenn auch neu nur von oben</p>\r\n <p>Einziger liebe lohe</p>\r\n <p>Endliche rettung mir däuchte</p>\r\n <p>Und dauernde leuchte.</p>\r\n<br/>\r\n <p>Es war dein kindlich behagen</p>\r\n <p>Gebunden an deiner seite</p>\r\n <p>In frohsinn mich zu ertragen &#8211;</p>\r\n <p>Ist nicht entzückend die weite</p>\r\n <p>Nicht labend der morgenglanz</p>\r\n <p>Auf weisser villen kranz?</p>\r\n<br/>\r\n <p>Schau! bis hinan zum gipfel</p>\r\n <p>Wo auf rissigem steine</p>\r\n <p>Kleine kiefern wipfeln</p>\r\n <p>Steigt der obstbäume bau ·</p>\r\n <p>Drunten wellen scheinen</p>\r\n <p>An blumenreicher au.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"17\">[17]</a> </p><br/> <p>Erklimmen im lauf wir den hügel!</p>\r\n <p>Folge doch &#8211; höhnische rufe</p>\r\n <p>Bis ich am ziele mich zeige &#8211;</p>\r\n <p>Nun wieder abwärts ans ufer</p>\r\n <p>Schnell! florprangende zweige</p>\r\n <p>Leihen uns weisse flügel.</p>\r\n<br/>\r\n <p>Rasten wir! nur eine weile!</p>\r\n <p>Feucht ist das gras noch · in eile</p>\r\n <p>Weiter arm in arm!</p>\r\n <p>&#8211; Du hobst mir nagende plagen</p>\r\n <p>Ob tiefer gefühle auch arm</p>\r\n <p>In sieghaften mussetagen.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Nachmittag",
+   "depth": 2,
+   "title": "Nachmittag",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>NACHMITTAG</h5>\r\n\r\n <p>Sengende strahlen senken sich nieder</p>\r\n <p>Nieder vom wolkenfreien firmamente ·</p>\r\n <p>Sengende strahlen von blitzender kraft.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"20\">[20]</a> </p><br/> <p>Die südenklare luft in mittagstille.</p>\r\n <p>Längs den palästen starb der menge wimmeln</p>\r\n <p>Auf der fliesen feuer-bergender fläche.</p>\r\n <p>Mit stummen zinnen und toten balkonen</p>\r\n <p>Die langen mauerwälle starr dastehn</p>\r\n <p>Heisshauchend wie wirkende opferöfen.</p>\r\n <p>In den höfen umragt von säulengängen</p>\r\n <p>Der versiegten brunnen kunst versagt ·</p>\r\n <p>Auf beeten wo der büsche blätter sich krümmen</p>\r\n <p>Halbverdorrter blumen odem lagert.</p>\r\n<br/>\r\n <p>Sengende strahlen senken sich nieder</p>\r\n <p>Nieder vom wolkenfreien firmamente.</p>\r\n<br/>\r\n <p>Und dem Einsamen der mit entzücken sie fühlt</p>\r\n <p>Der des gemaches duftender kühle entfloh</p>\r\n <p>Gegenglut für zerstörende gluten suchend</p>\r\n <p>Stetig sie auf scheitel und nacken scheinen</p>\r\n <p>Bis er rettender schwäche erliegen darf</p>\r\n <p>Hingleitend bei eines pfeilers fuss.</p>\r\n<br/>\r\n <p>Sengende strahlen senken sich nieder.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Von+einer+Begegnung",
+   "depth": 2,
+   "title": "Von einer Begegnung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> VON EINER BEGEGNUNG</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"21\">[21]</a> Nun rufen lange schatten mildre gluten</p>\r\n <p>Und wallen nach den lippen kühler welle</p>\r\n <p>Die glieder die im mittag müde ruhten &#8211;</p>\r\n <p>Da kreuzest unter säulen Du die schwelle.</p>\r\n<br/>\r\n <p>Die blicke mein so mich dem pfad entrafften</p>\r\n <p>Auf weisser wange weisser schläfe sammt</p>\r\n <p>Wie karg und scheu nur wagten sie zu haften &#8211;</p>\r\n <p>Der antwort bar zur kehrung ja verdammt!<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"22\">[22]</a> </p><br/> <p>An süssem leib im gang den schlanken bogen</p>\r\n <p>Sie zur umarmung zaubertoll erschauten ·</p>\r\n <p>Dann sind sie feucht vor sehnen fortgezogen</p>\r\n <p>Eh sie in deine sich zu tauchen trauten.</p>\r\n<br/>\r\n <p>O dass die laune dich zurück mir brächte!</p>\r\n <p>Dass neue nicht die fernen formen stören!</p>\r\n <p>Wie ward es mir gebot für lange nächte</p>\r\n <p>Treu zug um zug dein bildnis zu beschwören!</p>\r\n<br/>\r\n <p>Umsonst · ein steter regen bittrer lauge</p>\r\n <p>Benezt und bleicht was mühevoll ich male.</p>\r\n <p>Es geht .. wie war dein haar und wie dein auge?</p>\r\n <p>Es geht und stirbt in bebendem finale.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Neul%C3%A4ndische+Liebesmahle",
+   "depth": 2,
+   "title": "Neuländische Liebesmahle",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>NEULÄNDISCHE LIEBESMAHLE</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Neul%C3%A4ndische+Liebesmahle/I+%5BDie+kohle+gl%C3%BCht,+mit+dem+erkornen+rauche%5D",
+   "depth": 3,
+   "title": "I [Die kohle glüht, mit dem erkornen rauche]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>I</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"26\">[26]</a> Die kohle glüht · mit dem erkornen rauche</p>\r\n <p>Beträufle sie! der guss verfliegt und zischt.</p>\r\n <p>Dass er uns in die dichten wolken tauche</p>\r\n <p>Wo frommer wunsch mit süsser gier sich mischt!</p>\r\n<br/>\r\n <p>Lass auf dem lüster viele kerzen flammen</p>\r\n <p>Mit schwerem qualme wie in heilgem dom ·</p>\r\n <p>Die hände legen schweigsam wir zusammen</p>\r\n <p>Zu träumen einen melodienstrom!</p>\r\n<br/>\r\n <p>Kein zarter anhauch! nein in jenen chören</p>\r\n <p>Wird jungfräulicher flaum den einklang stören</p>\r\n <p>Wie künsten &#8211; aber falsch &#8211; ergeben haar.</p>\r\n<br/>\r\n <p>Wirf neue körner auf die opferschale!</p>\r\n <p>Dass blonder wirbel unsern sinnen male</p>\r\n <p>Die Wissensvolle müd und wunderbar.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Neul%C3%A4ndische+Liebesmahle/II+%5BDen+blauen+atlas+in+dem+lagerzelt%5D",
+   "depth": 3,
+   "title": "II [Den blauen atlas in dem lagerzelt]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> II</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"26\">[26]</a> Den blauen atlas in dem lagerzelt</p>\r\n <p>Bedecken goldne mond- und sternenzüge ·</p>\r\n <p>Auf einen sockel sind am saum gestellt</p>\r\n <p>Die malachit- und alabasterkrüge.</p>\r\n<br/>\r\n <p>Drei ketten eine kupferampel halten</p>\r\n <p>Die unsrer stirnen falben schein verhehlt ·</p>\r\n <p>Uns hüllen eines weiten burnus falten</p>\r\n <p>Und &#8211; dass uns nicht ein myrtenbüschel fehlt!</p>\r\n<br/>\r\n <p>Bald hören wir des tranks orakellaut</p>\r\n <p>Auf teppichen aus weichem haar gesponnen.</p>\r\n <p>Der knabe wohl mit jedem wink vertraut</p>\r\n<br/>\r\n <p>Verbeugt sich würdig vor dem hospodar ..</p>\r\n <p>Mir dämmert wie in einem zauberbronnen</p>\r\n <p>Die frühe zeit wo ich noch könig war.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Verwandlungen",
+   "depth": 2,
+   "title": "Verwandlungen",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> VERWANDLUNGEN</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"27\">[27]</a> Abendlich auf schattenbegleiteten wegen</p>\r\n <p>Über brücken den türmen und mauern entgegen</p>\r\n <p>Wenn leise klänge sich regen:</p>\r\n<br/>\r\n <p>Auf einem goldenen wagen</p>\r\n <p>Wo perlgraue flügel dich tragen</p>\r\n <p>Und lindenbüsche dich fächeln</p>\r\n <p>Herniedertauche</p>\r\n <p>Mit mildem lächeln</p>\r\n <p>Und linderndem hauche!<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"28\">[28]</a> </p><br/> <p>Unter den masten auf rüstig furchendem kiele</p>\r\n <p>Über der wasser und strahlen schimmerndem spiele</p>\r\n <p>In glücklicher ferne vom ziele:</p>\r\n<br/>\r\n <p>Auf einem silbernen wagen</p>\r\n <p>Wo lichtgrüne spiegel dich tragen</p>\r\n <p>Und schaumgewinde dich fächeln</p>\r\n <p>Herniedertauche</p>\r\n <p>Mit frohem lächeln</p>\r\n <p>Und kosendem hauche!</p>\r\n<br/>\r\n <p>Lang ist nach jauchzendem tode die sonne verschollen ·</p>\r\n <p>Mit den planken die brausenden wogen grollen</p>\r\n <p>Und dumpfe gewitter rollen:</p>\r\n<br/>\r\n <p>Auf einem stählernen wagen</p>\r\n <p>Wo lavaschollen dich tragen</p>\r\n <p>Und grell lohe wolken dich fächeln</p>\r\n <p>Herniedertauche</p>\r\n <p>Mit wildem lächeln</p>\r\n <p>Und sengendem hauche!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Ein+Hingang",
+   "depth": 2,
+   "title": "Ein Hingang",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> EIN HINGANG</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"29\">[29]</a> Die grauen buchen sich die hände reichen</p>\r\n <p>Den strand entlang · vom wellendrang beleckt</p>\r\n <p>Dem gelben saatfeld grüne wiesen weichen ·</p>\r\n <p>Das landhaus unter gärten sich verdeckt.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"30\">[30]</a> </p><br/> <p>Den jungen dulder vor der windenlaube</p>\r\n <p>Woltätig milde strahlenhand bestreift ·</p>\r\n <p>An neues lied noch dämmert ihm ein glaube ·</p>\r\n <p>Sein blick ins blaue grenzenlose schweift</p>\r\n<br/>\r\n <p>Wo schiffe gleiten mit erhobnen schilden ·</p>\r\n <p>Wo andre schlafen wehrlos · froh der bucht ·</p>\r\n <p>Und weit wo wolken lichte berge bilden</p>\r\n <p>Er seiner wünsche wunderlande sucht ..</p>\r\n<br/>\r\n <p>Der lieben auge starr in tränen schaut:</p>\r\n <p>Schon nahm er scheu das göttliche geschenk</p>\r\n <p>Von leiser trennungswehmut nur betaut ·</p>\r\n <p>Der klage bar · des ruhmes ungedenk.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Nachthymne",
+   "depth": 2,
+   "title": "Nachthymne",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> NACHTHYMNE</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"31\">[31]</a> Dein auge blau · ein türkis · leuchtet lange</p>\r\n <p>Zu reich dem Einen · ich verharre bange.</p>\r\n <p>Den kiesel tröstet deines kleides saum.</p>\r\n <p>Kaum tröstet mich ein traum.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"32\">[32]</a> </p><br/> <p>Die alten götter waren nicht so strenge.</p>\r\n <p>Wenn aus der schönen mutberauschten menge</p>\r\n <p>Ein jüngling angeglüht von frommem feuer</p>\r\n <p>Zu ihrem lobe liess des lichtes pfade:</p>\r\n <p>So war das reine opfer ihnen teuer</p>\r\n <p>So lächelten und winkten sie mit gnade.</p>\r\n<br/>\r\n <p>Bin ich so ferne schon von opferjahren?</p>\r\n <p>Entweiht mich süsses lüsten nach dem tode</p>\r\n <p>Und sang ich nicht zu dröhnenden fanfaren</p>\r\n <p>Der freudenliebe sonnen-ode?</p>\r\n<br/>\r\n <p>Geruhe du nur dass ein kurzer schimmer</p>\r\n <p>Aus deiner wimper brechend mich versehre:</p>\r\n <p>Des glückes hoffnung misst ich gern für immer ·</p>\r\n <p>Nach deinem preise schlöss ich meinen psalter</p>\r\n <p>Und spottete dem schatten einer ehre</p>\r\n <p>Und stürbe wertlos wie ein abendfalter.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Strand",
+   "depth": 2,
+   "title": "Strand",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> STRAND</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"33\">[33]</a> O lenken wir hinweg von wellenauen!</p>\r\n <p>Die · wenn auch wild im wollen und mit düsterm rollen</p>\r\n <p>Nur dulden scheuer möwen schwingenschlag</p>\r\n <p>Und stet des keuschen himmels farben schauen.</p>\r\n <p>Wir heuchelten zu lang schon vor dem tag.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"34\">[34]</a> </p><br/> <p>Zu weihern grün mit moor und blumenspuren</p>\r\n <p>Wo gras und laub und ranken wirr und üppig schwanken</p>\r\n <p>Und ewger abend einen altar weiht!</p>\r\n <p>Die schwäne die da aus der buchtung fuhren ·</p>\r\n <p>Geheimnisreich · sind unser brautgeleit.</p>\r\n<br/>\r\n <p>Die lust entführt uns aus dem fahlen norden:</p>\r\n <p>Wo deine lippen glühen fremde kelche blühen &#8211;</p>\r\n <p>Und fliesst dein leib dahin wie blütenschnee</p>\r\n <p>Dann rauschen alle stauden in akkorden</p>\r\n <p>Und werden lorbeer tee und aloe.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Hochsommer",
+   "depth": 2,
+   "title": "Hochsommer",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> HOCHSOMMER</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"35\">[35]</a> Ton verklang auf den altanen ·</p>\r\n <p>Aus den gärten klänge tönen ·</p>\r\n <p>Unter prangenden platanen</p>\r\n <p>Wiegen sich die stolzen Schönen ·</p>\r\n <p>Keck in eleganten zieren</p>\r\n <p>Sie am arm den kavalieren</p>\r\n <p>Milder lauschen und mit süssen</p>\r\n <p>Winken grüssen.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"36\">[36]</a> </p><br/> <p>Ja die reifen die sich rühmen</p>\r\n <p>Feiner kinder flink im spiel</p>\r\n <p>Huldigen dem leichten stil ·</p>\r\n <p>Auf den lippen eitle fragen ·</p>\r\n <p>Von verlockenden parfümen</p>\r\n <p>Hingetragen.</p>\r\n<br/>\r\n <p>Pauken schweigen · sachte geigen.</p>\r\n <p>Ferner tritt · es nahen reiter ·</p>\r\n <p>Leises traben · langsam weiter ..</p>\r\n <p>Zwanglos darf ein flüchtig raunen</p>\r\n <p>Sie bestaunen.</p>\r\n<br/>\r\n <p>Fröhliche galante leere</p>\r\n <p>Feindlich trübem tatenmeere ·</p>\r\n <p>Weise schlaffheit nur im bade</p>\r\n <p>Wahre gnade.</p>\r\n<br/>\r\n <p>Auf dem wasser ruderklirren ·</p>\r\n <p>Gondel die vorüberfuhr ·</p>\r\n <p>Sanfte takte sanftem kirren</p>\r\n <p>Sich vereinen einer kleinen</p>\r\n <p>Pompadur.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/R%C3%BCckblick",
+   "depth": 2,
+   "title": "Rückblick",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> RÜCKBLICK</h5>\r\n\r\n<p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"37\">[37]</a> Noch einmal ahn ich hinterm vorhang &#8211; nachtgewirkte nebelfahne &#8211;</p>\r\n<p>Und den platanenästen &#8211; seltsam ins geweb geprägte plane &#8211;<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"38\">[38]</a> </p><br/> <p>Das ziel vor kurzer zeit treu meinem zepter · nun schon zauber-au ·</p>\r\n<p>Die Tyrus teich und gartenreich getaucht in teer und blumentau.</p>\r\n<br/>\r\n<p>Wo an der küste buchenkronen dorf und kecke villa trennen</p>\r\n<p>Und surrend leichter rehe rudel durch die waldeslichtung rennen.</p>\r\n<br/>\r\n<p>O schiffe · stolzer schwäne schaugepräng das farben mir bescherte ·</p>\r\n<p>O meer das mütterlich an meine lieder mir den glauben mehrte.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Auf+der+Terrasse",
+   "depth": 2,
+   "title": "Auf der Terrasse",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> AUF DER TERRASSE</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"39\">[39]</a> Die hügel vor die breite brüstung schütten</p>\r\n <p>Den glatten guss von himmelgrünem glase ·</p>\r\n <p>Die wirren wipfel und des glückes hütten.</p>\r\n <p>Der göttin schatten rastet auf der vase.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"40\">[40]</a> </p><br/> <p>Entgegen eil ich einem heissen rade.</p>\r\n <p>Ein blitz: für uns ein zug von wunderstaben</p>\r\n <p>Sogleich ergriffen durch erhöhte gnade ·</p>\r\n <p>Dann aber ach in stete nacht begraben ..</p>\r\n<br/>\r\n <p>Ich suche wieder die verwischten gleise.</p>\r\n <p>Der göttin schatten rastet auf der vase.</p>\r\n <p>O wärest wirklich du so gross und weise?</p>\r\n <p>Ich quäle mich in törichter ekstase.</p>\r\n<br/>\r\n <p>Triumph! du bist es · aus dem abendrote</p>\r\n <p>Getauschter blicke las ich meine trauer ·</p>\r\n <p>Doch treu bekennend kamst du selber bote</p>\r\n <p>Und stolz war unsres bundes kleine dauer.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Gespr%C3%A4ch",
+   "depth": 2,
+   "title": "Gespräch",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> GESPRÄCH</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"41\">[41]</a> Nie sei mir freude an den kalten ehren:</p>\r\n <p>Wenn königlich du deinen leib verbietest</p>\r\n <p>Den niedren mägden die ihn dreist ergehren</p>\r\n <p>Und deren du mit seufzen nur entrietest.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"42\">[42]</a> </p><br/> <p>Vergebens musst du ja die hände ringen</p>\r\n <p>Nach einem labetrunk aus hoher sfäre ·</p>\r\n <p>O dass um selber ihn herabzubringen</p>\r\n <p>Dass einer mutter ich geboren wäre!</p>\r\n<br/>\r\n <p>Herr oder flehend mögest du mich laden ·</p>\r\n <p>Es sollte mir kein doppel-rot entquillen ·</p>\r\n <p>Ich würde dich in seidenwellen baden</p>\r\n <p>Auf schwerem purpur freudig dir zu willen.</p>\r\n<br/>\r\n <p>Doch so kann ich mit schattenkuss nur trösten</p>\r\n <p>Ich leichter wolke kind und lichter plane:</p>\r\n <p>Im chaos fragen · jubeln dem Erlösten</p>\r\n <p>Und dulden wie ich deine duldung ahne.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Bilder",
+   "depth": 2,
+   "title": "Bilder",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>BILDER</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Bilder/Der+Infant",
+   "depth": 3,
+   "title": "Der Infant",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>DER INFANT</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"46\">[46]</a> Bei schild und degen unter fahlem friese</p>\r\n <p>Mit weissem antlitz lächelt der infant</p>\r\n <p>In dunklem goldumgürtetem oval.</p>\r\n <p>Nicht lang im damals unberührten saal</p>\r\n <p>Ein zwillingsbruder: kühle bergesbrise</p>\r\n <p>Sie war ein allzu rauher spieltrabant.</p>\r\n<br/>\r\n <p>Doch wird er selber nimmermehr bedauern</p>\r\n <p>Dass er zum finstern mann nicht aufgeschossen</p>\r\n <p>Wie der und jener an den nachbarmauern ·</p>\r\n <p>Denn seligkeiten wurden ihm beschlossen:</p>\r\n<br/>\r\n <p>Wenn vor dem mond die glasgranaten blühn</p>\r\n <p>Dass eine lichte elfenmaid ihn hole ·</p>\r\n <p>Er folgen dürfe oft in flug und fall</p>\r\n <p>Mit ihr dem treubewahrten seidenball</p>\r\n <p>Der rosenfarben und olivengrün</p>\r\n <p>Noch schimmert auf der eichenen konsole.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Bilder/Ein+Angelico",
+   "depth": 3,
+   "title": "Ein Angelico",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> EIN ANGELICO</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"46\">[46]</a> Auf zierliche kapitel der legende</p>\r\n <p>&#8211; Den erdenstreit bewacht von ewgem rat ·</p>\r\n <p>Des strengen ahnen wirkungsvolle sende &#8211;</p>\r\n <p>Errichtet er die glorreich grosse tat:</p>\r\n<br/>\r\n <p>Er nahm das gold von heiligen pokalen ·</p>\r\n <p>Zu hellem haar das reife weizenstroh ·</p>\r\n <p>Das rosa kindern die mit schiefer malen ·</p>\r\n <p>Der wäscherin am bach den indigo.</p>\r\n<br/>\r\n <p>Der herr im glanze reinen königtumes</p>\r\n <p>Zur seite sanfte sänger seines ruhmes</p>\r\n <p>Und sieger der Chariten und Medusen.</p>\r\n<br/>\r\n <p>Die braut mit immerstillem kindesbusen</p>\r\n <p>Voll demut aber froh mit ihrem lohne</p>\r\n <p>Empfängt aus seiner hand die erste krone.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Hymnen/Die+G%C3%A4rten+schliessen",
+   "depth": 2,
+   "title": "Die Gärten schliessen",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> DIE GÄRTEN SCHLIESSEN</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"47\">[47]</a> Frühe nacht verwirrt die ebnen bahnen ·</p>\r\n <p>Kalte traufe trübt die weiher ·</p>\r\n <p>Glückliche Apolle und Dianen</p>\r\n <p>Hüllen sich in nebelschleier.</p>\r\n<br/>\r\n <p>Graue blätter wirbeln nach den gruften.</p>\r\n <p>Dahlien levkojen rosen</p>\r\n <p>In erzwungenem orchester duften ·</p>\r\n <p>Wollen schlaf bei weichen moosen.</p>\r\n<br/>\r\n <p>Heisse monde flohen aus der pforte.</p>\r\n <p>Ward dein hoffen deine habe?</p>\r\n <p>Baust du immer noch auf ihre worte</p>\r\n <p>Pilger mit der hand am stabe?<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"48\">[48]</a> </p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten",
+   "depth": 1,
+   "title": "Pilgerfahrten",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h4>PILGERFAHRTEN</h4>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Aufschrift",
+   "depth": 2,
+   "title": "Aufschrift",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>AUFSCHRIFT</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"52\">[52]</a> Also Brach ich auf</p>\r\n <p>Und ein Fremdling ward ich</p>\r\n <p>Und ich suchte einen</p>\r\n <p>Der mit mir trauerte</p>\r\n <p>Und keiner War.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Widmung",
+   "depth": 2,
+   "title": "Widmung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>Widmung</h5><p class=\"zenoPC\"><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"52\">[52]</a>  Dem Dichter</p>\r\n<p class=\"zenoPC\">Hugo von Hofmannsthal</p>\r\n<p class=\"zenoPC\">im Gedenken</p>\r\n<p class=\"zenoPC\">an die Tage schöner Begeisterung</p>\r\n<br/>\r\n<p class=\"zenoPC\">Wien</p>\r\n<p class=\"zenoPC\">MDCCCXCI</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Siedlergang",
+   "depth": 2,
+   "title": "Siedlergang",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> SIEDLERGANG</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"53\">[53]</a> So hat ihn nicht ein strahlenpfeil betrogen:</p>\r\n <p>Die mit der geissel eng aus eis geflochten</p>\r\n <p>Von jedem pfad zu bannen ihn vermochten</p>\r\n <p>Die winde lau nun um die stirn ihm bogen.</p>\r\n<br/>\r\n <p>»Du klause manche stunden sei gemieden.</p>\r\n <p>In deinen schachten lohnest du mich nimmer</p>\r\n <p>Wie blau und rot auf weisser saat ein schimmer.</p>\r\n <p>O wie mein sinn entschläft in ihrem frieden«<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"54\">[54]</a> </p><br/> <p>Ihn wirren leis die bunten sonnenmale ·</p>\r\n <p>Den hellen bäumen folgt er ohne wende</p>\r\n <p>Und ohne wissen um ein strenges ende.</p>\r\n <p>Da stand er wieder in dem alten tale.</p>\r\n<br/>\r\n <p>»Da tanzen sie mit grellen purpurschleifen.</p>\r\n <p>Ein fuss im rain! und schwer ist nur das wählen ·</p>\r\n <p>Den kalten zunder brachten sie zum schwälen ·</p>\r\n <p>Ich hasse sie und brenne sie zu greifen.</p>\r\n<br/>\r\n <p>Was aber schau ich nach des hügels kimme!</p>\r\n <p>Der treppenbogen mit den lichtgestalten</p>\r\n <p>Die edlen schrittes nicht im wege halten.</p>\r\n <p>Vor ihrer keine dränge meine stimme.</p>\r\n<br/>\r\n <p>Ich formte früher (emsig lief die rache)</p>\r\n <p>Nach meinem hange wuchs und aug und lippe ·</p>\r\n <p>Im hohne rief ich unter froher sippe:</p>\r\n <p>Ist alle schöne so gering? ich lache.</p>\r\n<br/>\r\n <p>Nun gehrt mein gram nach jeder bleichen miene ·</p>\r\n <p>Um eine braue steh ich nun geblendet ·</p>\r\n <p>Um eine wimper ist mein geist gewendet ·</p>\r\n <p>Um einen arm im schmuck der turmaline«<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"55\">[55]</a> </p><br/> <p>Wie wird er heut des leides ort verlassen</p>\r\n <p>Sobald die ätherblumen sich betauen?</p>\r\n <p>Verschlungen in den tanz der roten frauen</p>\r\n <p>Mit unbedacht in lautem jubel prassen?</p>\r\n<br/>\r\n <p>Will er noch einmal missend ihre gabe</p>\r\n <p>Zurück wovon er sich am tage trennte:</p>\r\n <p>Ins leben seiner treuen pergamente</p>\r\n <p>Bis auf dem stillen lager traum ihn labe?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BM%C3%BChle+lass+die+arme+still%5D",
+   "depth": 2,
+   "title": "[Mühle lass die arme still]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Mühle lass die arme still]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"56\">[56]</a> Mühle lass die arme still</p>\r\n <p>Da die haide ruhen will.</p>\r\n <p>Teiche auf den tauwind harren ·</p>\r\n <p>Ihrer pflegen lichte lanzen</p>\r\n <p>Und die kleinen bäume starren</p>\r\n <p>Wie getünchte ginsterpflanzen.</p>\r\n<br/>\r\n <p>Weisse kinder schleifen leis</p>\r\n <p>Überm see auf blindem eis</p>\r\n <p>Nach dem segentag · sie kehren</p>\r\n <p>Heim zum dorf in stillgebeten ·</p>\r\n <p>DIE beim fernen gott der lehren ·</p>\r\n <p>DIE schon bei dem naherflehten.</p>\r\n<br/>\r\n <p>Kam ein pfiff am grund entlang?</p>\r\n <p>Alle lampen flackern bang.</p>\r\n <p>War es nicht als ob es riefe?</p>\r\n <p>Es empfingen ihre bräute</p>\r\n <p>Schwarze knaben aus der tiefe ..</p>\r\n <p>Glocke läute glocke läute!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BLauschest+du+des+feuers+gesange%5D",
+   "depth": 2,
+   "title": "[Lauschest du des feuers gesange]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Lauschest du des feuers gesange]</h5> <p>Lauschest du des feuers gesange:</p>\r\n <p>Lagert sich neben dein knie meine wange ·</p>\r\n <p>Mit zagen geniesst sie dein zartes warm ·</p>\r\n<br/>\r\n <p>Ihre kühne flammende röte</p>\r\n <p>Fürderhin mir deine nähe verböte ·</p>\r\n <p>Ich bin in dem himmel ein sklav dem harm.</p>\r\n<br/>\r\n <p>Legst in mitleid du mir die haare:</p>\r\n <p>Einzige lohnung! und oft noch in fahre</p>\r\n <p>Verharr ich vor deinem erhabnen stolz?</p>\r\n<br/>\r\n <p>Frommen gleich die trotz ihrem grauen</p>\r\n <p>Wieder und wieder beim angelus schauen</p>\r\n <p>Zu einer madonna von ebenholz.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BLass+deine+tr%C3%A4nen%5D",
+   "depth": 2,
+   "title": "[Lass deine tränen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Lass deine tränen]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"59\">[59]</a> Lass deine tränen</p>\r\n <p>Um ein weib ·</p>\r\n <p>Falsch ist dein wähnen ·</p>\r\n <p>Ruh und bleib!</p>\r\n<br/>\r\n <p>Merk ob am boden</p>\r\n <p>Schnee schon taut ·</p>\r\n <p>Wärmender odem</p>\r\n <p>Beete baut!</p>\r\n<br/>\r\n <p>Vor seine feier</p>\r\n <p>Juni schliesst</p>\r\n <p>Ob ohne schleier</p>\r\n <p>Du sie siehst?</p>\r\n<br/>\r\n <p>Lass deine tränen</p>\r\n <p>Um ein weib ·</p>\r\n <p>Falsch ist dein wähnen</p>\r\n <p>Ruh und bleib!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BDie+jugend%5D",
+   "depth": 2,
+   "title": "[Die jugend]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Die jugend]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"60\">[60]</a> Die jugend</p>\r\n <p>(So bedäucht es dich)</p>\r\n <p>Heischet ein heisses band ·</p>\r\n <p>Doch tag um tag verblich</p>\r\n <p>Wo ich gelassen bei dir ging und stand.</p>\r\n<br/>\r\n <p>Du sprachest!</p>\r\n <p>Ich erschrecke fast ·</p>\r\n <p>Wie! &#8211; kann entfachen</p>\r\n <p>So viele glut und hast</p>\r\n <p>Der leere sang · das kindesfrohe lachen!</p>\r\n<br/>\r\n <p>Und danach</p>\r\n <p>(Glaube mir ich litt)</p>\r\n <p>Sanft noch dein finger wob ·</p>\r\n <p>Dein fuss so sanft noch schritt ·</p>\r\n <p>Erst der verschmähten ward mein volles lob.</p>\r\n<br/>\r\n <p>O schwester!</p>\r\n <p>Dir missfällt der ruf?</p>\r\n <p>Sei wenn ich scheide</p>\r\n <p>Auf nie gewandtem huf</p>\r\n <p>Das rätsel ein verlöbnis für uns beide.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BIn+alte+lande+laden+bogenhallen%5D",
+   "depth": 2,
+   "title": "[In alte lande laden bogenhallen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[In alte lande laden bogenhallen]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"61\">[61]</a> In alte lande laden bogenhallen</p>\r\n <p>Schlanke kolonne</p>\r\n <p>Und licht in dem getragne strofen schallen ·</p>\r\n <p>Dort sog ich sonne</p>\r\n <p>Nach einer flucht aus feuchter drachen krallen.</p>\r\n<br/>\r\n <p>Am rand der gärten riss mich eine nadel ·</p>\r\n <p>Teerose · gelbe rose!</p>\r\n <p>Mit sattem schmelz und ohne weissen tadel ·</p>\r\n <p>Mächtige mildelose ·</p>\r\n <p>Schon tropfen tau beklömmen ihren adel.</p>\r\n<br/>\r\n <p>Zu früh noch .. will ich mich am wolgeruche</p>\r\n <p>Erster veilchen beleben:</p>\r\n <p>In heissen häusern ich sie spärlich suche ·</p>\r\n <p>IHR in die nähe zu schweben</p>\r\n <p>Erlös ich freunden duft aus meinem tuche.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Gesichte",
+   "depth": 2,
+   "title": "Gesichte",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> GESICHTE</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Gesichte/I+%5BWenn+aus+der+gondel+sie+zur+treppe+stieg%5D",
+   "depth": 3,
+   "title": "I [Wenn aus der gondel sie zur treppe stieg]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>I</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"64\">[64]</a> Wenn aus der gondel sie zur treppe stieg</p>\r\n <p>So liess sie lässig die gewande wallen</p>\r\n <p>Und wie nach grollend anerkanntem sieg</p>\r\n <p>Des greisen Edlen stütze sich gefallen.</p>\r\n<br/>\r\n <p>Kein sanfter ton verfing in ihrem ohr ·</p>\r\n <p>Bei festen sass sie eisig in den sälen ·</p>\r\n <p>Nur an den decken brauner engel chor</p>\r\n <p>Verstand es ihr von freuden zu erzählen.</p>\r\n<br/>\r\n <p>In schweren sammet hat sie sich gebauscht ·</p>\r\n <p>Den ersten hub aus unerhörten frachten</p>\r\n <p>Und an dem reichen öle sich berauscht</p>\r\n <p>Das neulings ihr die Inderschiffe brachten.</p>\r\n<br/>\r\n <p>Nun hat sie in verhangenem gemach</p>\r\n <p>Zu einem ruhmeslosen fant gesprochen:</p>\r\n <p>Vermelde man am markte meine schmach ·</p>\r\n <p>Ich liege vor dir niedrig und gebrochen.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Gesichte/II+%5BIch+darf+so+lange+nicht+am+tore+lehnen%5D",
+   "depth": 3,
+   "title": "II [Ich darf so lange nicht am tore lehnen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> II</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"64\">[64]</a> Ich darf so lange nicht am tore lehnen ·</p>\r\n <p>Zum garten durch das gitter schaun ·</p>\r\n <p>Ich höre einer flöte fernes sehnen ·</p>\r\n <p>Im schwarzen lorbeer lacht ein faun.</p>\r\n<br/>\r\n <p>So oft ich dir am roten turm begegne</p>\r\n <p>Du lohnest nie mich mit gelindrem tritt ·</p>\r\n <p>Du weisst nicht wie ich diese stunde segne</p>\r\n <p>Und traurig bin da sie entglitt.</p>\r\n<br/>\r\n <p>Ich leugne was ich selber mir verheissen ..</p>\r\n <p>Auch wir besitzen einen alten ruhm ·</p>\r\n <p>Kann ich mein tuch von haar und busen reissen</p>\r\n <p>Und büssen mit verfrühtem witwentum?</p>\r\n<br/>\r\n <p>O mög er ahnen meiner lippe gaben</p>\r\n <p>&#8211; Ich ahnte sie seit er als traum erschien &#8211;</p>\r\n <p>Die oleander die in duft begraben</p>\r\n <p>Und andre leise schmeichelnd wie schasmin.</p>\r\n<br/>\r\n <p>Ich darf so lange nicht am tore lehnen ·</p>\r\n <p>Zum garten durch das gitter schaun ·</p>\r\n <p>Ich höre einer flöte fernes sehnen ·</p>\r\n <p>Im schwarzen lorbeer lacht ein faun.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Mahnung",
+   "depth": 2,
+   "title": "Mahnung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> MAHNUNG</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"65\">[65]</a> Du folgst der horde die dich tosend lud</p>\r\n <p>Zum thron aus grellem gelbem seidenstoff</p>\r\n <p>Und rohem gold das oft von blute troff</p>\r\n <p>Inmitten trümmersee und flammensud.</p>\r\n<br/>\r\n <p>Nun weihe jede lust und jeden mord!</p>\r\n <p>Dein wille rasend wie der gischt am fels</p>\r\n <p>Erfreut sich am verheererischen nord</p>\r\n <p>Und spottet klarer luft und klaren quells.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"66\">[66]</a> </p><br/> <p>Vor deinen schuhen stammelt man den eid ·</p>\r\n <p>Entführte weiber weinen ihren gram</p>\r\n <p>Und eine · wirr im schrecken · ohne scham</p>\r\n <p>Zerreisst vor deinem herrenblick ihr kleid.</p>\r\n<br/>\r\n <p>Wie feile kiese bieten sich dir dar</p>\r\n <p>Koralle perle demant und smaragd ·</p>\r\n <p>Die priesterin in züchtigem talar</p>\r\n <p>Verneigt sich grüssend: siehe deine magd.</p>\r\n<br/>\r\n <p>Und einsam gibst du dir ein wildes spiel:</p>\r\n <p>Wann sich dein haar in niedrer lache nässt ·</p>\r\n <p>Dein stolz mit wonne in die furchen fiel</p>\r\n <p>Die der gemeinen tiere klaue lässt ..</p>\r\n<br/>\r\n <p>War so denn wirklich dein erstritten land?</p>\r\n <p>O überhöre jenen lockungschrei</p>\r\n <p>Und sag nicht dass dein leid dein führer sei</p>\r\n <p>Und wechsel nicht ein würdiges gewand.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BDie+m%C3%A4rkte+sind+%C3%B6der+und+saiten+und+singende+schweigen%5D",
+   "depth": 2,
+   "title": "[Die märkte sind öder und saiten und singende schweigen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Die märkte sind öder und saiten und singende schweigen]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"67\">[67]</a> Die märkte sind öder und saiten und singende schweigen.</p>\r\n <p>Wie hab ich heiss gespäht</p>\r\n<p>In kirchen palästen bei festlichem spiel oder reigen</p>\r\n <p>Und tränen ausgesät</p>\r\n <p>Da sie mir stets entfloh!</p>\r\n<p>Auch hier nicht! und doch ich kann mich genau noch entsinnen:</p>\r\n<p>Wie winkten mir schon auf der wandrung so lang diese zinnen</p>\r\n <p>Und so verheissungsfroh!</p>\r\n<br/>\r\n<p>Ich muss aus der stätte wo keinerlei gnaden mir warden</p>\r\n <p>Durch wüsten weiterfliehn ·</p>\r\n<p>Hinan und hinunter verletzen mich härene karden</p>\r\n<p>Und schwellende blätter wie schlangen am boden ziehn.</p>\r\n<br/>\r\n <p>An dieser höhe saum</p>\r\n<p>Entdeck ich auf ihrem haupt eine grünende insel ·</p>\r\n <p>Da steht ein thujabaum ·</p>\r\n <p>Gebüsche ranken am rande ·</p>\r\n<p>Von droben wie aus der kindlichen meister pinsel</p>\r\n<p>Erstrecken sich türme und brücken und städte und lande ·</p>\r\n <p>Wie manches neue ziel!</p>\r\n<p>Der abend in ockerfarbenem leuchten verfloss ·</p>\r\n<p>Der kelch einer zeitlose duftete vor er sich schloss</p>\r\n <p>Und weisses manna fiel.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BM%C3%A4chtiger+traum+dem+ich+zugetraut%5D",
+   "depth": 2,
+   "title": "[Mächtiger traum dem ich zugetraut]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Mächtiger traum dem ich zugetraut]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"68\">[68]</a> Mächtiger traum dem ich zugetraut</p>\r\n <p>Dass seine töchter zu treuen gespielen</p>\r\n <p>Mehr denn der irdischen eine gefielen:</p>\r\n<br/>\r\n <p>Lange hab ich ihnen zugeschaut.</p>\r\n<br/>\r\n <p>Nächtig verlockende gleissende pfauen ·</p>\r\n <p>Spender von gierig erwartetem grauen ·</p>\r\n <p>Morgens lerchen mit heftigem schlag</p>\r\n<br/>\r\n <p>Aber würdig wie der klare tag ·</p>\r\n<br/>\r\n <p>Läg im vergnügen an fasslichen tönen</p>\r\n <p>Die mir seit monden im munde dröhnen</p>\r\n <p>Zu neuer erscheinung ein keim?</p>\r\n<br/>\r\n <p>Kehr ich nun zu wahren auen heim?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BSchweige+die+klage%5D",
+   "depth": 2,
+   "title": "[Schweige die klage]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Schweige die klage]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"69\">[69]</a> Schweige die klage!</p>\r\n <p>Was auch der neid</p>\r\n <p>Zu den gütern beschied.</p>\r\n <p>Suche und trage</p>\r\n <p>Und über das leid</p>\r\n <p>Siege das lied!</p>\r\n<br/>\r\n <p>So will es die lehre.</p>\r\n <p>Er tat es in ehre</p>\r\n <p>Schon wieder ein jahr.</p>\r\n <p>Der ost wie der süd</p>\r\n <p>Ein täuscher ihm war</p>\r\n <p>Und nun ist er müd.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"70\">[70]</a> </p><br/> <p>Am fuss einer eiche</p>\r\n <p>Da schuf er ein grab</p>\r\n <p>Für mantel und stab ·</p>\r\n <p>Sie wurden zur leiche:</p>\r\n <p>Nun rüst ich zur fahrt</p>\r\n <p>Von fröhlicher art.</p>\r\n<br/>\r\n <p>Dann brach der damm</p>\r\n <p>Verhaltenen quellen ·</p>\r\n <p>Sein auge ward feucht</p>\r\n <p>Er stöhnte .. mir deucht</p>\r\n <p>Ich soll auch am stamm</p>\r\n <p>Meine leier zerschellen.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BLass+der+trauer+kleid+und+miene%5D",
+   "depth": 2,
+   "title": "[Lass der trauer kleid und miene]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Lass der trauer kleid und miene]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"71\">[71]</a> Lass der trauer kleid und miene</p>\r\n <p>Wenn ich neuen trost auch meide:</p>\r\n <p>So versankest du im leide</p>\r\n <p>Dass er halb ein hohn erschiene.</p>\r\n<br/>\r\n <p>Aber mit dem grimme ringen</p>\r\n <p>Wann die menschen froh sich einen</p>\r\n <p>Dient es? wann die bronnen springen</p>\r\n <p>Ewig mit dem mond zu weinen?</p>\r\n<br/>\r\n <p>Ob ein sturm auch eben tose</p>\r\n <p>Und ein lied vom winter pfeife:</p>\r\n <p>Sieh es keimt noch manche rose</p>\r\n <p>Noch bedarf das korn der reife.</p>\r\n<br/>\r\n <p>Spenden nicht die kühlen finger</p>\r\n <p>Leise lust mit ihrem froste?..</p>\r\n <p>Sei verjährter fahrten singer</p>\r\n <p>Dass der klangdraht uns nicht roste!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BIhr+alten+bilder+schlummert+mit+den+toten%5D",
+   "depth": 2,
+   "title": "[Ihr alten bilder schlummert mit den toten]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Ihr alten bilder schlummert mit den toten]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"72\">[72]</a> Ihr alten bilder schlummert mit den toten ·</p>\r\n <p>Euch zu erwecken mangelt mir die macht ·</p>\r\n <p>Die wahren auen wurden mir verboten ·</p>\r\n <p>Nun kost ich an verderbnisvoller pracht.</p>\r\n<br/>\r\n <p>Getroffen von berauschenden gerüchten</p>\r\n <p>Erblick ich in dem blauen wiesental</p>\r\n <p>Die reiher weiss und rosafarben flüchten</p>\r\n <p>Zum nahen see der schläft und glänzt wie stahl.</p>\r\n<br/>\r\n <p>Da schritt sie wie im ebenmass der klänge ·</p>\r\n <p>Ihr hochgestreckter finger hielt und hob</p>\r\n <p>Der bergenden gewänder seidenstränge</p>\r\n <p>Die sie bei nacht aus weidenflocken wob.</p>\r\n<br/>\r\n <p>O weises spiel durch diese hüllen ahnen!</p>\r\n <p>In meinen sinnen blieben wir ein paar</p>\r\n <p>Bevor sie hinter blumigen lianen</p>\r\n <p>Zum nahen see hinabgeglitten war.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Neuer+Ausfahrtsegen",
+   "depth": 2,
+   "title": "Neuer Ausfahrtsegen",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> NEUER AUSFAHRTSEGEN</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"73\">[73]</a> Als noch verheissung mich ins ferne schickte ·</p>\r\n <p>In lichten schlafen ich die braut ersann ·</p>\r\n <p>Da tatest du mich einen tag in bann</p>\r\n <p>An dem ich dich als ihren boten blickte.</p>\r\n<br/>\r\n <p>Da langsam heisse gier nach ihr erstickte ·</p>\r\n <p>Ich in entsagung frieden fast gewann ·</p>\r\n <p>Sprich ob es gute fügung heissen kann</p>\r\n <p>Wenn nochmal mir dein auge nieder nickte ..</p>\r\n<br/>\r\n <p>Ich schreite durch den dom zum mittelthron ·</p>\r\n <p>Auf goldnen füssen qualmen harz und santel ·</p>\r\n <p>Mein sang ist schallend wie zu orgelton ·</p>\r\n<br/>\r\n <p>Zur salbung fliess · mein eigen siedend blut!</p>\r\n <p>Wo find ich wieder meinen pilgermantel?</p>\r\n <p>Wo find ich wieder meinen pilgerhut?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BDass+er+auf+fernem+felsenpfade%5D",
+   "depth": 2,
+   "title": "[Dass er auf fernem felsenpfade]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Dass er auf fernem felsenpfade]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"74\">[74]</a> Dass er auf fernem felsenpfade</p>\r\n <p>Sich einsam in dem lichte bade ·</p>\r\n <p>Dass er dem laub dem wasser lausche</p>\r\n <p>Und dass der klage klang verrausche ·</p>\r\n <p>Dass er in sturmes trieb sich stähle</p>\r\n <p>Und heiter sich die heimat wähle!</p>\r\n<br/>\r\n <p>Aber durch wessen verwünschung und welche</p>\r\n <p>Tücke gelangt er bei nacht an ein moor?</p>\r\n <p>Auf dem leise sich neigenden stengel</p>\r\n <p>Ragt aus dem ried eine lilje hervor ·</p>\r\n <p>Flügel wiegen im milchweissen kelche.</p>\r\n <p>Böser engel · verführender engel!</p>\r\n<br/>\r\n <p>Der wandrer wankt im guten wege ·</p>\r\n <p>Im schilfe ward ein raunen rege ·</p>\r\n <p>Den langen schattenzug der rüstern</p>\r\n <p>Verfolgt er jeder heilung bar ·</p>\r\n <p>Sein auge flackert irr im düstern ·</p>\r\n <p>Die winde wirren ihm das haar.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BDie+fr%C3%BChe+sonne+k%C3%BCsst+noch+ohne+feuer%5D",
+   "depth": 2,
+   "title": "[Die frühe sonne küsst noch ohne feuer]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Die frühe sonne küsst noch ohne feuer]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"75\">[75]</a> Die frühe sonne küsst noch ohne feuer</p>\r\n <p>Den kies der langsam seine feuchte gibt</p>\r\n <p>Im heim das seiner herrin immer teuer</p>\r\n <p>Sobald sie kühlung und den frieden liebt.</p>\r\n<br/>\r\n <p>Sie wandelt aus der blau berankten tür</p>\r\n <p>Durch ihre nelken astern und reseden</p>\r\n <p>&#8211; Ihr haucht auch noch wie vormals für und für:</p>\r\n <p>Du bist die königin im blumeneden? &#8211;</p>\r\n<br/>\r\n <p>Ihr fliegend band verscheucht die schmetterlinge ·</p>\r\n <p>Die beiden palmen zucken vor dem wind ·</p>\r\n <p>Verdrossen wittert sie den stolz der dinge</p>\r\n <p>Die nur zum blühen aufgesprossen sind.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Verj%C3%A4hrte+fahrten",
+   "depth": 2,
+   "title": "Verjährte fahrten",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> VERJÄHRTE FAHRTEN</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Verj%C3%A4hrte+fahrten/I+%5BZwischen+w%C3%A4lder+%C3%BCber+t%C3%A4ler%5D",
+   "depth": 3,
+   "title": "I [Zwischen wälder über täler]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>I</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"78\">[78]</a> Zwischen wälder über täler</p>\r\n <p>Wallten wir mit ernstem wort ·</p>\r\n <p>Mehrten kindlich mit erröten</p>\r\n <p>Unsrer sünden leichte mäler</p>\r\n <p>Wollten uns aus unsren nöten</p>\r\n <p>Retten an dem gnadenort.</p>\r\n<br/>\r\n <p>Stille hoffnung hehre führung</p>\r\n <p>Uns der wege müh versüssten</p>\r\n <p>Bis wir o mit welcher rührung</p>\r\n <p>Die geweihten türme grüssten!</p>\r\n<br/>\r\n <p>Und wir sanken keines spottes</p>\r\n <p>Achtend als der abend mild</p>\r\n <p>In den farbenfenstern glomm</p>\r\n <p>Auf die fliesen streng und fromm</p>\r\n <p>Noch vor keinem muttergottes-</p>\r\n <p>Sondern vorm erlöserbild.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Verj%C3%A4hrte+fahrten/II+%5BKein+tritt+kein+laut+belebt+den+inselgarten%5D",
+   "depth": 3,
+   "title": "II [Kein tritt kein laut belebt den inselgarten]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> II</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"78\">[78]</a> Kein tritt kein laut belebt den inselgarten ·</p>\r\n <p>Er liegt wie der palast im zauberschlaf ·</p>\r\n <p>Kein wächter hisst die ehrenden standarten ·</p>\r\n <p>Es floh der fürst der priester und der graf.</p>\r\n<br/>\r\n <p>Denn aus dem flusse blasen fieberdünste ·</p>\r\n <p>Ein feuer fällt · ein feuer steigt empor</p>\r\n <p>Und um der ziergewächse welke künste ·</p>\r\n <p>Um alle farben spinnt ein grauer flor.</p>\r\n<br/>\r\n <p>Jedoch der Fremde bangt erwartungsvoller ·</p>\r\n <p>Er geht den pfad am taxushag hinan ..</p>\r\n <p>Kein schein von einem blauen sammetkoller</p>\r\n <p>Von einem kinderschuh aus saffian?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Verj%C3%A4hrte+fahrten/III+%5BWir+jagen+%C3%BCber+weisse+steppen%5D",
+   "depth": 3,
+   "title": "III [Wir jagen über weisse steppen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> III</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"79\">[79]</a> Wir jagen über weisse steppen ·</p>\r\n <p>Der trennung weh verschwand im nu ·</p>\r\n <p>Die raschen räder die uns schleppen</p>\r\n <p>Führen ja dem frühling zu.</p>\r\n<br/>\r\n <p>Die nacht voll rollender gedanken ·</p>\r\n <p>Ich weiss .. und wie nach spätem schlaf</p>\r\n <p>Als vor dem licht die nebel sanken</p>\r\n <p>Matter schein die scheiben traf ·</p>\r\n<br/>\r\n <p>Wo farren gräser junge palmen</p>\r\n <p>Ganz aus kristall sich aufgestellt</p>\r\n <p>Mit ähren moosen schachtelhalmen ·</p>\r\n <p>Wundersame pflanzenwelt!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/%5BBetr%C3%A4ufelt+an+baum+und+zaun%5D",
+   "depth": 2,
+   "title": "[Beträufelt an baum und zaun]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Beträufelt an baum und zaun]</h5> <p>Beträufelt an baum und zaun</p>\r\n <p>Ein balsam das sprocke holz?</p>\r\n <p>Verspäteter sonnen erglühn</p>\r\n <p>Die herbstlichen farben verschmolz</p>\r\n <p>Rotgelb · gesprenkeltes braun</p>\r\n <p>Scharlach und seltsames grün.</p>\r\n<br/>\r\n <p>Wer naht sich dem namenlosen</p>\r\n <p>Der fern von der menge sich härmt?</p>\r\n <p>In mattblauen kleidern ein kind ..</p>\r\n <p>So raschelt ein schüchterner wind</p>\r\n <p>So duften sterbende rosen</p>\r\n <p>Von scheidenden strahlen erwärmt.</p>\r\n<br/>\r\n <p>An schillernder hecken rand</p>\r\n <p>Bei dorrenden laubes geknister</p>\r\n <p>Und lichter wipfel sang</p>\r\n <p>Führen wir uns bei der hand</p>\r\n <p>Wie märchenhafte geschwister</p>\r\n <p>Verzückt und mit zagendem gang.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Pilgerfahrten/Die+Spange",
+   "depth": 2,
+   "title": "Die Spange",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> DIE SPANGE</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"82\">[82]</a> Ich wollte sie aus kühlem eisen</p>\r\n <p>Und wie ein glatter fester streif ·</p>\r\n <p>Doch war im schacht auf allen gleisen</p>\r\n <p>So kein metall zum gusse reif.</p>\r\n<br/>\r\n <p>Nun aber soll sie also sein:</p>\r\n <p>Wie eine grosse fremde dolde</p>\r\n <p>Geformt aus feuerrotem golde</p>\r\n <p>Und reichem blitzendem gestein.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"83\">[83]</a> </p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal",
+   "depth": 1,
+   "title": "Algabal",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h4>ALGABAL</h4>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Widmung",
+   "depth": 2,
+   "title": "Widmung",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>Widmung</h5>\r\n\r\n<p class=\"zenoPC\"><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"87\">[87]</a> ALBERT SAINT-PAUL</p>\r\n<p class=\"zenoPC\">DEM DICHTER UND DEM FREUND</p>\r\n<p class=\"zenoPC\">IN LANGEN ERLEBNISSEN</p>\r\n<p class=\"zenoPC\">UND GENIESSENDEM KÜNSTLERTUM</p>\r\n<br/>\r\n<p class=\"zenoPC\">Paris</p>\r\n<p class=\"zenoPC\">MDCCCXCII</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Aufschrift",
+   "depth": 2,
+   "title": "Aufschrift",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> AUFSCHRIFT</h5>\r\n\r\n<h5>DEM GEDÄCHTNIS LUDWIGS DES ZWEITEN</h5>\r\n\r\n<p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"87\">[87]</a> ALS MEINE JUGEND MEIN LEBEN HOB IN SOLCH EIN LICHT</p>\r\n<p>KAM SIE ERSTAUNEND DEINEM NAH UND LIEBTE DICH.</p>\r\n<p>NUN RUFT EIN HEIL DIR ÜBERS GRAB HINAUS ALGABAL</p>\r\n<p>DEIN JÜNGRER BRUDER O VERHÖHNTER DULDERKÖNIG</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Im+Unterreich",
+   "depth": 2,
+   "title": "Im Unterreich",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> IM UNTERREICH</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Im+Unterreich/%5BIhr+hallen+prahlend+in+reichem+gewande%5D",
+   "depth": 3,
+   "title": "[Ihr hallen prahlend in reichem gewande]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Ihr hallen prahlend in reichem gewande]</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"90\">[90]</a> Ihr hallen prahlend in reichem gewande</p>\r\n <p>Wisst nicht was unter dem fuss euch ruht &#8211;</p>\r\n <p>Den meister lockt nicht die landschaft am strande</p>\r\n <p>Wie jene blendend im schoosse der flut.</p>\r\n<br/>\r\n <p>Die häuser und höfe wie er sie ersonnen</p>\r\n <p>Und unter den tritten der wesen beschworen</p>\r\n <p>Ohne beispiel die hügel die bronnen</p>\r\n <p>Und grotten in strahlendem rausche geboren.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"90\">[90]</a> </p><br/> <p>Die einen blinken in ewigen wintern ·</p>\r\n <p>Jene von hundertfarbigen erzen</p>\r\n <p>Aus denen juwelen als tropfen sintern</p>\r\n <p>Und flimmern und glimmen vor währenden kerzen.</p>\r\n<br/>\r\n <p>Die ströme die in den höheren stollen</p>\r\n <p>Wie scharlach granat und rubinen sprühten</p>\r\n <p>Verfärben sich blässer im niederrollen</p>\r\n <p>Und fliessen von nun ab wie rosenblüten.</p>\r\n<br/>\r\n <p>Auf seeen tiefgrün in häfen verloren</p>\r\n <p>Schaukeln die ruderentbehrenden nachen ·</p>\r\n <p>Sie wissen auch in die wellen zu bohren</p>\r\n <p>Bei armige riffe und gähnende drachen.</p>\r\n<br/>\r\n <p>Der schöpfung wo er nur geweckt und verwaltet</p>\r\n <p>Erhabene neuheit ihn manchmal erfreut ·</p>\r\n <p>Wo ausser dem seinen kein wille schaltet</p>\r\n <p>Und wo er dem licht und dem wetter gebeut.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Im+Unterreich/%5BDer+saal+des+gelben+gleisses+und+der+sonne%5D",
+   "depth": 3,
+   "title": "[Der saal des gelben gleisses und der sonne]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Der saal des gelben gleisses und der sonne]</h5> <p>Der saal des gelben gleisses und der sonne.</p>\r\n <p>Sie herrscht auf flacher kuppel unter sternen ·</p>\r\n <p>In blitzen schnellen aus dem feuerbronne</p>\r\n <p>Topase untermengt mit bernstein-kernen.</p>\r\n<br/>\r\n <p>An allen seiten aufgereiht als spiegel</p>\r\n <p>&#8211; Gesamter städte ganzer staaten beute &#8211;</p>\r\n <p>Die ungeschmückten platten goldnen ziegel</p>\r\n <p>Und an der erde breiten löwenhäute.</p>\r\n<br/>\r\n <p>Nur nicht des Einen scharfen blick zu blenden</p>\r\n <p>Vermag die stechend grelle weltenkrone</p>\r\n <p>Und dreimal tausend schwere urnen spenden</p>\r\n <p>Den geist von amber weihrauch und zitrone.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Im+Unterreich/%5BDaneben+war+der+raum+der+blassen+helle%5D",
+   "depth": 3,
+   "title": "[Daneben war der raum der blassen helle]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Daneben war der raum der blassen helle]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"93\">[93]</a> Daneben war der raum der blassen helle</p>\r\n <p>Der weisses licht und weissen glanz vereint ·</p>\r\n <p>Das dach ist glas · die streu gebleichter felle</p>\r\n <p>Am boden schnee und oben wolke scheint.</p>\r\n<br/>\r\n <p>Der wände matte täfelung aus zedern ·</p>\r\n <p>Die dreissig pfauen stehen dran im kreis ·</p>\r\n <p>Sie tragen daunen blank wie schwanenfedern</p>\r\n <p>Und ihre schleppen schimmern wie das eis.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"94\">[94]</a> </p><br/> <p>Für jede zier die freunden farbenstrahlen:</p>\r\n <p>Aus blitzendem und blinderem metall ·</p>\r\n <p>Aus elfenbein und milchigen opalen ·</p>\r\n <p>Aus demant alabaster und kristall ·</p>\r\n<br/>\r\n <p>Und perlen! klare gaben dumpfer stätte</p>\r\n <p>Die ihr wie menschliche gebilde rollt</p>\r\n <p>Und doch an einer wange warmer glätte</p>\r\n <p>Das nasse kühl beharrlich wahren sollt.</p>\r\n<br/>\r\n <p>Da lag die kugel auch von murra-stein</p>\r\n <p>Mit der in früher jugend er gespielt ·</p>\r\n <p>Des kaisers finger war am tage rein</p>\r\n <p>Wo tränend er sie vor das auge hielt.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Im+Unterreich/%5BMein+garten+bedarf+nicht+luft+und+nicht+w%C3%A4rme%5D",
+   "depth": 3,
+   "title": "[Mein garten bedarf nicht luft und nicht wärme]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Mein garten bedarf nicht luft und nicht wärme]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"95\">[95]</a> Mein garten bedarf nicht luft und nicht wärme ·</p>\r\n <p>Der garten den ich mir selber erbaut</p>\r\n <p>Und seiner vögel leblose schwärme</p>\r\n <p>Haben noch nie einen frühling geschaut.</p>\r\n<br/>\r\n <p>Von kohle die stämme · von kohle die äste</p>\r\n <p>Und düstere felder am düsteren rain ·</p>\r\n <p>Der früchte nimmer gebrochene läste</p>\r\n <p>Glänzen wie lava im pinien-hain.</p>\r\n<br/>\r\n <p>Ein grauer schein aus verborgener höhle</p>\r\n <p>Verrät nicht wann morgen wann abend naht</p>\r\n <p>Und staubige dünste der mandel-öle</p>\r\n <p>Schweben auf beeten und anger und saat.</p>\r\n<br/>\r\n <p>Wie zeug ich dich aber im heiligtume</p>\r\n <p>&#8211; So fragt ich wenn ich es sinnend durchmass</p>\r\n <p>In kühnen gespinsten der sorge vergass &#8211;</p>\r\n <p>Dunkle grosse schwarze blume?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage",
+   "depth": 2,
+   "title": "Tage",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> TAGE</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BWenn+um+der+zinnen+kupfergl%C3%BChe+hauben%5D",
+   "depth": 3,
+   "title": "[Wenn um der zinnen kupferglühe hauben]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Wenn um der zinnen kupferglühe hauben]</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"98\">[98]</a> Wenn um der zinnen kupferglühe hauben</p>\r\n <p>Um alle giebel erst die sonne wallt</p>\r\n <p>Und kühlung noch in höfen von basalt</p>\r\n <p>Dann warten auf den kaiser seine tauben.</p>\r\n<br/>\r\n <p>Er trägt ein kleid aus blauer Serer-seide</p>\r\n <p>Mit sardern und saffiren übersät</p>\r\n <p>In silberhülsen säumend aufgenäht ·</p>\r\n <p>Doch an den armen hat er kein geschmeide.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"98\">[98]</a> </p><br/> <p>Er lächelte · sein weisser finger schenkte</p>\r\n <p>Die hirsekörner aus dem goldnen trog ·</p>\r\n <p>Als leis ein Lyder aus den säulen bog</p>\r\n <p>Und an des herren fuss die stirne senkte.</p>\r\n<br/>\r\n <p>Die tauben flattern ängstig nach dem dache</p>\r\n <p>»Ich sterbe gern weil mein gebieter schrak«</p>\r\n <p>Ein breiter dolch ihm schon im busen stak ·</p>\r\n <p>Mit grünem flure spielt die rote lache.</p>\r\n<br/>\r\n <p>Der kaiser wich mit höhnender gebärde ..</p>\r\n <p>Worauf er doch am selben tag befahl</p>\r\n <p>Dass in den abendlichen weinpokal</p>\r\n <p>Des knechtes name eingegraben werde.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BGegen+osten+ragt+der+bau%5D",
+   "depth": 3,
+   "title": "[Gegen osten ragt der bau]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Gegen osten ragt der bau]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"99\">[99]</a> Gegen osten ragt der bau</p>\r\n <p>Wo dem grossen Zeus zu frönen</p>\r\n <p>Toller wunder fremde schau</p>\r\n <p>Und die würde sich versöhnen.</p>\r\n<br/>\r\n <p>Tänzer öffnen das geleit</p>\r\n <p>In verführenden gewändern.</p>\r\n <p>Knaben die ein opfer feit</p>\r\n <p>In den sonnenschlaffen ländern ·</p>\r\n <p>Macht aus öl- und palmenlaub</p>\r\n <p>Vor des priesters fuss ein kissen ·</p>\r\n <p>Streuet sand und silberstaub</p>\r\n <p>Tote liljen und narzissen!<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"100\">[100]</a> </p><br/> <p>An der schwelle haltet rast</p>\r\n <p>Wo das heilige bild entschleiert</p>\r\n <p>Nur sich gibt dem einen gast</p>\r\n <p>Der es oft und innig feiert ·</p>\r\n <p>Nur sein mund gebete lallt ·</p>\r\n <p>Auch kein bruder sei zugegen:</p>\r\n <p>Spricht des gottes zwiegestalt</p>\r\n <p>Seinen immergleichen segen.</p>\r\n<br/>\r\n <p>Junge stimmen · ferner hall.</p>\r\n <p>Narden die verflüchtet irren</p>\r\n <p>Durch der räuche strengen quall</p>\r\n <p>Zu dem kuss der süssen mirren.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BO+mutter+meiner+mutter+und+Erlauchte%5D",
+   "depth": 3,
+   "title": "[O mutter meiner mutter und Erlauchte]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[O mutter meiner mutter und Erlauchte]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"101\">[101]</a> O mutter meiner mutter und Erlauchte</p>\r\n <p>Wie mich so ernster worte folge stört:</p>\r\n <p>Dein tadel weil mein geist nicht dir gehört</p>\r\n <p>Dass ich ihn achtlos ohne tat verhauchte.</p>\r\n<br/>\r\n <p>Gedenkt es dir wie viele speere pfiffen</p>\r\n <p>Als ich im Osten um die krone rang</p>\r\n <p>Und lob und vorwurf dem Verwegnen klang</p>\r\n <p>Der damals noch die erde nicht begriffen?</p>\r\n<br/>\r\n <p>Nicht ohnmacht rät mir ab von eurem handeln ·</p>\r\n <p>Ich habe euren handels wahn erfasst ·</p>\r\n <p>O lass mich ungerühmt und ungehasst</p>\r\n <p>Und frei in den bedingten bahnen wandeln.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"102\">[102]</a> </p><br/> <p>Und wolle nicht den bruder mir entfremden</p>\r\n <p>&#8211; Erkannt ich doch im schlaf dein augenmerk? &#8211;</p>\r\n <p>Du fesselst eifrig ihn an blödes werk ·</p>\r\n <p>Dein zwang verkleidet ihn mit sklavenhemden.</p>\r\n<br/>\r\n <p>Sieh ich bin zart wie eine apfelblüte</p>\r\n <p>Und friedenfroher denn ein neues lamm ·</p>\r\n <p>Doch liegen eisen stein und feuerschwamm</p>\r\n <p>Gefährlich in erschüttertem gemüte.</p>\r\n<br/>\r\n <p>Hernieder steig ich eine marmortreppe ·</p>\r\n <p>Ein leichnam ohne haupt inmitten ruht ·</p>\r\n <p>Dort sickert meines teuren bruders blut ·</p>\r\n <p>Ich raffe leise nur die purpurschleppe.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BBecher+am+boden%5D",
+   "depth": 3,
+   "title": "[Becher am boden]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Becher am boden]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"103\">[103]</a> Becher am boden ·</p>\r\n <p>Lose geschmeide ·</p>\r\n <p>Frauen dirnen</p>\r\n <p>Schlanke schenken</p>\r\n <p>Müde sich senken ·</p>\r\n <p>Ledig die lende</p>\r\n <p>Busen und hüfte ·</p>\r\n <p>Um die stirnen</p>\r\n <p>Der kränze rest.</p>\r\n<br/>\r\n <p>Schläfernder broden</p>\r\n <p>Traufender düfte ·</p>\r\n <p>Weinkönig scheide!</p>\r\n <p>Aller ende</p>\r\n <p>Ende das fest!<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"104\">[104]</a> </p><br/> <p>Rosen regnen ·</p>\r\n <p>Purpurne satte</p>\r\n <p>Die liebkosen?</p>\r\n <p>Weisse matte</p>\r\n <p>Euch zu laben?</p>\r\n <p>Malvenrote ·</p>\r\n <p>Gelbe tote:</p>\r\n <p>Manen-küsse</p>\r\n <p>Euch zu segnen.</p>\r\n<br/>\r\n <p>Auf die schleusen!</p>\r\n <p>Und aus reusen</p>\r\n <p>Regnen rosen ·</p>\r\n <p>Güsse flüsse</p>\r\n <p>Die begraben.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BDa+auf+dem+seidenen+lager%5D",
+   "depth": 3,
+   "title": "[Da auf dem seidenen lager]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Da auf dem seidenen lager]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"105\">[105]</a> Da auf dem seidenen lager</p>\r\n <p>Neidisch der schlummer mich mied</p>\r\n <p>So bringt keine wundersager</p>\r\n <p>So will ich kein lullendes lied</p>\r\n <p>Der mädchen attischer lande</p>\r\n <p>Was mir vor monden gefiel.</p>\r\n <p>Nun schlingt mich in eure bande</p>\r\n <p>Flötenspieler vom Nil.</p>\r\n<br/>\r\n <p>Ich lag in äthergezelten</p>\r\n <p>Ich ass von himmlischem brot ·</p>\r\n <p>Ihr sanget die flucht aus den welten</p>\r\n <p>Ihr sanget vom glorreichen tod</p>\r\n <p>Bevor die brennenden lider</p>\r\n <p>Endlicher schlummer befiel.</p>\r\n <p>Entrückt und tötet mich wieder</p>\r\n <p>Flötenspieler vom Nil.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BSo+sprach+ich+nur+in+meinen+schwersten+tagen%5D",
+   "depth": 3,
+   "title": "[So sprach ich nur in meinen schwersten tagen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[So sprach ich nur in meinen schwersten tagen]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"106\">[106]</a> So sprach ich nur in meinen schwersten tagen:</p>\r\n <p>Ich will dass man im volke stirbt und stöhnt</p>\r\n <p>Und jeder lacher sei ans kreuz geschlagen.</p>\r\n <p>Es ist ein groll der für mich selber dröhnt.</p>\r\n<br/>\r\n <p>ICH bin als einer so wie SIE als viele ·</p>\r\n <p>Ich tue was das leben mit mir tut</p>\r\n <p>Und träf ich sie mit ruten bis aufs blut:</p>\r\n <p>Sie haben korn und haben fechterspiele.</p>\r\n<br/>\r\n <p>Wenn ich in ihrer tracht und mich vergessend</p>\r\n <p>Geheim in ihren leeren lärm gepasst</p>\r\n <p>&#8211; Ich fürchte &#8211; hab ich nie sie tief gehasst ·</p>\r\n <p>Der eignen artung härte recht ermessend.</p>\r\n<br/>\r\n <p>Dann schloss ich hinter aller schar die riegel ·</p>\r\n <p>Ich ruhte ohne wunsch und mild und licht</p>\r\n <p>Und beinah einer schwester angesicht</p>\r\n <p>Erwiderte dem schauenden ein spiegel.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BGraue+rosse+muss+ich+schirren%5D",
+   "depth": 3,
+   "title": "[Graue rosse muss ich schirren]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Graue rosse muss ich schirren]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"107\">[107]</a> Graue rosse muss ich schirren</p>\r\n <p>Und durch grause fluren jagen</p>\r\n <p>Bis wir uns im moor verirren</p>\r\n <p>Oder blitze mich erschlagen.</p>\r\n<br/>\r\n <p>Auf dem samenlosen acker</p>\r\n <p>Viele helden stumm verbleichen ·</p>\r\n <p>Nur das russende geflacker</p>\r\n <p>Loher fichten ehrt die leichen.</p>\r\n<br/>\r\n <p>Schmal in regelgraden ketten</p>\r\n <p>Rinnen ziegelrote bäche ·</p>\r\n <p>Seufzen singt aus ihren betten ·</p>\r\n <p>Hahler wind umkreist die fläche.</p>\r\n<br/>\r\n <p>Aufgelöst im sande wühlend</p>\r\n <p>Frauenhaare · dichte strähnen ..</p>\r\n <p>Frauentränen wunden kühlend ·</p>\r\n <p>Reiche tränen &#8211; wahre tränen?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BAgathon+knieend+vor+meinem+pf%C3%BChle%5D",
+   "depth": 3,
+   "title": "[Agathon knieend vor meinem pfühle]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Agathon knieend vor meinem pfühle]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"108\">[108]</a> Agathon knieend vor meinem pfühle ·</p>\r\n <p>Deine wimper spricht da dein mund sich schloss.</p>\r\n <p>Dass ich von ihr den feuchten schleier spüle</p>\r\n <p>Was soll ich o mein bruder mein genoss?</p>\r\n<br/>\r\n <p>Wenn es den über-leuchtenden adern</p>\r\n <p>Vor staub und den rauhen winden graut</p>\r\n <p>So sollst du mit dem himmel nicht hadern</p>\r\n <p>Der an dem hehren spiel sich erbaut.</p>\r\n<br/>\r\n <p>Nimm als lohn dass vor dir nur kranken</p>\r\n <p>Die stolzen glieder zur urne gar ·</p>\r\n <p>Es ziemt nicht in irdischer klage zu wanken</p>\r\n <p>Uns die das los für den purpur gebar.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BL%C3%A4rmen+h%C3%B6r+ich+im+schl%C3%A4frigen+frieden%5D",
+   "depth": 3,
+   "title": "[Lärmen hör ich im schläfrigen frieden]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Lärmen hör ich im schläfrigen frieden]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"109\">[109]</a> Lärmen hör ich im schläfrigen frieden:</p>\r\n <p>Horde die zu gehorchen vergisst.</p>\r\n<br/>\r\n <p>»Schreckt dich das schlimme sternwort der Iden?«</p>\r\n <p>Widriges melden die schlangen · doch wisst:</p>\r\n<br/>\r\n <p>Euer gebieter ist von euch geschieden</p>\r\n <p>Ehe die stadt sich zu murren vermisst.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Tage/%5BSchall+von+oben%5D",
+   "depth": 3,
+   "title": "[Schall von oben]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Schall von oben]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"110\">[110]</a> Schall von oben!</p>\r\n <p>Sind es hörner · sind es harfen</p>\r\n <p>Die mich hoben</p>\r\n <p>Und in grüfte niederwarfen?</p>\r\n<br/>\r\n <p>Wie betreten</p>\r\n <p>Und als ob ein gott mich zwänge</p>\r\n <p>Muss ich beten</p>\r\n <p>Syrer während eurer sänge.</p>\r\n<br/>\r\n <p>Leise triller · verjüngen gesunden.</p>\r\n <p>Laute stösse · mit lachen vergeuden.</p>\r\n <p>Gelle striche · die bohrenden wunden</p>\r\n <p>Helle schläge · die brennenden freuden.</p>\r\n<br/>\r\n <p>Weise Syrer</p>\r\n <p>Werd ich dankend euch vertreiben?</p>\r\n <p>Ihr verführer</p>\r\n <p>Noch im leben zu verbleiben!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken",
+   "depth": 2,
+   "title": "Die Andenken",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>DIE ANDENKEN</h5>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BGrosse+tage+wo+im+geist+ich+nur+der+herr+der+welten+hiess%5D",
+   "depth": 3,
+   "title": "[Grosse tage wo im geist ich nur der herr der welten hiess]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Grosse tage wo im geist ich nur der herr der welten hiess]</h5>\r\n\r\n<p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"114\">[114]</a> Grosse tage wo im geist ich nur der herr der welten hiess ·</p>\r\n<p>Arger tag wo in der heimat meine tempel ich verliess!</p>\r\n<br/>\r\n<p>Dort beriet ich mit den göttern über ihren höchsten plan</p>\r\n<p>Ihre kinder stiegen nieder mir zu lust und untertan.</p>\r\n<br/>\r\n<p>O so werde wieder knabe der im haine ruhe sucht ·</p>\r\n<p>Inne hält er eben bang vor eigener gedanken wucht.</p>\r\n<br/>\r\n<p>Mit der feinen kühnen blässe · schweren wechseljahres spur ·</p>\r\n<p>Trätest du an meine seite mit mir und kein schatten nur!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BFern+ist+mir+das+blumenalter%5D",
+   "depth": 3,
+   "title": "[Fern ist mir das blumenalter]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Fern ist mir das blumenalter]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"114\">[114]</a> Fern ist mir das blumenalter</p>\r\n <p>Wo die zähre noch genuss.</p>\r\n <p>Starb im reif der sommerfalter</p>\r\n <p>Dem ein atem schon ein kuss?</p>\r\n<br/>\r\n <p>Der auf gras und klee und garbe</p>\r\n <p>Und in reiche gärten flog ·</p>\r\n <p>Einen hauch von duft und farbe</p>\r\n <p>Rasch aus allen blüten sog?</p>\r\n<br/>\r\n <p>Dem die nacht ein gut erteilte</p>\r\n <p>Das er tags umsonst erspäht ·</p>\r\n <p>Den sie mit der hoffnung heilte</p>\r\n <p>Dass ihn doch die tulpe lädt.</p>\r\n<br/>\r\n <p>Kommt er wieder mit der meisen</p>\r\n <p>Mit der lerchen erstem ton?</p>\r\n <p>Wird er neu den juni preisen</p>\r\n <p>Schläft er oder starb er schon?</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BJahre+und+vermeinte+schulden%5D",
+   "depth": 3,
+   "title": "[Jahre und vermeinte schulden]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Jahre und vermeinte schulden]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"115\">[115]</a> Jahre und vermeinte schulden ..</p>\r\n <p>Wisch die zeichen ihrer hiebe ·</p>\r\n <p>Kind erkoren von den Hulden</p>\r\n <p>Zu der völker heil und liebe.</p>\r\n<br/>\r\n <p>Heimgekehrter sieger rotte</p>\r\n <p>Beugten sich vor deiner schöne ·</p>\r\n <p>Ihrem jugendlichen gotte</p>\r\n <p>Jubelten die erdensöhne<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"116\">[116]</a> </p><br/> <p>Die der ehre dank erwiesen</p>\r\n <p>Neben solchem hort zu wohnen</p>\r\n <p>Wenn du auf den jaspis-fliesen</p>\r\n <p>Weihtest vor bekränzten thronen.</p>\r\n<br/>\r\n <p>Männer weinten frauen stöhnten</p>\r\n <p>Unter deines tempels türe ·</p>\r\n <p>Glühend baten die gehöhnten</p>\r\n <p>Dass dein kleid ihr haar berühre &#8211;</p>\r\n<br/>\r\n <p>Eh dein grösster ruhm ersterbe</p>\r\n <p>Schmücke dich im weissen bade</p>\r\n <p>Dass er noch zum wettbewerbe</p>\r\n <p>Alle hermen vor sich lade.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BAm+markte+sah+ich+erst+die+w%C3%BCrdevolle%5D",
+   "depth": 3,
+   "title": "[Am markte sah ich erst die würdevolle]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Am markte sah ich erst die würdevolle]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"117\">[117]</a> Am markte sah ich erst die würdevolle</p>\r\n <p>Die schönste aus der weissen schwestern zug ·</p>\r\n <p>Wie fürstenmantel hing die schlichte wolle</p>\r\n <p>Um ihres nackens ihrer schulter bug.</p>\r\n<br/>\r\n <p>Im schauspiel dann als sich die opfer mehrten</p>\r\n <p>Und zügellos die menge beifall rief ·</p>\r\n <p>Die todberufenen den cäsar ehrten:</p>\r\n <p>IHR auge blieb gelassen streng und tief.</p>\r\n<br/>\r\n <p>Wenn ich der kurzen werbung rausch bedenke!</p>\r\n <p>Ich riss die priesterin von dem altar ·</p>\r\n <p>Und alle länder brachten brautgeschenke ·</p>\r\n <p>Ich bot in bächen gold und balsam dar ..</p>\r\n<br/>\r\n <p>Und zweifelnd ob das neue glück mir werde</p>\r\n <p>Erfand ich nur den quell der neuen qual ..</p>\r\n <p>Ich sandte sie zurück zu ihrem herde ·</p>\r\n <p>Sie hatte wie die anderen ein mal.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BIch+will+mir+jener+stunden+lauf+erz%C3%A4hlen%5D",
+   "depth": 3,
+   "title": "[Ich will mir jener stunden lauf erzählen]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Ich will mir jener stunden lauf erzählen]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"118\">[118]</a> Ich will mir jener stunden lauf erzählen:</p>\r\n <p>Die kinder unterm feigenbaum entschlafen</p>\r\n <p>Nach unbedachtem seligem vermählen.</p>\r\n <p>Mich kümmerten der kalten väter strafen.</p>\r\n<br/>\r\n <p>Wol! da ich euch den starken tropfen gönnte</p>\r\n <p>Aus meinem treuen ringe der mir diene</p>\r\n <p>Wenn es bei einer dämmerung mir schiene</p>\r\n <p>Dass ich die sterne nicht mehr schauen könnte.</p>\r\n<br/>\r\n <p>Begnadete! da ich euch gütig nahte</p>\r\n <p>Und kein erwachen euch ein glück ermattet</p>\r\n <p>Das nur der traum so herrlich euch gestattet</p>\r\n <p>Als ich es jezt aus euren zügen rate.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BF%C3%BChl+ich+noch+dies+erste+ungemach%5D",
+   "depth": 3,
+   "title": "[Fühl ich noch dies erste ungemach]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Fühl ich noch dies erste ungemach]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"119\">[119]</a> Fühl ich noch dies erste ungemach ·</p>\r\n <p>Sündig eilte fremden stapfen nach</p>\r\n <p>Der um sie den schönsten traum zerbrach:</p>\r\n<br/>\r\n <p>Wenn mir neulich vor die sinne tritt</p>\r\n <p>Wie ich früh vom gram am tiefsten litt</p>\r\n <p>Bei den gräbern pochend »führt mich mit«:</p>\r\n<br/>\r\n <p>Deucht er heut mir fast geschwind und sacht ·</p>\r\n <p>Halt ich dich sogar in milder acht ·</p>\r\n <p>Trübster tröster · sohn der nacht!</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Die+Andenken/%5BOb+denn+der+wolken-deuter+mich+bel%C3%BCge%5D",
+   "depth": 3,
+   "title": "[Ob denn der wolken-deuter mich belüge]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Ob denn der wolken-deuter mich belüge]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"120\">[120]</a> Ob denn der wolken-deuter mich belüge</p>\r\n <p>Und ich durch opfer und durch adlerflüge?</p>\r\n<br/>\r\n <p>Dass niemals dieser knospe keusche lippe</p>\r\n <p>Vom windgeführten seim der freundin nippe ·</p>\r\n<br/>\r\n <p>Dass sie im schwall der salben und gewürze</p>\r\n <p>Des schwülen kerkers weile sich verkürze ·</p>\r\n<br/>\r\n <p>Besprengt vom saft des hanfes und der rebe</p>\r\n <p>Die trägen adern zu beleben strebe</p>\r\n<br/>\r\n <p>Und flehend bis sie welke stehen bleibe</p>\r\n <p>Vor einer säule sprödem marmorleibe.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Algabal/Vogelschau",
+   "depth": 2,
+   "title": "Vogelschau",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>VOGELSCHAU</h5>\r\n\r\n <p>Weisse schwalben sah ich fliegen ·</p>\r\n <p>Schwalben schnee- und silberweiss ·</p>\r\n <p>Sah sie sich im winde wiegen ·</p>\r\n <p>In dem winde hell und heiss.</p>\r\n<br/>\r\n <p>Bunte häher sah ich hüpfen ·</p>\r\n <p>Papagei und kolibri</p>\r\n <p>Durch die wunder-bäume schlüpfen</p>\r\n <p>In dem wald der Tusferi.</p>\r\n<br/>\r\n <p>Grosse raben sah ich flattern ·</p>\r\n <p>Dohlen schwarz und dunkelgrau</p>\r\n <p>Nah am grunde über nattern</p>\r\n <p>Im verzauberten gehau.</p>\r\n<br/>\r\n <p>Schwalben seh ich wieder fliegen ·</p>\r\n <p>Schnee- und silberweisse schar ·</p>\r\n <p>Wie sie sich im winde wiegen</p>\r\n <p>In dem winde kalt und klar!<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"123\">[123]</a> </p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Anhang",
+   "depth": 1,
+   "title": "Anhang",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h4>ANHANG</h4> <br/>\r\n<p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"125\">[125]</a> Die drei abteilungen dieses bandes wurden anfangs für den verfasser als einzelne hefte (je hundert) gedruckt: Hymnen Berlin 1890 · wobei sein name zum erstenmal hervortritt · Pilgerfahrten Wien 1891 · Algabal Paris 1892 &#8211; alle in gleicher ausstattung von der das beigegebene vorblatt einen begriff gibt. Hymnen auf graugelbem · Pilgerfahrten auf rötlichem · Algabal auf weissem büttenähnlichem papier. Weiteres über die besonderheit der ausstattung wird an anderer stelle gesagt werden. Einige wenige stücke erhielten später den aufdruck: Im Verlag der Blätter für die Kunst und kamen in den buchhandel. Von Algabal bestand auf etwas stärkerem papier eine vorausgabe in zehn stücken die eine reihe von druckfehlern enthielt und kaum mehr aufzufinden ist. Auszüge brachten Bl. f. d. K. l. F. l. B. und die Münchener Allgemeine Kunstchronik 1894 Nr. 23. Die erste öffentliche ausgabe der drei werke in einem band erschien bei Georg Bondi 1899.</p>\r\n<br/>\r\n<p>In den ersten ausgaben fehlten alle widmungen und aufschriften sowie die gedichte: Beträufelt an baum und zaun. (S. 82 zuerst Bl. f. d. K. l. F. l. B.) Lärmen hör ich .. (S. 110) Fühl ich noch dies erste .. (S. 120). Die zweite und dritte strofe des gedichtes: Jahre und vermeinte schulden .. (S. 116) standen in umgekehrter folge.</p>\r\n<p>Noch seien hier die früheren fassungen von drei stärker umgebildeten gedichten angereiht die von manchen freunden vorgezogen wurden. Von einer vollständigen aufzählung der abweichungen musste wiederum abgesehen werden.<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"126\">[126]</a> </p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Anhang/%5BDass+er+auf+fernem+felsenpfade%5D",
+   "depth": 2,
+   "title": "[Dass er auf fernem felsenpfade]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Dass er auf fernem felsenpfade]</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"127\">[127]</a> Dass er auf fernem felsenpfade</p>\r\n <p>Sich einsam in dem lichte bade</p>\r\n <p>Dass er dem laub dem wasser lausche</p>\r\n <p>Und dass der klage klang verrausche</p>\r\n <p>Dass er in sturmes trieb sich stähle</p>\r\n <p>Und heiter sich die heimat wähle</p>\r\n<br/>\r\n <p>Aber durch wessen verwünschung und welche</p>\r\n <p>Tücke gelangt er bei nacht an ein moor?</p>\r\n <p>Auf dem leise sich neigenden stengel</p>\r\n <p>Ragt aus dem ried eine lilje hervor</p>\r\n <p>Flügel wiegen im milchweissen kelche ·</p>\r\n <p>Böser engel verführender engel</p>\r\n <p>Deines armes bläulicher schein</p>\r\n <p>Lädt er zum tod in der tiefe nicht ein!</p>\r\n<br/>\r\n <p>Der wandrer wankt im guten wege</p>\r\n <p>Im schilfe ward ein raunen rege</p>\r\n <p>Den langen schattenzug der rüstern</p>\r\n <p>Verfolgt er jeder heilung bar</p>\r\n <p>Sein auge flackert irr im düstern</p>\r\n <p>Die winde wirren ihm das haar</p>\r\n<br/>\r\n<p class=\"zenoPC\">Frühere Fassung des Gedichtes S. 75</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Anhang/Im+Park",
+   "depth": 2,
+   "title": "Im Park",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5> IM PARK</h5>\r\n\r\n <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"127\">[127]</a> Rubinen perlen schmücken die fontänen</p>\r\n <p>Zu boden streut sie fürstlich jeder strahl</p>\r\n <p>In eines teppichs seidengrünen strähnen<a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"128\">[128]</a> </p><br/> <p>Verbirgt sich ihre unbegrenzte zahl ·</p>\r\n <p>Der dichter dem die vögel angstlos nahen</p>\r\n <p>Träumt einsam in dem weiten schattensaal</p>\r\n<br/>\r\n <p>Die jenen wonnetag erwachen sahen</p>\r\n <p>Empfinden heiss von weichem klang berauscht</p>\r\n <p>Es schmachtet leib und leib sich zu umfahen</p>\r\n<br/>\r\n <p>Der dichter auch der töne lockung lauscht</p>\r\n <p>Doch heut darf ihre weise nicht ihn rühren</p>\r\n <p>Mit seiner geisterwelt er rede tauscht</p>\r\n<br/>\r\n <p>Er hat den griffel der sich sträubt zu führen</p>\r\n<br/>\r\n<p class=\"zenoPC\">Frühere Fassung des Gedichtes S. 14 u. 15.</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Anhang/%5BDer+saal+des+gelben+gleisses+und+der+sonne%5D",
+   "depth": 2,
+   "title": "[Der saal des gelben gleisses und der sonne]",
+   "categories": [
+    "Gedicht",
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>[Der saal des gelben gleisses und der sonne]</h5> <p><a href=\"/Literatur/L/George-GAW+Bd.+2\" class=\"zenoTXKonk\" title=\"Vorlage\" name=\"129\">[129]</a> Der saal des gelben gleisses und der sonne:</p>\r\n <p>Sie herrscht auf flacher kuppel unter sternen</p>\r\n <p>Nach ohmen schnellen aus dem feuerbronne</p>\r\n <p>Topase untermengt mit bernstein-kernen</p>\r\n<br/>\r\n <p>An allen seiten aufgereiht zu spiegeln &#8211;</p>\r\n <p>Gesamter städte ganzer staaten beute &#8211;</p>\r\n <p>Die ungeschmückten platten goldnen ziegeln</p>\r\n <p>Und an der erde breiten löwenhäute</p>\r\n<br/>\r\n <p>Nur nicht des Einen scharfen blick zu blenden</p>\r\n <p>Vermag die stechend grelle weltenkrone</p>\r\n <p>Und dreimal tausend schwere urnen spenden</p>\r\n <p>Den geist von amber weihrauch und zitrone</p>\r\n<br/>\r\n<p class=\"zenoPC\">Frühere Fassung des Gedichtes S. 93</p>"
+  },
+  {
+   "path": "/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Hymnen,+Pilgerfahrten,+Algabal/Anhang/Handschriftproben",
+   "depth": 2,
+   "title": "Handschriftproben",
+   "categories": [
+    "Deutsche Literatur"
+   ],
+   "html": "<h5>HANDSCHRIFTPROBEN</h5>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020132\"><img src=\"/Literatur.images/I/st020132.jpg?w=500&amp;h=706&amp;vid=258644271\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"(Der Infant), Hymnen S. 46 (GAW 2, S. 132)\"/></a><div class=\"zenoIMBreakText\">(Der Infant), Hymnen S. 46 (GAW 2, S. 132)</div></div></div>\r\n\r\n<br/>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020133\"><img src=\"/Literatur.images/I/st020133.jpg?w=500&amp;h=706&amp;vid=93189023\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"Die Gärten schliessen, Hymnen S. 48 (GAW 2, S. 133)\"/></a><div class=\"zenoIMBreakText\">Die Gärten schliessen, Hymnen S. 48 (GAW 2, S. 133)</div></div></div>\r\n\r\n<br/>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020134\"><img src=\"/Literatur.images/I/st020134.jpg?w=500&amp;h=706&amp;vid=2074928142\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"[Nun gehrt mein gram nach jeder bleichen miene], Pilgerfahrten S. 54 u. 55 (erste Reinschrift) (GAW 2, S. 134)\"/></a><div class=\"zenoIMBreakText\">[Nun gehrt mein gram nach jeder bleichen miene], Pilgerfahrten S. 54 u. 55 (erste Reinschrift) (GAW 2, S. 134)</div></div></div>\r\n\r\n<br/>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020135\"><img src=\"/Literatur.images/I/st020135.jpg?w=500&amp;h=706&amp;vid=1909448446\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"[Mühle lass die arme still], Pilgerfahrten S. 57 (GAW 2, S. 135)\"/></a><div class=\"zenoIMBreakText\">[Mühle lass die arme still], Pilgerfahrten S. 57 (GAW 2, S. 135)</div></div></div>\r\n\r\n<br/>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020136\"><img src=\"/Literatur.images/I/st020136.jpg?w=500&amp;h=706&amp;vid=1743729517\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"[Agathon kniend vor meinem pfühle], Algabal S. 109 (GAW 2, S. 136)\"/></a><div class=\"zenoIMBreakText\">[Agathon kniend vor meinem pfühle], Algabal S. 109 (GAW 2, S. 136)</div></div></div>\r\n\r\n<br/>\r\n\r\n<div class=\"zenoIMBreak\"><div style=\"width:502px;\"><a href=\"/Literatur/I/st020137\"><img src=\"/Literatur.images/I/st020137.jpg?w=500&amp;h=706&amp;vid=1577985501\" width=\"500\" height=\"706\" class=\"zenoIMBreak\" alt=\"Vogelschau, Algabal S. 123 (GAW 2, S. 137)\"/></a><div class=\"zenoIMBreakText\">Vogelschau, Algabal S. 123 (GAW 2, S. 137)</div></div></div>"
+  }
+ ]
+}
