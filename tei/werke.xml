@@ -15,8 +15,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
-  <!-- built once the scan of Bd. 1 is in (see README) -->
-  <xi:include href="ga01.xml"><xi:fallback/></xi:include>
+  <xi:include href="ga01.xml"/>
   <xi:include href="ga02.xml"/>
   <xi:include href="ga03.xml"/>
   <xi:include href="ga04.xml"/>

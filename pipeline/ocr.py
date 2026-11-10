@@ -108,6 +108,8 @@ def read(vid, order, engine):
         lines = lines_tesseract(ocr_dir(vid) / f"f{order:04d}.tsv")
     else:
         lines = lines_alto(scans.alto_dir(vid) / f"f{order:04d}.xml")
+    # the Google Books scan of Bd 1 stamps every page
+    lines = [ln for ln in lines if "Digitized" not in " ".join(t for t, _ in ln["words"])]
     digits = [ln for ln in lines if all(t.isdigit() for t, _ in ln["words"])]
     kept = [ln for ln in lines if ln not in digits]
     # the GA sets page numbers below (or above) the type area, well inside

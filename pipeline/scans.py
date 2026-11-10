@@ -134,17 +134,16 @@ def set_ocr_labels(vid, labels):
 
 def interpolate(rows):
     """labels for a scan without metadata: ocr numbers, gaps filled from the
-    constant offset between numbered neighbours"""
+    constant offset between numbered neighbours. labels already there (set by
+    hand after a look at the images) stay."""
     known = [(r["order"], int(r["ocr_label"])) for r in rows if r["ocr_label"]]
     for r in rows:
+        if r["label"]:
+            continue
         o = r["order"]
         prev = [k for k in known if k[0] <= o]
         nxt = [k for k in known if k[0] >= o]
-        if not prev:
-            r["label"] = ""
-        elif prev[-1][0] == o:
+        if prev and prev[-1][0] == o:
             r["label"] = str(prev[-1][1])
-        elif nxt and nxt[0][1] - nxt[0][0] == prev[-1][1] - prev[-1][0]:
+        elif prev and nxt and nxt[0][1] - nxt[0][0] == prev[-1][1] - prev[-1][0]:
             r["label"] = str(o + prev[-1][1] - prev[-1][0])
-        else:
-            r["label"] = ""
