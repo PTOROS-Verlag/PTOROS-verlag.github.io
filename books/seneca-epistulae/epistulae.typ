@@ -82,7 +82,7 @@ Litteris Garamondianis "Junicode" compositum
 
 Typis excudit et colligavit societas Neopubli Berolinensis \
 Printed in Germany \
-#text(tracking: 0.07em)[ISBN] 978-...
+#text(tracking: 0.07em)[ISBN] 978-3-565557-06-6
 ])
 
 #pagebreak(to: "odd")
