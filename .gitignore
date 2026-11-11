@@ -4,7 +4,7 @@
 *.fls
 *.log
 *.xdv
-.direnv/
 venv/
 __pycache__/
 .claude/settings.local.json*
+/result*
