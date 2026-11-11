@@ -40,6 +40,8 @@
             for f in \
               $(find ${pkgs.alegreya-sans} ${pkgs.eb-garamond} -name '*.ttf') \
               $(find ${pkgs.junicode} -name 'Junicode-*.ttf') \
+              $(find ${pkgs.gyre-fonts} -name 'texgyreheros-*.otf') \
+              ${./books/george-werke/fonts/StefanGeorge.otf} \
               $plex
             do
               ln -s $f $out/
@@ -136,12 +138,27 @@
           dontInstall = true;
         };
 
+      # what a book's own pipeline needs beyond the build, for `nix develop .#<slug>` only
+      devTools = {
+        george-werke = pkgs: [
+          (pkgs.python3.withPackages (p: [
+            p.lxml
+            p.pillow
+          ]))
+          pkgs.tesseract
+          pkgs.jing
+          pkgs.poppler-utils
+          pkgs.curl
+        ];
+      };
+
       shell =
-        pkgs:
+        pkgs: extra:
         let
           t = toolchain pkgs;
         in
-        pkgs.mkShell ({ inherit (t) packages; } // t.env);
+        # extra first: its python, with the pipeline's modules, shadows the toolchain's
+        pkgs.mkShell ({ packages = extra ++ t.packages; } // t.env);
     in
     {
       packages = builtins.mapAttrs (
@@ -159,9 +176,15 @@
 
       devShells = builtins.mapAttrs (
         system: pkgs:
-        inputs.nixpkgs.lib.genAttrs books (name: shell (pkgsFor system name))
+        inputs.nixpkgs.lib.genAttrs books (
+          name:
+          let
+            p = pkgsFor system name;
+          in
+          shell p ((devTools.${name} or (_: [ ])) p)
+        )
         // {
-          default = shell pkgs;
+          default = shell pkgs [ ];
         }
       ) inputs.nixpkgs.legacyPackages;
     };

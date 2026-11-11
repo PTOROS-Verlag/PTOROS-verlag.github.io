@@ -39,6 +39,7 @@ printed = "Ἐν Γερμανίᾳ ἐκτυπωθέν."
 #   source             imprint page, top: where the text comes from
 #   typeface           imprint page
 #   year, isbn, price, pages (as the shop counts them), spine (mm)
+#                      a card without isbn is a book not yet out: it stays off the website
 #   description        website, and back cover unless description-on-cover = false
 #   quote              website and back cover; `website = false` or `cover = false` limits one
 #   links              shop name to url
@@ -224,3 +225,18 @@ text = "Mein Blick fiel auf mehrere mit eigentümlichen Lettern bedeckte Druckta
 [book.links]
 epubli = "https://www.epubli.com/shop/koptisch-muss-sein-9783565022656"
 Amazon = "https://www.amazon.de/Koptisch-mu%C3%9F-sein-Bruno-Frank/dp/3565022655"
+
+[[book]]
+slug = "george-werke"
+language = "de"
+title = "Gesamt-Ausgabe der Werke"
+cover-title = '''
+Gesamt-Ausgabe \
+der Werke'''
+author = "Stefan George"
+edition = "Endgültige Fassung"
+source = "Die Gedichte der Bände I–IX der _Gesamt-Ausgabe der Werke. Endgültige Fassung_, Berlin: Georg Bondi, 1927–1932."
+typeface = "Schriften: St.-G.-Schrift und TeX Gyre Heros"
+year = 2026
+spine = 39
+description = "Die Gedichte *Stefan George*s in der Gestalt, die er ihnen in der _Gesamt-Ausgabe der Werke_ zuletzt gab, gesetzt in der St.-G.-Schrift."

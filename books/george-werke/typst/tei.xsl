@@ -11,7 +11,8 @@
     exclude-result-prefixes="#all">
 
   <xsl:output method="text" encoding="UTF-8"/>
-  <xsl:param name="lib" select="'/typst/ga.typ'"/>
+  <!-- relative to the generated file, which make writes next to typst/ -->
+  <xsl:param name="lib" select="'typst/ga.typ'"/>
 
   <!-- a pb between blocks marks the next block that carries text -->
   <xsl:key name="pb-before"

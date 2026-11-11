@@ -164,9 +164,11 @@ def website(out, covers):
     site = root / "website"
     shutil.copytree(site, out, dirs_exist_ok=True)
     page = (site / "index.html").read_text()
-    articles = "\n".join(article(b) for b in kartei["book"])
+    # a card without isbn is a book not yet out
+    published = [b for b in kartei["book"] if "isbn" in b]
+    articles = "\n".join(article(b) for b in published)
     (out / "index.html").write_text(page.replace("<!-- books -->", articles))
-    for b in kartei["book"]:
+    for b in published:
         isbn = b["isbn"].replace("-", "")
         crop_front(b, covers / b["slug"] / "cover.pdf", out / "img" / f"{isbn}.png")
 

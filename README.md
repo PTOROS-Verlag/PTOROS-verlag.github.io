@@ -7,9 +7,9 @@
 
 ## Building books
 
-`nix build .#<slug>` puts a book's PDFs in `result/`; `nix build` builds all of them. For `make` by hand, `nix develop .#<slug>` gives the toolchain that book is built with.
+`nix build .#<slug>` puts a book's PDFs in `result/`; `nix build` builds all of them. For `make` by hand, `nix develop .#<slug>` gives the toolchain that book is built with, plus what the book's own pipeline needs (`devTools` in `flake.nix`).
 
-Every directory under `books/` becomes a package: its `Makefile` includes `shared/book.mk` and needs an `all` target that leaves the PDFs in the directory; its typst source calls `frontmatter()` from `/shared/ptoros.typ`. Typst packages, TeX packages and fonts come from `flake.nix`; add new ones there.
+Every directory under `books/` becomes a package: its `Makefile` includes `shared/book.mk` and needs an `all` target that leaves the PDFs in the directory; its typst source calls `frontmatter()` from `/shared/ptoros.typ`. Typst packages, TeX packages and fonts come from `flake.nix`; add new ones there. A font nixpkgs lacks lives in its book's `fonts/`.
 
 Line and page breaks depend on the typst version and on the exact font files. A different page count no longer fits the book's `spine` in the Kartei. Hence:
 

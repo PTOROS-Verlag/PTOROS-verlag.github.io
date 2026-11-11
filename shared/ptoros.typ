@@ -52,7 +52,7 @@
     #markup(book.typeface)
 
     #words.printing \
-    #words.printed \
-    #spaced[ISBN] #book.isbn
+    #words.printed
+    #if "isbn" in book [\ #spaced[ISBN] #book.isbn]
   ])
 }

@@ -6,9 +6,9 @@ with `tei/werke.xml` including them all. Base text is the zeno.org
 transcription; every page is checked against the scans with tesseract and,
 for the SBB copies, the library's ALTO as independent witnesses.
 
-Everything runs inside `nix develop` as `python3 -m pipeline <command> [ids…]`
-(`--help` lists the commands); without ids a command covers all volumes in
-`config/volumes.toml`.
+The pipeline runs inside `nix develop .#george-werke` as
+`python3 -m pipeline <command> [ids…]` (`--help` lists the commands); without
+ids a command covers all volumes in `config/volumes.toml`.
 
 ## Pipeline
 
@@ -34,15 +34,15 @@ Everything runs inside `nix develop` as `python3 -m pipeline <command> [ids…]`
 
 ## PDF
 
-`pdf` typesets the poems in the StG-Schrift as one book, `pdf/werke.pdf`, for
-epubli's Taschenbuch (125 × 190 mm, 3 mm bleed; softcover binds at most 784
-pages, and `pdf` fails beyond that). With ids it typesets those volumes alone.
-`typst/tei.xsl` (XSLT 3, Saxon) turns the TEI into calls of `typst/ga.typ`.
-The font (StefanGeorge.otf, Institut für Textkritik) may not be
-redistributed, so it is not in the repository: put it in `cache/fonts/`.
+`make` typesets the poems in the StG-Schrift as one book, `werke.pdf`, for
+epubli's Taschenbuch (trim and bleed from the kartei; softcover binds at most
+784 pages, and typst fails beyond that). `make ga04.pdf` typesets a volume
+alone. `typst/tei.xsl` (XSLT 3, Saxon) turns the TEI into calls of
+`typst/ga.typ`. The St.-G.-Schrift, `fonts/StefanGeorge.otf`, comes from the
+Institut für Textkritik (textkritik.de).
 
 Only the body goes in: no prefaces, no Anhang, no figures. The contents after
-the title page list volumes and cycles; an index of titles and first lines
+the PTOROS frontmatter list volumes and cycles; an index of titles and first lines
 closes the book (umlauts sorted as their base letter, numbers as titles left
 out). Leading, small capitals and initials keep the
 proportions of the print; the pagination is typst's own, with the pages of the

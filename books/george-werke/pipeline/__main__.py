@@ -7,7 +7,7 @@ from . import config
 def main():
     ap = argparse.ArgumentParser(prog="python3 -m pipeline")
     sub = ap.add_subparsers(dest="cmd", required=True)
-    for name in ["fetch-zeno", "fetch-scans", "ocr", "build", "collate", "align-pages", "apply", "validate", "status", "pdf"]:
+    for name in ["fetch-zeno", "fetch-scans", "ocr", "build", "collate", "align-pages", "apply", "validate", "status"]:
         p = sub.add_parser(name)
         p.add_argument("ids", nargs="*")
         if name == "build":
@@ -61,11 +61,6 @@ def main():
     elif a.cmd == "status":
         from . import validate
         validate.status(ids)
-    elif a.cmd == "pdf":
-        from . import pdf
-        # without ids: the whole Werke as one book
-        for v in a.ids or ["werke"]:
-            ok &= pdf.run(v)
     sys.exit(0 if ok else 1)
 
 

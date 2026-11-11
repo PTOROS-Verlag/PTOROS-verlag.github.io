@@ -2,15 +2,19 @@
 // Proportions follow the Bondi print, measured on the SBB scans: leading
 // 1.234 × the type size, small capitals at x-height, initials 1.3 ×.
 
+#import "/shared/ptoros.typ": frontmatter, kartei
+
 #let serif = "StefanGeorge"
 #let grotesk = "TeX Gyre Heros"
 
-// epubli trims 3 mm on every side, so the PDF carries that as bleed
-#let bleed = 3mm
-#let trim = (width: 125mm, height: 190mm)
+// epubli trims the bleed on every side, so the PDF carries it
+#let bleed = kartei.format.bleed * 1mm
+#let trim = (width: kartei.format.width * 1mm, height: kartei.format.height * 1mm)
 #let inside = 20mm
 #let outside = 14mm
 #let measure-width = trim.width - inside - outside
+// epubli's softcover, the binding with the lower limit
+#let max-pages = 784
 
 #let size = 10pt
 // baseline to baseline
@@ -44,6 +48,8 @@
     top-edge: "cap-height", bottom-edge: "baseline")
   set par(leading: lead, spacing: lead)
   doc
+  context assert(here().page() <= max-pages,
+    message: "more than the " + str(max-pages) + " pages epubli binds")
 }
 
 #let marks(pb) = for n in pb [#metadata(n)<ga-pb>]
@@ -69,11 +75,11 @@
   pagebreak()
 }
 
-#let book() = display({
-  text(size: 15pt, tracking: 0.08em)[STEFAN GEORGE]
-  v(6mm)
-  text(size: 10pt, tracking: 0.08em)[GESAMT-AUSGABE \ DER WERKE \ ENDGÜLTIGE FASSUNG]
-})
+// the kartei's half-title, title page and imprint, without folios
+#let book() = {
+  set page(footer: none)
+  frontmatter()
+}
 
 // the contents list volumes and sections, the index titles and first lines
 #let toc-entry(kind, level, s) = [#metadata((kind: kind, level: level, text: s))<ga-toc>]

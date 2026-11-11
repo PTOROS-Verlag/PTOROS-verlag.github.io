@@ -1,5 +1,5 @@
 cache/
 review/
-result
 __pycache__/
-pdf/
+/werke.typ
+/ga*.typ
