@@ -51,9 +51,10 @@ def tei_tokens(path):
             state["page"] = int(el.get("n"))
             pbs.append((state["page"], len(tokens)))
             return
-        if name in ("figure", "teiHeader"):
+        # corr is the editor's reading; the witnesses read the print (sic)
+        if name in ("figure", "teiHeader", "corr"):
             return
-        if name in ("head", "l", "p") and kind is None:
+        if name in ("head", "l", "p", "bibl", "speaker") and kind is None:
             kind = name
             # lines of one lg share a group; anything else stands alone
             elems.append({"kind": name, "page": state["page"], "group": el.getparent() if name == "l" else el})

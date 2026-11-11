@@ -519,7 +519,7 @@
         <div n="2">
           <pb n="24" facs="#f0030"/>
           <head>PENTE PIGADIA</head>
-          <p rendition="#right"><hi rendition="#smaller">AN CLEMENS · GEFALLEN 29. APRIL 1897</hi></p>
+          <p rendition="#c"><hi rendition="#smaller">AN CLEMENS · GEFALLEN 29. APRIL 1897</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Als ihn im kampf des Türken kugel warf</l>
@@ -861,12 +861,14 @@
           <head>DER FUERST UND DER MINNER</head>
           <div n="3">
             <head>DER FUERST</head>
-            <lg type="poem">
-              <lg n="1">
+            <epigraph>
+              <lg>
                 <l><hi rendition="#smaller"> Schon weil du bist</hi></l>
                 <l><hi rendition="#smaller">Sei dir in dank genaht.</hi></l>
               </lg>
-              <lg n="2">
+            </epigraph>
+            <lg type="poem">
+              <lg n="1">
                 <l>Die überragend welten baun im sinn</l>
                 <l>Die reiche kneten · stapfend durch das land ·</l>
                 <l>Sie können dich wohl küren doch nicht schaffen:</l>
@@ -888,13 +890,15 @@
           <div n="3">
             <pb n="41" facs="#f0047"/>
             <head>DER MINNER</head>
-            <lg type="poem">
-              <lg n="1">
+            <epigraph>
+              <lg>
                 <l><hi rendition="#smaller"> ›In diesem blicke wohnt das fromme wähnen</hi></l>
                 <l><hi rendition="#smaller">Die sehnsucht nach erspähtem bild:</hi></l>
                 <l><hi rendition="#smaller">Des sonntags trauer wohnt in diesem blick.‹</hi></l>
               </lg>
-              <lg n="2">
+            </epigraph>
+            <lg type="poem">
+              <lg n="1">
                 <l>Wen werden opfer reuen · tier und frucht ·</l>
                 <l>Dass sie nicht halfen in der menschen dienst</l>
                 <l>Und bei der feier rauchten vom altar? ...</l>
@@ -919,13 +923,15 @@
         <div n="2">
           <pb n="42" facs="#f0048"/>
           <head>MANUEL UND MENES</head>
-          <lg type="poem">
-            <l><hi rendition="#smaller"> Ich merkte dass ein grösserer als ich</hi></l>
-            <l><hi rendition="#smaller">Erstanden war im wechsel der geschicke ...</hi></l>
-          </lg>
-          <p rendition="#right"><hi rendition="#smaller #i">Manuel II. 2</hi></p>
-          <div n="3">
-            <head>MENES:</head>
+          <epigraph>
+            <lg>
+              <l><hi rendition="#smaller"> Ich merkte dass ein grösserer als ich</hi></l>
+              <l><hi rendition="#smaller">Erstanden war im wechsel der geschicke ...</hi></l>
+            </lg>
+            <bibl rendition="#right"><hi rendition="#smaller #i">Manuel II. 2</hi></bibl>
+          </epigraph>
+          <sp>
+            <speaker>MENES:</speaker>
             <lg type="poem">
               <l>Seit jener nacht wo du vor uns erschienst</l>
               <l>Hat mir ein blitz den weg zugleich enthüllt</l>
@@ -948,9 +954,10 @@
               <l>Genossen die den arm mir warnend pressten</l>
               <l>Verliess ich schnell. Dein ist die macht. Befiehl!</l>
             </lg>
-            <div n="3">
-              <head>MANUEL:</head>
-              <lg type="poem">
+          </sp>
+          <sp>
+            <speaker>MANUEL:</speaker>
+            <lg type="poem">
                 <l>Durch diesen sichern sieg den du erfochten</l>
                 <l>Bist du voraus mir · teilst du nun mein werk.</l>
                 <l>Ward dir ein lenker neu: ward mir ein wächter.</l>
@@ -958,18 +965,19 @@
                 <l>Der würden räuber folgt nur seiner hand ·</l>
                 <l>Den echten sprossen führt die einzige stimme.</l>
                 <l>Ich Herr · du Helfer – wir sind gleich geweiht.</l>
-              </lg>
-            </div>
-          </div>
+            </lg>
+          </sp>
         </div>
         <div n="2">
           <pb n="44" facs="#f0050"/>
           <head>ALGABAL UND DER LYDER</head>
-          <lg type="poem">
-            <l><hi rendition="#smaller"> Das gleichgewicht der ungeheuren wage</hi></l>
-          </lg>
-          <div n="3">
-            <head>ALGABAL:</head>
+          <epigraph>
+            <lg>
+              <l><hi rendition="#smaller"> Das gleichgewicht der ungeheuren wage</hi></l>
+            </lg>
+          </epigraph>
+          <sp>
+            <speaker>ALGABAL:</speaker>
             <lg type="poem">
               <lg n="1">
                 <l>Nicht freut was tausendarmig heer mir bringt ·</l>
@@ -986,10 +994,11 @@
                 <l>Die kargen stunden treibend nach dem end.</l>
               </lg>
             </lg>
-            <div n="3">
-              <pb n="45" facs="#f0051"/>
-              <head>DER LYDER:</head>
-              <lg type="poem">
+          </sp>
+          <pb n="45" facs="#f0051"/>
+          <sp>
+            <speaker>DER LYDER:</speaker>
+            <lg type="poem">
                 <lg n="1">
                   <l>Ihr freunde mögt mit euren leibern prahlen ·</l>
                   <l>Sie ohne mich gewandt im morgen tummeln ·</l>
@@ -1004,15 +1013,15 @@
                   <l>Ich weiss dem licht nicht dank .. komm lezte wonne</l>
                   <l>Im eignen lauen blut den brand zu kühlen!</l>
                 </lg>
-              </lg>
-            </div>
-          </div>
+            </lg>
+          </sp>
         </div>
         <div n="2">
           <pb n="46" facs="#f0052"/>
           <head>KOENIG UND HARFNER</head>
-          <head>HARFNER:</head>
-          <lg type="poem">
+          <sp>
+            <speaker>HARFNER:</speaker>
+            <lg type="poem">
             <l>Wie vor das antlitz du den mantel zogst</l>
             <l>Gewahrt ich dass du eine träne bargest</l>
             <l>Und einen · Herr · mir nicht gewognen wink.</l>
@@ -1022,10 +1031,11 @@
             <l>So murrte wieder undankbares volk?</l>
             <l>Bedrohn die stolzen priester dich? Nun weiss ichs:</l>
             <l>Den sieg missgönnt der eifersüchtige gott.</l>
-          </lg>
-          <div n="3">
-            <pb n="47" facs="#f0053"/>
-            <head>KOENIG:</head>
+            </lg>
+          </sp>
+          <pb n="47" facs="#f0053"/>
+          <sp>
+            <speaker>KOENIG:</speaker>
             <lg type="poem">
               <l>Da du in meiner schande mich belauert –</l>
               <l>So hör was dir nicht frommt: mehr als die feinde</l>
@@ -1048,7 +1058,7 @@
               <l>Und schmilzest mein erhabnes königsleid</l>
               <l>In eitlen klang durch dein verworfen spiel.</l>
             </lg>
-          </div>
+          </sp>
         </div>
         <div n="2">
           <pb n="48" facs="#f0054"/>
@@ -3865,24 +3875,26 @@
             </lg>
           </div>
           <div n="3">
-            <lg type="poem">
-              <lg n="1">
-                <pb n="176" facs="#f0182"/>
+            <pb n="176" facs="#f0182"/>
+            <epigraph>
+              <lg>
                 <l><hi rendition="#smaller"> ›Geh ich an deinem haus vorbei</hi></l>
                 <l><hi rendition="#smaller">So send ich ein gebet hinauf</hi></l>
                 <l><hi rendition="#smaller">Als lägest du darinnen tot.‹</hi></l>
               </lg>
-              <lg n="2">
+            </epigraph>
+            <lg type="poem">
+              <lg n="1">
                 <l>Wenn ich auf deiner brücke steh</l>
                 <l>Sagt mir ein flüstern aus dem fluss:</l>
                 <l>Hier stieg vordem dein licht mir auf.</l>
               </lg>
-              <lg n="3">
+              <lg n="2">
                 <l>Und kommst du selber meines wegs</l>
                 <l>So haftet nicht mein aug und kehrt</l>
                 <l>Sich ohne schauder ohne gruss</l>
               </lg>
-              <lg n="4">
+              <lg n="3">
                 <l>Mit einem inneren neigen nur</l>
                 <l>Wie wir es pflegen zieht daher</l>
                 <l>Ein fremder auf dem lezten gang.</l>
@@ -4858,7 +4870,7 @@
         <head>ANHANG</head>
         <pb n="216" facs="#f0222"/>
         <p>Die erste ausgabe des Siebenten Ringes erschien zum herbst 1907 im verlag der Blätter für die Kunst. Die gesamte ausstattung des buches war von Melchior Lechter unter dessen künstlerischer leitung das werk im sommer des jahres gedruckt wurde. Die erste öffentliche ausgabe erschien bei Georg Bondi 1908.</p>
-        <p>Vor der ersten ausgabe erschienen folgende gedichte: <hi rendition="#k">goethe-tag</hi> (s. 10) unter der überschrift ›Noch ein Goethespruch‹ Bl. f.d.K. IV. F. 1. 2. B. Nietzsche (s. 12) Widmung an M. L (s. 186) ›Wenn dich meine wünsche ..‹ (s. 66) ›Für heute lass uns nur ..‹ (s. 68) ›Stern der dies jahr ..‹ (s. 69) ›Betrübt als führten sie ..‹ (s. 74) ›Du sagst dass fels und mauer ..‹ (s. 76) <hi rendition="#k">der spiegel</hi> (s. 78) ›Trübe seele ..‹ (s. 77) in der V.F. der Bl. f.d.K. Unter der gesamtüberschrift <hi rendition="#k">zeitgedichte</hi> brachte die VII. folge: <hi rendition="#k">das zeitgedicht</hi> (s. 6) <hi rendition="#k">dante und das zeitgedicht</hi> (s. 8) <hi rendition="#k">boecklin</hi> (s. 14) <hi rendition="#k">porta nigra</hi> (s. 16) <hi rendition="#k">franken</hi> (s. 18) <hi rendition="#k">leo</hi> XIII. (s. 20) <hi rendition="#k">die graeber in speier</hi> (s. 22) <hi rendition="#k">das zeitgedicht</hi> (s. 32) <hi rendition="#k">pente pigadia</hi> (s. 24) <hi rendition="#k">die schwestern</hi> (s. 26) <hi rendition="#k">die tote stadt</hi> (s. 30) · ferner unter <hi rendition="#k">gestalten</hi>: <hi rendition="#k">der kampf</hi> (s. 36) <hi rendition="#k">litanei</hi> (jezt <hi rendition="#k">traumdunkel</hi> s. 148) <hi rendition="#k">der minner</hi> (s. 41) .. von den <hi rendition="#k">erwiderungen</hi>: <hi rendition="#k">wunder</hi> (s. 99) <hi rendition="#k">die verkennung</hi> (s. 101) .. von den <hi rendition="#k">landschaften</hi> die erste (s. 130) und ohne verfassernamen die <hi rendition="#k">urspruenge</hi> ›als Preis und Danksagung‹ (s. 127). In ›<hi rendition="#k">maximin · ein gedenkbuch</hi>‹ erschienen: <hi rendition="#k">auf das leben und den tod maximins das erste bis dritte</hi> (s. 105). Die zeitgedichte s. 10. 12. 6. 14. 22. die widmung an Lechter (s. 186) und die gedichte s. 66. 69. 74. 76. 78 wurden im 2. auswahlband der Blätter f.d. Kunst von 1904 wiederholt.</p>
+        <p>Vor der ersten ausgabe erschienen folgende gedichte: <hi rendition="#k">goethe-tag</hi> (s. 10) unter der überschrift ›Noch ein Goethespruch‹ Bl. f.<choice><sic>d</sic><corr>d.</corr></choice> K. IV. F. 1. 2. B. Nietzsche (s. 12) Widmung an M. L. (s. 186) ›Wenn dich meine wünsche ..‹ (s. 66) ›Für heute lass uns nur ..‹ (s. 68) ›Stern der dies jahr ..‹ (s. 69) ›Betrübt als führten sie ..‹ (s. 74) ›Du sagst dass fels und mauer ..‹ (s. 76) <hi rendition="#k">der spiegel</hi> (s. 78) ›Trübe seele ..‹ (s. 77) in der V.F. der Bl. <choice><sic>f</sic><corr>f.</corr></choice> d.K. Unter der gesamtüberschrift <hi rendition="#k">zeitgedichte</hi> brachte die VII. folge: <hi rendition="#k">das zeitgedicht</hi> (s. 6) <hi rendition="#k">dante und das zeitgedicht</hi> (s. 8) <hi rendition="#k">boecklin</hi> (s. 14) <hi rendition="#k">porta nigra</hi> (s. 16) <hi rendition="#k">franken</hi> (s. 18) <hi rendition="#k">leo</hi> XIII. (s. 20) <hi rendition="#k">die graeber in speier</hi> (s. 22) <hi rendition="#k">das zeitgedicht</hi> (s. 32) <hi rendition="#k">pente pigadia</hi> (s. 24) <hi rendition="#k">die schwestern</hi> (s. 26) <hi rendition="#k">die tote stadt</hi> (s. 30) · ferner unter <hi rendition="#k">gestalten</hi>: <hi rendition="#k">der kampf</hi> (s. 36) <hi rendition="#k">litanei</hi> (jezt <hi rendition="#k">traumdunkel</hi> s. 148) <hi rendition="#k">der minner</hi> (s. 41) .. von den <hi rendition="#k">erwiderungen</hi>: <hi rendition="#k">wunder</hi> (s. 99) <hi rendition="#k">die verkennung</hi> (s. 101) .. von den <hi rendition="#k">landschaften</hi> die erste (s. 130) und ohne verfassernamen die <hi rendition="#k">urspruenge</hi> ›als Preis und Danksagung‹ (s. 127). In ›<hi rendition="#k">maximin · ein gedenkbuch</hi>‹ erschienen: <hi rendition="#k">auf das leben und den tod maximins das erste bis dritte</hi> (s. 105). Die zeitgedichte s. 10. 12. 6. 14. 22 · die widmung an Lechter (s. 186) und die gedichte s. 66. 69. 74. 76. 78 wurden im 2. auswahlband der Blätter f.d. Kunst von 1904 wiederholt.</p>
         <pb n="217" facs="#f0223"/>
         <p>Von den wenigen abweichungen der früheren drucke seien hier nur zwei erwähnt: die lezte strofe des gedichtes s. 105 lautet in der fassung des <hi rendition="#k">gedenkbuches</hi>:</p>
         <p>Nun klagt nicht mehr – denn auch ihr wart erkoren</p>

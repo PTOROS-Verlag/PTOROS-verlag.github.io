@@ -25,7 +25,7 @@ key	decision	text	note
 140|.|Werwey|I	fix	Verwey	druck: Verwey
 17|ALTER|·|LIEBE	edited		MIT DIESEN … / GEBAR … im druck in kapitälchen (grössere anfangsbuchstaben); als #k gesetzt
 45|WINKE|*|$	edited		stern und M stehen auf s. 46; pb vor den stern gesetzt
-11|und|bei|musse	keep		druck 'be musse' mit ausgefallenem i; zeno 'bei' richtig
+11|und|bei|musse	edited		druck 'be musse' mit ausgefallenem i (druckfehler); als choice/sic/corr kodiert
 5|1908|zurück|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
 9|gezittert|·|Hier	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
 10|die|bütten|·	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
@@ -165,3 +165,6 @@ key	decision	text	note
 17|alter|·|liebe	keep		druck bestätigt; ocr-fehler (hochpunkt, punktreihe, stern)
 28|^|. . . . . . . . .|WEM	keep		druck bestätigt; ocr-fehler (hochpunkt, punktreihe, stern)
 46|^|*|M	keep		druck bestätigt; ocr-fehler (hochpunkt, punktreihe, stern)
+28|stanza|8	keep		motto als epigraph; die quellenangabe steht ohne abstand unter dem motto
+ga09|epigraph	edited		mottos (s. 14, 28, 46, 124) aus dem gedicht gelöst und als epigraph kodiert, Dante-angabe als bibl; strofen neu gezählt
+ga09|widmungen	edited		widmungen (s. 36, 54) wie im druck zentriert (#c) statt zenos rechtsbündig

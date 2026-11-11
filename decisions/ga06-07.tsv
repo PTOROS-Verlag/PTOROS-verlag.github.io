@@ -10,8 +10,10 @@ key	decision	text	note
 178|eins|verl eren|müssen	fix	verlieren	druck: verlieren (zeno 'verl eren')
 203|schändung|nichr|zu	fix	nicht	druck: nicht (zeno 'nichr')
 216|verfassernamen|d e|urspruenge	fix	die	druck: die (zeno 'd e')
-216|d|.|K	unsure		druck: 'Bl. f. d K.' ohne punkt nach d (druckfehler?); zeno ergänzt den punkt. druckgetreu oder berichtigt?
-216|f|.|d	unsure		druck: 'Bl. f d. K.' ohne punkt nach f (druckfehler?); zeno ergänzt den punkt. druckgetreu oder berichtigt?
+216|d|.|K	edited		druck: 'Bl. f. d K.' ohne punkt nach d (druckfehler); als choice/sic/corr kodiert
+216|f|.|d	edited		druck: 'Bl. f d. K.' ohne punkt nach f (druckfehler); als choice/sic/corr kodiert
+216|L|∅|(	fix	. 	druck: M. L. (zeno 'M. L')
+216|22|.|die	fix	 ·	druck: hochpunkt nach 22, zeno punkt
 148|die|reise · matt|sind	keep		druck setzt die halbverse versetzt in zwei zeilen; zeno als eine zeile, belassen
 6|first|·|von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
 6|schauern|·|las	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
@@ -272,3 +274,8 @@ key	decision	text	note
 0607|apostroph	edited		sechs zeno-apostrophe (las't, schrei'n, loh'n, schuf't, mai'n, kos't) wie im druck als ’ gesetzt; ocr hatte ' bestätigt
 ga06-07|returnent	edited		s. 19 RETURNENT FRANC … im druck in kapitälchen (grösseres R); zeno in versalien
 109|mai|’|n	keep		druck ’; ocr liest '
+42|stanza|2	keep		motto als epigraph; die quellenangabe steht ohne abstand unter dem motto
+42|stanza|3	keep		motto als epigraph; strukturgrenze zwischen epigraph und MENES:, kein ocr-abstand
+ga06-07|epigraph	edited		mottos (s. 40, 41, 42, 44, 176) aus dem gedicht gelöst und als epigraph kodiert; strofen neu gezählt
+ga06-07|sp	edited		gespräche (MANUEL UND MENES · ALGABAL UND DER LYDER · KOENIG UND HARFNER) als sp/speaker statt geschachtelter divs
+ga06-07|widmungen	edited		widmung zu PENTE PIGADIA wie im druck zentriert (#c) statt zenos rechtsbündig

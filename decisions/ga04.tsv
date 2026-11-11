@@ -2,7 +2,7 @@ key	decision	text	note
 21|du|'|s	fix	’	druck hat den typographischen apostroph
 33|ruder|·|Drüben	fix	–	druck: gedankenstrich, nicht hochpunkt
 53|von|mal|und	fix	mai	druck: mai (zeno-tippfehler)
-7|ein|wissen - darum|für	unsure		druck: 'wissen-' am zeilenende, 'darum' auf der nächsten zeile; zeno 'wissen- darum'. wissen-darum, wissendarum oder wissen darum?
+7|ein|wissen - darum|für	fix	wissen-darum	druck: 'wissen-' am zeilenende; Bondi 1899 und 1908 setzen 'wissen-darum' mitten in der zeile, also echter bindestrich
 13|den|bütten|·	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
 39|uns|nickt|Erkennen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
 55|Von|schatten|singen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)

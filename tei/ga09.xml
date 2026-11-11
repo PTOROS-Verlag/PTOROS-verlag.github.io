@@ -193,7 +193,7 @@
             <l>Doch wohin lockst du und führst du · erhabenes Paar?..</l>
             <l>Sind es die schatten der sehnsucht · lieblich und quälend?..</l>
             <l>Säulenhöfe seh ich mit bäumen und brunnen</l>
-            <l>Jugend und alter in gruppen bei werk und bei musse</l>
+            <l>Jugend und alter in gruppen bei werk und <choice><sic>be</sic><corr>bei</corr></choice> musse</l>
             <l>Maass neben stärke .. so weiss ich allein die gebärden</l>
             <l>Attischer würde .. die süssen und kräftigen klänge</l>
             <l>Eines äolischen mundes. Doch nein: ich erkenne</l>
@@ -208,12 +208,14 @@
       <div n="1">
         <pb n="13" facs="#f0017"/>
         <head>HYPERION</head>
-        <lg type="poem">
-          <pb n="14" facs="#f0018"/>
-          <l><hi rendition="#smaller"> DEM SEHNENDEN WAR</hi></l>
-          <l><hi rendition="#smaller">DER WINK GENUG · UND WINKE SIND</hi></l>
-          <l><hi rendition="#smaller">VON ALTERS HER DIE SPRACHE DER GÖTTER</hi></l>
-        </lg>
+        <pb n="14" facs="#f0018"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller"> DEM SEHNENDEN WAR</hi></l>
+            <l><hi rendition="#smaller">DER WINK GENUG · UND WINKE SIND</hi></l>
+            <l><hi rendition="#smaller">VON ALTERS HER DIE SPRACHE DER GÖTTER</hi></l>
+          </lg>
+        </epigraph>
         <div n="2">
           <head>I</head>
           <lg type="poem">
@@ -461,25 +463,27 @@
       <div n="1">
         <pb n="27" facs="#f0031"/>
         <head>DER KRIEG</head>
+        <pb n="28" facs="#f0032"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller">.........WEM DAS GEWISSEN DROHE</hi></l>
+            <l><hi rendition="#smaller">MIT EIGNER ODER FREMDER SCHANDE DRUCKE</hi></l>
+            <l><hi rendition="#smaller">EMPFINDET DEINE WORTE WOL ALS ROHE.</hi></l>
+          </lg>
+          <lg>
+            <l><hi rendition="#smaller">DEM OHNGEACHTET HALT DICH FREI VON SCHMUCKE</hi></l>
+            <l><hi rendition="#smaller">UND GANZ ERÖFFNE DAS VON DIR GESCHAUTE.</hi></l>
+            <l><hi rendition="#smaller">LASS ES GESCHEHN DASS WEN ES BEISST SICH JUCKE.</hi></l>
+          </lg>
+          <lg>
+            <l><hi rendition="#smaller">WENN AUCH BESCHWERLICH WERDEN DEINE LAUTE</hi></l>
+            <l><hi rendition="#smaller">BEIM ERSTEN KOSTEN: WIRD LEBENDIGE ZEHRUNG</hi></l>
+            <l><hi rendition="#smaller">MAN DRAUS ENTNEHMEN WENN MAN SIE VERDAUTE.</hi></l>
+          </lg>
+          <bibl><hi rendition="#smaller">DANTE · GÖTTLICHE KOMÖDIE · HIMMEL XVII</hi></bibl>
+        </epigraph>
         <lg type="poem">
           <lg n="1">
-            <pb n="28" facs="#f0032"/>
-            <l rendition="#et"><hi rendition="#smaller">.........WEM DAS GEWISSEN DROHE</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">MIT EIGNER ODER FREMDER SCHANDE DRUCKE</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">EMPFINDET DEINE WORTE WOL ALS ROHE.</hi></l>
-          </lg>
-          <lg n="2">
-            <l rendition="#et"><hi rendition="#smaller">DEM OHNGEACHTET HALT DICH FREI VON SCHMUCKE</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">UND GANZ ERÖFFNE DAS VON DIR GESCHAUTE.</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">LASS ES GESCHEHN DASS WEN ES BEISST SICH JUCKE.</hi></l>
-          </lg>
-          <lg n="3">
-            <l rendition="#et"><hi rendition="#smaller">WENN AUCH BESCHWERLICH WERDEN DEINE LAUTE</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">BEIM ERSTEN KOSTEN: WIRD LEBENDIGE ZEHRUNG</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">MAN DRAUS ENTNEHMEN WENN MAN SIE VERDAUTE.</hi></l>
-            <l rendition="#et"><hi rendition="#smaller">DANTE · GÖTTLICHE KOMÖDIE · HIMMEL XVII</hi></l>
-          </lg>
-          <lg n="4">
             <l>Wie das getier der wälder das bisher</l>
             <l>Sich scheute oder fletschend sich zerriss</l>
             <l>Bei jähem brand und wenn die erde bebt</l>
@@ -493,7 +497,7 @@
             <l>Vergass der feigen jahre wust und tand</l>
             <l>Das volk und sah sich gross in seiner not.</l>
           </lg>
-          <lg n="5">
+          <lg n="2">
             <pb n="29" facs="#f0033"/>
             <l>Sie kamen zu dem Siedler auf dem berg:</l>
             <l>›Liegst du noch still beim ungeheuren los?‹</l>
@@ -508,7 +512,7 @@
             <l>Dies sind die flammenzeichen · nicht die kunde.</l>
             <l>Am streit wie ihr ihn fühlt nehm ich nicht teil.</l>
           </lg>
-          <lg n="6">
+          <lg n="3">
             <l>Nie wird dem Seher dank .. er trifft auf hohn</l>
             <l>Und steine · ruft er unheil – wut und steine</l>
             <l>Wenn es hereinbrach. Angehäufte frevel</l>
@@ -522,7 +526,7 @@
             <l>Des widerparts an unsrer söhn und enkel</l>
             <l>Verglasten augen und zerfeztem leib.</l>
           </lg>
-          <lg n="7">
+          <lg n="4">
             <pb n="30" facs="#f0034"/>
             <l><hi rendition="#k">Sein</hi> amt ist lob und fem · gebet und sühne ·</l>
             <l>Er liebt und dient auf seinem weg. Die jüngsten</l>
@@ -537,7 +541,7 @@
             <l>Die sie begehn sind wahllos auszurotten</l>
             <l>Wenn nicht ihr bestes gut zum banne geht.</l>
           </lg>
-          <lg n="8">
+          <lg n="5">
             <l>Zu jubeln ziemt nicht: kein triumf wird sein ·</l>
             <l>Nur viele untergänge ohne würde ..</l>
             <l>Des schöpfers hand entwischt rast eigenmächtig</l>
@@ -551,7 +555,7 @@
             <l>In dem getob. Heilig sind nur die säfte</l>
             <l>Noch makelfrei versprizt – ein ganzer strom.</l>
           </lg>
-          <lg n="9">
+          <lg n="6">
             <pb n="31" facs="#f0035"/>
             <l>Wo zeigt der Mann sich der vertritt? das Wort</l>
             <l>Das einzig gilt fürs spätere gericht?</l>
@@ -566,7 +570,7 @@
             <l>Schliesslich zum abgrundsrand gebracht: das reich ..</l>
             <l>Doch vor dem schlimmren feind kann er nicht retten.</l>
           </lg>
-          <lg n="10">
+          <lg n="7">
             <l>›Fehlt dir der blick für solch ein maass von opfern</l>
             <l>Und kraft der allheit?‹ Diese sind auch drüben.</l>
             <l>Das nötige werk der pflicht bleibt stumpf und glanzlos</l>
@@ -580,7 +584,7 @@
             <l>Umkröche sich geschmiegt wenn sich erhöbe</l>
             <l>Furchtbar vor ihm das künftige gesicht.</l>
           </lg>
-          <lg n="11">
+          <lg n="8">
             <pb n="32" facs="#f0036"/>
             <l>Und was schwillt auf als geist! Solch zart gewächs</l>
             <l>Hat fernab sein entstehn ... Wie faulige frucht</l>
@@ -595,7 +599,7 @@
             <l>Merkt wie er tastet im verhängnis · keiner</l>
             <l>Erspäht ein blasses glühn vom morgenrot.</l>
           </lg>
-          <lg n="12">
+          <lg n="9">
             <l>Weit minder wundert es dass soviel sterben</l>
             <l>Als dass soviel zu leben wagt. Wer schritthielt</l>
             <l>Mit dem Jahrhundert darf heut spuk nur sehn.</l>
@@ -609,7 +613,7 @@
             <l>Er hat das schicksalsauge das der schreck</l>
             <l>Des ehernen fugs gorgonisch nicht versteint.</l>
           </lg>
-          <lg n="13">
+          <lg n="10">
             <pb n="33" facs="#f0037"/>
             <l>In beiden lagern kein Gedanke – wittrung</l>
             <l>Um was es geht ... Hier: sorge nur zu krämern</l>
@@ -624,7 +628,7 @@
             <l>Ein ›Hass und Abscheu menschlichen geschlechtes‹</l>
             <l>Zum weitren male die erlösung bringt.</l>
           </lg>
-          <lg n="14">
+          <lg n="11">
             <l>Doch endet nicht mit fluch der sang. Manch ohr</l>
             <l>Verstand schon meinen preis auf stoff und stamm ·</l>
             <l>Auf kern und keim .. schon seh ich manche hände</l>
@@ -638,7 +642,7 @@
             <l>Ihr echtes antlitz .. Land dem viel verheissung</l>
             <l>Noch innewohnt – das drum nicht untergeht!</l>
           </lg>
-          <lg n="15">
+          <lg n="12">
             <pb n="34" facs="#f0038"/>
             <l>Die jugend ruft die Götter auf .. Erstandne</l>
             <l>Wie Ewige nach des Tages fülle .. Lenker</l>
@@ -659,8 +663,8 @@
         <pb n="35" facs="#f0039"/>
         <head>DER DICHTER IN ZEITEN DER WIRREN</head>
         <pb n="36" facs="#f0040"/>
-        <p rendition="#right"><hi rendition="#smaller">DEM ANDENKEN DES</hi></p>
-        <p rendition="#right"><hi rendition="#smaller">GRAFEN BERNHARD UXKULL</hi></p>
+        <p rendition="#c"><hi rendition="#smaller">DEM ANDENKEN DES</hi></p>
+        <p rendition="#c"><hi rendition="#smaller">GRAFEN BERNHARD UXKULL</hi></p>
         <lg type="poem">
           <lg n="1">
             <l>Der Dichter heisst im stillern gang der zeit</l>
@@ -817,17 +821,19 @@
         <pb n="45" facs="#f0049"/>
         <head>DIE WINKE</head>
         <pb n="46" facs="#f0050"/>
-        <p rendition="#c"><hi rendition="#smaller">*</hi></p>
-        <p rendition="#c">M</p>
-        <lg type="poem">
-          <lg n="1">
+        <epigraph>
+          <p rendition="#c"><hi rendition="#smaller">*</hi></p>
+          <p rendition="#c">M</p>
+          <lg>
             <l><hi rendition="#smaller">JEZT NAHT NACH TAUSENDEN VON JAHREN</hi></l>
             <l><hi rendition="#smaller">EIN EINZIGER FREIER AUGENBLICK:</hi></l>
             <l><hi rendition="#smaller">DA BRECHEN ENDLICH ALLE KETTEN</hi></l>
             <l><hi rendition="#smaller">UND AUS DER WEITGEBORSTNEN ERDE</hi></l>
             <l><hi rendition="#smaller">STEIGT JUNG UND SCHÖN EIN NEUER HALBGOTT AUF</hi></l>
           </lg>
-          <lg n="2">
+        </epigraph>
+        <lg type="poem">
+          <lg n="1">
             <l>Einer kam vom feld her nach dem tor.</l>
             <l>Purpurn blau entflammte das gebirg</l>
             <l>Fahler himmel · tote luft bewarf</l>
@@ -837,7 +843,7 @@
             <l>Herr! erkenn ich deine zeichen recht?</l>
             <l>Stimme scholl herab: Es ist so weit.</l>
           </lg>
-          <lg n="3">
+          <lg n="2">
             <pb n="47" facs="#f0051"/>
             <l>Dreie standen in dem raum voll angst</l>
             <l>Hielten sich im kreis geeint die hand</l>
@@ -848,7 +854,7 @@
             <l>Unsres glücks da wir aus weltennacht</l>
             <l>Leibhaft schreiten sahn das ewige kind.</l>
           </lg>
-          <lg n="4">
+          <lg n="3">
             <l>Sieben spähten von dem berg ins land ..</l>
             <l>Trümmer rauchten meltau schlug die flur:</l>
             <l>Deinen odem sandten wir durchs reich</l>
@@ -946,7 +952,7 @@
         <pb n="53" facs="#f0057"/>
         <head>BURG FALKENSTEIN</head>
         <pb n="54" facs="#f0058"/>
-        <p rendition="#right"><hi rendition="#smaller">AN ERNST</hi></p>
+        <p rendition="#c"><hi rendition="#smaller">AN ERNST</hi></p>
         <lg type="poem">
           <lg n="1">
             <l>Zur bewaldeten kuppe</l>
@@ -2522,11 +2528,13 @@
       <div n="1">
         <pb n="123" facs="#f0127"/>
         <head>DAS LIED</head>
-        <lg type="poem">
-          <pb n="124" facs="#f0128"/>
-          <l><hi rendition="#smaller"> WAS ICH NOCH SINNE UND WAS ICH NOCH FÜGE</hi></l>
-          <l><hi rendition="#smaller">WAS ICH NOCH LIEBE TRÄGT DIE GLEICHEN ZÜGE</hi></l>
-        </lg>
+        <pb n="124" facs="#f0128"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller"> WAS ICH NOCH SINNE UND WAS ICH NOCH FÜGE</hi></l>
+            <l><hi rendition="#smaller">WAS ICH NOCH LIEBE TRÄGT DIE GLEICHEN ZÜGE</hi></l>
+          </lg>
+        </epigraph>
         <div n="2">
           <lg type="poem">
             <lg n="1">

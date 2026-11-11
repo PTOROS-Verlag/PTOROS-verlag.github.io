@@ -64,8 +64,18 @@ images separately.
 - zeno's headings "Widmung" and "Vorrede" are its own labels, not printed.
 - A verse set on two lines only because it is too long for the measure is
   one `<l>`; lines George breaks on purpose stay separate.
+- A printing error stays as printed in `<choice><sic>…</sic><corr>…</corr></choice>`;
+  `collate` reads only the `sic` side, which is what the scans show.
+- A motto set before a poem or a cycle (smaller, often a quotation) is an
+  `<epigraph>` after the heading, its source a `<bibl>`; zeno runs it into the
+  poem as a first stanza.
+- A dedication under a title is a `<p>` wholly in `#smaller` capitals,
+  aligned as printed: `#c` centred, no rendition flush left (DTABf has no
+  `#left`); zeno sets them all flush right. Bd. V prints its titles and
+  dedications flush left, the other volumes centre them.
 - DTABf has no `figDesc` and allows `milestone/@rendition` only for rules, so
   images are `<figure><note type="editorial">` with zeno's description, and
   zeno's lines of asterisks stay text.
 - DTABf allows `<head>` only at the top of a div: a heading inside a poem
-  (e.g. a speaker) opens a nested div.
+  opens a nested div. A dialogue poem is a series of `<sp>`, each with its
+  `<speaker>`.

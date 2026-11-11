@@ -1558,7 +1558,7 @@
         <div n="2">
           <pb n="68" facs="#f0076"/>
           <head>BLAUE STUNDE</head>
-          <p rendition="#right"><hi rendition="#smaller">AN REINHOLD UND SABINE LEPSIUS</hi></p>
+          <p><hi rendition="#smaller">AN REINHOLD UND SABINE LEPSIUS</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Sieh diese blaue stunde</l>
@@ -1589,7 +1589,7 @@
         <div n="2">
           <pb n="69" facs="#f0077"/>
           <head>DÜNENHAUS</head>
-          <p rendition="#right"><hi rendition="#smaller">AN ALBERT UND KITTY VERWEY</hi></p>
+          <p><hi rendition="#smaller">AN ALBERT UND KITTY VERWEY</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Ist ein dach noch das so tiefen friedens</l>
@@ -1622,7 +1622,7 @@
           <head>EIN KNABE DER MIR VON HERBST UND ABEND SANG:</head>
           <div n="3">
             <head>I</head>
-            <p rendition="#right"><hi rendition="#smaller">AN CYRIL MEIR SCOTT</hi></p>
+            <p><hi rendition="#smaller">AN CYRIL MEIR SCOTT</hi></p>
             <lg type="poem">
               <lg n="1">
                 <l>Sie die in träumen lebten sehen wach</l>
@@ -1714,7 +1714,7 @@
         <div n="2">
           <pb n="73" facs="#f0081"/>
           <head>JULI-SCHWERMUT</head>
-          <p rendition="#right"><hi rendition="#smaller">AN ERNEST DOWSON</hi></p>
+          <p><hi rendition="#smaller">AN ERNEST DOWSON</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Blumen des sommers duftet ihr noch so reich:</l>
@@ -1745,7 +1745,7 @@
         <div n="2">
           <pb n="74" facs="#f0082"/>
           <head>FELD VOR ROM</head>
-          <p rendition="#right"><hi rendition="#smaller">AN LUDWIG VON HOFMANN</hi></p>
+          <p><hi rendition="#smaller">AN LUDWIG VON HOFMANN</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Von höhen maassen wir die abendgegend</l>
@@ -1776,7 +1776,7 @@
         <div n="2">
           <pb n="75" facs="#f0083"/>
           <head>SÜDLICHE BUCHT</head>
-          <p rendition="#right"><hi rendition="#smaller">AN LUDWIG VON HOFMANN</hi></p>
+          <p><hi rendition="#smaller">AN LUDWIG VON HOFMANN</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>An grünen klippen laden selige gärten</l>
@@ -1807,7 +1807,7 @@
         <div n="2">
           <pb n="76" facs="#f0084"/>
           <head>WINTERWENDE</head>
-          <p rendition="#right"><hi rendition="#smaller">AN CLEMENS FRANCKENSTEIN</hi></p>
+          <p><hi rendition="#smaller">AN CLEMENS FRANCKENSTEIN</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Ist von mond – von sonne dieser glanz?</l>
@@ -1838,7 +1838,7 @@
         <div n="2">
           <pb n="77" facs="#f0085"/>
           <head>DEN BRÜDERN</head>
-          <p rendition="#right"><hi rendition="#smaller">AN LEOPOLD ANDRIAN</hi></p>
+          <p><hi rendition="#smaller">AN LEOPOLD ANDRIAN</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Als unsre schnelle jugend noch nicht wählte</l>
@@ -1869,7 +1869,7 @@
         <div n="2">
           <pb n="78" facs="#f0086"/>
           <head>DIE EBENE</head>
-          <p rendition="#right"><hi rendition="#smaller">AN CARL AUGUST KLEIN</hi></p>
+          <p><hi rendition="#smaller">AN CARL AUGUST KLEIN</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Silberne himmelsferne spannt</l>
@@ -1900,7 +1900,7 @@
         <div n="2">
           <pb n="79" facs="#f0087"/>
           <head>FAHRT-ENDE</head>
-          <p rendition="#right"><hi rendition="#smaller">AN RICHARD PERLS</hi></p>
+          <p><hi rendition="#smaller">AN RICHARD PERLS</hi></p>
           <lg type="poem">
             <lg n="1">
               <l>Wir schritten redend auf den tempeldielen</l>
