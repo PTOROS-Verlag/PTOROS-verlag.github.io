@@ -1,13 +1,6 @@
-.PHONY: all
+include ../../shared/book.mk
+
 all: koptisch.pdf cover.pdf
 
-koptisch.pdf: koptisch.typ
-	typst compile $<
-
-.PHONY: clean
-clean:
-	rm koptisch.pdf
-	rm cover.pdf
-
-cover.pdf: cover.tex
-	latexmk -pdf $<
+koptisch.pdf: koptisch.typ $(kartei)
+	$(typst) $<

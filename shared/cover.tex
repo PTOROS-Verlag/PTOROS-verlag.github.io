@@ -1,0 +1,46 @@
+\documentclass[
+  spinewidth=$spine,
+  coverheight=$height,
+  coverwidth=$width,
+  bleedwidth=$bleed,
+  marklength=0mm
+]{bookcover}
+
+\usepackage{fontspec}
+\setmainfont{Alegreya Sans}
+\usepackage{xcolor}
+
+\definecolor{stars}{HTML}{02174c}
+
+\newbookcovercomponenttype{center rotate}{%
+  \parbox[t][\partheight][c]{\partwidth}{%
+    \begin{center}
+       \rotatebox[origin=c]{90}{#1}
+    \end{center}}}
+
+\begin{document}
+  \begin{bookcover}
+    \bookcovercomponent{color}{bg whole}{black!90!white}
+    \bookcovercomponent{color}{bg spine}{black!90!white}
+    \bookcovercomponent{color}{bg front}{stars!70!black}
+    \bookcovercomponent{normal}{front}[0.06\textwidth,0.06\textwidth,0.06\textwidth,0.06\textwidth]{
+      \Huge\color{white}
+      {\Large $author\\[0.5\baselineskip]}
+      {\Huge\bfseries $cover_title\\[0.5\baselineskip]}
+      {\huge $subtitle}\vfill
+      \par
+      PTOROS}
+
+    \bookcovercomponent{normal}{back}{%
+      \centering\large\color{white}\vspace{2em}
+      \parbox{0.38\textwidth}{%
+$back
+      \bigskip
+    }}
+
+    \bookcovercomponent{center rotate}{spine}{
+      \color{white}\Large
+      $author \hspace{8.4cm} \textbf{$title}
+    }
+  \end{bookcover}
+\end{document}

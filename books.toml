@@ -1,0 +1,226 @@
+# the kartei: one card per book, in the order the website lists them. frontmatter, covers and
+# website are generated from it.
+#
+# text uses typst markup: _emphasis_, *strong*, a line ending in `\` breaks the line, a blank
+# line starts a paragraph. ==text== underlines a passage on the website and is plain elsewhere.
+
+# trim size and bleed of every book, in mm
+[format]
+width = 125
+height = 190
+bleed = 3
+
+# imprint wording per book language
+[imprint.de]
+by = "von"
+design = "Umschlag, Satz und Layout gestaltet vom Herausgeber"
+printing = "Druck und Bindung: Neopubli GmbH, Berlin"
+printed = "Printed in Germany"
+
+[imprint.la]
+design = "Tegumentum et formam libri disposuit ipse qui edidit"
+printing = "Typis excudit et colligavit societas Neopubli Berolinensis"
+printed = "Printed in Germany"
+
+[imprint.el]
+design = "Ὁ ἐκδότης τὸ περικάλυμμα καὶ τὴν διάταξιν τῶν γραμμάτων κατεσκεύασεν."
+printing = "Ἡ τύπωσις καὶ ἡ σύνδεσις ὑπὸ τῆς Neopubli GmbH, Berlin"
+printed = "Ἐν Γερμανίᾳ ἐκτυπωθέν."
+
+# fields of a card:
+#   slug               directory under books/
+#   language           de, la or el: imprint wording
+#   title, subtitle, author
+#   short-title        half-title and spine, if shorter than the title
+#   cover-title        front cover, to break the title by hand
+#   title-translation, author-translation   website, for titles not in german
+#   by, by-author      title page byline, if not "von" and the author
+#   edition            title page, below the author
+#   source             imprint page, top: where the text comes from
+#   typeface           imprint page
+#   year, isbn, price, pages (as the shop counts them), spine (mm)
+#   description        website, and back cover unless description-on-cover = false
+#   quote              website and back cover; `website = false` or `cover = false` limits one
+#   links              shop name to url
+
+[[book]]
+slug = "rueckert-weisheit-des-brahmanen"
+language = "de"
+title = "Die Weisheit des Brahmanen"
+cover-title = '''
+Die Weisheit \
+des Brahmanen'''
+subtitle = "Ein Lehrgedicht in Bruchstücken"
+author = "Friedrich Rückert"
+edition = "Ungekürzte Gesamtausgabe"
+source = "Rückerts _Weisheit des Brahmanen_ erschien zuerst 1836–1839 in sechs Bänden in der Weidmannschen Buchhandlung in Leipzig."
+typeface = "Schriften: EB Garamond und Alegreya Sans"
+year = 2025
+isbn = "978-3-81973-492-2"
+price = 25
+pages = 676
+spine = 39
+description = "*Friedrich Rückert*s imposantes Lehrgedicht _Die Weisheit des Brahmanen_, zwischen 1836 und 1839 in sechs Bänden erschienen, bündelt in einzigartiger Weise Anregungen aus Christentum, Islam, Hinduismus und abendländischer Philosophie."
+
+[[book.quote]]
+cover = false
+source = "Hermann Hesse, _Das Glasperlenspiel_"
+text = "Schließlich zog er einen abgebleichten Leinenband heraus, dessen Titel ›Weisheit des Brahmanen‹ ihn lockte. Stehend erst, dann sitzend blätterte er in dem Buch, das ==viele Hunderte von Lehrgedichten== enthielt, ==ein kurioses Nebeneinander von lehrhafter Gesprächigkeit und wirklicher Weisheit, von Philistrosität und echtem Dichtergeist==. Es fehlte diesem sonderbaren und rührenden Buch, so wollte es ihm scheinen, keineswegs an Esoterik, aber sie stak in derben hausbackenen Schalen, und nicht jene Gedichte darin waren die hübschesten, in welchen wirklich eine Lehre und Weisheit nach Gestalt strebte, sondern jene, in welchen des Dichters Gemüt, sein Liebesvermögen, seine Redlichkeit und Menschenliebe, sein bürgerlich gediegener Charakter Ausdruck fand."
+
+[[book.quote]]
+website = false
+source = "I. 1."
+text = '''
+Ein indischer Brahman, geboren auf der Flur, \
+Der nichts gelesen als den Weda der Natur; \
+Hat viel gesehn, gedacht, noch mehr geahnt, gefühlt, \
+Und mit Betrachtungen die Leidenschaft gekühlt; \
+Spricht bald was klar ihm ward, bald um sich’s klar zu machen, \
+Von ihn angeh’nden halb, halb nicht angeh’nden Sachen. \
+Er hat die Eigenheit, nur Einzelnes zu sehn, \
+Doch alles Einzelne als Ganzes zu verstehn. \
+Woran er immer nur sieht schimmern einen Glanz, \
+Wird ein Betkügelchen an seinem Rosenkranz.'''
+
+[[book.quote]]
+website = false
+source = "XI. 1."
+text = '''
+Gar manches sagt nicht rein brahman’sches der Brahman; \
+Sei es rein menschlich nur, so nehmen wir es an. \
+Doch dieses, was aus gar zu fremden Augen schaut, \
+Hat ein europischer Bekannter ihm vertraut.'''
+
+[[book.quote]]
+website = false
+source = "VIII. 1."
+text = '''
+Ich glaube nicht, daß ich viel eignes neues lehre, \
+Noch durch mein Scherflein Witz den Schatz der Weisheit mehre. \
+Doch denk’ ich von der Müh mir zweierlei Gewinn; \
+Einmal, daß ich nun selbst an Einsicht weiter bin; \
+Sodann, daß doch dadurch an manchen Mann wird kommen \
+Manches, wovon er sonst gar hätte nichts vernommen. \
+Und auch der dritte Grund scheint werth nicht des Gelächters: \
+Daß, wer dis Büchlein list, derweil doch list kein schlechters.'''
+
+[book.links]
+epubli = "https://www.epubli.com/shop/die-weisheit-des-brahmanen-9783819734922"
+Amazon = "https://www.amazon.com/Die-Weisheit-Brahmanen-Ungek%C3%BCrzte-Gesamtausgabe/dp/3819734929"
+
+[[book]]
+slug = "gastmahl-der-schatten"
+language = "de"
+title = "Das Gastmahl der Schatten"
+cover-title = '''
+Das Gastmahl \
+der Schatten'''
+subtitle = '''
+Roman von einer \
+polnischen Allerseelennacht \
+und Friedrich Chopin'''
+author = "Julius Siber"
+source = 'Zuerst erschienen im Paul Scheiner Verlag, Würzburg, 1937, mit der Widmung: "Dem einzigartigen Chopin-Interpreten _Raoul v. Koczalski_ zu eigen."'
+typeface = 'Gesetzt aus der Garamond "Junicode"'
+year = 2025
+isbn = "978-3-565088-20-1"
+price = 14
+pages = 212
+spine = 12
+description = "_Das Gastmahl der Schatten_, letzter, rätselhaftester und verschollenster Roman des zu Lebzeiten weltberühmten Seelenfängers und Geigenvirtuosen *Julius Siber* (1871–1943), erschien 1937 als ==wortgewaltige Wiederheraufbeschwörung und zugleich literarische Letztverwahrung jenes okkultistisch durchwehten Kunstfanatismus==, der über weite Strecken des 19. Jahrhunderts die kulturellen Zentren und bedeutendsten Geister Europas in Bann schlug. Folgte die 1914 veröffentlichte _Seelenwanderung_, Sibers heute wohl bekanntester Roman, noch den Spuren eines Malers, dessen übernatürliche Ambition sich keineswegs in der Arbeit an der Leinwand erschöpft – denn niemals wird bei Siber bloß die Kunst durch ihren Schöpfer zur Magie, immer wächst vor allem ihr Schöpfer an der Kunst erst recht zum Magier empor –, so kehrt der fränkische Schriftsteller und Komponist sechs Jahre vor seinem Tod triumphal-mitreißend noch einmal zur eigenen und eigentlichsten Dämonie-Domäne und damit zu jener Kunstgattung zurück, der seit jeher die größte Zwingkraft über Sinne und Herzen der Menschen zugeschrieben wird: zur Musik. Im aufgewühlten Paris der Februarrevolution beginnt die fulminante Suche nach dem tödlichen Geheimnis hinter der sagenhaften Seelenmacht von Frédéric Chopin."
+
+[[book.quote]]
+text = "‚Mein Lied willst du? Ich glaub es dir. Du wärst der erste Klavierspieler der Welt. Liszt, Chopin, Kalkbrenner würden verschwinden neben dir. Du würdest die Seelen bezwingen wie das Steppenfeuer dürres Gras. Auf den Knien würde die Welt vor dir liegen. Der Zar auf seinem Throne, Metternich, die Giftspinne der Heiligen Allianz […], sie beide würden zittern, würden sie dich dieses Lied spielen hören, gleichwie damals Ludwig XV. zitterte, als ich es ihm in Marly vorspielte.‘"
+
+[book.links]
+epubli = "https://www.epubli.com/shop/das-gastmahl-der-schatten-9783565088201"
+Amazon = "https://www.amazon.de/Das-Gastmahl-Schatten-polnischen-Allerseelennacht/dp/3565088206/"
+
+[[book]]
+slug = "daphnis-kai-chloe"
+language = "el"
+title = "Δάφνις καὶ Χλόη"
+cover-title = "Δάφνις ϗ Χλόη"
+title-translation = "Daphnis und Chloe"
+subtitle = "ἑλληνιστί"
+author = "Λόγγος"
+author-translation = "Longos"
+by = "τοῦ"
+by-author = "Λόγγου"
+edition = "ἔκδοσις πληρής"
+source = "Longus. _Erotici Scriptores Graeci_, Vol 1. Rudolf Hercher. in aedibus B. G. Teubneri. Leipzig. 1858."
+typeface = "Γραμματοσειρά: Junicode"
+year = 2025
+isbn = "978-3-565009-71-8"
+price = 10
+pages = 128
+spine = 7
+description = "==Einsprachig altgriechische Lesefassung== des kaiserzeitlichen Liebesromans Daphnis und Chloe."
+description-on-cover = false
+
+[[book.quote]]
+cover = false
+source = "Johann Wolfgang von Goethe"
+text = "Das Gedicht ist so schön [...], daß man den Eindruck davon, bei den schlechten Zuständen, in denen man lebt, nicht in sich behalten kann und daß man immer von neuem erstaunt, wenn man es wieder liest. Es ist darin der helleste Tag, und man glaubt lauter herkulanische Bilder zu sehen, so wie auch diese Gemälde auf das Buch zurückwirken und unserer Phantasie beim Lesen zu Hülfe kommen."
+
+[[book.quote]]
+website = false
+source = "β. ζ."
+text = "Ἔρωτος γὰρ οὐδὲν φάρμακον, οὐ πινόμενον, οὐκ ἐσθιόμενον, οὐκ ἐν ᾠδαῖς λαλούμενον, ὅτι μὴ φίλημα καὶ περιβολὴ καὶ συγκατακλινῆναι γυμνοῖς σώμασι."
+
+[book.links]
+epubli = "https://www.epubli.com/shop/%ce%b4%ce%ac%cf%86%ce%bd%ce%b9%cf%82-%ce%ba%ce%b1%e1%bd%b6-%cf%87%ce%bb%cf%8c%ce%b7-9783565009718"
+Amazon = "https://www.amazon.de/Δάφνις-καὶ-Χλόη-ἑλληνιστί-Longos/dp/3565009713"
+
+[[book]]
+slug = "seneca-epistulae"
+language = "la"
+title = "Epistulae morales ad Lucilium"
+short-title = "Epistulae morales"
+cover-title = '''
+Epistulae morales \
+ad Lucilium'''
+title-translation = "Ethische Briefe an Lucilius"
+author = "Lucius Annaeus Seneca"
+by = "quas fecit"
+typeface = 'Litteris Garamondianis "Junicode" compositum'
+year = 2026
+isbn = "978-3-565557-06-6"
+price = 20
+pages = 491
+spine = 28
+description = "Diese Ausgabe versammelt sämtliche 124 Epistulae morales ad Lucilium in einer ==rein lateinischen Lesefassung== – ohne Übersetzung, ohne Kommentar, ganz auf den unmittelbaren Zugang zum Originaltext konzentriert. Wer Senecas Sprache im eigenen Rhythmus lesen, sich seinen Gedankengängen ohne Umweg über eine Zielsprache nähern und die ==stilistische Klarheit== seines Lateins in voller Länge erleben möchte, findet hier den vollständigen Text in einer klaren, gut lesbaren Gestaltung."
+description-on-cover = false
+
+[[book.quote]]
+text = "Secessi non tantum ab hominibus sed a rebus, et in primis a meis rebus: posterorum negotium ago. Illis aliqua quae possint prodesse conscribo; salutares admonitiones, velut medicamentorum utilium compositiones, litteris mando, esse illas efficaces in meis ulceribus expertus, quae etiam si persanata non sunt, serpere desierunt."
+
+[book.links]
+epubli = "https://www.epubli.com/shop/epistulae-morales-ad-lucilium-9783565557066"
+Amazon = "https://www.amazon.de/-/en/dp/3565557060/"
+
+[[book]]
+slug = "bruno-frank-koptisch-muss-sein"
+language = "de"
+title = "Koptisch muß sein"
+subtitle = "Kurzgeschichte"
+author = "Bruno Frank"
+source = "Zuerst erschienen in: _Das Tage-Buch_, 4. Jahrgang, Heft 8, 24. Februar 1923, S. 256–262."
+typeface = 'Gesetzt aus der Garamond "Junicode"'
+year = 2025
+isbn = "978-3-565022-65-6"
+price = 7
+pages = 21
+spine = 0
+description = "*Bruno Frank*s Kurzgeschichte _Koptisch muß sein_ (1923) erzählt von einem Wissenschaftler, der die außergewöhnliche Weltlage der 1920er Jahre nutzt, um sich seinem außergewöhnlichen Forschungsinteresse zu widmen."
+
+[[book.quote]]
+text = "„Bedenke, daß mich meine lieben Gäste in den Stand setzen, ==so meiner Wissenschaft zu leben, wie es bei uns kaum einer mehr kann.== In Italien, in Frankreich, in England erscheint kein Werk, keine Zeitschrift, die mir unerreichbar wären. In allen Sprachen kann ich allmonatlich lesen, was mir wichtig ist.“"
+
+[[book.quote]]
+website = false
+text = "Mein Blick fiel auf mehrere mit eigentümlichen Lettern bedeckte Drucktafeln. Es schien mir eine Art vergröberter griechischer Schrift zu sein, aber untermischt mit mir ganz unbekannten, barbarisch anmutenden Zeichen."
+
+[book.links]
+epubli = "https://www.epubli.com/shop/koptisch-muss-sein-9783565022656"
+Amazon = "https://www.amazon.de/Koptisch-mu%C3%9F-sein-Bruno-Frank/dp/3565022655"

@@ -1,4 +1,5 @@
 #import "@preview/hydra:0.5.1": hydra
+#import "/shared/ptoros.typ": frontmatter
 
 #let textSize = 11pt
 #let seriffont = "Junicode"
@@ -43,56 +44,7 @@
   lang: "de"
 )
 
-#align(right, text[Julius Siber · Das Gastmahl der Schatten])
-
-#pagebreak(to: "odd")
-
-#align(center, text(13pt)[
-  #v(1cm)
-
-  #text(20pt)[Das Gastmahl der Schatten]
-
-  #v(1.5cm)
-
-  Roman \ von einer polnischen
-  Allerseelennacht \ und
-  Friedrich Chopin
-
-  #v(1.5cm)
-
-  von
-
-  #text(16pt, tracking: 1mm)[Julius Siber]
-
-  #v(1fr)
-
-  #text(11pt, table(
-    columns: 6,
-    align: center,
-    stroke: none,
-    [P], [T], [O], [R], [O], [S],
-    [V], [E], [R], [L], [A], [G],
-    [B], [E], [R], [L], [I], [N],
-  ))
-])
-
-
-#pagebreak()
-
-Zuerst erschienen im Paul Scheiner Verlag, Würzburg, 1937,
-mit der Widmung: "Dem einzigartigen Chopin-Interpreten _Raoul v. Koczalski_ zu eigen."
-
-#align(bottom, text[
-#text(tracking: 0.07em)[PTOROS] Verlag, Berlin, 2025 \
-https://ptoros.de
-
-Umschlag, Satz und Layout gestaltet vom Herausgeber \
-Gesetzt aus der Garamond "Junicode"
-
-Druck und Bindung: Neopubli GmbH, Berlin \
-Printed in Germany \
-#text(tracking: 0.07em)[ISBN] 978-3-565088-20-1
-])
+#frontmatter()
 
 #set page(numbering: "1")
 #set par(

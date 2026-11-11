@@ -1,15 +1,11 @@
-.PHONY: all
+include ../../shared/book.mk
+
+generated = 1.typ 2.typ 3.typ 4.typ daphnis_kai_chloe.typ
+
 all: daphnis_kai_chloe.pdf cover.pdf
 
-cover.pdf: cover.tex
-	xelatex $<
-
-daphnis_kai_chloe.pdf: daphnis_kai_chloe.typ
-	typst compile $<
-
-.PHONY: clean
-clean:
-	rm 1.typ 2.typ 3.typ 4.typ daphnis_kai_chloe.typ daphnis_kai_chloe.pdf || :
+daphnis_kai_chloe.pdf: daphnis_kai_chloe.typ $(kartei)
+	$(typst) $<
 
 TYPST_FILES = preamble.typ 1.typ 2.typ 3.typ 4.typ
 daphnis_kai_chloe.typ: $(TYPST_FILES)

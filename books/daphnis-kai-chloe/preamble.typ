@@ -1,4 +1,5 @@
 #import "@preview/hydra:0.5.1": hydra
+#import "/shared/ptoros.typ": frontmatter
 
 #let textSize = 11pt
 #let seriffont = "Junicode"
@@ -102,53 +103,7 @@
   lang: "el"
 )
 
-#align(right, text[Λόγγος · Δάφνις καὶ Χλόη])
-
-#pagebreak(to: "odd")
-
-#align(center, text(13pt)[
-  #v(1cm)
-
-  #text(20pt)[Δάφνις καὶ Χλόη]
-
-  #v(2cm)
-
-  τοῦ
-
-  #text(16pt, tracking: 1mm)[Λόγγου]
-
-  #v(2cm)
-
-  #text(12pt)[ἔκδοσις πληρής]
-
-  #v(2cm)
-
-  #text(11pt, table(
-    columns: 6,
-    align: center,
-    stroke: none,
-    [P], [T], [O], [R], [O], [S],
-    [V], [E], [R], [L], [A], [G],
-    [B], [E], [R], [L], [I], [N],
-  ))
-])
-
-
-#pagebreak()
-
-Longus. _Erotici Scriptores Graeci_, Vol 1. Rudolf Hercher. in aedibus B. G. Teubneri. Leipzig. 1858.
-
-#align(bottom, text[
-#text(tracking: 0.07em)[PTOROS] Verlag, Berlin, 2025 \
-https://ptoros.de
-
-Ὁ ἐκδότης τὸ περικάλυμμα καὶ τὴν διάταξιν τῶν γραμμάτων κατεσκεύασεν. \
-Γραμματοσειρά: Junicode
-
-Ἡ τύπωσις καὶ ἡ σύνδεσις ὑπὸ τῆς Neopubli GmbH, Berlin \
-Ἐν Γερμανίᾳ ἐκτυπωθέν. \
-#text(tracking: 0.07em)[ISBN] 978-3-565009-71-8
-])
+#frontmatter()
 
 #pagebreak()
 #outline(depth: 1)

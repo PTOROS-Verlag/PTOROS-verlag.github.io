@@ -4,12 +4,16 @@ on:
   push:
     paths:
       - books/**
+      - books.toml
+      - shared/**
       - flake.nix
       - flake.lock
       - .github/workflows/books.yml
   pull_request:
     paths:
       - books/**
+      - books.toml
+      - shared/**
       - flake.nix
       - flake.lock
       - .github/workflows/books.yml

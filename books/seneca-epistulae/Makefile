@@ -1,13 +1,6 @@
-.PHONY: all
+include ../../shared/book.mk
+
 all: epistulae.pdf cover.pdf
 
-epistulae.pdf: epistulae.typ
-	typst compile $<
-
-.PHONY: clean
-clean:
-	rm epistulae.pdf
-	rm cover.pdf
-
-cover.pdf: cover.tex
-	latexmk -pdf $<
+epistulae.pdf: epistulae.typ $(kartei)
+	$(typst) $<

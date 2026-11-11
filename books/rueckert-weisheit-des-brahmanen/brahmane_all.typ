@@ -1,5 +1,6 @@
 #{
   import "@preview/hydra:0.5.1": hydra
+  import "/shared/ptoros.typ": frontmatter
 
   let textSize = 10pt
   let sfFont = "Alegreya Sans"
@@ -57,58 +58,7 @@
     lang: "de"
   )
 
-  align(right, text[Friedrich Rückert · Die Weisheit des Brahmanen])
-
-  pagebreak()
-  pagebreak()
-
-  align(center, text(13pt)[
-    #v(1cm)
-
-    Die
-
-    #text(20pt)[Weisheit des Brahmanen]
-
-    ein Lehrgedicht in Bruchstücken
-
-    #v(2cm)
-
-    von
-
-    #text(16pt, tracking: 1mm)[Friedrich Rückert]
-
-    #v(2cm)
-
-    #text(12pt)[Ungekürzte Gesamtausgabe]
-
-    #v(2cm)
-
-    #text(11pt, table(
-      columns: 6,
-      align: center,
-      stroke: none,
-      [P], [T], [O], [R], [O], [S],
-      [V], [E], [R], [L], [A], [G],
-      [B], [E], [R], [L], [I], [N],
-    ))
-  ])
-
-
-  pagebreak()
-
-  [Rückerts _Weisheit des Brahmanen_ erschien zuerst 1836–1839 in sechs Bänden in der Weidmannschen Buchhandlung in Leipzig.]
-
-  align(bottom, text[
-  © 2025 #text(tracking: 0.07em)[PTOROS] Verlag, Berlin \
-  https://ptoros.de
-
-  Umschlag, Satz und Layout gestaltet vom Herausgeber \
-  Schriften: EB Garamond und Alegreya Sans
-
-  Druck und Bindung: Neopubli GmbH, Berlin \
-  Printed in Germany \
-  #text(tracking: 0.07em)[ISBN] 978-3-81973-492-2
-  ])
+  frontmatter()
 
   pagebreak()
   outline(depth: 1)

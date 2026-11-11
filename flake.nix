@@ -53,18 +53,16 @@
               p.hydra_0_6_0
             ]))
             (pkgs.texliveBasic.withPackages (p: [
-              p.alegreya
               p.bookcover
               p.fgruler
-              p.fontaxes
               p.fontspec
               p.latexmk
-              p.mweights
               p.pgf
               p.xcolor
               p.xetex
               p.xkeyval
             ]))
+            pkgs.python3
             pkgs.saxon-he
             pkgs.gnumake
           ];
@@ -84,11 +82,20 @@
         pkgs.stdenvNoCC.mkDerivation (
           {
             inherit name;
-            src = ./books/${name};
+            # the frontmatter and cover read the kartei and shared templates
+            src = inputs.nixpkgs.lib.fileset.toSource {
+              root = ./.;
+              fileset = inputs.nixpkgs.lib.fileset.unions [
+                ./books.toml
+                ./shared
+                ./books/${name}
+              ];
+            };
             nativeBuildInputs = t.packages;
             buildPhase = ''
               runHook preBuild
               export HOME=$TMPDIR
+              cd books/${name}
               make all 2>&1 | tee build.log
               # typst substitutes a missing font with a warning only
               if grep 'unknown font family' build.log; then exit 1; fi
@@ -104,6 +111,31 @@
           // t.env
         );
 
+      # covers are cropped from the books' cover.pdf
+      website =
+        pkgs: books:
+        pkgs.stdenvNoCC.mkDerivation {
+          name = "website";
+          src = inputs.nixpkgs.lib.fileset.toSource {
+            root = ./.;
+            fileset = inputs.nixpkgs.lib.fileset.unions [
+              ./books.toml
+              ./shared/kartei.py
+              ./website
+            ];
+          };
+          nativeBuildInputs = [
+            pkgs.python3
+            pkgs.poppler-utils
+          ];
+          buildPhase = ''
+            runHook preBuild
+            python3 shared/kartei.py website $out ${books}
+            runHook postBuild
+          '';
+          dontInstall = true;
+        };
+
       shell =
         pkgs:
         let
@@ -116,8 +148,13 @@
         system: pkgs:
         let
           built = inputs.nixpkgs.lib.genAttrs books (name: book (pkgsFor system name) name);
+          all = pkgs.linkFarm "books" built;
         in
-        built // { default = pkgs.linkFarm "books" built; }
+        built
+        // {
+          default = all;
+          website = website pkgs all;
+        }
       ) inputs.nixpkgs.legacyPackages;
 
       devShells = builtins.mapAttrs (

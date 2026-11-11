@@ -1,17 +1,11 @@
-.PHONY: all
+include ../../shared/book.mk
+
+generated = brahmane_1.typ brahmane_2.typ brahmane_3.typ brahmane_4.typ brahmane_5.typ brahmane_6.typ
+
 all: brahmane_all.pdf cover.pdf
 
-brahmane_all.pdf: brahmane_all.typ brahmane_1.typ brahmane_2.typ brahmane_3.typ brahmane_4.typ brahmane_5.typ brahmane_6.typ
-	typst compile brahmane_all.typ
-
-.PHONY: clean
-clean:
-	rm brahmane_{1,2,3,4,5,6}.typ
-	rm cover.pdf
-	rm *.pdf
-
-cover.pdf: cover.tex
-	latexmk -pdf $<
+brahmane_all.pdf: brahmane_all.typ $(generated) $(kartei)
+	$(typst) brahmane_all.typ
 
 brahmane_1.typ: rueckert_brahmane01_1836.TEI-P5.xml pdf.xsl
 	saxon-he -s:$< -xsl:pdf.xsl -o:$@

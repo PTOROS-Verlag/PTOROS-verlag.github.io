@@ -1,4 +1,5 @@
 #import "@preview/hydra:0.6.0": hydra
+#import "/shared/ptoros.typ": frontmatter
 
 #let textSize = 10pt
 #let seriffont = "Junicode"
@@ -45,45 +46,7 @@
   lang: "la"
 )
 
-#align(right, text[Seneca · Epistulae morales])
-
-#pagebreak(to: "odd")
-
-#align(center, text(13pt)[
-  #v(1cm)
-
-  #text(20pt)[Epistulae morales ad Lucilium]
-
-  #v(2cm)
-
-  quas fecit
-
-  #text(16pt, tracking: 1mm)[Lucius Annaeus Seneca]
-
-  #align(bottom, text(11pt, table(
-    columns: 6,
-    align: center,
-    stroke: none,
-    [P], [T], [O], [R], [O], [S],
-    [V], [E], [R], [L], [A], [G],
-    [B], [E], [R], [L], [I], [N],
-  )))
-])
-
-
-#pagebreak()
-
-#align(bottom, text[
-#text(tracking: 0.07em)[PTOROS] Verlag, Berlin, 2026 \
-https://ptoros.de
-
-Tegumentum et formam libri disposuit ipse qui edidit \
-Litteris Garamondianis "Junicode" compositum
-
-Typis excudit et colligavit societas Neopubli Berolinensis \
-Printed in Germany \
-#text(tracking: 0.07em)[ISBN] 978-3-565557-06-6
-])
+#frontmatter()
 
 #pagebreak(to: "odd")
 

@@ -1,4 +1,5 @@
 #import "@preview/hydra:0.5.1": hydra
+#import "/shared/ptoros.typ": frontmatter
 
 #let textSize = 11pt
 #let seriffont = "Junicode"
@@ -30,53 +31,7 @@
   lang: "de"
 )
 
-#align(right, text[Bruno Frank · Koptisch muß sein])
-
-#pagebreak(to: "odd")
-
-#align(center, text(13pt)[
-  #v(1cm)
-
-  #text(20pt)[Koptisch muß sein]
-
-  #v(2cm)
-
-  Kurzgeschichte
-
-  #v(2cm)
-
-  von
-
-  #text(16pt, tracking: 1mm)[Bruno Frank]
-
-  #v(3cm)
-
-  #text(11pt, table(
-    columns: 6,
-    align: center,
-    stroke: none,
-    [P], [T], [O], [R], [O], [S],
-    [V], [E], [R], [L], [A], [G],
-    [B], [E], [R], [L], [I], [N],
-  ))
-])
-
-
-#pagebreak()
-
-Zuerst erschienen in: _Das Tage-Buch_, 4. Jahrgang, Heft 8, 24. Februar 1923, S. 256–262.
-
-#align(bottom, text[
-#text(tracking: 0.07em)[PTOROS] Verlag, Berlin, 2025 \
-https://ptoros.de
-
-Umschlag, Satz und Layout gestaltet vom Herausgeber \
-Gesetzt aus der Garamond "Junicode"
-
-Druck und Bindung: Neopubli GmbH, Berlin \
-Printed in Germany \
-#text(tracking: 0.07em)[ISBN] 978-3-565022-65-6
-])
+#frontmatter()
 
 #pagebreak(to: "odd")
 
