@@ -14,7 +14,11 @@
           pkgs.jing
           pkgs.poppler-utils
           pkgs.curl
+          pkgs.saxon-he
+          pkgs.typst
         ];
+        # headings and imprints are set in a Grotesk
+        TYPST_FONT_PATHS = "${pkgs.gyre-fonts}/share/fonts";
       };
     }) inputs.nixpkgs.legacyPackages;
   };

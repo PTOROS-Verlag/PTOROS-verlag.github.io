@@ -32,6 +32,23 @@ Everything runs inside `nix develop` as `python3 -m pipeline <command> [ids…]`
    `collate` again until nothing is open. `validate` and `status` check the
    result; `status` also writes `review/unsure.md`.
 
+## PDF
+
+`pdf` typesets the poems in the StG-Schrift as one book, `pdf/werke.pdf`, for
+epubli's Taschenbuch (125 × 190 mm, 3 mm bleed; softcover binds at most 784
+pages, and `pdf` fails beyond that). With ids it typesets those volumes alone.
+`typst/tei.xsl` (XSLT 3, Saxon) turns the TEI into calls of `typst/ga.typ`.
+The font (StefanGeorge.otf, Institut für Textkritik) may not be
+redistributed, so it is not in the repository: put it in `cache/fonts/`.
+
+Only the body goes in: no prefaces, no Anhang, no figures. The contents after
+the title page list volumes and cycles; an index of titles and first lines
+closes the book (umlauts sorted as their base letter, numbers as titles left
+out). Leading, small capitals and initials keep the
+proportions of the print; the pagination is typst's own, with the pages of the
+print in the outer margin. A printing error appears as printed, the `sic` of
+its `choice`.
+
 ## Decisions
 
 One row per review item, keyed by the item key `collate` prints. A key names
