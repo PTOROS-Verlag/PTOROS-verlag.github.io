@@ -2,7 +2,7 @@
 all: koptisch.pdf cover.pdf
 
 koptisch.pdf: koptisch.typ
-	typst compile $<.typ
+	typst compile $<
 
 .PHONY: clean
 clean:
