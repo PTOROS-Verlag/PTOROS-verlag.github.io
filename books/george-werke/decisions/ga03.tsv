@@ -1,0 +1,150 @@
+key	decision	text	note
+29|schleudr|'|ihn	fix	’	druck hat den typographischen apostroph
+36|dir|'|s	fix	’	druck hat den typographischen apostroph
+57|ich|'|s	fix	’	druck hat den typographischen apostroph
+60|war|'|s	fix	’	druck hat den typographischen apostroph
+72|ich|'|s	fix	’	druck hat den typographischen apostroph
+53|zum|munster|tragen	fix	münster	druck: münster
+122|muscheln|,|korallene	fix	·	druck: hochpunkt, zeno komma
+7|^|Vorrede|Es	edited		zeno-überschrift 'Vorrede' steht nicht im druck; entfernt
+19|stanza|1	edited		zeno teilt die hexameter am druckumbruch in zwei verse; zu einem vers zusammengeführt (ZWIEGESPRÄCH IM SCHILFE)
+19|stanza|5	edited		zeno teilt die hexameter am druckumbruch in zwei verse; zu einem vers zusammengeführt (ZWIEGESPRÄCH IM SCHILFE)
+19|stanza|9	edited		zeno teilt die hexameter am druckumbruch in zwei verse; zu einem vers zusammengeführt (ZWIEGESPRÄCH IM SCHILFE)
+19|stanza|11	edited		zeno teilt die hexameter am druckumbruch in zwei verse; zu einem vers zusammengeführt (ZWIEGESPRÄCH IM SCHILFE)
+19|stanza|17	edited		zeno teilt die hexameter am druckumbruch in zwei verse; zu einem vers zusammengeführt (ZWIEGESPRÄCH IM SCHILFE)
+128|gedichte|›|Ein	edited		druck: ›Ein knabe …‹ (klein); zeno 'Knabe' (ocr liest St.-G.-k als K)
+99|zu|schonen ·|Ihn	keep		stempel verdeckt das zeilenende; im rotkanal (stempel ausgeblendet) ist der hochpunkt nach 'schonen' sichtbar
+7|oder|entwickelungsabschnittes|entworfen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+7|und|örtlichkeiten|geflohen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+7|ströme|·|dann	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+11|thon|·|Begleite	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+15|schlucht|·|Da	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+15|weiterzug|·|Er	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+16|gewahrten|·|Verhüllte	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+18|rudern|·|Auf	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+18|ist|·|Den	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+20|konnte|·|wenn	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+20|verschwunden|·|Des	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+20|gekommen|·|Im	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+24|sonniger|flur ·|Von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+24|hold|·|Von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+25|dem|volk|·	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+26|seinem|starken|leib	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+28|die|blätter|Und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+30|den|stämmen|:	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+33|nördlichen|hügel ·|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+33|Lamia|·|schweigsam	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+33|uns|Etwas|wie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+35|Die|lämmer|für	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+35|begeisterte|verkündung|werden	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|biete|·|Königin	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|verschlagen|·|Denk	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|behangen|·|Glänzender	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|trankes|·|es	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|ganges|·|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+39|wonnen|·|Zierlichen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+41|und|tief|behagen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+41|lobern|·|Verfährst	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+42|grün|·|im	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+43|des|Tros|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+43|liebt|·|Den	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+45|UND|SÄNGE|$	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+47|›|Ich|werde	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+47|erkoren|·|Nachdem	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+47|wahl|·|Zur	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+47|diesem|Mal ·|Dem	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+48|vertrauen|·|Auf	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+48|wappen|·|In	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+49|zeichen|·|In	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+49|›|Ich|werde	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+49|Des|Tapfren|einfalt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+49|des|Toten|ruhe	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+50|heer|·|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+50|steckt|·|Das	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+51|.|Am|abend	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+51|fackelbrand|·|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+53|milde|busse|Gab	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|ist|·|An	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+55|heut|·|für	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+56|knoten|·|Empfanget	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+60|WAFFENGEFÄHRTE|I|Am	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+60|schilde|·|Ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+61|fesseln|·|Im	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+61|eisen|·|In	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+62|^|II|So	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+62|lob|·|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+67|matt|·|Auf	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+70|singen|·|Aus	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+75|belehren|·|Müsste	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+78|grün|·|Lauschte	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+78|freut|·|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+78|.|Träumen|will	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+79|:|I|Ganz	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+81|schwert|·|dir	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+82|himmelshelden|·|Den	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+87|schmiegen|·|Du	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+89|stufen|·|Als	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+90|Vom|saftigen|gelb	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+91|streckte|·|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+91|heer|·|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+91|meer|·|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+91|raube|matt|:	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+94|ast|·|Mit	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+94|schweifen|·|Sie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+95|erhellt|·|Verschlungnes	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+99|einer|fürstin|ähnlich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+99|kniest|·|Dass	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+104|kräuseln|Teiche|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+104|schillern|·|Vögel	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+106|sinnen|·|Neue	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+106|verbot|·|Von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+106|beklemmen|·|Meine	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+108|harren|·|Es	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+111|den|tritten|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+112|Lauben|·|lichten	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+112|flüstern|–|Nun	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+114|gebieten|ausgestreckt|Vergassen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|und|satt|verliess	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+116|räumt|·|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+119|heiter|·|Niemand	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+119|ihm|·|doch	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+119|bricht|·|Jede	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+122|genesen|·|Arme	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+126|Sänge|‹|unter	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|ersten|druck|aus	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|ta|mère|sind	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|der|laie|leicht	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|seine|notwendigkeit|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|bediente|·|wo	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|›|Teppichs|‹	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+127|Scott|·|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+128|hat|·|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+50|stanza|2	keep		strofen wie im druck; ocr erkennt die abstände nicht
+50|stanza|4	keep		strofen wie im druck; ocr erkennt die abstände nicht
+50|stanza|6	keep		strofen wie im druck; ocr erkennt die abstände nicht
+100|stanza|2	keep		strofen wie im druck; ocr erkennt die abstände nicht
+100|stanza|4	keep		strofen wie im druck; ocr erkennt die abstände nicht
+51|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht kurze überschrift oder bleistiftnotiz
+60|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht kurze überschrift oder bleistiftnotiz
+79|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht kurze überschrift oder bleistiftnotiz
+80|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht kurze überschrift oder bleistiftnotiz
+81|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht kurze überschrift oder bleistiftnotiz
+1|uncovered	keep		Titelei
+130|uncovered	keep		Abbildung (handschriftprobe)
+131|uncovered	keep		Abbildung (handschriftprobe)
+132|uncovered	keep		Abbildung (handschriftprobe)
+133|uncovered	keep		Abbildung (handschriftprobe)
+134|uncovered	keep		Abbildung (handschriftprobe)
+135|uncovered	keep		Abbildung (handschriftprobe)
+136|uncovered	keep		Abbildung (handschriftprobe)
+137|uncovered	keep		Abbildung (handschriftprobe)
+138|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+139|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+140|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+141|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+6|pb|5	edited		pb nach seitenabgleich mit den scans neu gesetzt
+48|pb|47	edited		pb nach seitenabgleich mit den scans neu gesetzt
+49|pb|48	edited		pb nach seitenabgleich mit den scans neu gesetzt
+61|pb|60	edited		pb nach seitenabgleich mit den scans neu gesetzt
+18|lines	keep		hexameter mit druckumbruch; jede zweite druckzeile ist fortsetzung
+19|lines	keep		hexameter mit druckumbruch; jede zweite druckzeile ist fortsetzung

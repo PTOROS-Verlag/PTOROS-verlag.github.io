@@ -1,0 +1,240 @@
+key	decision	text	note
+6|die|ändern|zufügungen	fix	andern	druck: andern (ohne umlaut)
+40|zeit|ein|himmelsstrich	fix	Ein	druck: EIN in kapitälchen mit grossem anfangsbuchstaben
+111|schwelle|Vorn|ersten	fix	Vom	druck: Vom (zeno rn für m)
+13|^|Erster Teil|Ich	edited		zeno-überschriften 'Erster Teil'/'Zweiter Teil' stehen nur im inhaltsverzeichnis, nicht über den gedichten; entfernt
+29|^|Zweiter Teil|Ihr	edited		zeno-überschriften 'Erster Teil'/'Zweiter Teil' stehen nur im inhaltsverzeichnis, nicht über den gedichten; entfernt
+89|^|1889|ZEICHNUNGEN	edited		1889 steht unter LEGENDEN auf s. 87; pb 89 vor ZEICHNUNGEN IN GRAU gesetzt
+89|lines	edited		1889 steht unter LEGENDEN auf s. 87; pb 89 vor ZEICHNUNGEN IN GRAU gesetzt
+6|ersten|druck|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+6|.|Entwürfe ·|erzählend	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+6|zufügungen|berichtet|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|druck|betreibend|auf	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|einer|enttäuschung|belohnt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|zu|unfertig|ausgeschieden	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|ausgeschieden|ist – gar oft|verhüllt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|.|Wir|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|und|möchten|sie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+7|leuchtender|gesänge|fliegen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+8|reinem|demanttau|bereift	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+8|erste|klagen|Weil	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+9|des|Verwünschten|zähren	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+9|eignen|hört|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+13|begeistert|still|nur	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+13|tat|getrieben|Und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+14|In|hellschimmerndem|gewand	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+15|armen|Fleht|nach	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+15|er|härmt|sich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+16|ergangen|:|So	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+16|mir|getrübt|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+19|schauern|Wo|so	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+20|du|legtest|deine	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+20|mich|bekehrt|Und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+21|alle|kräfte|fühle	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+24|^|Wenn|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+24|im|glanze|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+25|winter|entzückt|Würde	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+26|sich|ergiesst|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+27|Nicht|kann|ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+27|misslingen|All|mein	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+30|liesse|tiefe|spur	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+31|Und|betend|blickte	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+31|strahle|Betäubt|vom	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+31|eines|kann|hinauf	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+32|empörung|gestiftet|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+32|mit|unlöslichem|knoten	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+33|schelten|muss|ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+33|noch|flackert|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+34|wo|niederschnellt|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+34|Da|hatte|ein	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+35|war|fort|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+35|der|köstliche|saft	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+35|erwacht|Geküsst|von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+36|winde|feucht|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+38|welch|tötend|jäher	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+39|sommer|darf|ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+40|die|frische|gruft	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+40|sich|Eine|zeit	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+41|lieblichen|garten|Bepflanzt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+42|die|mutter|spricht	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+42|dunkel|stiess|?	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+43|Wie|ein|naher	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+43|:|Törichte mutter|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+43|nicht|mutter|:	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+46|den|träumer|aufzureissen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+46|mir|tot|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+46|Streng|tilgte|ihn	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+46|ihn|vernunftgebot|Und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+47|mir|auf|ihr	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+47|ihre|wirkung|ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+49|wetternacht|entgegen|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+49|arme|tiefgequälte|brust	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+49|stürme|stillet|noch	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+49|das|kampfgewimmel|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+50|Deren|anblick|weh	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+50|spriessen|Überströmt|von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+51|Da|lösten|sich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+55|dass|Fast|alle	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+57|das|glück|davon	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+58|ITALIÄNISCHEN|›|Wirst	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+58|stimme|Entstellt|von	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+58|sklaven|töten|$	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+59|deines|gatten|Und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+60|DER|MRS|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+60|dürr|dasteht|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+61|^|›|Er	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+61|rose|gott|ihm	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+61|O|hätt|ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+63|!|Ach|meine	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+71|trübem|ort|?	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+71|.|Auf|eines	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+71|?|Gott|es	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+71|Am|totentag|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+72|noch|blieb|In	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+74|bilde|still|schimmernd	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+74|die|mächtigen|riesen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+76|traurig|gedämpftem|laut	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+77|ihr|spottend|wort	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+78|gemäuer|.|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+78|funken|stieben|Aus	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+78|hauche|getrieben|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+81|:|›|So	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+81|abend|beendete|ihre	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+81|deiner|liebe ‹|Ach	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+81|und|entzog|sie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+82|schönen|gottes|Mit	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+85|mich|durchrüttelt|Ein	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+85|fiebrisch|schüttelt|Ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+85|todesschlaf|kann|nicht	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+90|schweigsamem|flügel|Der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+90|dem|heftigen|wirbel	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+90|und|unersättlichen|treiben	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+90|–|stille|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+91|da|magnetisch|gebannt	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+92|zitternden|luftkreis|Im	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+92|sie|bestimmte|formen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+92|.|Göttin|geheimnisvoll	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+92|sich|plötzlich|hob	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+93|:|Heute|streift	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+93|die|träume|selbst	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+94|und|töten|!	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+95|lasters|majestät|ist	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+96|schlägen|Entlässt|den	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+96|alten|tag|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+98|Nach|kalter|winternacht	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+98|Sie|schimmert still|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+99|sengt|sie|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+99|–|wolken|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+101|das|göttliche|ziel	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+101|entweihe|!|Dass	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+101|und|seufzer|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+102|deine|stirn|mir	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+107|pfade|.|Hier	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+108|die|Göttliche|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+108|und|fluchesgeleit|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+108|dich|kein|wesen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+108|und|lächelt|sie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+109|grausame|enttäuschung|!	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+109|-|gestrüpp|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+109|nicht|benötet|Gleichgültig	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+110|zornes|betrübt|Vielleicht	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+110|schwüre|bekräftigen|sollen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+110|ihre|kindlichkeit|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+111|und|heiligkeit|quell	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+111|Er|niedergedrückt|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+112|vom|augenblick|an	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+115|.|.|Nun	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+115|spähe|Bekränzte|rinder	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+115|der|göttlichen|fordrung	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+115|steigender|rauch|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+116|zum|heiligtum|schreiten	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+116|mit|rätselvollen|emblemen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+117|dem|lachen|feindlich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+117|diese|göttin|dir	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+118|feld|.|Als	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+118|der|kindheit|albernem	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|laufe|Folgte|sie	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|geländen|geharrt|Aus	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|seinen|blicken|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|kennt|er|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|die|stirn .|Ich	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+119|wünsche|erfüllt|$	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+120|die|schattige|böschung	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+120|rohre|kunstvoll|er	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+120|ufer|getriebener|blumen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+120|blumen|Erblickt|er	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+122|die|väter|die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+123|meine|tage|Bei	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+124|der|gestirne|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+125|mehr|kannte|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+126|diese|stätte|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+126|leiden|Entgegengehe|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|Blumenelf|·|Die	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|Rose|·|Ikarus	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|überschrift|›|Rosen	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|leser|bekannt ·|uns	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|eines|jeden|leise	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|unterschied|älterer|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|und|heutiger|dichtweise	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|dichtweise|klarer|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|öffentlichkeit|gelangte|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|.|‹|Ferner	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|·|ebendort im Wolfskehlschen|aufsatz	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+128|:|›|Drunten	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+129|gedichtet|gelegentlich|der	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+129|steht|jedoch|in	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift, Google-scan)
+41|GRÄBER|I|Ich	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+42|^|II|Leise	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+44|^|III|Schliesst	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+107|^|I|ERKENNTNIS	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+115|^|II|FRÜHLINGSWENDE	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+122|^|III|DER	keep		überschrift/ziffer gedruckt; ocr erkennt sie nicht
+22|!|∅|$	keep		ocr-rauschen (seitenzahl mit fleck, randzeichen)
+40|.|∅|$	keep		ocr-rauschen (seitenzahl mit fleck, randzeichen)
+82|.|∅|$	keep		ocr-rauschen (seitenzahl mit fleck, randzeichen)
+111|wissen|∅|$	keep		ocr-rauschen (seitenzahl mit fleck, randzeichen)
+112|meisten|∅|$	keep		ocr-rauschen (seitenzahl mit fleck, randzeichen)
+13|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+22|hoher|luftiger|wald	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+22|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+29|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+33|die|alte glut|?	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+40|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+41|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+42|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+48|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+71|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+82|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+111|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+112|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+117|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht überschrift oder liest seitenzahl/flecken als zeile
+55|stanza|0	keep		abstand nach überschrift und untertitel, kein strofenwechsel
+56|stanza|0	keep		abstand nach überschrift und untertitel, kein strofenwechsel
+58|stanza|0	keep		abstand nach überschrift und untertitel, kein strofenwechsel
+62|stanza|0	keep		abstand nach überschrift und untertitel, kein strofenwechsel
+64|stanza|0	keep		abstand nach überschrift und untertitel, kein strofenwechsel
+2|uncovered	keep		Titelei (bibliotheksstempel)
+132|uncovered	keep		Abbildung (handschriftprobe)
+134|uncovered	keep		Abbildung (handschriftprobe)
+135|uncovered	keep		Abbildung (handschriftprobe)
+136|uncovered	keep		Abbildung (handschriftprobe)
+137|uncovered	keep		Abbildung (handschriftprobe)
+138|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+139|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+140|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+141|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+6|pb|5	edited		pb nach seitenabgleich mit den scans neu gesetzt
+9|pb|8	edited		pb nach seitenabgleich mit den scans neu gesetzt
+10|pb|9	edited		pb nach seitenabgleich mit den scans neu gesetzt
+43|pb|42	edited		pb nach seitenabgleich mit den scans neu gesetzt
+44|pb|43	edited		pb nach seitenabgleich mit den scans neu gesetzt
+91|pb|90	edited		pb nach seitenabgleich mit den scans neu gesetzt
+108|pb|107	edited		pb nach seitenabgleich mit den scans neu gesetzt
+109|pb|108	edited		pb nach seitenabgleich mit den scans neu gesetzt
+110|pb|109	edited		pb nach seitenabgleich mit den scans neu gesetzt
+111|pb|110	edited		pb nach seitenabgleich mit den scans neu gesetzt
+112|pb|111	edited		pb nach seitenabgleich mit den scans neu gesetzt
+113|pb|112	edited		pb nach seitenabgleich mit den scans neu gesetzt
+40|zeit|Ein|himmelsstrich	keep		druck bestätigt; ocr-fehler bzw. 1889 auf der titelseite nicht erkannt
+44|blühn|–|Schliesst	keep		druck bestätigt; ocr-fehler bzw. 1889 auf der titelseite nicht erkannt
+87|LEGENDEN|1889|$	keep		druck bestätigt; ocr-fehler bzw. 1889 auf der titelseite nicht erkannt

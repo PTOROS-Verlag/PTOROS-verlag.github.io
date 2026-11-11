@@ -1,0 +1,2932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Das Neue Reich</title>
+      <author>
+        <persName ref="http://d-nb.info/gnd/11853856X">
+          <surname>George</surname>
+          <forename>Stefan</forename>
+        </persName>
+      </author>
+      <respStmt>
+        <orgName>PTOROS Verlag</orgName>
+        <resp>Textkonstitution und Kodierung</resp>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>
+        <orgName>PTOROS Verlag</orgName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/publicdomain/mark/1.0/">
+          <p>Public Domain Mark 1.0</p>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="M">George, Stefan: Das Neue Reich. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi, Oktober 1928.</bibl>
+      <biblFull>
+        <titleStmt>
+          <title level="m" type="main">Das Neue Reich</title>
+          <author>
+            <persName ref="http://d-nb.info/gnd/11853856X">
+              <surname>George</surname>
+              <forename>Stefan</forename>
+            </persName>
+          </author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher><name>Georg Bondi</name></publisher>
+          <pubPlace>Berlin</pubPlace>
+          <date type="publication">1928</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title level="s" type="main">Gesamt-Ausgabe der Werke. Endgültige Fassung</title>
+        </seriesStmt>
+      </biblFull>
+      <msDesc>
+        <msIdentifier>
+          <repository>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</repository>
+          <idno><idno type="URLWeb">https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN828585296</idno><idno type="URLXML">https://content.staatsbibliothek-berlin.de/dc/PPN828585296.mets.xml</idno></idno>
+        </msIdentifier>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <editorialDecl>
+      <p>Grundlage ist die Transkription von zeno.org (<ref target="http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Neue+Reich">http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Neue+Reich</ref>), abgerufen am 2026-11-09.</p>
+      <p>Jede Seite wurde gegen die Digitalisate geprüft; als unabhängige Zeugen dienten tesseract-OCR und, wo vorhanden, die ALTO-Volltexte der Staatsbibliothek zu Berlin. Jede Abweichung wurde am Bildausschnitt entschieden.</p>
+      <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
+      <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
+      <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
+      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹), der Apostroph ist wie im Druck typographisch (’).</p>
+      <p>Die Orthographie ist nicht normalisiert.</p>
+    </editorialDecl>
+    <tagsDecl>
+      <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+      <rendition scheme="css" xml:id="et">display:block; margin-left:2em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="et2">display:block; margin-left:4em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="et3">display:block; margin-left:6em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="g">letter-spacing:0.125em</rendition>
+      <rendition scheme="css" xml:id="i">font-style:italic</rendition>
+      <rendition scheme="css" xml:id="k">font-variant:small-caps</rendition>
+      <rendition scheme="css" xml:id="right">display:block; text-align:right</rendition>
+      <rendition scheme="css" xml:id="smaller">font-size:smaller</rendition>
+    </tagsDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="deu">German</language>
+    </langUsage>
+    <textClass>
+      <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtamain">Belletristik</classCode>
+      <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtasub">Lyrik</classCode>
+    </textClass>
+  </profileDesc>
+</teiHeader>
+  <text>
+    <front>
+      <div n="1" type="preface">
+        <pb n="5" facs="#f0009"/>
+        <head>VORREDE</head>
+        <p>Dieser band umfasst alle seit dem Stern des Bundes entstandenen gedichte. Viele sind in den Blättern für die Kunst erschienen (1914–19). Der Krieg und Der Dichter in Zeiten der Wirren mit zwei andern gedichten in gesonderten heften. Goethes lezte Nacht in Italien · die eröffnung einer neuen reihe · reicht bis 1908 zurück.</p>
+      </div>
+    </front>
+    <body>
+      <div n="1">
+        <pb n="7" facs="#f0011"/>
+        <head>GOETHES</head>
+        <head>LEZTE NACHT IN ITALIEN</head>
+        <lg type="poem">
+          <lg n="1">
+            <pb n="8" facs="#f0012"/>
+            <l>Welch ein schimmer traf mich vom südlichen meer?</l>
+            <l>Fichten seh ich zwei ihre schwarzen flügel</l>
+            <l>Recken ins stetige blau der nacht und dazwischen</l>
+            <l>Silbern in ruhigem flimmern ein einziger stern.</l>
+            <l>Aus den büschen tritt nun das Paar .. vor dem Bild</l>
+            <l>Mitten im laub-rund · leuchtender marmor wie sie ·</l>
+            <l>Tun sie noch immer umschlungen den grossen schwur.</l>
+            <l>Mächtig durch der finsteren bräuche gewalt</l>
+            <l>Heben sie nun ihre häupter für herrschaft und helle.</l>
+            <l>Staunend hört ihren heldengesang die verklärung</l>
+            <l>Ewiger räume · dann trägt ihn der duftige wind</l>
+            <l>Über das schlummernde land und die raunende see.</l>
+          </lg>
+          <lg n="2">
+            <pb n="9" facs="#f0013"/>
+            <l>Abschied reisst durch die brust – von dem heiligen boden</l>
+            <l>Wo ich erstmals wesen wandeln im licht</l>
+            <l>Sah und durch reste der säulen der Seligen reigen ..</l>
+            <l>Ich den ihr preisend ›herz eures volkes‹ genannt</l>
+            <l>›Echtesten erben‹: hier hab ich vor armut gezittert ·</l>
+            <l>Hier ward erst mensch der hier wiederbegonnen als kind.</l>
+            <l>Durch die nebel schon hör ich euch schmälende stimmen:</l>
+            <l>›Hellas’ lotus liess ihn die heimat vergessen‹ ...</l>
+            <l>O dass mein wort ihr verstündet – kein weiseres frommt euch –</l>
+            <l>›Nicht nur in tropfen · nein traget auch fürder in strömen</l>
+            <l>Von eurem blute das edelste jenseit der berge ·</l>
+            <l>Anteil und sinn euch solang ihr noch unerlöst‹.</l>
+          </lg>
+          <lg n="3">
+            <l>Euch betraf nicht beglückterer stämme geschick</l>
+            <l>Denen ein Seher erstand am beginn ihrer zeiten</l>
+            <l>Der noch ein sohn war und nicht ein enkel der Gäa</l>
+            <l>Der nicht der irdischen schichten geheimnis nur spürte</l>
+            <l>Der auch als gast in ambrosischen hallen geweilt</l>
+            <l>Der dort ein scheit des feuers stahl für sein volk</l>
+            <l>Das nun sein lebenlang ganz nicht mehr tastet in irre</l>
+            <l>Der in die schluchten der grausigen Hüterinnen</l>
+            <l>Die an den wurzeln im Untersten sitzen · sich wagte</l>
+            <l>Die widerstrebenden schreienden niederrang</l>
+            <l>Ihnen die formel entreissend mit der er beschwört ...</l>
+            <l>Solch einer ward euch nicht und ich bin es nicht.</l>
+          </lg>
+          <lg n="4">
+            <pb n="10" facs="#f0014"/>
+            <l>Früh einst – so denkt es mir – trug ein bewimpeltes schiff</l>
+            <l>Uns in das nachbarlich rheinische rebengeländ ..</l>
+            <l>Hellblauer himmel des herbstes besonnte die gaue</l>
+            <l>Weisse häuser und eichen-kronige gipfel ..</l>
+            <l>Und sie luden die lezten trauben am hügel</l>
+            <l>Schmückten mit kränzen die bütten · die festlichen winzer ·</l>
+            <l>Nackte und golden gepuzte mit flatternden bändern ..</l>
+            <l>Lachend mit tosendem sange beim dufte des mostes</l>
+            <l>Also stürmte die strasse am tiefgrünen strom</l>
+            <l>Purpurnes weinlaub im haare der bacchische zug.</l>
+            <l>Dort an dem römischen Walle · der grenze des Reichs ·</l>
+            <l>Sah ich in ahnung mein heimliches muttergefild.</l>
+          </lg>
+          <lg n="5">
+            <l>Unter euch lebt ich im lande der träume und töne</l>
+            <l>In euren domen verweilt ich · ehrfürchtiger beter ·</l>
+            <l>Bis mich aus spitzen und schnörkeln aus nebel und trübe</l>
+            <l>Angstschrei der seele hinüber zur sonne rief.</l>
+            <l>Heimwärts bring ich euch einen lebendigen strahl ·</l>
+            <l>Dränge zutiefst in den busen die dunkleren flammen ·</l>
+            <l>Euch ein verhängnis solang ihr verworren noch west.</l>
+            <l>Nehmt diesen strahl in euch auf – o nennt ihn nicht kälte! –</l>
+            <l>Und ich streu euch inzwischen im buntesten wechsel</l>
+            <l>Steine und kräuter und erze: nun alles · nun nichts ..</l>
+            <l>Bis sich verklebung der augen euch löst und ihr merket:</l>
+            <l>Zauber des Dings – und des Leibes · der göttlichen norm.</l>
+          </lg>
+          <lg n="6">
+            <pb n="11" facs="#f0015"/>
+            <l>Lange zwar sträuben sich gegen die Freudige Botschaft</l>
+            <l>Grad eure klügsten · sie streichen die wallenden bärte ·</l>
+            <l>Zeigen mit fingern in stockige bücher und rufen:</l>
+            <l>›Feind unsres vaterlands · opfrer an falschem altar‹ ...</l>
+            <l>Ach wenn die fülle der zeiten gekommen: dann werden</l>
+            <l>Wieder ein tausendjahr eurer Gebieter und Weisen</l>
+            <l>Nüchternste sinne und trotzigste nacken gefüge</l>
+            <l>Ärmlicher schar von verzückten landflüchtigen folgen</l>
+            <l>Sich bekehren zur wildesten wundergeschichte</l>
+            <l>Leibhaft das fleisch und das blut eines Mittlers geniessen</l>
+            <l>Knieen im staube ein weiteres tausendjahr</l>
+            <l>Vor einem knaben den ihr zum gott erhebt.</l>
+          </lg>
+          <lg n="7">
+            <l>Doch wohin lockst du und führst du · erhabenes Paar?..</l>
+            <l>Sind es die schatten der sehnsucht · lieblich und quälend?..</l>
+            <l>Säulenhöfe seh ich mit bäumen und brunnen</l>
+            <l>Jugend und alter in gruppen bei werk und <choice><sic>be</sic><corr>bei</corr></choice> musse</l>
+            <l>Maass neben stärke .. so weiss ich allein die gebärden</l>
+            <l>Attischer würde .. die süssen und kräftigen klänge</l>
+            <l>Eines äolischen mundes. Doch nein: ich erkenne</l>
+            <l>Söhne meines volkes – nein: ich vernehme</l>
+            <l>Sprache meines volkes. Mich blendet die freude.</l>
+            <l>Wunder hat sich erfüllt von marmor und rosen ...</l>
+            <l>Welch ein schauer des ungebahnten erbebt?</l>
+            <l>Welch ein schimmer traf mich vom südlichen meer?</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="13" facs="#f0017"/>
+        <head>HYPERION</head>
+        <pb n="14" facs="#f0018"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller"> DEM SEHNENDEN WAR</hi></l>
+            <l><hi rendition="#smaller">DER WINK GENUG · UND WINKE SIND</hi></l>
+            <l><hi rendition="#smaller">VON ALTERS HER DIE SPRACHE DER GÖTTER</hi></l>
+          </lg>
+        </epigraph>
+        <div n="2">
+          <head>I</head>
+          <lg type="poem">
+            <l>Wo an entlegnem gestade</l>
+            <l>Muss ich vor alters entstammt sein</l>
+            <l>Brüder des volkes?</l>
+            <l>Dass ich mit euch wohl geniessend</l>
+            <l>Wein und getreid unsres landes</l>
+            <l>Fremdling euch bleibe?</l>
+            <l>So wie sich sondert des sohns</l>
+            <l>Ahnender stolz von geschwistern</l>
+            <l>Späterer heirat</l>
+            <l>Selbst unter freundlichen spielen</l>
+            <l>Innerlich fern und versichert</l>
+            <l>Besseren vaters.</l>
+            <l>Ihr die in sinnen verstrickten</l>
+            <l>Ihr die in tönen verströmten</l>
+            <l>Schlaff dann beim werke:</l>
+            <l>Klagend an ach welchen wassern</l>
+            <pb n="15" facs="#f0019"/>
+            <l>Weinend an ach welchen weiden</l>
+            <l>Nach – welchem glücke!</l>
+            <l>Lernt nicht des tanzenden schritte</l>
+            <l>Holde gebärde der freude</l>
+            <l>Roh da ihr schwank seid ·</l>
+            <l>Fruchtbarem bund nicht gefüge</l>
+            <l>Ihr auch zu zweien allein:</l>
+            <l>Ihr mit dem spiegel.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <head>II</head>
+          <lg type="poem">
+            <l>Ahnung gesellt mich zu euch</l>
+            <l>kinder des Inselgebiets</l>
+            <l>Die ihr in anmut die tat</l>
+            <l>bilder in hoheit ersannt</l>
+            <l>Spartas gebändigten mut</l>
+            <l>Ioniens süsse vermählt.</l>
+            <l>Jugendlich tanzt Der den chor</l>
+            <l>helden gestaltend als mann</l>
+            <l>Lieblichen gastmahls ist herr</l>
+            <l>lenker in staates gefahr</l>
+            <pb n="16" facs="#f0020"/>
+            <l>Eifernder stämme bewerb</l>
+            <l>einigte tempel und spiel</l>
+            <l>Und keine weisheit bis heut</l>
+            <l>hat dort die Gründer vertieft.</l>
+            <l>Was diese meere befuhr</l>
+            <l>was diese küsten durchzog!</l>
+            <l>Wo als die neige schon nah</l>
+            <l>unter zypressen des tals</l>
+            <l>Weitester lehrer der zeit</l>
+            <l>adligsten schüler geführt.</l>
+            <l>Ihr habt Erlesne des glücks</l>
+            <l>wo ihr auch griffet gesiegt</l>
+            <l>Die ihr von greisen den schatz</l>
+            <l>enkeln gesamt übertrugt</l>
+            <l>Die ihr in fleisch und in erz</l>
+            <l>muster dem menschtum geformt</l>
+            <l>Die ihr in reigen und rausch</l>
+            <l>unsere götter gebart.</l>
+            <l>Weh! ruft der tausende schrei:</l>
+            <l>dass dies musst untergehn!</l>
+            <l>Dass nach dem furchtbaren fug</l>
+            <l>leben am leben erstirbt!</l>
+            <l>Weh! auf des Syrers gebot</l>
+            <l>stürzte die lichtwelt in nacht.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="17" facs="#f0021"/>
+          <head>III</head>
+          <lg type="poem">
+            <l>Ich kam zur heimat: solch gewog von blüten</l>
+            <l>Empfing mich nie .. ein pochen war im feld</l>
+            <l>In meinem hain von schlafenden gewalten ·</l>
+            <l>Ich sah euch fluss und berg und gau im bann</l>
+            <l>Und brüder euch als künftige sonnen-erben:</l>
+            <l>In eurem scheuen auge ruht ein traum</l>
+            <l>Einst wird in euch zu blut der sehnsucht sinnen ...</l>
+            <l>Mein leidend leben neigt dem schlummer zu</l>
+            <l>Doch gütig lohnt der Himmlischen verheissung</l>
+            <l>Dem frommen .. der im Reich nie wandeln darf:</l>
+            <l>Ich werde heldengrab · ich werde scholle</l>
+            <l>Der heilige sprossen zur vollendung nahn:</l>
+            <l><hi rendition="#k">Mit diesen kommt das zweite alter · liebe</hi></l>
+            <l><hi rendition="#k">Gebar die welt · liebe gebiert sie neu.</hi></l>
+            <l>Ich sprach den spruch · der zirkel ist gezogen ..</l>
+            <l>Eh mich das dunkel überholt entrückt</l>
+            <l>Mich hohe schau: bald geht mit leichten sohlen</l>
+            <l>Durch teure flur greifbar im glanz der Gott.</l>
+          </lg>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="19" facs="#f0023"/>
+        <head>AN DIE KINDER DES MEERES</head>
+        <div n="2">
+          <pb n="20" facs="#f0024"/>
+          <head>I</head>
+          <lg type="poem">
+            <l>Einst mir verehrt und gastlich · dann gemieden</l>
+            <l>Vergelten nun die vielgesichtigen wogen</l>
+            <l>Die lange scheu? dass sie die sinne lenken</l>
+            <l>Mitläufer sind dies ganze stück der fahrt?</l>
+            <l>Du der in öden strassen · quälend glück</l>
+            <l>Vor uns erschienst · als wunder zu verstehen ·</l>
+            <l>Kamst von den buchten wie der Nächste Liebste</l>
+            <l>Wo wälder bis ans wasser ziehn wo früher</l>
+            <l>Goldperlen trieben unerforschter welt ..</l>
+            <l>Und um die nördlich harte stirne spielt</l>
+            <l>Und in dem kühlen aug · ein schattenquell ·</l>
+            <l>Zuckt dir entrücktester verbotner traum</l>
+            <l>Weil ein geschick dein kinderhaupt gewiegt</l>
+            <l>In schwanker schiffsnacht und im fabelland.</l>
+            <l>Sorglosen gangs schleppst du geheime kette</l>
+            <l>Entziehst dich uns und gibst nur froh vertraun</l>
+            <l>Dass das geweihte blut der licht-gehaarten</l>
+            <l>Noch pulst in süss unsinnigem verschwenden.</l>
+            <l>Seefahrend heil und sucht des abenteuers</l>
+            <l>Reisst dich – den heftigen zauber frommer tage –</l>
+            <l>Aus unseren augen auf das fernste meer.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="21" facs="#f0025"/>
+          <head>II</head>
+          <lg type="poem">
+            <l>Hier prangt die fülle lacht der Ewigen milde</l>
+            <l>Am frühlingsstrande ihrer wahl .. nur rauch</l>
+            <l>Des bergs verrät gewaltig innere feuer ..</l>
+            <l>Du zögling dieser erd – entflammt und hold –</l>
+            <l>Tritt vor der güldnen alter erzgebild</l>
+            <l>Des Himmelsboten angeflehte füsse</l>
+            <l>Und zeig dich ohne scham im ufertempel!</l>
+            <l>Was fragt und wünscht vor dir der sinn? er kniet ..</l>
+            <l>Und dennoch · wie der herr von tod und leben ·</l>
+            <l>Ziehst du die seele nach an feinem faden</l>
+            <l>Und schreckst mit langer schwarzer wimper wink</l>
+            <l>So oft du kommst ... Wie fahl ist dieser morgen!</l>
+            <l>Sind streifen in der wölbung leichtem blau?</l>
+            <l>Flecken von schwarz im tiefen fluten-blau?</l>
+            <l>Gefährlich grollen unterm orgelton?</l>
+            <l>Umweht ein flor von heimatlichem weh</l>
+            <l>Küsten der lust und des vergessens? Nie!</l>
+            <l>Noch blieb der selbe sonnen-prunk · der glanz</l>
+            <l>Der luft · des opfertages reine stille ..</l>
+            <l>Nur dass Du heute etwas trüber schautest</l>
+            <l>Entstellt das hohe gott-bewohnte meer.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="22" facs="#f0026"/>
+          <head>III</head>
+          <lg type="poem">
+            <l>Ersehnter kömmling der an unsrer tür</l>
+            <l>Oft uns zu kurzem gang im herbstwind lud</l>
+            <l>Dess fragend wort und sanft metallnes lachen</l>
+            <l>Trost war der winternacht .. der lang gehegt</l>
+            <l>Nun vor uns steht geschmeidig frank und schön ..</l>
+            <l>Auf der erblühten lippe heiliger ekel</l>
+            <l>Und liebliche begier des göttersohns!</l>
+            <l>Auch du bist unterm wellenlied geboren</l>
+            <l>Gesegneten gestades wo kein fron</l>
+            <l>Der emsigen not bedrückt und noch kein hauch</l>
+            <l>Der steten wollust lasse schlummer bringt.</l>
+            <l>Am weiss-umsäumten stufigen vorgebirg</l>
+            <l>Schaut durch des ölbaums silbriges gezack</l>
+            <l>Bewegte grüne flut und blankes segel</l>
+            <l>Und nachts am felsen dröhnt der ernste sang</l>
+            <l>Des ewigen triebs vereint der ewigen qual ..</l>
+            <l>Nachdem unwissend freuden du gespendet</l>
+            <l>Versippter uns durch der gemeinschaft brauch</l>
+            <l>Wirst bald du fahren · unsrer hut entzogen ·</l>
+            <l>Macht-rühmlicher! aus deinem edlen hafen</l>
+            <l>In welches neue land auf welch ein meer?</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="23" facs="#f0027"/>
+          <head>IV</head>
+          <head>NACHKLANG</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Nun klingt die see. Bei allen küsten schlagen</l>
+              <l>Die wellen funkelnd an und sinken rück</l>
+              <l>Lichtflockiger schaum verfliegt und vögel schrein.</l>
+              <l>O meergeborene die im frühen traum</l>
+              <l>Der jugendlichen weite segen ahnen:</l>
+              <l>Reichtum und öde · ruhe neben tat ·</l>
+              <l>Euch klingt das lied der wellen – euer preis</l>
+              <l>Tönt in der meergeraubten muschel brausen</l>
+              <l>Die dort ein knabe in die ferne blickend</l>
+              <l>Zum ohr hebt · lauschend ernst im feuchten wind.</l>
+            </lg>
+            <lg n="2">
+              <pb n="24" facs="#f0028"/>
+              <l>Dir gilt das lied · so lebst du uns nun fort</l>
+              <l>So unergründbar · kalten augs der tiefe</l>
+              <l>Noch kaum entstiegen · doch dem untergang</l>
+              <l>Unwissend nah. Welch fremder schimmer lügt</l>
+              <l>Ums haupt dies lächeln tückisch glatter wasser?</l>
+              <l>Dich rettet keine macht auf sichere bahn</l>
+              <l>Dich spült die woge fort die dich geboren</l>
+              <l>Und fern im abend leuchtet noch dein haar.</l>
+            </lg>
+            <lg n="3">
+              <l>Am bläulichen gestad enttaucht dem lauen</l>
+              <l>Mittagsgesang der sonnumhüllten see</l>
+              <l>Dein antlitz greifbar und berückend schön.</l>
+              <l>In dem gewühle stehst du dunklen blicks</l>
+              <l>Und deine wange färbt die pracht der sommer.</l>
+              <l>So lebten sie die wir in ehrfurcht nennen</l>
+              <l>Von eigner kraft gebändigt hoch und leicht</l>
+              <l>Und strahlend wie der leib der Schaumgebornen.</l>
+            </lg>
+            <lg n="4">
+              <l>Dich aber trug das meer von süd zu nord</l>
+              <l>Dich – seltsames gemisch von glut und eis</l>
+              <l>Von jäher kampfwut und von schlaffem stocken.</l>
+              <l>Was folgst du uns du ende dieser zeit?</l>
+              <l>Wählst uns zu flüchtigem spiel wie andere mehr?</l>
+              <l>Die welle treibt dich wechselnd mit dem wunsch</l>
+              <pb n="25" facs="#f0029"/>
+              <l>Doch ausgestorben liegt bald jeder strand</l>
+              <l>Und klagend irrt dein herrenloser geist!</l>
+            </lg>
+            <lg n="5">
+              <l>Ihr seid gebannt! der Meergott bläst das lied</l>
+              <l>Um fels und insel schlingt sein zaubernetz</l>
+              <l>Verknüpfend schicksal mit dem ton der wogen:</l>
+              <l>Im starken prall gedrängt · bald bittend gleitend</l>
+              <l>Verronnen fast und schon in wiederkehr ..</l>
+              <l>Jezt donnert vom erflehten sturm gepeitscht</l>
+              <l>Die flut zermürbte reste mit sich reissend ..</l>
+              <l>Sie reisst euch fort · doch eure seele bleibt</l>
+              <l>Und tönt in meergeraubter muschel brausen</l>
+              <l>Die dort ein knabe in die ferne blickend</l>
+              <l>Zum ohr hebt · lauschend ernst im feuchten wind.</l>
+            </lg>
+          </lg>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="27" facs="#f0031"/>
+        <head>DER KRIEG</head>
+        <pb n="28" facs="#f0032"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller">.........WEM DAS GEWISSEN DROHE</hi></l>
+            <l><hi rendition="#smaller">MIT EIGNER ODER FREMDER SCHANDE DRUCKE</hi></l>
+            <l><hi rendition="#smaller">EMPFINDET DEINE WORTE WOL ALS ROHE.</hi></l>
+          </lg>
+          <lg>
+            <l><hi rendition="#smaller">DEM OHNGEACHTET HALT DICH FREI VON SCHMUCKE</hi></l>
+            <l><hi rendition="#smaller">UND GANZ ERÖFFNE DAS VON DIR GESCHAUTE.</hi></l>
+            <l><hi rendition="#smaller">LASS ES GESCHEHN DASS WEN ES BEISST SICH JUCKE.</hi></l>
+          </lg>
+          <lg>
+            <l><hi rendition="#smaller">WENN AUCH BESCHWERLICH WERDEN DEINE LAUTE</hi></l>
+            <l><hi rendition="#smaller">BEIM ERSTEN KOSTEN: WIRD LEBENDIGE ZEHRUNG</hi></l>
+            <l><hi rendition="#smaller">MAN DRAUS ENTNEHMEN WENN MAN SIE VERDAUTE.</hi></l>
+          </lg>
+          <bibl><hi rendition="#smaller">DANTE · GÖTTLICHE KOMÖDIE · HIMMEL XVII</hi></bibl>
+        </epigraph>
+        <lg type="poem">
+          <lg n="1">
+            <l>Wie das getier der wälder das bisher</l>
+            <l>Sich scheute oder fletschend sich zerriss</l>
+            <l>Bei jähem brand und wenn die erde bebt</l>
+            <l>Sich sucht und nachbarlich zusammendrängt:</l>
+            <l>So in zerspaltner heimat schlossen sich</l>
+            <l>Beim schrei <hi rendition="#k">der krieg</hi> die gegner an .. ein hauch</l>
+            <l>Des unbekannten eingefühls durchwehte</l>
+            <l>Von schicht zu schicht und ein verworrnes ahnen</l>
+            <l>Was nun beginnt ... Für einen augenblick</l>
+            <l>Ergriffen von dem welthaft hohen schauer</l>
+            <l>Vergass der feigen jahre wust und tand</l>
+            <l>Das volk und sah sich gross in seiner not.</l>
+          </lg>
+          <lg n="2">
+            <pb n="29" facs="#f0033"/>
+            <l>Sie kamen zu dem Siedler auf dem berg:</l>
+            <l>›Liegst du noch still beim ungeheuren los?‹</l>
+            <l>Der sprach: dies frösteln war das edelste!..</l>
+            <l>Was euch erschüttert ist mir lang vertraut ·</l>
+            <l>Lang hab ich roten schweiss der angst geschwizt</l>
+            <l>Als man mit feuer spielte .. meine tränen</l>
+            <l>Vorweg geweint .. heut find ich keine mehr.</l>
+            <l>Das meiste war geschehn und keiner sah ..</l>
+            <l>Das trübste wird erst sein und keiner sieht.</l>
+            <l>Ihr lasst euch pressen von der äussern wucht ..</l>
+            <l>Dies sind die flammenzeichen · nicht die kunde.</l>
+            <l>Am streit wie ihr ihn fühlt nehm ich nicht teil.</l>
+          </lg>
+          <lg n="3">
+            <l>Nie wird dem Seher dank .. er trifft auf hohn</l>
+            <l>Und steine · ruft er unheil – wut und steine</l>
+            <l>Wenn es hereinbrach. Angehäufte frevel</l>
+            <l>Von allen zwang und glück genannt · verhehlter</l>
+            <l>Abfall von Mensch zu Larve heischen busse ..</l>
+            <l>Was ist <hi rendition="#k">ihm</hi> mord von hunderttausenden</l>
+            <l>Vorm mord am Leben selbst? Er kann nicht schwärmen</l>
+            <l>Von heimischer tugend und von welscher tücke.</l>
+            <l>Hier hat das weib das klagt · der satte bürger ·</l>
+            <l>Der graue bart ehr schuld als stich und schuss</l>
+            <l>Des widerparts an unsrer söhn und enkel</l>
+            <l>Verglasten augen und zerfeztem leib.</l>
+          </lg>
+          <lg n="4">
+            <pb n="30" facs="#f0034"/>
+            <l><hi rendition="#k">Sein</hi> amt ist lob und fem · gebet und sühne ·</l>
+            <l>Er liebt und dient auf seinem weg. Die jüngsten</l>
+            <l>Der teuren sandt er aus mit segenswunsch ..</l>
+            <l>Sie wissen was sie treibt und was sie feit ..</l>
+            <l>Sie ziehn um keinen namen – nein um sich.</l>
+            <l><hi rendition="#k">Ihn</hi> packt ein tiefres grausen. Die Gewalten</l>
+            <l>Nennt er nicht fabel. Wer begreift sein flehn:</l>
+            <l>›Die ihr die fuchtel schwingt auf leichenschwaden ·</l>
+            <l>Wollt uns bewahren vor zu leichtem schlusse</l>
+            <l>Und vor der ärgsten · vor der Blut-schmach!‹ Stämme</l>
+            <l>Die sie begehn sind wahllos auszurotten</l>
+            <l>Wenn nicht ihr bestes gut zum banne geht.</l>
+          </lg>
+          <lg n="5">
+            <l>Zu jubeln ziemt nicht: kein triumf wird sein ·</l>
+            <l>Nur viele untergänge ohne würde ..</l>
+            <l>Des schöpfers hand entwischt rast eigenmächtig</l>
+            <l>Unform von blei und blech · gestäng und rohr.</l>
+            <l>Der selbst lacht grimm wenn falsche heldenreden</l>
+            <l>Von vormals klingen der als brei und klumpen</l>
+            <l>Den bruder sinken sah · der in der schandbar</l>
+            <l>Zerwühlten erde hauste wie geziefer ..</l>
+            <l>Der alte Gott der schlachten ist nicht mehr.</l>
+            <l>Erkrankte welten fiebern sich zu ende</l>
+            <l>In dem getob. Heilig sind nur die säfte</l>
+            <l>Noch makelfrei versprizt – ein ganzer strom.</l>
+          </lg>
+          <lg n="6">
+            <pb n="31" facs="#f0035"/>
+            <l>Wo zeigt der Mann sich der vertritt? das Wort</l>
+            <l>Das einzig gilt fürs spätere gericht?</l>
+            <l>Spotthafte könige mit bühnenkronen ·</l>
+            <l>Sachwalter · händler · schreiber – pfiff und zahl.</l>
+            <l>Auch in verbriefter ordnung grenzen: taumel ·</l>
+            <l>Dann drohnde wirrsal .. da entstieg gestüzt</l>
+            <l>Auf seinen stock farblosem vororthaus</l>
+            <l>Der fahlsten unsrer städte ein vergessner</l>
+            <l>Schmuckloser greis .. der fand den rat der stunde</l>
+            <l>Und rettete was die gebärdig lauten</l>
+            <l>Schliesslich zum abgrundsrand gebracht: das reich ..</l>
+            <l>Doch vor dem schlimmren feind kann er nicht retten.</l>
+          </lg>
+          <lg n="7">
+            <l>›Fehlt dir der blick für solch ein maass von opfern</l>
+            <l>Und kraft der allheit?‹ Diese sind auch drüben.</l>
+            <l>Das nötige werk der pflicht bleibt stumpf und glanzlos</l>
+            <l>Und opfer steigt nicht in verruchter zeit ..</l>
+            <l>Menge ist wert · doch ziellos · schafft kein sinnbild ·</l>
+            <l>Hat kein gedächtnis – Was fragt sich der Weise?</l>
+            <l>Sie troff im schwatz von wolfahrt · menschlichkeit</l>
+            <l>Und hebt nun an das greulichste gemetzel.</l>
+            <l>Nach speichel niedrigster umwerbung: geifer</l>
+            <l>Gemeinsten schimpfs!.. und was sich eben hezt</l>
+            <l>Umkröche sich geschmiegt wenn sich erhöbe</l>
+            <l>Furchtbar vor ihm das künftige gesicht.</l>
+          </lg>
+          <lg n="8">
+            <pb n="32" facs="#f0036"/>
+            <l>Und was schwillt auf als geist! Solch zart gewächs</l>
+            <l>Hat fernab sein entstehn ... Wie faulige frucht</l>
+            <l>Schmeckt das gered von hoh-zeit auferstehung</l>
+            <l>In welkem ton. Wer gestern alt war kehrt nicht</l>
+            <l>Jezt heim als neu und wer ein richtiges sagt</l>
+            <l>Und irrt im lezten steckt im stärksten wahn.</l>
+            <l>Spricht Aberwitz: ›Nun lernten wir fürs nächste‹</l>
+            <l>Ach dies wird wiederum anders!.. dafür rüstet</l>
+            <l>Nur vollste umkehr: schau und innrer sinn.</l>
+            <l>Keiner der heute ruft und meint zu führen</l>
+            <l>Merkt wie er tastet im verhängnis · keiner</l>
+            <l>Erspäht ein blasses glühn vom morgenrot.</l>
+          </lg>
+          <lg n="9">
+            <l>Weit minder wundert es dass soviel sterben</l>
+            <l>Als dass soviel zu leben wagt. Wer schritthielt</l>
+            <l>Mit dem Jahrhundert darf heut spuk nur sehn.</l>
+            <l>Der hilft sich · kind und narr: ›Du hasts gewollt‹</l>
+            <l>Alle und keiner – heisst das bündige urteil.</l>
+            <l>Der lügt sich · schelm und narr: ›Diesmal winkt sicher</l>
+            <l>Das Friedensreich.‹ Verstrich die frist: müsst wieder</l>
+            <l>Ihr waten bis zum knöchel bis zum knie</l>
+            <l>Im most des grossen Keltrers .. doch dann schoss</l>
+            <l>Ein nachwuchs auf · der hat kein heuchel-auge:</l>
+            <l>Er hat das schicksalsauge das der schreck</l>
+            <l>Des ehernen fugs gorgonisch nicht versteint.</l>
+          </lg>
+          <lg n="10">
+            <pb n="33" facs="#f0037"/>
+            <l>In beiden lagern kein Gedanke – wittrung</l>
+            <l>Um was es geht ... Hier: sorge nur zu krämern</l>
+            <l>Wo schon ein andrer krämert .. ganz zu werden</l>
+            <l>Was man am andren schmäht und sich zu leugnen</l>
+            <l>›Ein volk ist tot wenn seine götter tot sind‹</l>
+            <l>Drüben: ein pochen auf ehmaligen vorrang</l>
+            <l>Von pracht und sitte · während feile nutzsucht</l>
+            <l>Bequem veratmen will .. im schooss der hellsten</l>
+            <l>Einsicht kein schwacher blink · dass die Verpönten</l>
+            <l>Was fallreif war zerstören · dass vielleicht</l>
+            <l>Ein ›Hass und Abscheu menschlichen geschlechtes‹</l>
+            <l>Zum weitren male die erlösung bringt.</l>
+          </lg>
+          <lg n="11">
+            <l>Doch endet nicht mit fluch der sang. Manch ohr</l>
+            <l>Verstand schon meinen preis auf stoff und stamm ·</l>
+            <l>Auf kern und keim .. schon seh ich manche hände</l>
+            <l>Entgegen mir gestreckt · sag ich: o Land</l>
+            <l>Zu schön als dass dich fremder tritt verheere:</l>
+            <l>Wo flöte aus dem weidicht tönt · aus hainen</l>
+            <l>Windharfen rauschen · wo der Traum noch webt</l>
+            <l>Untilgbar durch die jeweils trünnigen erben ..</l>
+            <l>Wo die allblühende Mutter der verwildert</l>
+            <l>Zerfallnen weissen Art zuerst enthüllte</l>
+            <l>Ihr echtes antlitz .. Land dem viel verheissung</l>
+            <l>Noch innewohnt – das drum nicht untergeht!</l>
+          </lg>
+          <lg n="12">
+            <pb n="34" facs="#f0038"/>
+            <l>Die jugend ruft die Götter auf .. Erstandne</l>
+            <l>Wie Ewige nach des Tages fülle .. Lenker</l>
+            <l>Im sturmgewölk gibt Dem des heitren himmels</l>
+            <l>Das zepter und verschiebt den Längsten Winter.</l>
+            <l>Der an dem Baum des Heiles hing warf ab</l>
+            <l>Die blässe blasser seelen · dem Zerstückten</l>
+            <l>Im glut-rausch gleich .. Apollo lehnt geheim</l>
+            <l>An Baldur: ›Eine weile währt noch nacht ·</l>
+            <l>Doch diesmal kommt von Osten nicht das licht.‹</l>
+            <l>Der kampf entschied sich schon auf sternen: Sieger</l>
+            <l>Bleibt wer das schutzbild birgt in seinen marken</l>
+            <l>Und Herr der zukunft wer sich wandeln kann.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="35" facs="#f0039"/>
+        <head>DER DICHTER IN ZEITEN DER WIRREN</head>
+        <pb n="36" facs="#f0040"/>
+        <p rendition="#c"><hi rendition="#smaller">DEM ANDENKEN DES</hi></p>
+        <p rendition="#c"><hi rendition="#smaller">GRAFEN BERNHARD UXKULL</hi></p>
+        <lg type="poem">
+          <lg n="1">
+            <l>Der Dichter heisst im stillern gang der zeit</l>
+            <l>Beflügelt kind das holde träume tönt</l>
+            <l>Und schönheit bringt ins tätige getrieb.</l>
+            <l>Doch wenn aus übeln sich das wetter braut</l>
+            <l>Das schicksal pocht mit lauten hammerschlägen</l>
+            <l>Klingt er wie rauh metall und wird verhört ..</l>
+            <l>Wenn alle blindheit schlug · er einzig seher</l>
+            <l>Enthüllt umsonst die nahe not .. dann mag</l>
+            <l>Kassandra-warnen heulen durch das haus</l>
+            <l>Die tollgewordne menge sieht nur eins:</l>
+            <l>Das pferd · das pferd! und rast in ihren tod.</l>
+            <l>Dann mag profeten-ruf des stammgotts groll</l>
+            <l>Vermelden und den trab von Assurs horden</l>
+            <l>Die das erwählte volk in knechtschaft schleppen:</l>
+            <l>Der weise Rat hat sichreren bericht</l>
+            <l>Verlacht den mahner · sperrt ihn ins verlies.</l>
+            <l>Wenn rings die Heilige Stadt umzingelt ist</l>
+          </lg>
+          <lg n="2">
+            <pb n="37" facs="#f0041"/>
+            <l>Bürger und krieger durcheinander rennen</l>
+            <l>Fürsten und priester drin sich blutig raufen</l>
+            <l>Um einen besenstiel indes schon draussen</l>
+            <l>Das stärkste bollwerk fällt: er seufzt und schweigt.</l>
+            <l>Wenn der erobrer dann mit raub und brand</l>
+            <l>Hereinstürmt und ins joch zwingt mann und weib</l>
+            <l>Ein teil wutschäumend seine eigne schuld</l>
+            <l>Abwälzend auf den andren lädt · ein teil</l>
+            <l>Entbehrungsmüd sich um die brocken balgt</l>
+            <l>Die ihm der freche sieger vorwirft · johlend</l>
+            <l>Und tanzend sich betäubt · am riste leckt</l>
+            <l>Der tritt und schlägt: Er fernab fühlt allein</l>
+            <l>Das ganze elend und die ganze schmach.</l>
+          </lg>
+          <lg n="3">
+            <l>Geh noch einmal zum berg zu deinen geistern</l>
+            <l>Und bring uns tröstlicheren spruch der löse</l>
+            <l>Aus dieser trübsal!.. also spricht ein greis ...</l>
+            <l>Was soll hier himmels stimme wo kein ohr ist</l>
+            <l>Für die des plansten witzes? was soll rede</l>
+            <l>Vom geiste wo kein allgemeiner trieb ist</l>
+            <l>Als der des trogs? wo jede zunft die andre</l>
+            <l>Beschimpfend stets ihr leckes boot empfiehlt</l>
+            <l>Das kläglich scheiterte · heil sucht in mehrung</l>
+            <l>Ihr lieben tandes? wo die klügsten fabeln</l>
+            <l>Vom frischen aufbau mit den alten sünden</l>
+            <pb n="38" facs="#f0042"/>
+            <l>Und raten: macht euch klein wie würmer dass euch</l>
+            <l>Der donner schont der blitz euch nicht gewahrt ...</l>
+            <l>Der ganze stamm der lebenden der hinfuhr</l>
+            <l>Durch lange irrsal wird vor seinen götzen</l>
+            <l>Die ihn in staub und niedrigkeit geworfen</l>
+            <l>So oft sie lügen immer weiter räuchern</l>
+            <l>Hat seines daseins oberstes gesetz</l>
+            <l>Hat was ihm den bestand verbürgt vergessen</l>
+            <l>Glaubt an den Lenker nicht · braucht nicht den Sühner</l>
+            <l>Will sich mit list aus dem verhängnis ziehn.</l>
+            <l>Noch härtre pflugschar muss die scholle furchen</l>
+            <l>Noch dickrer nebel muss die luft bedräun ..</l>
+            <l>Der blassest blaue schein aus wolkenfinster</l>
+            <l>Bricht auf die Heutigen erst herein wenn alles</l>
+            <l>Was eine sprache spricht die hand sich reicht</l>
+            <l>Um sich zu wappnen wider den verderb –</l>
+            <l>Gleichviel ob rot ob blau ob schwarz die fahlen</l>
+            <l>Verschlissnen fahnenfetzen von sich schüttelt</l>
+            <l>Und tag und nacht nur an die Vesper denkt.</l>
+          </lg>
+          <lg n="4">
+            <l>Der Sänger aber sorgt in trauer-läuften</l>
+            <l>Dass nicht das mark verfault · der keim erstickt.</l>
+            <l>Er schürt die heilige glut die über-springt</l>
+            <l>Und sich die leiber formt · er holt aus büchern</l>
+            <l>Der ahnen die verheissung die nicht trügt</l>
+            <pb n="39" facs="#f0043"/>
+            <l>Dass die erkoren sind zum höchsten ziel</l>
+            <l>Zuerst durch tiefste öden ziehn dass einst</l>
+            <l>Des erdteils herz die welt erretten soll ..</l>
+            <l>Und wenn im schlimmsten jammer lezte hoffnung</l>
+            <l>Zu löschen droht: so sichtet schon sein aug</l>
+            <l>Die lichtere zukunft. Ihm wuchs schon heran</l>
+            <l>Unangetastet von dem geilen markt</l>
+            <l>Von dünnem hirngeweb und giftigem flitter</l>
+            <l>Gestählt im banne der verruchten jahre</l>
+            <l>Ein jung geschlecht das wieder mensch und ding</l>
+            <l>Mit echten maassen misst · das schön und ernst</l>
+            <l>Froh seiner einzigkeit · vor Fremdem stolz ·</l>
+            <l>Sich gleich entfernt von klippen dreisten dünkels</l>
+            <l>Wie seichtem sumpf erlogner brüderei</l>
+            <l>Das von sich spie was mürb und feig und lau</l>
+            <l>Das aus geweihtem träumen tun und dulden</l>
+            <l>Den einzigen der hilft den Mann gebiert ..</l>
+            <l>Der sprengt die ketten fegt auf trümmerstätten</l>
+            <l>Die ordnung · geisselt die verlaufnen heim</l>
+            <l>Ins ewige recht wo grosses wiederum gross ist</l>
+            <l>Herr wiederum herr · zucht wiederum zucht · er heftet</l>
+            <l>Das wahre sinnbild auf das völkische banner</l>
+            <l>Er führt durch sturm und grausige signale</l>
+            <l>Des frührots seiner treuen schar zum werk</l>
+            <l>Des wachen tags und pflanzt das Neue Reich.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="41" facs="#f0045"/>
+        <head>EINEM JUNGEN FÜHRER IM ERSTEN WELTKRIEG</head>
+        <lg type="poem">
+          <lg n="1">
+            <pb n="42" facs="#f0046"/>
+            <l>Wenn in die heimat du kamst aus dem zerstampften gefild</l>
+            <l>Heil aus dem prasselnden guss höhlen von berstendem schutt</l>
+            <l>Keusch fast die rede dir floss wie von notwendigem dienst</l>
+            <l>Von dem verwegensten ritt von den gespanntesten mühn ..</l>
+            <l>Freier die schulter sich hob drauf man als bürde schon lud</l>
+            <l>Hunderter schicksal:</l>
+          </lg>
+          <lg n="2">
+            <l>Lag noch im ruck deines arms zugriff und schneller befehl</l>
+            <l>In dem sanft-sinnenden aug obacht der steten gefahr</l>
+            <l>Drang eine kraft von dir her sichrer gelassenheit</l>
+            <l>Dass der weit ältre geheim seine erschüttrung bekämpft</l>
+            <l>Als sich die knabengestalt hochaufragend und leicht</l>
+            <l>Schwang aus dem sattel.</l>
+          </lg>
+          <lg n="3">
+            <pb n="43" facs="#f0047"/>
+            <l>Anders als ihr euch geträumt fielen die würfel des streits ..</l>
+            <l>Da das zerrüttete heer sich seiner waffen begab</l>
+            <l>Standest du traurig vor mir wie wenn nach prunkendem fest</l>
+            <l>Nüchterne woche beginnt schmückender ehren beraubt ..</l>
+            <l>Tränen brachen dir aus um den vergeudeten schatz</l>
+            <l>Wichtigster jahre.</l>
+          </lg>
+          <lg n="4">
+            <l>Du aber tu es nicht gleich unbedachtsamem schwarm</l>
+            <l>Der was er gestern bejauchzt heute zum kehricht bestimmt</l>
+            <l>Der einen markstein zerhaut dran er strauchelnd sich stiess ..</l>
+            <l>Jähe erhebung und zug bis an die pforte des siegs</l>
+            <l>Sturz unter drückendes joch bergen in sich einen sinn</l>
+            <l>Sinn in dir selber.</l>
+          </lg>
+          <lg n="5">
+            <l>Alles wozu du gediehst rühmliches ringen hindurch</l>
+            <l>Bleibt dir untilgbar bewahrt stärkt dich für künftig getös ..</l>
+            <l>Sieh · als aufschauend um rat langsam du neben mir schrittst</l>
+            <l>Wurde vom abend der sank um dein aufflatterndes haar</l>
+            <l>Um deinen scheitel der schein erst von strahlen ein ring</l>
+            <l>Dann eine krone.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="45" facs="#f0049"/>
+        <head>DIE WINKE</head>
+        <pb n="46" facs="#f0050"/>
+        <epigraph>
+          <p rendition="#c"><hi rendition="#smaller">*</hi></p>
+          <p rendition="#c">M</p>
+          <lg>
+            <l><hi rendition="#smaller">JEZT NAHT NACH TAUSENDEN VON JAHREN</hi></l>
+            <l><hi rendition="#smaller">EIN EINZIGER FREIER AUGENBLICK:</hi></l>
+            <l><hi rendition="#smaller">DA BRECHEN ENDLICH ALLE KETTEN</hi></l>
+            <l><hi rendition="#smaller">UND AUS DER WEITGEBORSTNEN ERDE</hi></l>
+            <l><hi rendition="#smaller">STEIGT JUNG UND SCHÖN EIN NEUER HALBGOTT AUF</hi></l>
+          </lg>
+        </epigraph>
+        <lg type="poem">
+          <lg n="1">
+            <l>Einer kam vom feld her nach dem tor.</l>
+            <l>Purpurn blau entflammte das gebirg</l>
+            <l>Fahler himmel · tote luft bewarf</l>
+            <l>Die gemäuer wie vorm erdgetös ..</l>
+            <l>Drinnen lagen all im tiefsten schlaf.</l>
+            <l>Er erschrak und bebt am ganzen leib:</l>
+            <l>Herr! erkenn ich deine zeichen recht?</l>
+            <l>Stimme scholl herab: Es ist so weit.</l>
+          </lg>
+          <lg n="2">
+            <pb n="47" facs="#f0051"/>
+            <l>Dreie standen in dem raum voll angst</l>
+            <l>Hielten sich im kreis geeint die hand</l>
+            <l>Tauschten glühend der verzückten blick:</l>
+            <l>Deine stunde · Herr · traf uns hier an ..</l>
+            <l>Wählst du uns für deine botschaft aus:</l>
+            <l>Dann mach tragbar uns die überwucht</l>
+            <l>Unsres glücks da wir aus weltennacht</l>
+            <l>Leibhaft schreiten sahn das ewige kind.</l>
+          </lg>
+          <lg n="3">
+            <l>Sieben spähten von dem berg ins land ..</l>
+            <l>Trümmer rauchten meltau schlug die flur:</l>
+            <l>Deinen odem sandten wir durchs reich</l>
+            <l>Deine saaten steckten wir im grund</l>
+            <l>Herr! du schüttelst nochmals unser los.</l>
+            <l>So du lange brache noch verhängst</l>
+            <l>Harren wir als wächter deiner höh</l>
+            <l>Sterben gern seit wir dein licht gesehn.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="49" facs="#f0053"/>
+        <head>GEBETE</head>
+        <div n="2">
+          <pb n="50" facs="#f0054"/>
+          <head>I</head>
+          <lg type="poem">
+            <l>Kam mir erinnerung jener frühlingsstrassen</l>
+            <l>Lichtfülle in erwartung deines blickes</l>
+            <l>Und jener abende voll purpurdunkel</l>
+            <l>Wo hohes leben festlich uns umschlungen</l>
+            <l>Bis es im nachtgewölb verklang mit flehen:</l>
+            <l>So schien mir dass aus meinem besten blute</l>
+            <l>Das bild nur abglanz sei der kraft und würde</l>
+            <l>Dass ich von unsrem schauer deiner nähe</l>
+            <l>Beter und Schöner! nicht genug gedeutet ·</l>
+            <l>Mein lied dem wahren gang mehr nicht entspreche</l>
+            <l>Als einem ding sein schatten auf der welle ...</l>
+            <l>Nun weiss ich dass der Seher und der Weisen</l>
+            <l>Verkündigung seit unsres blühens jahren</l>
+            <l>Als wirklichkeit <hi rendition="#g">ein</hi> mund nicht ganz erschöpfe</l>
+            <l>Nun seh ich hunderte von edlen stirnen</l>
+            <l>Auf die dein schimmer heimlich eingeflossen</l>
+            <l>Mit ihrer herrlichkeit dein wesen preisen –</l>
+            <l>Fügsam ein werker der sein teil vollendet</l>
+            <l>Will ich nicht mehr mit dichterworten klagen:</l>
+            <l>Da Du der höhere bist muss ich versagen.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="51" facs="#f0055"/>
+          <head>II</head>
+          <lg type="poem">
+            <l>In wilden wirren · schauerlichem harren</l>
+            <l>Auf eine mär von trümmern und von tränen</l>
+            <l>Auf einen toten-ruf .. wohin entfliehen</l>
+            <l>Dass ich das fest der erde frei begehe?</l>
+            <l>Mir bangt dass ich umwölkt von frost und starre</l>
+            <l>Auf die Verkündung minder tief vertraute</l>
+            <l>Und · was als eifer treibt in meine tage ·</l>
+            <l>In dumpfen stoff mein feuer nicht mehr presste ..</l>
+            <l>Dass mir der schönsten leuchten führung fehlte</l>
+            <l>Und ich mich rückwärts in die nacht verlöre.</l>
+            <l>Da kommt herüber vom gebirg ein wehen</l>
+            <l>In grauen garten flutet glanz und bläue ..</l>
+            <l>Perlfarbner duft behaucht die schattengegend</l>
+            <l>Und silbern-südlich lagert dämmerschimmer</l>
+            <l>Mit sanfter blendung über turm und bogen</l>
+            <l>Wie einst im knospenmond da du entstiegest ·</l>
+            <l>Erwartung zittert als ob jezt nicht ferne</l>
+            <l>Ein tor-gang hallte von ersehntem schritte:</l>
+            <l>Als wandeltest Du wieder neu gestaltet</l>
+            <l>In Deiner stadt wo Du für uns gewaltet.</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="52" facs="#f0056"/>
+          <head>III</head>
+          <lg type="poem">
+            <l>So hohes glück war keinem je erschienen</l>
+            <l>Dass er verharren dürft in seinem strahle ·</l>
+            <l>Mit auf- und niedergang wird es bestehen ..</l>
+            <l>Ich muss mich neigen überm dunklen brunnen ·</l>
+            <l>Die form aus seinen tiefen wieder suchen –</l>
+            <l>Anders und immer Du – und aufwärts holen ..</l>
+            <l>Die reichste feier will verjüngt sich sehen</l>
+            <l>Der flüchtigen von heut entnimmt sie dauer ..</l>
+            <l>So lass geschehn dass ich an jeder freude</l>
+            <l>Gemäss dem satz des lebens mich entfache!</l>
+            <l>Da uns die trübe droht wenn wir nicht strömen</l>
+            <l>Reisst oft sich unser geist aus seinen grenzen:</l>
+            <l>Vom glorreichen beginn an webt er träume</l>
+            <l>In reihen endlos bis in spätste zonen</l>
+            <l>Verfolgt er zug um zug verwegne spiele ..</l>
+            <l>Zujubelnd den erahnten morgenröten</l>
+            <l>Hängt er verzückt in unermessner schwebe.</l>
+            <l>Dann wieder schaut er aus wo sich ihm weise</l>
+            <l>Ein fester stern – dein stern – zu stetem preise</l>
+            <l>Und wo ein ruhen sei im allgekreise.</l>
+          </lg>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="53" facs="#f0057"/>
+        <head>BURG FALKENSTEIN</head>
+        <pb n="54" facs="#f0058"/>
+        <p rendition="#c"><hi rendition="#smaller">AN ERNST</hi></p>
+        <lg type="poem">
+          <lg n="1">
+            <l>Zur bewaldeten kuppe</l>
+            <l>stieg ich an neben dir</l>
+            <l>Wo auf rauh-gradem eckturm</l>
+            <l>sich der rundturm erhebt</l>
+            <l>Und aus verwitterter fuge</l>
+            <l>ein lebendiger baum.</l>
+            <l>Hier liegt der heiden-wall</l>
+            <l>dort das trümmerkastell ·</l>
+            <l>Unten stufig sich senkend</l>
+            <l>ringsum hügel und ort</l>
+            <l>Bis zum fernen geleucht</l>
+            <l>unseres ewigen Stromes.</l>
+          </lg>
+          <lg n="2">
+            <pb n="55" facs="#f0059"/>
+            <l>Ich deutete abwärts:</l>
+            <l>sieh das rätselgesicht</l>
+            <l>Dieser massigen veste</l>
+            <l>gegenüber im blau</l>
+            <l>Und das liebliche bachtal ..</l>
+            <l>da fühl ich wie einst</l>
+            <l>In der friedvollen vorzeit</l>
+            <l>gemächlichem graun</l>
+            <l>In dem murmeln der haine</l>
+            <l>und abends im hüttenrauch</l>
+            <l>Eine ganze verträumte</l>
+            <l>kindheit erzittern.</l>
+          </lg>
+          <lg n="3">
+            <l>Nachdenklich sprachst du:</l>
+            <l>›solch ein mächtigstes ding ·</l>
+            <l>Zauber – ist anderer art</l>
+            <l>geht nicht gang der natur ·</l>
+            <l>Kommt nicht aus geisterhusch</l>
+            <l>über gemäuer-verfall</l>
+            <l>Noch aus hangender zweige</l>
+            <l>nachtgespenstischem wehn.</l>
+            <l>Uns ist immer dahin</l>
+            <l>frist behaglichen glücks</l>
+            <l>Und der altväter gefühl</l>
+            <l>mit den schalmeien der schäfer</l>
+          </lg>
+          <lg n="4">
+            <pb n="56" facs="#f0060"/>
+            <l>Denk dies volk und sein loos:</l>
+            <l>streng bemüht bis zur fron</l>
+            <l>Selten heimisch bei sich</l>
+            <l>ohne freude sein tun</l>
+            <l>Das – wie lang nicht – verspürt</l>
+            <l>den befreiteren drang ·</l>
+            <l>Voll gedanken entbehrt</l>
+            <l>leichteren göttersinn.</l>
+            <l>Wo sie häuser gebaut</l>
+            <l>engt ein klemmender druck</l>
+            <l>Wo ein lied ihnen quoll</l>
+            <l>meist war es klage.‹</l>
+          </lg>
+          <lg n="5">
+            <l>Aber schon deutlichen klang</l>
+            <l>wittr’ ich durch schläfrige luft ·</l>
+            <l>Eh eine saite zerriss</l>
+            <l>war schon die neue gespannt.</l>
+            <l>Ungewohnt noch dem ohr</l>
+            <l>schwingt sich der goldene ton:</l>
+            <l>Frühester ahnen geheiss</l>
+            <l>unseres gottes verspruch ...</l>
+            <l>Ab von dem schillernden sund</l>
+            <l>über der täler gewell</l>
+            <l>Dunstiger städte betrieb</l>
+            <l>zuckt er durchs alternde herz.</l>
+          </lg>
+          <lg n="6">
+            <pb n="57" facs="#f0061"/>
+            <l>Über das felsengebirg</l>
+            <l>bis zu der zedern gewölb</l>
+            <l>Bis an den strahlenden golf</l>
+            <l>ohne vielstimmig gewirr</l>
+            <l>Hallend von reinerm metall</l>
+            <l>dringt der gewaltige hauch ..</l>
+            <l>Mit der gestalten zug</l>
+            <l>flutet zum norden zurück</l>
+            <l>Mär von blut und von lust</l>
+            <l>mär von glut und von glanz:</l>
+            <l>Unserer kaiser gepräng</l>
+            <l>unserer kämpfer gedröhn.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="59" facs="#f0063"/>
+        <head>GEHEIMES DEUTSCHLAND</head>
+        <lg type="poem">
+          <lg n="1">
+            <pb n="60" facs="#f0064"/>
+            <l>Reiss mich an deinen rand</l>
+            <l>Abgrund – doch wirre mich nicht!</l>
+          </lg>
+          <lg n="2">
+            <l>Wo unersättliche gierde</l>
+            <l>Von dem pol bis zum gleicher</l>
+            <l>Schon jeden zoll breit bestapft hat</l>
+            <l>Mit unerbittlicher grelle</l>
+            <l>Ohne scham überblitzend</l>
+            <l>Alle poren der welt:</l>
+          </lg>
+          <lg n="3">
+            <l>Wo hinter maassloser wände</l>
+            <l>Hässlichen zellen ein irrsinn</l>
+            <l>Grad erfand was schon morgen</l>
+            <l>Weitste weite vergiftet</l>
+            <l>Bis in wüsten die reitschaar</l>
+            <l>Bis in jurten den senn:</l>
+          </lg>
+          <lg n="4">
+            <l>Wo nicht mehr · rauher obhut ·</l>
+            <l>Säugt in steiniger waldschlucht</l>
+            <l>Zwillingsbrüder die wölfin</l>
+            <l>Wo nicht · den riesen ernährend ·</l>
+            <l>Wilde inseln mehr grünen</l>
+            <l>Noch ein jungfrauen-land:</l>
+          </lg>
+          <lg n="5">
+            <pb n="61" facs="#f0065"/>
+            <l>Da in den äussersten nöten</l>
+            <l>Sannen die Untern voll sorge ·</l>
+            <l>Holten die Himmlischen gnädig</l>
+            <l>Ihr lezt geheimnis .. sie wandten</l>
+            <l>Stoffes gesetze und schufen</l>
+            <l>Neuen raum in den raum ...</l>
+          </lg>
+          <lg n="6">
+            <l>Einst lag ich am südmeer</l>
+            <l>Tief-vergrämt wie der Vorfahr</l>
+            <l>Auf geplattetem fels</l>
+            <l>Als mich der Mittagschreck</l>
+            <l>Vorbrechend durchs ölgebüsch</l>
+            <l>Anstiess mit dem tierfuss:</l>
+          </lg>
+          <lg n="7">
+            <l>›Kehr in die heilige heimat</l>
+            <l>Findst ursprünglichen boden</l>
+            <l>Mit dem geschärfteren aug</l>
+            <l>Schlummernder fülle schooss</l>
+            <l>Und so unbetretnes gebiet</l>
+            <l>Wie den finstersten urwald‹ ..</l>
+          </lg>
+          <lg n="8">
+            <l>Fittich des sonnentraums</l>
+            <l>Streiche nun nah am grund!</l>
+          </lg>
+          <lg n="9">
+            <pb n="62" facs="#f0066"/>
+            <l>Da hört ich von Ihm der am klippengestad</l>
+            <l>Aus klaffendem himmel im morgenschein</l>
+            <l>Ein nu lang die Olympischen sah</l>
+            <l>Worob ein solches grausen ihn schlug</l>
+            <l>Dass er zu der freunde mahl nicht mehr kam</l>
+            <l>Und sprang in die schäumenden fluten.</l>
+          </lg>
+          <lg n="10">
+            <l>In der Stadt wo an pfosten und mauereck</l>
+            <l>Jed nichtig begebnis von allerwärts</l>
+            <l>Für eiler und gaffer hing angeklebt:</l>
+            <l>Versah sich keiner des grossen geschehns</l>
+            <l>Wie drohte im wanken von pflaster und bau</l>
+            <l>Unheimlichen schleichens der Dämon.</l>
+          </lg>
+          <lg n="11">
+            <l>Da stand <hi rendition="#k">er</hi> in winters erleuchtetem saal</l>
+            <l>Die schimmernde schulter vom leibrock verhüllt</l>
+            <l>Das feuer der wange von buschigem kranz ·</l>
+            <l>Da ging vor den blicken der blöden umhegt</l>
+            <l>Im warmen hell-duftenden frühlingswehn</l>
+            <l>Der Gott die blumigen bahnen.</l>
+          </lg>
+          <lg n="12">
+            <pb n="63" facs="#f0067"/>
+            <l>Der horcher der wisser von überall</l>
+            <l>Ballwerfer mit sternen in taumel und tanz</l>
+            <l>Der fänger unfangbar – hier hatte geraunt</l>
+            <l>Bekennenden munds unterm milchigen glast</l>
+            <l>Der kugel gebannt die apostelgestalt:</l>
+            <l>›Hier fass ich nicht mehr und verstumme‹</l>
+          </lg>
+          <lg n="13">
+            <l>Dann aus der friedfertigen ordnung bezirk</l>
+            <l>Brach aus den fosfor-wolken der nacht</l>
+            <l>Wie rauchende erden im untergang</l>
+            <l>Volltoniges brausen des schlachtengetobs ·</l>
+            <l>Es stürmten durch dust und bröcklig geröll</l>
+            <l>Die silberhufigen rosse.</l>
+          </lg>
+          <lg n="14">
+            <l>Bald traf ich Ihn der mattgoldnen gelocks</l>
+            <l>Austeilte in lächeln wohin er trat</l>
+            <l>Die heiterste ruh – von uns allen erklärt</l>
+            <l>Zum liebling des glückes bis spät er gestand</l>
+            <l>Im halt des gefährten hab er sich verzehrt –</l>
+            <l>Sein ganzes dasein ein opfer.</l>
+          </lg>
+          <lg n="15">
+            <pb n="64" facs="#f0068"/>
+            <l>Den liebt ich der · mein eigenstes blut ·</l>
+            <l>Den besten gesang <hi rendition="#g">nach</hi> dem besten sang ..</l>
+            <l>Weil einst ein kostbares gut ihm entging</l>
+            <l>Zerbrach er lässig sein lautenspiel</l>
+            <l>Geduckt die stirn für den lorbeer bestimmt</l>
+            <l>Still wandelnd zwischen den menschen.</l>
+          </lg>
+          <lg n="16">
+            <l>Durch märkte und gassen des festlands hin</l>
+            <l>Wo oft ich auf wacht stand · bat ich um bescheid</l>
+            <l>Das hundertäugig allkunde Gerücht:</l>
+            <l>›Ist ähnliches je dir begegnet?‹ Worauf</l>
+            <l>Vom ungern Erstaunten die antwort kam:</l>
+            <l>›Alles – doch solches noch niemals‹.</l>
+          </lg>
+          <lg n="17">
+            <l>Heb mich auf deine höh</l>
+            <l>Gipfel – doch stürze mich nicht!</l>
+          </lg>
+          <lg n="18">
+            <l>Wer denn · wer von euch brüdern</l>
+            <l>Zweifelt · schrickt nicht beim mahnwort</l>
+            <l>Dass was meist ihr emporhebt</l>
+            <l>Dass was meist heut euch wert dünkt</l>
+            <l>Faules laub ist im herbstwind</l>
+            <l>Endes- und todesbereich:</l>
+          </lg>
+          <lg n="19">
+            <pb n="65" facs="#f0069"/>
+            <l>Nur was im schützenden schlaf</l>
+            <l>Wo noch kein taster es spürt</l>
+            <l>Lang in tiefinnerstem schacht</l>
+            <l>Weihlicher erde noch ruht –</l>
+            <l>Wunder undeutbar für heut</l>
+            <l>Geschick wird des kommenden tages.</l>
+          </lg>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="67" facs="#f0071"/>
+        <head>DER GEHENKTE</head>
+        <pb n="68" facs="#f0072"/>
+        <p rendition="#c">DER FRAGER:</p>
+        <lg type="poem">
+          <l>Den ich vom galgen schnitt · wirst du mir reden?</l>
+        </lg>
+        <p rendition="#c">DER GEHENKTE:</p>
+        <lg type="poem">
+          <l>Als unter der verwünschung und dem schrei</l>
+          <l>Der ganzen stadt man mich zum tore schleppte</l>
+          <l>Sah ich in jedem der mit steinen warf</l>
+          <l>Der voll verachtung breit die arme stemmte</l>
+          <l>Der seinen finger reckte auf der achsel</l>
+          <l>Des vordermanns das aug weit aufgerissen ·</l>
+          <l>Dass in ihm einer meiner frevel stak</l>
+          <l>Nur schmäler oder eingezäumt durch furcht.</l>
+          <l>Als ich zum richtplatz kam und strenger miene</l>
+          <l>Die Herrn vom Rat mir beides: ekel zeigten</l>
+          <l>Und mitleid musst ich lachen: ›ahnt ihr nicht</l>
+          <l>Wie sehr des armen sünders ihr bedürft?‹</l>
+          <l>Tugend – die ich verbrach – auf ihrem antlitz</l>
+          <l>Und sittiger frau und maid · sei sie auch wahr ·</l>
+          <l>So strahlen kann sie nur wenn ich so fehle!</l>
+          <pb n="69" facs="#f0073"/>
+          <l>Als man den hals mir in die schlinge steckte</l>
+          <l>Sah schadenfroh ich den triumf voraus:</l>
+          <l>Als sieger dring ich einst in euer hirn</l>
+          <l>Ich der verscharrte .. und in eurem samen</l>
+          <l>Wirk ich als held auf den man lieder singt</l>
+          <l>Als gott ..und eh ihrs euch versahet · biege</l>
+          <l>Ich diesen starren balken um zum rad.</l>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="71" facs="#f0075"/>
+        <head>DER MENSCH UND DER DRUD</head>
+        <pb n="72" facs="#f0076"/>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Das enge bachbett sperrt ein wasserfall –</l>
+          <l>Doch wer hängt das behaarte bein herab</l>
+          <l>Von dieses felsens träufelnd fettem moos?</l>
+          <l>Aus buschig krausem kopfe lugt ein horn ..</l>
+          <l>So weit ich schon in waldgebirgen jagte</l>
+          <l>Traf ich doch seinesgleichen nie ... Bleib still</l>
+          <l>Der weg ist dir verlegt · verbirg auch nichts!</l>
+          <l>Aus klarer welle schaut ein ziegenfuss.</l>
+        </lg>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Nicht dich noch mich wird freun dass du mich fandst.</l>
+        </lg>
+        <pb n="73" facs="#f0077"/>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Ich wusste wol von dir verwandtem volk</l>
+          <l>Aus vorzeitlicher märe – nicht dass heut</l>
+          <l>So nutzlos hässlich ungetüm noch lebt.</l>
+        </lg>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Wenn du den lezten meiner art vertriebst</l>
+          <l>Spähst du vergeblich aus nach edlem wild</l>
+          <l>Dir bleibt als beute nager und gewürm</l>
+          <l>Und wenn ins lezte dickicht du gebrochen</l>
+          <l>Vertrocknet bald dein nötigstes: der quell.</l>
+        </lg>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Du ein weit niedrer lehrst mich? Unser geist</l>
+          <l>Hat hyder riese drache greif erlegt</l>
+          <l>Den unfruchtbaren hochwald ausgerodet</l>
+          <l>Wo sümpfe standen wogt das ährenfeld</l>
+          <l>Im saftigen grün äst unser zahmes rind</l>
+          <l>Gehöfte städte blühn und helle gärten</l>
+          <l>Und forst ist noch genug für hirsch und reh –</l>
+          <l>Die schätze hoben wir von see und grund</l>
+          <l>Zum himmel rufen steine unsre siege ..</l>
+          <l>Was willst du überbleibsel grauser wildnis?</l>
+          <l>Das licht die ordnung folgen unsrer spur.</l>
+        </lg>
+        <pb n="74" facs="#f0078"/>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Du bist nur mensch .. wo deine weisheit endet</l>
+          <l>Beginnt die unsre · du merkst erst den rand</l>
+          <l>Wo du gebüsst hast für den übertritt.</l>
+          <l>Wenn dein getreide reift dein vieh gedeiht</l>
+          <l>Die heiligen bäume öl und trauben geben</l>
+          <l>Wähnst du dies käme nur durch deine list.</l>
+          <l>Die erden die in dumpfer urnacht atmen</l>
+          <l>Verwesen nimmer · sind sie je gefügt</l>
+          <l>Zergehn sie wenn ein glied dem ring entfällt.</l>
+          <l>Zur rechten weile ist dein walten gut ·</l>
+          <l>Nun eil zurück! du hast den Drud gesehn.</l>
+          <l>Dein schlimmstes weisst du selbst nicht: wenn dein sinn</l>
+          <l>Der vieles kann in wolken sich verfängt</l>
+          <l>Das band zerrissen hat mit tier und scholle –</l>
+          <l>Ekel und lust getrieb und einerlei</l>
+          <l>Und staub und strahl und sterben und entstehn</l>
+          <l>Nicht mehr im gang der dinge fassen kann.</l>
+        </lg>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Wer sagt dir so? dies sei der götter sorge.</l>
+        </lg>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Wir reden nie von ihnen · doch ihr toren</l>
+          <l>Meint dass sie selbst euch helfen. Unvermittelt</l>
+          <pb n="75" facs="#f0079"/>
+          <l>Sind sie euch nie genaht. Du wirst du stirbst –</l>
+          <l>Wess wahr geschöpf du bist erfährst du nie.</l>
+        </lg>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Bald ist kein raum mehr für dein zuchtlos spiel.</l>
+        </lg>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Bald rufst du drinnen den du draussen schmähst.</l>
+        </lg>
+        <p rendition="#c">DER MENSCH</p>
+        <lg type="poem">
+          <l>Du giftiger unhold mit dem schiefen mund</l>
+          <l>Trotz deiner missgestalt bist du der unsren</l>
+          <l>Zu nah · sonst träfe jezt dich mein geschoss ..</l>
+        </lg>
+        <p rendition="#c">DER DRUD</p>
+        <lg type="poem">
+          <l>Das tier kennt nicht die scham der mensch nicht dank.</l>
+          <l>Mit allen künsten lernt ihr nie was euch</l>
+          <l>Am meisten frommt .. wir aber dienen still.</l>
+          <l>So hör nur dies: uns tilgend tilgt ihr euch.</l>
+          <l>Wo unsre zotte streift nur da kommt milch</l>
+          <l>Wo unser huf nicht hintritt wächst kein halm.</l>
+          <l>Wär nur dein geist am werk gewesen: längst</l>
+          <l>Wär euer schlag zerstört und all sein tun</l>
+          <l>Wär euer holz verdorrt und saatfeld brach ..</l>
+          <l>Nur durch den zauber bleibt das leben wach.</l>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="77" facs="#f0081"/>
+        <head>GESPRÄCH DES HERRN MIT DEM RÖMISCHEN HAUPTMANN</head>
+        <pb n="78" facs="#f0082"/>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Ich weiss Herr dass du worte ewigen lebens hast</l>
+          <l>Des eignen hauses kindern brot zu bringen kamst</l>
+          <l>Doch die gefallnen krumen fremden nicht verwehrst:</l>
+          <l>Gib der bedrängten seele rat.</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Philippos frag!</l>
+        </lg>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Sind jene zeichen wahr mit denen man dich rühmt?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Kind der sie nötig hat · kind der sich daran stösst ..</l>
+          <l>Vor allem volk geschahen sie und glaube half</l>
+          <l>Der blinde sah der lahme nahm sein bett und ging</l>
+          <l>Das wasser ward zu wein · doch was bedräun sie dich</l>
+          <l>Da du kein solcher bist der sie an sich erfährt?</l>
+        </lg>
+        <pb n="79" facs="#f0083"/>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Du predigst nie den Weisen sondern ärmstem leut</l>
+          <l>Den fischern zöllnern für dein licht zu unbelehrt?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Hilflos zum thron des Vaters schreien blöd und klug ·</l>
+          <l>Zuzeiten ist der menschen weisheit schutt und spreu</l>
+          <l>Der welt erlösung kommt nur aus entflammtem blut.</l>
+        </lg>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Ich hielt von früh auf das allgültige gesetz</l>
+          <l>Was auch du heischest zum gewinn des himmelreichs.</l>
+          <l>Ich folgte lang der grossen Redner unterricht</l>
+          <l>Auf meinen fahrten wurden mir des Sonnenherrn</l>
+          <l>Und auf den eilanden der Mütter und der Drei</l>
+          <l>Geheimnisse die unaussprechlichen zuteil ·</l>
+          <l>An Nilus quellen übte ich der nackten büsser brauch ..</l>
+          <l>Gleich blieb der kunde kern. Bringst du ein andres heil?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Die antwort gibst du selbst da du mich suchen gingst.</l>
+        </lg>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Erhabner sieh mich flehn: du weisst im heiligen hag</l>
+          <pb n="80" facs="#f0084"/>
+          <l>Eh man das höchste schauen darf wird offenbart</l>
+          <l>Dass nur des reigens führer mit der gottheit eint ·</l>
+          <l>Du schlangst ihn nie noch nennst ihn .. irren denn die weihn?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Du irrst nicht sie. Ich schlang ihn nach dem liebesmahl</l>
+          <l>Mit aller schar: doch schweigen herrscht wo deutung weit.</l>
+          <l>Mein wesen brauchen sie nicht ganz – nur meine glut.</l>
+          <l>Des Sohnes banner mag im erdrund siegend wehn</l>
+          <l>Äonenlang sein sinnbild ob den völkern stehn</l>
+          <l>Eh wer des bundes fülle schaut: den Christ im tanz.</l>
+        </lg>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Meister noch dies: ist was du bringst das lezte reich?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Dein sinn bleibt gleich verwirrt – sag ichs und sag ichs nicht.</l>
+        </lg>
+        <p rendition="#c">HAUPTMANN</p>
+        <lg type="poem">
+          <l>Ich kniee · nimm mich! warum bannest du mich nicht?</l>
+        </lg>
+        <p rendition="#c">DER HERR</p>
+        <lg type="poem">
+          <l>Weil deine dünne lymphe Gottes kraft nicht mehr erträgt ..</l>
+          <l>Du hast nun was du haben kannst. Steh auf und geh!</l>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="81" facs="#f0085"/>
+        <head>DER BRAND DES TEMPELS</head>
+        <pb n="82" facs="#f0086"/>
+        <p rendition="#c">DIE PRIESTER: DER ÄLTESTE</p>
+        <p rendition="#c">ERSTER ZWEITER DRITTER ·</p>
+        <p rendition="#c">VIERTER UND FÜNFTER ALS BOTEN</p>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <l>Dass ich noch lebe dies zu sehn: wo draussen</l>
+          <l>Die stadt dem wall sich nähert reissen sie</l>
+          <l>Die steine auf und säen gras.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Da denkt mir</l>
+          <l>Wie vor zwölf jahren bei dem grossen misswachs</l>
+          <l>Der alte irre könig seine gärten</l>
+          <l>Durchschlich · sich auf dem grunde niederbog</l>
+          <l>Mit seinen weissen fingern wurzeln steckte</l>
+          <l>Ins trockne erdreich.</l>
+        </lg>
+        <pb n="83" facs="#f0087"/>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Alles wankt und bricht</l>
+          <l>Seit jener unglücksschlacht im Roten Feld</l>
+          <l>Wo unser fürst und führer sank im fliehn</l>
+          <l>Seit wir die Heunen sahn in unsern mauern</l>
+          <l>Und <hi rendition="#k">er</hi> die burg bethront.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Was jahre bauten</l>
+          <l>Stürzt er in <hi rendition="#g">einem</hi> tag.</l>
+        </lg>
+        <p rendition="#c">DRITTER</p>
+        <lg type="poem">
+          <l>Doch seine horden</l>
+          <l>Hält er in zucht und schon gibt sich zufrieden</l>
+          <l>Das stumpfe volk.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Das schmiegt sich jeder fuchtel</l>
+          <l>Wenn es nur dürftig äst und schauen darf</l>
+          <l>Der obern missgeschick ..</l>
+        </lg>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Und mürber adel</l>
+          <l>Meint: <hi rendition="#k">der</hi> wird nie besiegt.</l>
+        </lg>
+        <pb n="84" facs="#f0088"/>
+        <p rendition="#c">DRITTER</p>
+        <lg type="poem">
+          <l>Er gilt für billig.</l>
+        </lg>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <l>Weil er zu kühl zum hass.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Die handelsherrn</l>
+          <l>Die um des satzes mildrung in ihn drangen</l>
+          <l>Der ihr verderb beschleunige · entbot er:</l>
+          <l>›Wer unter mir nicht leben kann · muss sterben.‹</l>
+        </lg>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Bittstellerinnen die ihn jammernd mahnten</l>
+          <l>Es fehle nahrung für die neugebornen</l>
+          <l>Empfahl er: ›Besser täte man dem weib</l>
+          <l>Das überm pflaster kreisst den wurf ersticken.‹</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <lg n="1">
+            <l>Und unser flehn um schutz des heiligtums</l>
+            <l>Wie wies ers ab! Mit unsren giftigen eifrern</l>
+            <l>Die lass geschont von je gesetz und staat</l>
+            <l>Verachtet – mit <hi rendition="#g">der</hi> schar versteht er sich:</l>
+          </lg>
+          <lg n="2">
+            <pb n="85" facs="#f0089"/>
+            <l>›Ihr könnt nicht eures landes fäulnis heilen.</l>
+            <l>Was sind die götter die euch nicht mehr helfen?</l>
+            <l>Was bücher bilder die euch nicht mehr heben?</l>
+            <l>Dankt ihm der euch vom wust befreit.‹</l>
+          </lg>
+        </lg>
+        <p rendition="#c">DRITTER</p>
+        <lg type="poem">
+          <l>Sein wort</l>
+          <l>Schmucklos und rauh · trägt nicht des unsern form ·</l>
+          <l>Lässt keine antwort zu .. doch trifft wie blitz.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Niemand kennt seine jahre seinen namen</l>
+          <l>Niemand sah ihn mit abgestülptem helm.</l>
+          <l>Allmacht umwittert ihn und er bleibt mässig</l>
+          <l>Dem bettler gleich · hier schlichter kriegsgenoss</l>
+          <l>Den seinen · dort gehorchen sie ihm sklavisch ..</l>
+        </lg>
+        <p rendition="#c">DRITTER</p>
+        <lg type="poem">
+          <l>Er hört · doch hat für schmeichelei kein ohr.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Er betet · heissts · vor einem rohen stein.</l>
+        </lg>
+        <pb n="86" facs="#f0090"/>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Des jünglings ist sein wuchs und seine wange</l>
+          <l>Doch mund und stirne alterslos.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Es nennt</l>
+          <l>›Gebieter‹ ihn sein heer · die mutter ›sohn‹ · sein freund</l>
+          <l>Wenn unbewacht mit einem laut wie ›<hi rendition="#k">jli</hi>‹!</l>
+          <l>Er selbst sich Geissel Gottes.</l>
+        </lg>
+        <p rendition="#c">DRITTER</p>
+        <lg type="poem">
+          <l>Ganz verhärtet</l>
+          <l>Und düster ist er erst seit Clelios tod.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Sein bester krieger helfer aller kämpfe</l>
+          <l>Sein einziger vertrauter liess sich fangen</l>
+          <l>Vom gold und unsrer töchter seidnen haaren</l>
+          <l>Und hinterging im rat den Herrn – der merkt es</l>
+          <l>Und blieb drei tage stumm eh er ihn rief:</l>
+          <l>›Dein schmerz kann dich nicht sühnen · denn der meine</l>
+          <l>Ist gross im übermaass. Erinnre dich</l>
+          <l>Es war an unsrem stolzten schlachten-abend</l>
+          <pb n="87" facs="#f0091"/>
+          <l>Wir beide eifernd wer den kranz verdient ..</l>
+          <l>Da schwuren wir uns eine bitte zu</l>
+          <l>Die jeder unbedingt erfülle .. deine</l>
+          <l>Ist lang gewährt · hör jezt die meine: richte</l>
+          <l>Dich selbst damit ich dich nicht richten muss‹</l>
+          <l>Der so entlassne küsste seinem henker</l>
+          <l>Die hand und fiel alsbald durchs eigne schwert.</l>
+        </lg>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Auch schien sein joch fast linder als die greisin</l>
+          <l>Mit ihrem geier-aug und männer-mund</l>
+          <l>Noch neben seinem stuhle stand .. verwiesen</l>
+          <l>Hat er sie in ein kloster nah den wäldern</l>
+          <l>Wenn auch begleitet mit gewählten ehren</l>
+          <l>Und mit dem trost dass er nie fern ihr weile.</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Auf ihren einspruch dass sie ihm von früh auf</l>
+          <l>Gefährtin und beratrin war versezt er:</l>
+          <l>›Die frau darf stimme haben in der zeit</l>
+          <l>Der zelte und der züge .. im palast</l>
+          <l>Ist sie der herrschaft untergang.‹ Vorm abschied</l>
+          <l>Versuchte sie ihn · sagt man · mit der mär:</l>
+          <l>›Du lagst an meiner brust noch: auf der flucht</l>
+          <pb n="88" facs="#f0092"/>
+          <l>Vor deines oheims häschern eilten wir</l>
+          <l>Mit Phrixos über die verschneiten berge ..</l>
+          <l>Da fiel ein wölfe-paar uns an · der treue</l>
+          <l>Erstach den einen · wehrte schwer dem zweiten.</l>
+          <l>Ich legte dich auf des gestreckten tiers</l>
+          <l>Noch warmen leib und sprang zur hilfe bei ..</l>
+          <l>So schlürftest du schon blut gleich mit der milch.</l>
+          <l>Im engen felstal wo du aufgewachsen</l>
+          <l>Trug ich dich stunden-lang zur höh hinauf</l>
+          <l>Damit du sonne sähest · diesen strahlen</l>
+          <l>Verdankst du deine stärke und dein glück.‹</l>
+          <l>Er hat entgegnet: ›Mutter wie mein heil</l>
+          <l>Ihr stets gesucht wünscht heut ihr mein verderben‹</l>
+          <l>Und hielt an seinem spruch.</l>
+        </lg>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Ist <hi rendition="#k">er</hi> ein mensch!</l>
+        </lg>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <lg n="1">
+            <l>Indes wir hier der Fremden loos bereden</l>
+            <l>Erfüllt sich unsres. Dies erhabne haus</l>
+            <l>Mit götter-säulen heiligen tafeln schriften</l>
+            <l>Das köstlichste vermächtnis vieler ahnen</l>
+            <l>Als dessen wahrer wir bisher gelebt</l>
+          </lg>
+          <lg n="2">
+            <pb n="89" facs="#f0093"/>
+            <l>Ist von zertrümmerung bedroht .. vollbracht</l>
+            <l>Sind alle opfer und ererbten bräuche.</l>
+            <l>Wir haben unsre eigne macht erschöpft ..</l>
+            <l>Mögens die ewigen lenker günstig wenden!</l>
+          </lg>
+        </lg>
+        <p rendition="#c">ZWEITER</p>
+        <lg type="poem">
+          <l>Die junge Fürstin die an seiner statt</l>
+          <l>Das zepter tragen sollte .. die für uns</l>
+          <l>Hochherzig sich zum schweren gang erbot</l>
+          <l>Weilt nun bei ihm ... Vielleicht dass sie ihn rühre!</l>
+        </lg>
+        <p rendition="#c">ERSTER</p>
+        <lg type="poem">
+          <l>Wie viele hätten um ihr winken bloss</l>
+          <l>Gut ehr und leib mit freude weggeworfen ..</l>
+          <l>Nun tritt sie heischend über feindes schwelle.</l>
+        </lg>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <l>Ihr Schützer dieses ortes steht ihr bei!</l>
+          <l>Die stunde naht die über uns entscheidet.</l>
+        </lg>
+        <p rendition="#c">VIERTER</p>
+        <p rendition="#c"><hi rendition="#smaller">eintretend</hi></p>
+        <lg type="poem">
+          <l>Dies ist die botschaft: Mit drommeten-schall</l>
+          <l>Gleich einer königin liess er sie empfangen ..</l>
+          <l>Lud sie zum thron · erfragte ihr begehr.</l>
+          <pb n="90" facs="#f0094"/>
+          <l>Sie trug beredt ihm vor was selbst sie fühlte</l>
+          <l>Und was ihr eingabt .. dass den ruhm ihm mehre</l>
+          <l>Die wunder dieses bauwerks zu behüten.</l>
+          <l>Er wiederholte nur womit er einst</l>
+          <l>Uns selbst beschieden – ihr gefolg berichtet</l>
+          <l>Sein antlitz habe furchtbarn glanz gestrahlt –:</l>
+          <l>›Ich bin gesandt mit fackel und mit stahl</l>
+          <l>Dass ich euch härte · nicht dass ihr mich weichet.</l>
+          <l>Ihr wisst nicht was euch nüzt · ich muss euch rauben ·</l>
+          <l>Verfallne · wenn ihr dess euch nicht begebt</l>
+          <l>Was euch nur mehr erschlafft. So wills das recht.‹</l>
+          <l>Mit halber träne die die kältsten schmölze</l>
+          <l>Mit jenem holden lächeln das selbst greise</l>
+          <l>Erschauern machte hub sie nochmals an:</l>
+          <l>›O Herr wie stritte ich mit euch um recht!</l>
+          <l>Doch hoheit hat ein himmlisches geschenk</l>
+          <l>Wenn alles andre auch verwirkt ist: gnade.‹</l>
+          <l>Er zögerte für einen atemzug</l>
+          <l>Und heftete auf sie sein keusches klares</l>
+          <l>Barbaren-aug und sprach: ›Der hoheit ziemt</l>
+          <l>Vor jeder schwachheit milde aber nie</l>
+          <l>Wenn sinn dabei verlezt wird. So ists hier.</l>
+          <l>Soll ich <hi rendition="#g">euch</hi> um <hi rendition="#g">den</hi> preis gewogen sein?</l>
+          <l>Was heut mich umbiegt wird mich morgen brechen.‹</l>
+          <pb n="91" facs="#f0095"/>
+          <l>Vor seiner miene senkte sie die lider</l>
+          <l>Vor trauer wankend glitt sie durch den saal.</l>
+          <l>Kaum heimgekehrt · mit ihren treuen mägden</l>
+          <l>Schied sie · ein ungewürdigter besitz ·</l>
+          <l>Freiwillig aus der armgewordnen welt ..</l>
+        </lg>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <l>Da uns die Schrecklichen Unfasslichen</l>
+          <l>Vergassen warest du uns Hort · wir fest</l>
+          <l>In unsrer drangsal nur durch dich .. sobald</l>
+          <l>Du nicht mit uns die gleiche luft mehr trinkst</l>
+          <l>Bricht unsre hoffnung ein .. Pamfilia</l>
+          <l>Du unsres ganzen stamms erlesenste</l>
+          <l>Und vollste blume! hier will ich vor allen</l>
+          <l>Dich reinigen vom widrigen gerücht</l>
+          <l>Dass du seit seinem einritt Ihn geliebt.</l>
+          <l>Dein hochgemutes herz ertrug es nicht</l>
+          <l>Dass jener Hunne dich in der entschleirung</l>
+          <l>Des flehens und des weinens sah.</l>
+        </lg>
+        <p rendition="#c">DIE PRIESTER</p>
+        <lg type="poem">
+          <l>Sie zeigt</l>
+          <l>Was uns zu tun erübrigt.</l>
+        </lg>
+        <pb n="92" facs="#f0096"/>
+        <p rendition="#c">FÜNFTER</p>
+        <p rendition="#c"><hi rendition="#smaller">eintretend</hi></p>
+        <lg type="poem">
+          <l>Rettet euch!</l>
+          <l>Schon dringt der rauch herein · aus den vier ecken</l>
+          <l>Schlagen die flammen hoch.</l>
+        </lg>
+        <p rendition="#c">DIE PRIESTER</p>
+        <lg type="poem">
+          <l>Der tempel brennt.</l>
+        </lg>
+        <p rendition="#c">DER ÄLTESTE</p>
+        <lg type="poem">
+          <l>Der tempel brennt. Ein halbes tausend-jahr</l>
+          <l>Muss weiterrollen bis er neu erstehe.</l>
+        </lg>
+      </div>
+      <div n="1">
+        <pb n="93" facs="#f0097"/>
+        <head>SPRÜCHE</head>
+        <div n="2">
+          <head>AN DIE LEBENDEN</head>
+          <div n="3">
+            <lg type="poem">
+              <pb n="94" facs="#f0098"/>
+              <l>Wartend am kreuzweg stehst du in schweben:</l>
+              <l>Ob nach rechts ob nach links mich begeben ..</l>
+              <l>Liebe lädt dich · folge dem bann!</l>
+              <l>Dies ist dein loos-jahr – erstmals im leben –</l>
+              <l>In dem du selber wahl triffst als mann.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <l>Da das zittern noch waltet</l>
+              <l>Da ein dunkles noch droht</l>
+              <l>Das dir zu gründen versagt ist:</l>
+              <l>Dringe die bitte dir zu</l>
+              <l>Dass den klängen du lauschst</l>
+              <l>Deren seele du bist.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <pb n="95" facs="#f0099"/>
+              <l>Tauch hinab in den strom</l>
+              <l>Den das weidicht umrauscht</l>
+              <l>Den der mond überblinkt!</l>
+              <l>Was dich bestimmt hat bei tag</l>
+              <l>Alle hüllen wirf ab</l>
+              <l>Aller trug wird verspült!</l>
+              <l>Schauernd steigst du herauf</l>
+              <l>Zwischen mir und der nacht ..</l>
+              <l>Was die hand dich nun heischt</l>
+              <l>Was dem mund sich entringt</l>
+              <l>Probt was in wahrheit du giltst.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <l>Freu dich an dem wert der gabe</l>
+              <l>Nie entfällt sie deinen händen ..</l>
+              <l>Doch nicht voll kannst du sie schätzen</l>
+              <l>Eh du weisst wie sie dir wurde</l>
+              <l>Wo du sie – mit welchen! teilest</l>
+              <l>Und wo du allein besitzest.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="96" facs="#f0100"/>
+                <l>Solches bleibt nunmehr zu tun:</l>
+                <l>Schritte die dein blick begriff</l>
+                <l>Innen als ein wunder sehn.</l>
+              </lg>
+              <lg n="2">
+                <l>Was dir die erfüllung deucht</l>
+                <l>Nenn es noch so götter-gleich</l>
+                <l>Ist ein strahlender beginn.</l>
+              </lg>
+              <lg n="3">
+                <l>Dinge gut und reich und gross</l>
+                <l>Werden durch begleitend ding</l>
+                <l>Doppelt hoch und einzig schön.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <l>Liebe freilich nennt kein maass</l>
+              <l>Deine zählen wäre sünde</l>
+              <l>Denn sie tat das grosse gross.</l>
+              <l>Aber ehre kenne grade ..</l>
+              <l>Ungeheuerlich geschehn</l>
+              <l>Gleichest du es aus dass ich</l>
+              <l>Tiefer ehre als du ehrst?</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="97" facs="#f0101"/>
+                <l>Wenn es dein geist von selbst nicht finde</l>
+                <l>So wird es dir am tage licht</l>
+                <l>Wo einen ich des eids entbinde</l>
+                <l>Der vom befreiungstag dir spricht.</l>
+              </lg>
+              <lg n="2">
+                <l>Bleibt mein zweifel ein erkühnen:</l>
+                <l>Kurze frist – bis er sich kläre ..</l>
+                <l>Viel besitz ich ihn zu sühnen</l>
+                <l>Nichts ist mein was dein nicht wäre.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <l>Rätsel flimmern alt und neu</l>
+                <l>Heut von dir noch nicht gewusst</l>
+                <l>Doch die bald du wissen musst.</l>
+                <l>Neige dich davor in scheu!</l>
+              </lg>
+              <lg n="2">
+                <l>Sieh drohend sieh flehend die hand!</l>
+                <l>Du warst wie ich heute dich wollte ..</l>
+                <l>Bist morgen du noch der gesollte</l>
+                <l>Geliebter – welch fest und welch land!</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="98" facs="#f0102"/>
+            <head>A : I</head>
+            <lg type="poem">
+              <l>Dess wort wol – doch dess seele nie mir klang:</l>
+              <l>Ein jahrlang muss der sturmlauf uns umwittern</l>
+              <l>Muss ganz ein herz im andren herzen zittern ...</l>
+              <l>Du weisst es jezt – und wagst du noch den gang?</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>A : II</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Du schaltest kühn und schön in deinem ringe</l>
+                <l>Und staunst nicht weiter: ist er je gesprengt ...</l>
+                <l>Ich bin nur frei weil ein gesetz mich engt</l>
+                <l>Ich weiss erst wie ich liebe wenn ich klinge.</l>
+              </lg>
+              <lg n="2">
+                <l>Im menschenweg erfüllst du jedes ding</l>
+                <l>Doch fehlt dir noch: vorm schicksal ganz zu schauern ..</l>
+                <l>So musst ich <hi rendition="#k">den</hi> advent mit leisem trauern</l>
+                <l>Ein glück dir opfern das mich schon umfing.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>A : III</head>
+            <lg type="poem">
+              <l>Du hast des lebens götterteil genossen</l>
+              <l>Von glück und rausch und schwärmen wunderbar ..</l>
+              <l>Du darfst nicht murren · ward dir nun beschlossen</l>
+              <l>Des wahren lebens ander teil: gefahr.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="99" facs="#f0103"/>
+            <head>B : I</head>
+            <lg type="poem">
+              <l>Nächtlich am tor gehn wir im gleichen tritte</l>
+              <l>Den einlass bringt nicht sehnsucht noch gewalt ..</l>
+              <l>Für dich Geliebter hab ich nur die bitte:</l>
+              <l>Bleib mit mir wach bis drin der ruf erschallt.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>B : II</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Du kennst die traumeswelt: du wirst verstehen ·</l>
+                <l>Mit tages tat werd ich dich nie bezwingen</l>
+                <l>Mit tages rat wirst du mich nie erringen</l>
+                <l>Der dichte wind der träume muss erst wehen</l>
+              </lg>
+              <lg n="2">
+                <l>Sie wandeln · färben jedes ding im rund</l>
+                <l>Dass wir es in der echten form erkennen</l>
+                <l>Dass wir es mit dem wahren namen nennen ·</l>
+                <l>Doch was ertönen macht das ist dein mund.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>B : III</head>
+            <lg type="poem">
+              <l>Gewissheit nimm vom ablauf dieser stunde:</l>
+              <l>Erregende gedanken bot sie kaum</l>
+              <l>Und nur ein lispeln kam aus unsrem munde</l>
+              <l>Doch voll bewegung war der innre raum</l>
+              <l>Da schlug ein herz und gab dir reiche kunde.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="100" facs="#f0104"/>
+            <head>W : I</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Konntest du · durftest du nicht</l>
+                <l>Durch des vertrauens arm</l>
+                <l>Dankbar dich tragen lassen</l>
+                <l>Über die einzige schwelle</l>
+                <l>Gottloses kind du der zeit?</l>
+              </lg>
+              <lg n="2">
+                <l>Unwissend kind du der zeit</l>
+                <l>Wer gibt einst dir die kraft</l>
+                <l>Dass du die türe zerbrichst</l>
+                <l>Unter vereitelten mühn</l>
+                <l>Mit deinen blutenden händen?</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>W : II</head>
+            <lg type="poem">
+              <l>Du hast gewählt und meinst du hast noch wahl</l>
+              <l>Der leichte weg steht frei ein einzig mal</l>
+              <l>Dass du den schweren gehst ist kaum zu hoffen</l>
+              <l>Du spinnst dir tröste und was kommt ist qual.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>W : III</head>
+            <lg type="poem">
+              <l>Wir stehn am schicksalsrand mit gleichem bangen:</l>
+              <l>›Nach vielem glück – ist dies noch zu erlangen?‹</l>
+              <l>Die hoffen · höchstes mühlos zu erwerben</l>
+              <l>Wenn du <hi rendition="#k">die</hi> meinst so gibt es keine erben.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="101" facs="#f0105"/>
+            <head>P:</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Du willst hinaus in land und meer manch jahr</l>
+                <l>Die welt erkennen unter kampf und fahr ·</l>
+                <l>Ein ungeweihter suchest du das leben</l>
+                <l>Drum schickt es dich zurück und wird nichts geben.</l>
+              </lg>
+              <lg n="2">
+                <l>Das höchste was von gott dem menschen eignet</l>
+                <l>Kam vor dein haus · hat sich für dich ereignet.</l>
+                <l>Du sahest nicht: du bleibst dein leben blind</l>
+                <l>Du merktest nicht: du bleibst dein leben kind.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>G.R.H:</head>
+            <lg type="poem">
+              <l>In alter scholle wurzelt noch dein fuss</l>
+              <l>Aus neuer nahmst du haltung und gebärde ..</l>
+              <l>Dein arm · weit vor · winkt in die morgenerde</l>
+              <l>Reicht bis zu mir herüber mit dem gruss.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>H.M:</head>
+            <lg type="poem">
+              <l>Ein Weiser ist wer beim getöse Vieler</l>
+              <l>Im stillen farb und tongestäb kann führen ..</l>
+              <l>Doch weiser noch wem – auch als bestem spieler –</l>
+              <l>Manchmal es frevel deucht: an harfen rühren.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="102" facs="#f0106"/>
+            <head>L : I</head>
+            <lg type="poem">
+              <l>Wol ziemt zu schweigen über gross beginnen</l>
+              <l>Doch jeder starke drang will kunde geben ..</l>
+              <l>Taglang ist es mein einziges bestreben</l>
+              <l>Aufs wort für unsern neuen weg zu sinnen.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>L : II</head>
+            <lg type="poem">
+              <l>Immer-harren macht zum spott</l>
+              <l>Sich vertrösten ist das leerste ..</l>
+              <l>Dies geheimnis ist das schwerste:</l>
+              <l>Augenblick als höchster Gott.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>F.W:</head>
+            <lg type="poem">
+              <l>Lass völker brechen unterm schicksalsdrucke</l>
+              <l>Gefeite beben nicht beim jähsten rucke ..</l>
+              <l>Vorm Herrn gilt gleich der in- und aussen-krieg</l>
+              <l>Wo solche sind wie du – da ist der sieg.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>J:</head>
+            <lg type="poem">
+              <l>Du unversehrten leibs trankst bei mir mut</l>
+              <l>Dass nicht der geist zerbräch in dunst und flut ..</l>
+              <l>Nun halt ich dich geläutert und gesund</l>
+              <l>Und nehme kraft mir auf aus deinem grund.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="103" facs="#f0107"/>
+            <head>E:</head>
+            <lg type="poem">
+              <l>Ich traf dich edlen spross in deinem lenze</l>
+              <l>Vereintes leben rann in freudigem lauf ..</l>
+              <l>Vielleicht blühst du nochmals als andrer auf</l>
+              <l>Reisst dich der föhnwind über deine grenze.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>R ...</head>
+            <lg type="poem">
+              <l>Den ersten rang hat wem der Gott hienieden</l>
+              <l>Erlaubt dass er die schwelle überspringt ..</l>
+              <l>Viel mindren nicht wer dess bewusst zufrieden</l>
+              <l>Am platze dient den das gesetz beschieden.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>S ...</head>
+            <lg type="poem">
+              <l>›Gibt es nichts weiseres sommerlang‹</l>
+              <l>hast du gemurrt –</l>
+              <l>Als unerkannt ich mit den kecken schwimmern</l>
+              <l>reden spann ...</l>
+              <l>So hoff ich trifft mich nie das loos des</l>
+              <l>sehers an der furt</l>
+              <l>Der an der knaben rätsel sich zu tode sann.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="104" facs="#f0108"/>
+            <head>A. VERWEY</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Der dichter · will er tag für tag sich sagen</l>
+                <l>Wo wahr und falsch von rechts nach links sich jagen</l>
+                <l>Muss dafür jahrlang schweigend busse tragen.</l>
+              </lg>
+              <lg n="2">
+                <l>Die besten genossen –</l>
+                <l>Ihr spracht unumwunden:</l>
+                <l>Ich hab sie gefunden ...</l>
+                <l>Die jahre verflossen ·</l>
+                <l>Nun nüzt ihr die stunden</l>
+                <l>Mit vielen papieren</l>
+                <l>Sie euch zu verlieren.</l>
+              </lg>
+              <lg n="3">
+                <l>›Hier ist der schnitt – hier kann Ich nicht mehr glauben‹</l>
+                <l>Was? Was ihr berget? was ihr offen sagt?</l>
+                <l>Dass nochmals wachstum bricht aus toten-welten ..</l>
+                <l>Das andre – Dichter! sei dem dichter leicht.</l>
+              </lg>
+              <lg n="4">
+                <pb n="105" facs="#f0109"/>
+                <l>Du allein <hi rendition="#k">van buiten</hi></l>
+                <l>Musstest richtig deuten</l>
+                <l>Wie der Ewigen Reiche</l>
+                <l>Bild nur hier nicht bleiche.</l>
+                <l>Forsche weit und breit:</l>
+                <l>Lauschen andre ringe</l>
+                <l>Deiner hohen dinge?</l>
+                <l>Drum wird auch dein hassen</l>
+                <l>Fliehen und verpassen</l>
+                <l>Kurz sein wie bruderstreit.</l>
+              </lg>
+              <lg n="5">
+                <l>Ihr habt vergessen dass ihr einst vor jahren</l>
+                <l>Gelassen zu mir spracht: ich bin am end ..</l>
+                <l>Bis frischer blutstrom kam der frisch euch schwellte:</l>
+                <l>Der geister einbruch in ein enges heim –</l>
+                <l>Sie wol im wesen fremd euch – all die schar.</l>
+                <l>Ihr bliebt ihr selbst und wurdet durch sie neu</l>
+                <l>Nun hehlet ihr mit reichem prunk von rede</l>
+                <l>Das eine das euch weh tut dass wir nicht</l>
+                <l>Bekennen dürfen so wie ihr: ich bin</l>
+                <l>Allein – ich bin der lezte meines volkes.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="106" facs="#f0110"/>
+            <head>M:</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Wie ward im dunst der morgendlichen frühe</l>
+                <l>Dein garten wach vom jubelnden gegirre</l>
+                <l>Vielfacher vögel – wo dich einst die wirre</l>
+                <l>Des dickichts freute und die üppige blühe.</l>
+              </lg>
+              <lg n="2">
+                <l>Glutrote mauern jäh wie felsenschroffen</l>
+                <l>Umgaben dich mit eines zaubers schwüle</l>
+                <l>Bis sich dein auge fragend und weit-offen</l>
+                <l>Langsam gewöhnte an die freie kühle.</l>
+              </lg>
+              <lg n="3">
+                <l>Versunkner träumer ward nun ein begleiter</l>
+                <l>Der aus dem zwielicht strebt zum vollen licht ·</l>
+                <l>Er schreitet neben mir gelöst und heiter</l>
+                <l>Und nezt mit tau das kindliche gesicht.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="107" facs="#f0111"/>
+            <head>DER TÄNZER</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Im garten wiegt der kinder ringelreihn</l>
+                <l>In weiche luft des abends dringt ihr sang</l>
+                <l>Sie ziehn in paaren schwingen sich im kreise</l>
+                <l>Und hüpfen nach des gleichen liedes weise</l>
+                <l>Wie sie sich froh die kleinen hände leihn!</l>
+                <l>Doch Einer gibt den takt an und den gang.</l>
+              </lg>
+              <lg n="2">
+                <l>Wie leicht sein fuss sich dreht und schnellt und säumt</l>
+                <l>Wie beugt die hüfte sich gewandt und sacht!</l>
+                <l>Im dunkel zittert seines haares schimmer</l>
+                <l>Er ist der leuchtstern mitten im geflimmer</l>
+                <l>Er ist die ganze jugend wie sie träumt</l>
+                <l>Er ist die ganze jugend wie sie lacht.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="108" facs="#f0112"/>
+            <head>B.v.ST.</head>
+            <div n="4">
+              <head>I</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Im sommerlichen glanz der götterstadt</l>
+                  <l>Sannen wir trauernd oft den spuren nach</l>
+                  <l>Des toten königskindes.</l>
+                </lg>
+                <lg n="2">
+                  <l>Was dient uns schlachtenvorteil scharfsinn kraft!</l>
+                  <l>Im blutgedüngten marschland mutige wehr!</l>
+                  <l>Wenn uns die hoheit stirbt.</l>
+                </lg>
+                <lg n="3">
+                  <l>Dem frisch-bereicherten bleibt hohl sein saal</l>
+                  <l>Sein garten birgt nie mehr wenn je gefällt</l>
+                  <l>Uralten baumes weihe.</l>
+                </lg>
+                <lg n="4">
+                  <l>Was dient · sei sie auch mehr als frommer wahn ·</l>
+                  <l>Gleichheit von allen und ihr breitstes glück!</l>
+                  <l>Wenn uns die anmut stirbt.</l>
+                </lg>
+              </lg>
+            </div>
+            <div n="4">
+              <pb n="109" facs="#f0113"/>
+              <head>II</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Im unverwüstbar schönen auf-und-ab</l>
+                  <l>Der schicksal-strassen gingst du zwischen uns</l>
+                  <l>In deiner vollen blühe ..</l>
+                </lg>
+                <lg n="2">
+                  <l>Wo du dein herrenrecht an uns geübt</l>
+                  <l>Wir dich bestaunt und gar das volk dich nahm</l>
+                  <l>Für den erstandnen prinzen.</l>
+                </lg>
+              </lg>
+            </div>
+          </div>
+          <div n="3">
+            <pb n="110" facs="#f0114"/>
+            <head>DER HIMMEL</head>
+            <lg type="poem">
+              <l>Komm mit zu jenem Mysten der so schön uns überzeugt</l>
+              <l>Vom wahren Jenseits und vom falschen irdischen schein.</l>
+              <l>›lch war bei ihm · er hatte noch den mund nicht aufgetan</l>
+              <l>Da wusst ich schon: sein himmel ist nur schlimmer scherz.‹</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>DER SCHLÜSSEL</head>
+            <lg type="poem">
+              <l>Ich hab dich angehört · kein andrer führer zeigt mir</l>
+              <l>Die dinge so. Ich will sie selber sehn und prüfen ...</l>
+              <l>›Des Wissens anfang ist der schlüssel · hast du den:</l>
+              <l>Tritt auf die dinge zu! – <hi rendition="#g">Dein</hi> weg führt irr</l>
+              <l>Nimm sieben jahr · lies · hör in allen schulen</l>
+              <l>Unklüger kehrst du heim als heut du gehst.‹</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>LEIB UND SEELE</head>
+            <lg type="poem">
+              <l>Sprach nicht der Weise: Such der seele schönheit</l>
+              <l>Vor der des leibs?.. ›Leib · seele sind nur worte</l>
+              <l>Wechselnder wirklichkeit. Der staat ward faul</l>
+              <l>Und flach und dreist der bürger. Da erfand</l>
+              <l>Der Göttliche zu hilf und heil die seele ...</l>
+              <l>Unlängst erzähltest du vom früheren freund:</l>
+              <l>Sein helles aug ward matt · sein mund der blühte</l>
+              <l>Ward saftlos · enge ward die hohe stirn ...</l>
+              <l>Ich weiss nicht ob du leib ob seele maltest.‹</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="111" facs="#f0115"/>
+            <head>DER WEISHEITSLEHRER</head>
+            <lg type="poem">
+              <l>Seit dreissig jahren hast du gepredigt vor scharen</l>
+              <l>Wer steht nun hinter dir? ›Kein einzelner – die welt.‹</l>
+              <l>O lehrer dann hieltest du besser die türen geschlossen</l>
+              <l>Du hast für nichts gewirkt als für ein blosses wort.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>ERZIEHER</head>
+            <lg type="poem">
+              <l>Die alte bahn führt nicht zum ziel. Versuchen wir!</l>
+              <l>Eins · zwei schlug fehl! Nun lasst uns noch ein Drittes sehn!</l>
+              <l>›Du darfst nur tun wenn du im tiefsten glaubst du weisst ..</l>
+              <l>In deinem amte ist versuchen freveltat.‹</l>
+            </lg>
+          </div>
+          <div n="3">
+            <head>BELEHRUNG</head>
+            <lg type="poem">
+              <l>Um welchen preis gibst du mir unterricht?</l>
+              <l>›Lass mich den sinn der in dir ist erfahren</l>
+              <l>Dass du dich in der wahren schönheit zeigst –</l>
+              <l>Dein rechter lehrer bin ich wenn ich liebe ..</l>
+              <l>Du musst zu innerst glühn – gleichviel für wen!</l>
+              <l>Mein rechter hörer bist du wenn du liebst.‹</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="112" facs="#f0116"/>
+            <head>ZWEIFEL DER JÜNGER</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Wer je ging in deiner mitte</l>
+                <l>Wie ist möglich dass er weicht?</l>
+              </lg>
+              <lg n="2">
+                <l>›Manche sind die zeitlang dienen</l>
+                <l>Krankes blut schafft den verrat.‹</l>
+              </lg>
+              <lg n="3">
+                <l>Wer je sass bei solchem mahle</l>
+                <l>Wie kann der noch untergehn?</l>
+              </lg>
+              <lg n="4">
+                <l>›Diese trinken sich das leben</l>
+                <l>Jene essen sich den tod.‹</l>
+              </lg>
+              <lg n="5">
+                <l>Deine lehre ist ganz liebe –</l>
+                <l>Und so furchtbar ruft sie oft?</l>
+              </lg>
+              <lg n="6">
+                <l>›Diesen bringe ich den frieden</l>
+                <l>Jenen bringe ich das schwert.‹</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+        <div n="2">
+          <pb n="113" facs="#f0117"/>
+          <head>AN DIE TOTEN</head>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="114" facs="#f0118"/>
+                <l>Wenn einst dies geschlecht sich gereinigt von schande</l>
+                <l>Vom nacken geschleudert die fessel des fröners</l>
+                <l>Nur spürt im geweide den hunger nach ehre:</l>
+                <l>Dann wird auf der walstatt voll endloser gräber</l>
+                <l>Aufzucken der blutschein .. dann jagen auf wolken</l>
+                <l>Lautdröhnende heere dann braust durchs gefilde</l>
+                <l>Der schrecklichste schrecken der dritte der stürme:</l>
+                <l>Der toten zurückkunft!</l>
+              </lg>
+              <lg n="2">
+                <l>Wenn je dieses volk sich aus feigem erschlaffen</l>
+                <l>Sein selber erinnert der kür und der sende:</l>
+                <l>Wird sich ihm eröffnen die göttliche deutung</l>
+                <l>Unsagbaren grauens .. dann heben sich hände</l>
+                <l>Und münder ertönen zum preise der würde</l>
+                <l>Dann flattert im frühwind mit wahrhaftem zeichen</l>
+                <l>Die königsstandarte und grüsst sich verneigend</l>
+                <l>Die Hehren · die Helden!</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="115" facs="#f0119"/>
+            <head>HEINRICH F.</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Dein kühner geist · sein eigener befeurer ·</l>
+                <l>Hiess nächst und fernste zirkel sein gebiet ..</l>
+                <l>So sezt den fuss aufs land der abenteurer</l>
+                <l>Der es entdeckt und ganz als eignes sieht.</l>
+              </lg>
+              <lg n="2">
+                <l>Leicht wie ein kind ein vogel · froh im wahne</l>
+                <l>Im aug schon die bestimmung gingst du fort ..</l>
+                <l>Du ein entrückter schon beim abschiedswort ..</l>
+                <l>Als ersten deckt dich · freund · die schöne fahne.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>WALTER W.</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Schwermütiger tanz der täuschend leicht-gesinnten</l>
+                <l>In zarter zier mit rosen-bausch und -falte</l>
+                <l>Da leben leztesmal sich band und ballte:</l>
+                <l>Dort war mein reich .. doch war es – liegt weit hinten.</l>
+              </lg>
+              <lg n="2">
+                <l>Wo ist ein halt noch heut wo eine stütze?</l>
+                <l>Die pfosten faulen alle angeln rasseln</l>
+                <l>Bald wird im morschen bau die flamme prasseln.</l>
+                <l>Was ist zu tun für uns? was not was nütze?</l>
+              </lg>
+              <lg n="3">
+                <pb n="116" facs="#f0120"/>
+                <l>Ich ahnte licht sah die ersehnte schwelle</l>
+                <l>Ich rief ich pochte .. hilft nicht wort und wissen?</l>
+                <l>Den hort zu kennen und für immer missen</l>
+                <l>Ertrag ich nicht – so sink ich in der welle.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>WOLFGANG</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Eh du das rätsel deines jahres löstest</l>
+                <l>Sprangst du ins nächste mit gewandtem satz.</l>
+                <l>Dort blüht viel glück dir womit du dich tröstest</l>
+                <l>Doch du zu klug weisst vom entgangnen schatz.</l>
+              </lg>
+              <lg n="2">
+                <l>Was soll ich deinem stummen blick erwidern?</l>
+                <l>Ich gäbe gern dir mehr zum abschied mit ..</l>
+                <l>Scheuch diese trauer unter deinen lidern</l>
+                <l>Sonst · reiter · ziehst du aus zum lezten ritt.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="117" facs="#f0121"/>
+            <head>NORBERT</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Du eher mönch geneigt auf seinem buche</l>
+                <l>Empfandest abscheu vor dem kriegsgerät ..</l>
+                <l>Doch einmal eingeschnürt im rauhen tuche</l>
+                <l>Hast angebotne schonung stolz verschmäht.</l>
+              </lg>
+              <lg n="2">
+                <l>Du spätling schienst zu müd zum wilden tanze</l>
+                <l>Doch da dich hauch durchfuhr geheimer welt</l>
+                <l>Tratst du wie jeder stärkste vor die schanze</l>
+                <l>Und fielst in feuer erd und luft zerspellt.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <head>BALDUIN</head>
+            <lg type="poem">
+              <l>Mit welcher haltung ihr den markt durchrittet</l>
+              <l>Wie euer auge glänzte dieser tage</l>
+              <l>Und wie ihr standet · auf den strassen schrittet:</l>
+              <l>Ist fernes bild – gehört schon heut zur sage.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="118" facs="#f0122"/>
+            <head>BALDUIN</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Dafür legten wir den holden mantel nieder</l>
+                <l>Unsres leibes süsse bürde in die blumen</l>
+                <l>Dass ihr unsrer häuser stolze säulen stürztet</l>
+                <l>Auf der tempel trümmer eure götzen pflanztet?</l>
+                <l>Oh · ich</l>
+                <l>Weiss wie unsre toten nach dem Lethe dürsten</l>
+                <l>Wie sie lechzen nach dem tranke des vergessens.</l>
+              </lg>
+              <lg n="2">
+                <l>Dafür losch uns alles licht der demantkrone</l>
+                <l>Sank die nacht in unsre schimmernden gefässe</l>
+                <l>Dass ihr · meutrer · am lebendigen blute frevelt</l>
+                <l>Bettler schon · dem feinde leib und brut verschachert?</l>
+                <l>Sieh! Mit</l>
+                <l>Welcher gierde sie zum flachen ufer flüchten</l>
+                <l>Trockne lippen auf die dunklen fluten stürzen!</l>
+              </lg>
+              <lg n="3">
+                <l>Ehrt uns nicht mit kränzen · kränkt uns nicht mit mälern</l>
+                <l>Holt die asche nicht zum boden den ihr schändet ·</l>
+                <l>Unser vaterland: der plan auf dem wir fielen</l>
+                <l>Unsre mutter: heilige erde die uns bettet –</l>
+                <l>Oh · nach</l>
+                <l>Tiefem schlürfen bleibt die qual in toten augen</l>
+                <l>Bleibt die klage furchtbar auf den stirnen stehen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="119" facs="#f0123"/>
+            <head>VICTOR * ADALBERT</head>
+            <lg type="poem">
+              <l>V: Was über unsrer sonnenseligkeit</l>
+              <l>Im schönen bergland als ein schatten lag</l>
+              <l>Den froh wir scheuchten – sag nun deine trauer!</l>
+              <l>A: Da alles volk noch eitle hoffnung nährt</l>
+              <l>Seh ich in solches wirrsal solches graun</l>
+              <l>Schon drohend nah – dass ichs nicht teilen mag.</l>
+              <l>V: Nur mehr gefahr soll uns nur mehr erweisen.</l>
+              <l>A: Gefahren hab ich lang genug getrozt</l>
+              <l>Genug im mord gestampft – seit ich genas</l>
+              <l>Und zur besinnung kam bin ich gewiss</l>
+              <l>Dass dies ein wahnwitz der mit wahnwitz schliesst</l>
+              <l>Und dass ich bei dem nächsten eisenhagel</l>
+              <l>Als erster sinke – lieber scheid ich frei.</l>
+              <l>V: Doch das ist flucht und flucht ist feig.</l>
+              <l>A: Für den</l>
+              <l>Der mit dem leben geizt · das tu ich nicht ..</l>
+              <pb n="120" facs="#f0124"/>
+              <l>V: Du greifst den Göttern vor – sprichst nicht mehr fromm.</l>
+              <l>A: Sie selber gaben mir das andre auge.</l>
+              <l>V: Gemahnt ich dich wen all du weinend lässest</l>
+              <l>Und triffst – wie tief – durch ein unfassbar tun:</l>
+              <l>So schweigte mich dein wuchtigeres wort.</l>
+              <l>Doch woher nimmst du · träger du der weihe</l>
+              <l>Dies recht des raubs?</l>
+              <l>A: Weil ich die weihe trage</l>
+              <l>Grad darum will ich mein gesetz erfüllen</l>
+              <l>Darf ich nichts tun was mich zum mindren macht ·</l>
+              <l>Mir ziemt ein sturz nicht mehr durch blinden zustoss</l>
+              <l>Sowenig wie ein dasein langsam welkend</l>
+              <l>Im kommenden unsäglichen zerfall.</l>
+              <l>Wenn wir noch bleiben werden wir verwesen ..</l>
+              <l>Wenn jezt wir frank und stolz die erde lassen</l>
+              <l>Wird uns der lichte wandel nicht benommen</l>
+              <l>Werden wir blühen wie die ewigen sterne ..</l>
+              <l>V: Teurer · begreifst du mich jezt ein? So hör:</l>
+              <l>Wie sehr dein stärkrer odem mich durchregt</l>
+              <l>Ich kann mit deinem blick nicht sehn .. dein zwang</l>
+              <l>Ist nicht mein zwang · an deiner seite wacht ich</l>
+              <l>Und schlief den schönsten frühling ohne sorge.</l>
+              <l>Nur manchmal schien seit unsrer lezten einung</l>
+              <l>Dass etwas dünnres uns umweht als luft</l>
+              <pb n="121" facs="#f0125"/>
+              <l>Dass etwas leichtres in uns pulst als blut.</l>
+              <l>A: Ich will nicht bitten und ich darf nicht binden</l>
+              <l>Folgst du nicht meinem – nein – dem andren ruf</l>
+              <l>So weiss ich sicher deine lippen blassen</l>
+              <l>Eh noch die gräser gilben. Sieh ich zittre!</l>
+              <l>In wirklichkeit vermag ichs nicht zu schaun ..</l>
+              <l>V: So bangt dir nach den wunderbaren stunden</l>
+              <l>Voll reichtum und voll glanz.</l>
+              <l>A: Nun ist die wende!</l>
+              <l>V: Dort liegt der Hexenberg in falbem schein</l>
+              <l>’s ist zeit der grausen tänze .. Eh du · Wilder ·</l>
+              <l>Nochmals so redest warte bis zum neumond!</l>
+              <l>A: Du kind machst scherz am grab · der dunkelgeist</l>
+              <l>Der in mir waltet kennt nicht solchen spuk.</l>
+              <l>Was unersättigt in mir tobt – du rätst es ..</l>
+              <l>V: Wirst du auch gehen ohne mich?</l>
+              <l>A: Ich muss.</l>
+              <l>V: Ob die gemeinsam langen strahlen-morgen</l>
+              <l>Ob diese heissen abende im tal</l>
+              <l>Die heitre ruhe während welten bersten</l>
+              <l>Zuviel an glück nicht war für erdensöhne</l>
+              <l>Ob dies nicht sühne heischt – ich weiss es nicht ..</l>
+              <l>Ob eine andre not als die wir kennen</l>
+              <l>Die düstre tat befiehlt – ich weiss es nicht.</l>
+              <pb n="122" facs="#f0126"/>
+              <l>Ich spüre keinen götterwink für mich.</l>
+              <l>Doch glaub ich alles dir was für Dich gilt ..</l>
+              <l>Und bleibe treu dem schwur der uns verbunden</l>
+              <l>Im jünglingsjahr den immer wir besiegelt ..</l>
+              <l>Ich bin untrennbar mit dir · seis auch schuld ·</l>
+              <l>Und wenn nach deinem schicksal du beschlossen</l>
+              <l>Durchs dunkle tor zu gehn: so nimm mich mit!</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="123" facs="#f0127"/>
+        <head>DAS LIED</head>
+        <pb n="124" facs="#f0128"/>
+        <epigraph>
+          <lg>
+            <l><hi rendition="#smaller"> WAS ICH NOCH SINNE UND WAS ICH NOCH FÜGE</hi></l>
+            <l><hi rendition="#smaller">WAS ICH NOCH LIEBE TRÄGT DIE GLEICHEN ZÜGE</hi></l>
+          </lg>
+        </epigraph>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="125" facs="#f0129"/>
+              <l>Welch ein kühn-leichter schritt</l>
+              <l>Wandert durchs eigenste reich</l>
+              <l>Des märchengartens der ahnin?</l>
+            </lg>
+            <lg n="2">
+              <l>Welch einen weckruf jagt</l>
+              <l>Bläser mit silbernem horn</l>
+              <l>Ins schlummernde dickicht der Sage?</l>
+            </lg>
+            <lg n="3">
+              <l>Welch ein heimlicher hauch</l>
+              <l>Schmiegt in die seele sich ein</l>
+              <l>Der jüngst-vergangenen schwermut?</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="126" facs="#f0130"/>
+          <head>DAS LIED</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Es fuhr ein knecht hinaus zum wald</l>
+              <l>Sein bart war noch nicht flück</l>
+              <l>Er lief sich irr im wunderwald</l>
+              <l>Er kam nicht mehr zurück.</l>
+            </lg>
+            <lg n="2">
+              <l>Das ganze dorf zog nach ihm aus</l>
+              <l>Vom früh- zum abendrot</l>
+              <l>Doch fand man nirgends seine spur</l>
+              <l>Da gab man ihn für tot.</l>
+            </lg>
+            <lg n="3">
+              <l>So flossen sieben jahr dahin</l>
+              <l>Und eines morgens stand</l>
+              <l>Auf einmal wieder er vorm dorf</l>
+              <l>Und ging zum brunnenrand.</l>
+            </lg>
+            <lg n="4">
+              <l>Sie fragten wer er wär und sahn</l>
+              <l>Ihm fremd ins angesicht ·</l>
+              <l>Der vater starb die mutter starb</l>
+              <l>Ein andrer kannt ihn nicht.</l>
+            </lg>
+            <lg n="5">
+              <pb n="127" facs="#f0131"/>
+              <l>Vor tagen hab ich mich verirrt</l>
+              <l>Ich war im wunderwald</l>
+              <l>Dort kam ich recht zu einem fest</l>
+              <l>Doch heim trieb man mich bald.</l>
+            </lg>
+            <lg n="6">
+              <l>Die leute tragen güldnes haar</l>
+              <l>Und eine haut wie schnee ..</l>
+              <l>So heissen sie dort sonn und mond</l>
+              <l>So berg und tal und see.</l>
+            </lg>
+            <lg n="7">
+              <l>Da lachten all: in dieser früh</l>
+              <l>Ist er nicht weines voll.</l>
+              <l>Sie gaben ihm das vieh zur hut</l>
+              <l>Und sagten er ist toll.</l>
+            </lg>
+            <lg n="8">
+              <l>So trieb er täglich in das feld</l>
+              <l>Und sass auf einem stein</l>
+              <l>Und sang bis in die tiefe nacht</l>
+              <l>Und niemand sorgte sein.</l>
+            </lg>
+            <lg n="9">
+              <l>Nur kinder horchten seinem lied</l>
+              <l>Und sassen oft zur seit ..</l>
+              <l>Sie sangen’s als er lang schon tot</l>
+              <l>Bis in die spätste zeit.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="128" facs="#f0132"/>
+          <head>SCHIFFERLIED</head>
+          <head>ABSCHIED YVOS VON JOLANDA</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Du harrst umsonst. Ist Der auch hin</l>
+              <l>Und schläft in ruh wo keiner ihn</l>
+              <l>Entdecken wird – mein blut ward kühl</l>
+              <l>Ich geh an bord seh dich nicht mehr.</l>
+            </lg>
+            <lg n="2">
+              <l>Als er erwürgt zur klippe sank</l>
+              <l>Floh weit wie je das nahe glück.</l>
+              <l>Du ahnst wol viel das lezte kaum ..</l>
+              <l>Wild lockt das meer nie werd ich dein.</l>
+            </lg>
+            <lg n="3">
+              <l>Ich weiss du weinst wenn abends spät</l>
+              <l>Dir botschaft kommt ich sei schon fern –</l>
+              <l>Mein schiff mein freund – bis sich beim werk</l>
+              <l>An fremdem strand mein loos erfüllt.</l>
+            </lg>
+            <lg n="4">
+              <l>Wir all sind bös doch du bleib rein!</l>
+              <l>Bald klagst du sanft und flichst den kranz</l>
+              <l>Fürs gnadenbild am felsgestad</l>
+              <l>Und flehst um dein und um mein heil.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="129" facs="#f0133"/>
+              <l>Horch was die dumpfe erde spricht:</l>
+              <l>Du frei wie vogel oder fisch –</l>
+              <l>Worin du hängst · das weisst du nicht.</l>
+            </lg>
+            <lg n="2">
+              <l>Vielleicht entdeckt ein spätrer mund:</l>
+              <l>Du sassest mit an unsrem tisch</l>
+              <l>Du zehrtest mit von unsrem pfund.</l>
+            </lg>
+            <lg n="3">
+              <l>Dir kam ein schön und neu gesicht</l>
+              <l>Doch zeit ward alt · heut lebt kein mann</l>
+              <l>Ob er je kommt das weisst du nicht</l>
+            </lg>
+            <lg n="4">
+              <l>Der dies gesicht noch sehen kann.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="130" facs="#f0134"/>
+          <head>SEELIED</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Wenn an der kimm in sachtem fall</l>
+              <l>Eintaucht der feurig rote ball:</l>
+              <l>Dann halt ich auf der düne rast</l>
+              <l>Ob sich mir zeigt ein lieber gast.</l>
+            </lg>
+            <lg n="2">
+              <pb n="131" facs="#f0135"/>
+              <l>Zu dieser stund ists öd daheim ·</l>
+              <l>Die blume welkt im salzigen feim.</l>
+              <l>Im lezten haus beim fremden weib</l>
+              <l>Tritt nie wer unter zum verbleib.</l>
+            </lg>
+            <lg n="3">
+              <l>Mit gliedern blank mit augen klar</l>
+              <l>Kommt nun ein kind mit goldnem haar ·</l>
+              <l>Es tanzt und singt auf seiner bahn</l>
+              <l>Und schwindet hinterm grossen kahn.</l>
+            </lg>
+            <lg n="4">
+              <l>Ich schau ihm vor · ich schau ihm nach</l>
+              <l>Wenn es auch niemals mit mir sprach</l>
+              <l>Und ich ihm nie ein wort gewusst:</l>
+              <l>Sein kurzer anblick bringt mir lust.</l>
+            </lg>
+            <lg n="5">
+              <l>Mein herd ist gut · mein dach ist dicht ·</l>
+              <l>Doch eine freude wohnt dort nicht.</l>
+              <l>Die netze hab ich all geflickt</l>
+              <l>Und küch und kammer sind beschickt.</l>
+            </lg>
+            <lg n="6">
+              <l>So sitz ich · wart ich auf dem strand</l>
+              <l>Die schläfe pocht in meiner hand:</l>
+              <l>Was hat mein ganzer tag gefrommt</l>
+              <l>Wenn heut das blonde kind nicht kommt.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="132" facs="#f0136"/>
+          <head>DIE TÖRICHTE PILGERIN</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Wo die strasse vom gebirg</l>
+              <l>Plötzlich sich zum strome kehrt</l>
+              <l>Felder bis zur kuppe ziehn</l>
+              <l>Wo mich einst die schwangre bat</l>
+              <l>Dass ich ihr die heu-last höbe:</l>
+            </lg>
+            <lg n="2">
+              <l>Dort lag mit verwirrtem haar</l>
+              <l>Und in kümmerlichem rock</l>
+              <l>Wie vor müde hingestürzt</l>
+              <l>An dem wegrand eine maid –</l>
+              <l>Ich ging hin und half ihr auf ..</l>
+            </lg>
+            <lg n="3">
+              <l>Dankend sprach sie und betrübt</l>
+              <l>Während sie die stirn sich strich:</l>
+              <l>Oft schon kam ich dir vorbei</l>
+              <l>Nur mein unglück dass ich fiel</l>
+              <l>Machte dass du auf mich schautest.</l>
+            </lg>
+            <lg n="4">
+              <l>Nächstes mal wenn du mich triffst</l>
+              <l>Zeig ich mich in schmuckrem kleid ..</l>
+              <l>Freu ich dich auch so nicht sehr:</l>
+              <l>Wird dein blick doch auf mir ruhn</l>
+              <l>Weil du einst vom grund mich hobst.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="133" facs="#f0137"/>
+          <head>DER LEZTE DER GETREUEN</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Noch weilt der Eine ausser lands</l>
+              <l>Drum ist auch mir die heimat leer</l>
+              <l>Ich haus’ als fremdling nur in ihr</l>
+              <l>Bei meines königs banne.</l>
+            </lg>
+            <lg n="2">
+              <l>Ich zähle nicht nach freud’ und fest</l>
+              <l>Der Andern und ich warte gleich</l>
+              <l>Den sommer durch · den winter lang</l>
+              <l>Bis mich mein könig rufe ..</l>
+            </lg>
+            <lg n="3">
+              <l>Und kehrt er nie mehr hier zurück</l>
+              <l>Holt er mich nicht zu seinem dienst –</l>
+              <l>Gibt mir nur <hi rendition="#k">eines</hi> ziel und sinn:</l>
+              <l>Mit meinem könig sterben!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="134" facs="#f0138"/>
+          <head>DAS WORT</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Wunder von ferne oder traum</l>
+              <l>Bracht ich an meines landes saum</l>
+            </lg>
+            <lg n="2">
+              <l>Und harrte bis die graue norn</l>
+              <l>Den namen fand in ihrem born –</l>
+            </lg>
+            <lg n="3">
+              <l>Drauf konnt ichs greifen dicht und stark</l>
+              <l>Nun blüht und glänzt es durch die mark ...</l>
+            </lg>
+            <lg n="4">
+              <l>Einst langt ich an nach guter fahrt</l>
+              <l>Mit einem kleinod reich und zart</l>
+            </lg>
+            <lg n="5">
+              <l>Sie suchte lang und gab mir kund:</l>
+              <l>›So schläft hier nichts auf tiefem grund‹</l>
+            </lg>
+            <lg n="6">
+              <l>Worauf es meiner hand entrann</l>
+              <l>Und nie mein land den schatz gewann ...</l>
+            </lg>
+            <lg n="7">
+              <l>So lernt ich traurig den verzicht:</l>
+              <l>Kein ding sei wo das wort gebricht.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="135" facs="#f0139"/>
+          <head>DIE BECHER</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Sieh hier den becher golds</l>
+              <l>Voll von funkelndem wein –</l>
+              <l>Jedes hat einen schlurf!</l>
+            </lg>
+            <lg n="2">
+              <l>Sieh dort den becher aus holz</l>
+              <l>Mit den drei würfeln aus stein –</l>
+              <l>Jedes hat einen wurf!</l>
+            </lg>
+            <lg n="3">
+              <l>Dieser lässt ohne verdruss</l>
+              <l>Wissen was zu uns steht ·</l>
+              <l>Heben vom tisch wir ihn bloss.</l>
+            </lg>
+            <lg n="4">
+              <l>Jener bringt den beschluss</l>
+              <l>Den niemand vorsieht und dreht:</l>
+              <l>Wieviel Mein loos wieviel Dein loos.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="136" facs="#f0140"/>
+          <head>DAS LICHT</head>
+          <lg type="poem">
+            <lg n="1">
+              <l>Wir sind in trauer wenn · uns minder günstig</l>
+              <l>Du dich zu andren · mehr beglückten · drehst</l>
+              <l>Wenn unser geist · nach anbetungen brünstig ·</l>
+              <l>An abenden in deinem abglanz wes’t.</l>
+            </lg>
+            <lg n="2">
+              <l>Wir wären töricht · wollten wir dich hassen</l>
+              <l>Wenn oft dein strahl verderbendrohend sticht</l>
+              <l>Wir wären kinder · wollten wir dich fassen –</l>
+              <l>Da du für alle leuchtest · süsses Licht!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="137" facs="#f0141"/>
+              <l>In stillste ruh</l>
+              <l>Besonnenen tags</l>
+              <l>Bricht jäh ein blick</l>
+              <l>Der unerahnten schrecks</l>
+              <l>Die sichre seele stört</l>
+            </lg>
+            <lg n="2">
+              <l>So wie auf höhn</l>
+              <l>Der feste stamm</l>
+              <l>Stolz reglos ragt</l>
+              <l>Und dann noch spät ein sturm</l>
+              <l>Ihn bis zum boden beugt:</l>
+            </lg>
+            <lg n="3">
+              <l>So wie das meer</l>
+              <l>Mit gellem laut</l>
+              <l>Mit wildem prall</l>
+              <l>Noch einmal in die lang</l>
+              <l>Verlassne muschel stösst.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="138" facs="#f0142"/>
+              <l>Du schlank und rein wie eine flamme</l>
+              <l>Du wie der morgen zart und licht</l>
+              <l>Du blühend reis vom edlen stamme</l>
+              <l>Du wie ein quell geheim und schlicht</l>
+            </lg>
+            <lg n="2">
+              <l>Begleitest mich auf sonnigen matten</l>
+              <l>Umschauerst mich im abendrauch</l>
+              <l>Erleuchtest meinen weg im schatten</l>
+              <l>Du kühler wind du heisser hauch</l>
+            </lg>
+            <lg n="3">
+              <l>Du bist mein wunsch und mein gedanke</l>
+              <l>Ich atme dich mit jeder luft</l>
+              <l>Ich schlürfe dich mit jedem tranke</l>
+              <l>Ich küsse dich mit jedem duft</l>
+            </lg>
+            <lg n="4">
+              <l>Du blühend reis vom edlen stamme</l>
+              <l>Du wie ein quell geheim und schlicht</l>
+              <l>Du schlank und rein wie eine flamme</l>
+              <l>Du wie der morgen zart und licht.</l>
+            </lg>
+          </lg>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div n="1" type="appendix">
+        <pb n="140" facs="#f0144"/>
+        <head>ANHANG</head>
+        <p>Goethes lezte Nacht in Italien erschien zuerst im dritten Bondi’schen Ausleseband der Bl.f.d.K.: einer vorwegnahme der VIII. folge. Hyperion · An die Kinder des Meeres · Gebet I · Der Mensch und der Drud · Gespräch des Herrn mit dem römischen Hauptmann · sowie von den Sprüchen: Der Himmel bis Belehrung in der X. folge. Die XI.–XII. F. enthielt von den grössern gedichten: Die Winke · Gebete II und III · Der Brand des Tempels .. von den Sprüchen: Wartend am Kreuzweg bis Rätsel flimmern alt und neu · sowie A. Verwey I II und IV · und sämtliche An die Toten. Das 2. der lieder ist in der IX. das 3. in der X. das 4. 5. 6. 8. 9. und 12. in der XI.–XII. folge erschienen. Der Krieg wurde zuerst 1917 als sonderheft veröffentlicht · ebenso die gedichte: An die Toten · Der Dichter in Zeiten der Wirren · Einem jungen Führer im ersten Weltkrieg · unter dem Titel Drei Gesänge 1921.</p>
+        <p>Die einzige abweichung vom ersten druck ist die umstellung von: Freu dich an dem wert der gabe (S. 95) und: Liebe freilich nennt kein maass (S. 96).</p>
+        <div n="2">
+          <figure>
+            <note type="editorial">Gebete Seite 51 (Rohrfederschrift): [Dass mir der schönen Sterne führung schwände] (GAW 9, S. 142)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Sprüche Seite 94: [Da das zittern noch waltet] (GAW 9, S. 143). Sprüche Seite 96: [Solches bleibt nunmehr zu tun] (GAW 9, S. 143)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Lieder Seite 125: [Welch ein kühn-leichter schritt] (GAW 9, S. 144)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Lieder Seite 137: [In stillste ruh] (GAW 9, S. 145)</note>
+          </figure>
+        </div>
+      </div>
+    </back>
+  </text>
+</TEI>

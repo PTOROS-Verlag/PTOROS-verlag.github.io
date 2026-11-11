@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.deutschestextarchiv.de/basisformat.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Das Jahr der Seele</title>
+      <author>
+        <persName ref="http://d-nb.info/gnd/11853856X">
+          <surname>George</surname>
+          <forename>Stefan</forename>
+        </persName>
+      </author>
+      <respStmt>
+        <orgName>PTOROS Verlag</orgName>
+        <resp>Textkonstitution und Kodierung</resp>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>
+        <orgName>PTOROS Verlag</orgName>
+      </publisher>
+      <availability>
+        <licence target="https://creativecommons.org/publicdomain/mark/1.0/">
+          <p>Public Domain Mark 1.0</p>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="M">George, Stefan: Das Jahr der Seele. Gesamt-Ausgabe der Werke. Endgültige Fassung. Berlin: Georg Bondi, Februar 1928.</bibl>
+      <biblFull>
+        <titleStmt>
+          <title level="m" type="main">Das Jahr der Seele</title>
+          <author>
+            <persName ref="http://d-nb.info/gnd/11853856X">
+              <surname>George</surname>
+              <forename>Stefan</forename>
+            </persName>
+          </author>
+        </titleStmt>
+        <publicationStmt>
+          <publisher><name>Georg Bondi</name></publisher>
+          <pubPlace>Berlin</pubPlace>
+          <date type="publication">1928</date>
+        </publicationStmt>
+        <seriesStmt>
+          <title level="s" type="main">Gesamt-Ausgabe der Werke. Endgültige Fassung</title>
+        </seriesStmt>
+      </biblFull>
+      <msDesc>
+        <msIdentifier>
+          <repository>Staatsbibliothek zu Berlin – Preußischer Kulturbesitz</repository>
+          <idno><idno type="URLWeb">https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN828550425</idno><idno type="URLXML">https://content.staatsbibliothek-berlin.de/dc/PPN828550425.mets.xml</idno></idno>
+        </msIdentifier>
+      </msDesc>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <editorialDecl>
+      <p>Grundlage ist die Transkription von zeno.org (<ref target="http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Jahr+der+Seele">http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Das+Jahr+der+Seele</ref>), abgerufen am 2026-11-09.</p>
+      <p>Jede Seite wurde gegen die Digitalisate geprüft; als unabhängige Zeugen dienten tesseract-OCR und, wo vorhanden, die ALTO-Volltexte der Staatsbibliothek zu Berlin. Jede Abweichung wurde am Bildausschnitt entschieden.</p>
+      <p>Die von zeno.org in eckigen Klammern ergänzten Titel unbetitelter Gedichte sind entfallen.</p>
+      <p>Abbildungen sind nur als figure mit der Bildbeschreibung von zeno.org (note type="editorial") verzeichnet.</p>
+      <p>Kapitälchen: in hi mit rendition="#k" stehen Kleinbuchstaben für Kapitälchen.</p>
+      <p>Hochpunkt (U+00B7) und Gedankenstrich (U+2013) sind wie bei zeno.org wiedergegeben; zenos doppelte Anführungszeichen »« sind wie im Druck einfach (›‹), der Apostroph ist wie im Druck typographisch (’).</p>
+      <p>Die Orthographie ist nicht normalisiert.</p>
+    </editorialDecl>
+    <tagsDecl>
+      <rendition scheme="css" xml:id="c">display:block; text-align:center</rendition>
+      <rendition scheme="css" xml:id="et">display:block; margin-left:2em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="et2">display:block; margin-left:4em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="et3">display:block; margin-left:6em; text-indent:0</rendition>
+      <rendition scheme="css" xml:id="g">letter-spacing:0.125em</rendition>
+      <rendition scheme="css" xml:id="i">font-style:italic</rendition>
+      <rendition scheme="css" xml:id="k">font-variant:small-caps</rendition>
+      <rendition scheme="css" xml:id="right">display:block; text-align:right</rendition>
+      <rendition scheme="css" xml:id="smaller">font-size:smaller</rendition>
+    </tagsDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language ident="deu">German</language>
+    </langUsage>
+    <textClass>
+      <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtamain">Belletristik</classCode>
+      <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation#dtasub">Lyrik</classCode>
+    </textClass>
+  </profileDesc>
+</teiHeader>
+  <text>
+    <front>
+      <div n="1">
+        <figure>
+          <note type="editorial">NACH EINEM LICHTBILD VON J. HILSDORF, UM 1897</note>
+        </figure>
+      </div>
+      <div n="1" type="dedication">
+        <pb n="5" facs="#f0009"/>
+        <p rendition="#c">ANNA MARIA OTTILIE</p>
+        <p rendition="#c">DER TRÖSTENDEN BESCHIRMERIN</p>
+        <p rendition="#c">AUF MANCHEM MEINER PFADE</p>
+        <p rendition="#c">MDCCCXCVII</p>
+      </div>
+      <div n="1" type="preface">
+        <pb n="7" facs="#f0011"/>
+        <head>VORREDE DER ZWEITEN AUSGABE</head>
+        <p>Auch einige die sich dem sinn des verfassers genähert haben meinten es helfe zum tieferen verständnis wenn sie im Jahr der Seele bestimmte personen und örter ausfindig machten · möge man doch (wie ohne widerrede bei darstellenden werken) auch bei einer dichtung vermeiden sich unweise an das menschliche oder landschaftliche urbild zu kehren: es hat durch die kunst solche umformung erfahren dass es dem schöpfer selber unbedeutend wurde und ein wissen-darum für jeden andren eher verwirrt als löst. Namen gelten nur da wo sie als huldigung oder gabe verewigen sollen und selten sind sosehr wie in diesem buch ich und du die selbe seele.</p>
+      </div>
+    </front>
+    <body>
+      <div n="1">
+        <pb n="9" facs="#f0013"/>
+        <head>NACH DER LESE · WALLER IM SCHNEE · SIEG DES SOMMERS</head>
+        <div n="2">
+          <pb n="11" facs="#f0015"/>
+          <head>NACH DER LESE</head>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="12" facs="#f0016"/>
+                <l>Komm in den totgesagten park und schau:</l>
+                <l>Der schimmer ferner lächelnder gestade ·</l>
+                <l>Der reinen wolken unverhofftes blau</l>
+                <l>Erhellt die weiher und die bunten pfade.</l>
+              </lg>
+              <lg n="2">
+                <l>Dort nimm das tiefe gelb · das weiche grau</l>
+                <l>Von birken und von buchs · der wind ist lau ·</l>
+                <l>Die späten rosen welkten noch nicht ganz ·</l>
+                <l>Erlese küsse sie und flicht den kranz ·</l>
+              </lg>
+              <lg n="3">
+                <l>Vergiss auch diese lezten astern nicht ·</l>
+                <l>Den purpur um die ranken wilder reben</l>
+                <l>Und auch was übrig blieb von grünem leben</l>
+                <l>Verwinde leicht im herbstlichen gesicht.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="13" facs="#f0017"/>
+                <l>Ihr rufe junger jahre die befahlen</l>
+                <l>Nach <hi rendition="#k">ihr</hi> zu suchen unter diesen zweigen:</l>
+                <l>Ich muss vor euch die stirn verneinend neigen ·</l>
+                <l>Denn meine liebe schläft im land der strahlen.</l>
+              </lg>
+              <lg n="2">
+                <l>Doch schickt ihr <hi rendition="#k">sie</hi> mir wieder die im brennen</l>
+                <l>Des sommers und im flattern der Eroten</l>
+                <l>Sich als geleit mir schüchtern dargeboten</l>
+                <l>Ich will sie diesmal freudig anerkennen.</l>
+              </lg>
+              <lg n="3">
+                <l>Die reifen trauben gären in den bütten ·</l>
+                <l>Doch will ich alles was an edlen trieben</l>
+                <l>Und schöner saat vom sommer mir geblieben</l>
+                <l>Aus vollen händen vor ihr niederschütten.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="14" facs="#f0018"/>
+                <l>Ja heil und dank dir die den segen brachte!</l>
+                <l>Du schläfertest das immer laute pochen</l>
+                <l>Mit der erwartung deiner – Teure – sachte</l>
+                <l>In diesen glanzerfüllten sterbewochen.</l>
+              </lg>
+              <lg n="2">
+                <l>Du kamest und wir halten uns umschlungen ·</l>
+                <l>Ich werde sanfte worte für dich lernen</l>
+                <l>Und ganz als glichest du der Einen Fernen</l>
+                <l>Dich loben auf den sonnen-wanderungen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="15" facs="#f0019"/>
+                <l>Wir schreiten auf und ab im reichen flitter</l>
+                <l>Des buchenganges beinah bis zum tore</l>
+                <l>Und sehen aussen in dem feld vom gitter</l>
+                <l>Den mandelbaum zum zweitenmal im flore.</l>
+              </lg>
+              <lg n="2">
+                <l>Wir suchen nach den schattenfreien bänken</l>
+                <l>Dort wo uns niemals fremde stimmen scheuchten ·</l>
+                <l>In träumen unsre arme sich verschränken ·</l>
+                <l>Wir laben uns am langen milden leuchten</l>
+              </lg>
+              <lg n="3">
+                <l>Wir fühlen dankbar wie zu leisem brausen</l>
+                <l>Von wipfeln strahlenspuren auf uns tropfen</l>
+                <l>Und blicken nur und horchen wenn in pausen</l>
+                <l>Die reifen früchte an den boden klopfen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="16" facs="#f0020"/>
+                <l>Umkreisen wir den stillen teich</l>
+                <l>In den die wasserwege münden!</l>
+                <l>Du suchst mich heiter zu ergründen ·</l>
+                <l>Ein wind umweht uns frühlings-weich.</l>
+              </lg>
+              <lg n="2">
+                <l>Die blätter die den boden gilben</l>
+                <l>Verbreiten neuen wolgeruch ·</l>
+                <l>Du sprichst mir nach in klugen silben</l>
+                <l>Was mich erfreut im bunten buch.</l>
+              </lg>
+              <lg n="3">
+                <l>Doch weisst du auch vom tiefen glücke</l>
+                <l>Und schätzest du die stumme träne?</l>
+                <l>Das auge schattend auf der brücke</l>
+                <l>Verfolgest du den zug der schwäne.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="17" facs="#f0021"/>
+                <l>Wir stehen an der hecken gradem wall</l>
+                <l>In reihen kommen kinder mit der nonne.</l>
+                <l>Sie singen lieder von der himmelswonne</l>
+                <l>In dieser erde sichrem klarem hall.</l>
+              </lg>
+              <lg n="2">
+                <l>Die wir uns in der abendneige sonnten</l>
+                <l>Uns schreckten deine worte und du meinst:</l>
+                <l>Wir waren glücklich bloss solang wir einst</l>
+                <l>Nicht diese hecken überschauen konnten.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="18" facs="#f0022"/>
+                <l>Du willst am mauerbrunnen wasser schöpfen</l>
+                <l>Und spielend in die kühlen strahlen langen ·</l>
+                <l>Doch scheint es mir du wendest mit befangen</l>
+                <l>Die hände von den beiden löwenköpfen.</l>
+              </lg>
+              <lg n="2">
+                <l>Den ring mit dem erblindeten juwele</l>
+                <l>Ich suchte dir vom finger ihn zu drehen ·</l>
+                <l>Dein feuchtes auge küsste meine seele</l>
+                <l>Als antwort auf mein unverhülltes flehen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="19" facs="#f0023"/>
+                <l>Nun säume nicht die gaben zu erhaschen</l>
+                <l>Des scheidenden gepränges vor der wende ·</l>
+                <l>Die grauen wolken sammeln sich behende ·</l>
+                <l>Die nebel können bald uns überraschen.</l>
+              </lg>
+              <lg n="2">
+                <l>Ein schwaches flöten von zerpflücktem aste</l>
+                <l>Verkündet dir dass lezte güte weise</l>
+                <l>Das land (eh es im nahen sturm vereise)</l>
+                <l>Noch hülle mit beglänzendem damaste.</l>
+              </lg>
+              <lg n="3">
+                <l>Die wespen mit den goldengrünen schuppen</l>
+                <l>Sind von verschlossnen kelchen fortgeflogen ·</l>
+                <l>Wir fahren mit dem kahn in weitem bogen</l>
+                <l>Um bronzebraunen laubes inselgruppen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="20" facs="#f0024"/>
+                <l>Wir werden heute nicht zum garten gehen ·</l>
+                <l>Denn wie uns manchmal rasch und unerklärt</l>
+                <l>Dies leichte duften oder leise wehen</l>
+                <l>Mit lang vergessner freude wieder nährt:</l>
+              </lg>
+              <lg n="2">
+                <l>So bringt uns jenes mahnende gespenster</l>
+                <l>Und leiden das uns bang und müde macht.</l>
+                <l>Sieh unterm baume draussen vor dem fenster</l>
+                <l>Die vielen leichen nach der winde schlacht!</l>
+              </lg>
+              <lg n="3">
+                <l>Vom tore dessen eisen-lilien rosten</l>
+                <l>Entfliegen vögel zum verdeckten rasen</l>
+                <l>Und andre trinken frierend auf den pfosten</l>
+                <l>Vom regen aus den hohlen blumen-vasen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="21" facs="#f0025"/>
+                <l>Ich schrieb es auf: nicht länger sei verhehlt</l>
+                <l>Was als gedanken ich nicht mehr verbanne ·</l>
+                <l>Was ich nicht sage · du nicht fühlst: uns fehlt</l>
+                <l>Bis an das glück noch eine weite spanne.</l>
+              </lg>
+              <lg n="2">
+                <l>An einer hohen blume welkem stiel</l>
+                <l>Entfaltest du’s · ich stehe fern und ahne ..</l>
+                <l>Es war das weisse blatt das dir entfiel</l>
+                <l>Die grellste farbe auf dem fahlen plane.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="22" facs="#f0026"/>
+                <l>Im freien viereck mit den gelben steinen</l>
+                <l>In dessen mitte sich die brunnen regen</l>
+                <l>Willst du noch flüchtig späte rede pflegen</l>
+                <l>Da heut dir hell wie nie die sterne scheinen.</l>
+              </lg>
+              <lg n="2">
+                <l>Doch tritt von dem basaltenen behälter!</l>
+                <l>Er winkt die toten zweige zu bestatten ·</l>
+                <l>Im vollen mondenlichte weht es kälter</l>
+                <l>Als drüben unter jener föhren schatten ..</l>
+              </lg>
+              <lg n="3">
+                <l>Ich lasse meine grosse traurigkeit</l>
+                <l>Dich falsch erraten um dich zu verschonen ·</l>
+                <l>Ich fühle hat die zeit uns kaum entzweit</l>
+                <l>So wirst du meinen traum nicht mehr bewohnen.</l>
+              </lg>
+              <lg n="4">
+                <l>Doch wenn erst unterm schnee der park entschlief</l>
+                <l>So glaub ich dass noch leiser trost entquille</l>
+                <l>Aus manchen schönen resten – strauss und brief –</l>
+                <l>In tiefer kalter winterlicher stille.</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+        <div n="2">
+          <pb n="23" facs="#f0027"/>
+          <head>WALLER IM SCHNEE</head>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="24" facs="#f0028"/>
+                <l>Die steine die in meiner strasse staken</l>
+                <l>Verschwanden alle in dem weichen schooss</l>
+                <l>Der in der ferne bis zum himmel schwillt ·</l>
+                <l>Die flocken weben noch am bleichen laken</l>
+              </lg>
+              <lg n="2">
+                <l>Und treibt an meine wimper sie ein stoss</l>
+                <l>So zittert sie wie wenn die träne quillt ..</l>
+                <l>Zu sternen schau ich führerlos hinan ·</l>
+                <l>Sie lassen mich mit grauser nacht allein.</l>
+              </lg>
+              <lg n="3">
+                <l>Ich möchte langsam auf dem weissen plan</l>
+                <l>Mir selber unbewusst gebettet sein.</l>
+                <l>Doch wenn die wirbel mich zum abgrund trügen ·</l>
+                <l>Ihr todeswinde mich gelinde träft:</l>
+              </lg>
+              <lg n="4">
+                <l>Ich suchte noch einmal nach tor und dach.</l>
+                <l>Wie leicht dass hinter jenen höhenzügen</l>
+                <l>Verborgen eine junge hoffnung schläft!</l>
+                <l>Beim ersten lauen hauche wird sie wach.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="25" facs="#f0029"/>
+                <l>Mir ist als ob ein blick im dunkel glimme.</l>
+                <l>So bebend wähltest du mich zum begleite</l>
+                <l>Dass ich die schwere wandrung benedeite ·</l>
+                <l>So rührte mich dein schritt und deine stimme.</l>
+              </lg>
+              <lg n="2">
+                <l>Du priesest mir die pracht der stillen erde</l>
+                <l>In hrem silberlaub und kühlen strahle</l>
+                <l>Die frei der lauten freude und beschwerde.</l>
+                <l>Wir nannten sie die einsam keusche fahle</l>
+              </lg>
+              <lg n="3">
+                <l>Und wir bekannten ihren rauhen mächten</l>
+                <l>Dass in den reinen lüften töne hallten</l>
+                <l>Dass sich die himmel füllten mit gestalten</l>
+                <l>So herrlich wie in keinen maien-nächten.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="26" facs="#f0030"/>
+                <l>Mit frohem grauen haben wir im späten</l>
+                <l>Mondabend oft denselben weg begonnen</l>
+                <l>Als ob von feuchten blüten ganz beronnen</l>
+                <l>Wir in den alten wald der sage träten.</l>
+              </lg>
+              <lg n="2">
+                <l>Du führtest mich zu den verwunschnen talen</l>
+                <l>Von nackter helle und von blassen düften</l>
+                <l>Und zeigtest mir von weitem wo aus grüften</l>
+                <l>Die trübe liebe wächst im reif der qualen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="27" facs="#f0031"/>
+                <l>Ich darf nicht dankend an dir niedersinken ·</l>
+                <l>Du bist vom geist der flur aus der wir stiegen:</l>
+                <l>Will sich mein trost an deine wehmut schmiegen</l>
+                <l>So wird sie zucken um ihm abzuwinken.</l>
+              </lg>
+              <lg n="2">
+                <l>Verharrst du bei dem quälenden beschlusse</l>
+                <l>Nie deines leides nähe zu gestehen</l>
+                <l>Und nur mit ihm und mir dich zu ergehen</l>
+                <l>Am eisigklaren tief-entschlafnen flusse?</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="28" facs="#f0032"/>
+                <l>Ich trat vor dich mit einem segenspruche</l>
+                <l>Am abend wo für dich die kerzen brannten</l>
+                <l>Und reichte dir auf einem samtnen tuche</l>
+                <l>Die höchste meiner gaben: den demanten.</l>
+              </lg>
+              <lg n="2">
+                <l>Du aber weisst nichts von dem opferbrauche ·</l>
+                <l>Von blanken leuchtern mit erhobnen ärmen ·</l>
+                <l>Von schalen die mit wolkenreinem rauche</l>
+                <l>Der strengen tempel finsternis erwärmen ·</l>
+              </lg>
+              <lg n="3">
+                <l>Von engeln die sich in den nischen sammeln</l>
+                <l>Und sich bespiegeln am kristallnen lüster ·</l>
+                <l>Von glühender und banger bitte stammeln</l>
+                <l>Von halben seufzern hingehaucht im düster</l>
+              </lg>
+              <lg n="4">
+                <l>Und nichts von wünschen die auf untern sprossen</l>
+                <l>Des festlichen altars vernehmlich wimmern ..</l>
+                <l>Du fassest fragend kalt und unentschlossen</l>
+                <l>Den edelstein aus gluten tränen schimmern.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="29" facs="#f0033"/>
+                <l>Ich lehre dich den sanften reiz des zimmers</l>
+                <l>Empfinden und der trauten winkel raunen ·</l>
+                <l>Des feuers und des stummen lampen-flimmers ·</l>
+                <l>Du hast dafür das gleiche müde staunen.</l>
+              </lg>
+              <lg n="2">
+                <l>Aus deiner blässe fach ich keinen funken ·</l>
+                <l>Ich ziehe mich zurück zum beigemache</l>
+                <l>Und sinne schweigsam in das knie gesunken:</l>
+                <l>Ob jemals du erwachen wirst? erwache</l>
+              </lg>
+              <lg n="3">
+                <l>So oft ich zagend mich zum vorhang kehre:</l>
+                <l>Du sitzest noch wie anfangs in gedanken ·</l>
+                <l>Dein auge hängt noch immer an der leere ·</l>
+                <l>Dein schatten kreuzt des teppichs selbe ranken.</l>
+              </lg>
+              <lg n="4">
+                <l>Was hindert dann noch dass das ungeübte</l>
+                <l>Vertrauenslose flehen mir entfliesse:</l>
+                <l>O gib dass – grosse mutter und betrübte!</l>
+                <l>In dieser seele wieder trost entspriesse.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="30" facs="#f0034"/>
+                <l>Noch zwingt mich treue über dir zu wachen</l>
+                <l>Und deines duldens schönheit dass ich weile ·</l>
+                <l>Mein heilig streben ist mich traurig machen</l>
+                <l>Damit ich wahrer deine trauer teile.</l>
+              </lg>
+              <lg n="2">
+                <l>Nie wird ein warmer anruf mich empfangen ·</l>
+                <l>Bis in die späten stunden unsres bundes</l>
+                <l>Muss ich erkennen mit ergebnem bangen</l>
+                <l>Das herbe schicksal winterlichen fundes.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="31" facs="#f0035"/>
+                <l>Die blume die ch mir am fenster hege</l>
+                <l>Verwahrt vorm froste in der grauen scherbe</l>
+                <l>Betrübt mich nur trotz meiner guten pflege</l>
+                <l>Und hängt das haupt als ob sie langsam sterbe.</l>
+              </lg>
+              <lg n="2">
+                <l>Um ihrer frühern blühenden geschicke</l>
+                <l>Erinnerung aus meinem sinn zu merzen</l>
+                <l>Erwähl ich scharfe waffen und ich knicke</l>
+                <l>Die blasse blume mit dem kranken herzen.</l>
+              </lg>
+              <lg n="3">
+                <l>Was soll sie nur zur bitternis mir taugen?</l>
+                <l>Ich wünschte dass vom fenster sie verschwände ..</l>
+                <l>Nun heb ich wieder meine leeren augen</l>
+                <l>Und in die leere nacht die leeren hände.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="32" facs="#f0036"/>
+                <l>Dein zauber brach da blaue flüge wehten</l>
+                <l>Von grabesgrünen und von sichrem heile ·</l>
+                <l>Nun lass mich kurz noch da ich bald enteile</l>
+                <l>Vor dir wie vor dem grossen schmerze beten.</l>
+              </lg>
+              <lg n="2">
+                <l>Zu raschem abschied musst du dich bequemen</l>
+                <l>Denn auf dem weiher barst die starre rinde ·</l>
+                <l>Mir däucht es dass ich morgen knospen finde ·</l>
+                <l>Ins frühjahr darf ich dich nicht mit mir nehmen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="33" facs="#f0037"/>
+                <l>Wo die strahlen schnell verschleissen</l>
+                <l>Leichentuch der kahlen auen ·</l>
+                <l>Wasser sich in furchen stauen</l>
+                <l>In den sümpfen schmelzend gleissen</l>
+              </lg>
+              <lg n="2">
+                <l>Und zum strom vereinigt laufen:</l>
+                <l>Türm ich für erinnerungen</l>
+                <l>Spröder freuden die zersprungen</l>
+                <l>Und für dich den scheiterhaufen.</l>
+              </lg>
+              <lg n="3">
+                <l>Weg den schritt vom brande lenkend</l>
+                <l>Greif ich in dem boot die ruder –</l>
+                <l>Drüben an dem strand ein bruder</l>
+                <l>Winkt das frohe banner schwenkend.</l>
+              </lg>
+              <lg n="4">
+                <l>Tauwind fährt in ungestümen</l>
+                <l>Stössen über brache schollen ·</l>
+                <l>Mit den welken seelen sollen</l>
+                <l>Sich die pfade neu beblümen.</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+        <div n="2">
+          <pb n="35" facs="#f0039"/>
+          <head>SIEG DES SOMMERS</head>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="36" facs="#f0040"/>
+                <l>Der lüfte schaukeln wie von neuen dingen ·</l>
+                <l>Aus grauem himmel brechend milde feuer</l>
+                <l>Und rauschen heimatwärts gewandter schwingen</l>
+                <l>Entbietet mir ein neues abenteuer</l>
+              </lg>
+              <lg n="2">
+                <l>Du all die jahre hin mir glanz und glaube</l>
+                <l>Bei dir · und wo die stummen zeugen waren</l>
+                <l>Von hoffen und von angst · bei diesem laube.</l>
+                <l>Denn wird das glück sich je uns offenbaren</l>
+              </lg>
+              <lg n="3">
+                <l>Wenn jezt die nacht die lockende besternte</l>
+                <l>In grüner garten-au es nicht erspäht ·</l>
+                <l>Wenn es die bunte volle blumen-ernte</l>
+                <l>Wenn es der glutwind nicht verrät?</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="37" facs="#f0041"/>
+                <l>Den blauen raden und dem blutigen mohne</l>
+                <l>Entgeht dem lispelnden und lichten korn!</l>
+                <l>Durchwandert diese waldung sinnens ohne</l>
+                <l>Und jeden vielverschlungnen pfad von vorn ·</l>
+              </lg>
+              <lg n="2">
+                <l>Verharrt nicht vor den zeichen in den birken ·</l>
+                <l>Geschwunden sei die hand die einst sie schnitt ·</l>
+                <l>Nun fühlt wie andre namen wunder wirken ·</l>
+                <l>Zu jungen frischen stämmen lenkt den schritt ·</l>
+              </lg>
+              <lg n="3">
+                <l>Vergesst der schmerzen und des alten blutes</l>
+                <l>Gerissen am verfallnen dorngesträuch</l>
+                <l>Und blätter dürrer zeiten leichten mutes</l>
+                <l>Betretet sie und lasst sie hinter euch!</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="38" facs="#f0042"/>
+                <l>Du willst mit mir ein reich der sonne stiften</l>
+                <l>Darinnen uns allein die freude ziere ·</l>
+                <l>Sie heilige die haine und die triften</l>
+                <l>Eh unsre pracht und ihre sich verliere.</l>
+              </lg>
+              <lg n="2">
+                <l>Dass dieses süsse leben uns genüge ·</l>
+                <l>Dass wir hier wohnen dankbereite gäste!</l>
+                <l>Und wort und lied ersinnst du dass gefüge</l>
+                <l>Die klagen flattern in die höchsten äste.</l>
+              </lg>
+              <lg n="3">
+                <l>Du singst das lied der summenden gemarken ·</l>
+                <l>Das sanfte lied vor einer tür am abend</l>
+                <l>Und lehrest dulden wie die einfach starken ·</l>
+                <l>In lächeln jede träne scheu begrabend:</l>
+              </lg>
+              <lg n="4">
+                <l>Die vögel fliehen vor den herben schlehen ·</l>
+                <l>Die falter bergen sich in sturmes-toben</l>
+                <l>Sie funkeln wieder auf so er verstoben –</l>
+                <l>Und wer hat jemals blumen weinen sehen?</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="39" facs="#f0043"/>
+                <l>Die silberbüschel die das gras verbrämen</l>
+                <l>Und eine tageskerze die uns nickt</l>
+                <l>Erkennen uns und forschen ob wir kämen</l>
+                <l>Von einem gütigeren stern geschickt.</l>
+              </lg>
+              <lg n="2">
+                <l>Die reiser streichen über unsre scheitel ·</l>
+                <l>Lasst sie vereinen was die furcht noch trennt</l>
+                <l>Und alle frage sei der lippe eitel</l>
+                <l>Die brennend einer fremden sich bekennt!</l>
+              </lg>
+              <lg n="3">
+                <l>Nun sorgen wir dass uns kein los mehr dräue</l>
+                <l>Wenn eins des andren heisses leben trinkt</l>
+                <l>Und schauen einig in die sommerbläue</l>
+                <l>Die freundlich uns aus heller welle winkt.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="40" facs="#f0044"/>
+                <l>Gemahnt dich noch das schöne bildnis dessen</l>
+                <l>Der nach den schluchten-rosen kühn gehascht ·</l>
+                <l>Der über seiner jagd den tag vergessen ·</l>
+                <l>Der von der dolden vollem seim genascht?</l>
+              </lg>
+              <lg n="2">
+                <l>Der nach dem parke sich zur ruhe wandte ·</l>
+                <l>Trieb ihn ein flügelschillern allzuweit ·</l>
+                <l>Der sinnend sass an jenes weihers kante</l>
+                <l>Und lauschte in die tiefe heimlichkeit ..</l>
+              </lg>
+              <lg n="3">
+                <l>Und von der insel moosgekrönter steine</l>
+                <l>Verliess der schwan das spiel des wasserfalls</l>
+                <l>Und legte in die kinderhand die feine</l>
+                <l>Die schmeichelnde den schlanken hals.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="41" facs="#f0045"/>
+                <l>Wenn trübe mahnung noch einmal uns peinigt</l>
+                <l>Und schreck in unsre goldnen lande streut –</l>
+                <l>Du sprichst in zuversicht: mit mir vereinigt</l>
+                <l>Befürchte nicht was flüchtig sich erneut.</l>
+              </lg>
+              <lg n="2">
+                <l>Nur dass du meinem schutz dich nicht entfernst</l>
+                <l>Bevor das scharfe licht ersterbend loht</l>
+                <l>Und dir der gartenwald versöhnlich ernst</l>
+                <l>Mit seinen schatten wieder abend bot.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="42" facs="#f0046"/>
+                <l>Wie ein erwachen war zu andrem werden</l>
+                <l>Als wir vergangenheit in uns gebändigt</l>
+                <l>Und als das leben lächelnd uns gehändigt</l>
+                <l>Was lang uns einzig ziel erschien auf erden.</l>
+              </lg>
+              <lg n="2">
+                <l>Auf einmal alle stunden so nur galten:</l>
+                <l>Ein mühevolles werben um die hohe</l>
+                <l>Die uns vereinte · die in ihrer lohe</l>
+                <l>Gestalten um uns tilgte und gewalten.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="43" facs="#f0047"/>
+                <l>Die reichsten schätze lernet frei verschwenden ·</l>
+                <l>Wie nach den langen strahlen auf verdorrte</l>
+                <l>Gewächse sollet ihr am frohen orte</l>
+                <l>Den heissen gliedern milden regen spenden!</l>
+              </lg>
+              <lg n="2">
+                <l>Gedenkt vom schönsten pflückend was hier sprosset</l>
+                <l>Wenn süss und schwül die dämmrungssterne blicken</l>
+                <l>Wenn glühn und dunkeln wechselnd euch bestricken</l>
+                <l>Dass ihr soviel verliehen ist genosset!</l>
+              </lg>
+              <lg n="3">
+                <l>Und törig nennt als übel zu befahren</l>
+                <l>Dass ihr in euch schon ferne bilder küsstet</l>
+                <l>Und dass ihr niemals zu versöhnen wüsstet</l>
+                <l>Den kuss im traum empfangen und den wahren.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="44" facs="#f0048"/>
+                <l>Wenn von den eichen erste morgenkühle</l>
+                <l>Die feuchten perlen uns ins antlitz blies</l>
+                <l>So knirrte auf dem pfad der spitze kies</l>
+                <l>Erinnerte die schweigenden gefühle</l>
+              </lg>
+              <lg n="2">
+                <l>Und auch die eigene stimme schien dir rauh</l>
+                <l>Wenn du im takt verwandter pulse bangen</l>
+                <l>Vernahmst die enger zu den deinen drangen</l>
+                <l>Und laues schmiegen trocknete den tau.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="45" facs="#f0049"/>
+                <l>Ruhm diesen wipfeln! dieser farbenflur!</l>
+                <l>Sie lehrten uns das glück in seinem flüchten</l>
+                <l>Zu streifen und es bleibt noch zarte spur</l>
+                <l>An unsrer hand wie schmelz von reifen früchten.</l>
+              </lg>
+              <lg n="2">
+                <l>Schon weht das wimpel und es säumt nicht mehr ·</l>
+                <l>Aus scheidestunden werden tränen rinnen ..</l>
+                <l>Ob einer zweifelhaften wiederkehr</l>
+                <l>In offnem schmerze zogest du von hinnen.</l>
+              </lg>
+              <lg n="3">
+                <l>Ich aber horche in die nahe nacht</l>
+                <l>Ob dort ein lezter vogelruf vermelde</l>
+                <l>Den schlaf aus dem sie froh und schön erwacht –</l>
+                <l>Der liebe sachten schlaf im blumenfelde.</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="47" facs="#f0051"/>
+        <head>ÜBERSCHRIFTEN UND WIDMUNGEN</head>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="49" facs="#f0053"/>
+              <l>Lieder wie ich gern sie sänge</l>
+              <l>Darf ich freunde! noch nicht singen ·</l>
+              <l>Nur dies flüchtige gedränge</l>
+              <l>Scheuer reime will gelingen.</l>
+            </lg>
+            <lg n="2">
+              <l>Hinter reben oder hinter</l>
+              <l>Stillen mauern zu kredenzen</l>
+              <l>Zur erheitrung weisser winter</l>
+              <l>Und zum trost in fahlen lenzen.</l>
+            </lg>
+            <lg n="3">
+              <l>Was ich nach den harten fehden</l>
+              <l>In den schooss des friedens bette</l>
+              <l>Und aus reicher jugend eden</l>
+              <l>In das leben über-rette.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="50" facs="#f0054"/>
+              <l>Zu meinen träumen floh ich vor dem volke ·</l>
+              <l>Mit heissen händen tastend nach der weite</l>
+              <l>Und sprach allein und rein mit stern und wolke</l>
+              <l>Von meinem ersten jugendlichen streite.</l>
+            </lg>
+            <lg n="2">
+              <l>Die blumen hergeholt aus reichem leben</l>
+              <l>Umflocht ich frei und stolz an goldnen kreisen ·</l>
+              <l>Dem fern im licht geheiligten efeben</l>
+              <l>Verklang sein schmerz in feierlichen weisen.</l>
+            </lg>
+            <lg n="3">
+              <l>Zu göttertalen – blinkenden mäandern ·</l>
+              <l>Ich liess in stätten innig hoher sitten</l>
+              <l>Und in den süden meine seele wandern</l>
+              <l>Wo sie gekrönt den martertod erlitten.</l>
+            </lg>
+            <lg n="4">
+              <pb n="51" facs="#f0055"/>
+              <l>Und heut geschieht es nur aus Einem grunde</l>
+              <l>Wenn ich zum sang das lange schweigen breche:</l>
+              <l>Dass wir uns freuen auf die zwielichtstunde</l>
+              <l>Und meine düstre schwester also spreche:</l>
+            </lg>
+            <lg n="5">
+              <l>Soll ich noch leben darf ich nicht vermissen</l>
+              <l>Den trank aus deinen klingenden pokalen</l>
+              <l>Und führer sind in meinen finsternissen</l>
+              <l>Die lichter die aus deinen wunden strahlen.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="52" facs="#f0056"/>
+              <l>Des sehers wort ist wenigen gemeinsam:</l>
+              <l>Schon als die ersten kühnen wünsche kamen</l>
+              <l>In einem seltnen reiche ernst und einsam</l>
+              <l>Erfand er für die dinge eigne namen –</l>
+            </lg>
+            <lg n="2">
+              <l>Die hier erdonnerten von ungeheuern</l>
+              <l>Befehlen oder lispelten wie bitten ·</l>
+              <l>Die wie Paktolen in rubinenfeuern</l>
+              <l>Und bald wie linde frühlingsbäche glitten ·</l>
+            </lg>
+            <lg n="3">
+              <l>An deren kraft und klang er sich ergezte ·</l>
+              <l>Sie waren wenn er sich im höchsten schwunge</l>
+              <l>Der welt entfliehend unter träume sezte</l>
+              <l>Des tempels saitenspiel und heilge zunge.</l>
+            </lg>
+            <lg n="4">
+              <pb n="53" facs="#f0057"/>
+              <l>Nur sie – und nicht der sanften lehre lallen ·</l>
+              <l>Das mütterliche – hat er sich erlesen</l>
+              <l>Als er im rausch von mai und nachtigallen</l>
+              <l>Sann über erster sehnsucht fabelwesen ·</l>
+            </lg>
+            <lg n="5">
+              <l>Als er zum lenker seiner lebensfrühe</l>
+              <l>Im beten rief ob die verheissung löge ..</l>
+              <l>Erflehend dass aus zagen busens mühe</l>
+              <l>Das denkbild sich zur sonne heben möge.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="54" facs="#f0058"/>
+              <l>Als ich zog ein vogel frei aus goldnem bauer</l>
+              <l>Ward der segen mir in reichem maasse ·</l>
+              <l>Frauen warfen von der mauer</l>
+              <l>Rosen auf die strasse.</l>
+            </lg>
+            <lg n="2">
+              <l>Durch der länder wunder – marmor der paläste ·</l>
+              <l>Grauen in den heiligen gezelten</l>
+              <l>Zog ich fern vom schwarm der gäste</l>
+              <l>Und ich sang nur selten.</l>
+            </lg>
+            <lg n="3">
+              <l>Jahre flossen · von den heimatlichen essen</l>
+              <l>Wirbelt rauch zum grauen wolkenraum.</l>
+              <l>Ich erhoffe nur vergessen</l>
+              <l>Ruh und blassen traum.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="55" facs="#f0059"/>
+          <head>SPRÜCHE FÜR DIE GELADENEN IN T ..</head>
+          <div n="3">
+            <head>I</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Indes deine mutter dich stillt</l>
+                <l>Soll eine leidige fee</l>
+                <l>Von schatten singen und tod ·</l>
+                <l>Sie gibt dir als patengeschenk</l>
+                <l>Augen so trüb und sonder</l>
+                <l>In die sich die musen versenken.</l>
+              </lg>
+              <lg n="2">
+                <l>Verächtlich wirst du blicken</l>
+                <l>Auf roher spiele gebaren ·</l>
+                <l>Vor arbeit die niedrig macht</l>
+                <l>Die grossen strengen gedanken</l>
+                <l>Dich mahnen und wahren.</l>
+              </lg>
+              <lg n="3">
+                <pb n="56" facs="#f0060"/>
+                <l>Wenn deine brüder klagen</l>
+                <l>Und sagen: o schmerz! den deinen</l>
+                <l>Sag ihn den winden bei nacht</l>
+                <l>Und unter der nägel waffe</l>
+                <l>Blute die kindliche brust!</l>
+              </lg>
+              <lg n="4">
+                <l>Vergiss es nicht: du musst</l>
+                <l>Deine frische jugend töten ·</l>
+                <l>Auf ihrem grab allein</l>
+                <l>Wenn viele tränen es begiessen – spriessen</l>
+                <l>Unter dem einzig wunderbaren grün</l>
+                <l>Die einzigen schönen rosen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="57" facs="#f0061"/>
+            <head>II</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Ihr lernt: das haus des mangels nur kenne die schwermut ·</l>
+                <l>– Nun seht im prunke der säulen die herbere schwermut –</l>
+              </lg>
+              <lg n="2">
+                <l>Der stets nach dem ziel sich verzehre nur fühle das schicksal ·</l>
+                <l>Ich zeige euch in der erfüllung das grausamste schicksal</l>
+              </lg>
+              <lg n="3">
+                <l>Des der die stunden vertrauert bei köstlichem kleinod ·</l>
+                <l>Der schmächtigen fingers spielt mit dem sprühenden kleinod</l>
+              </lg>
+              <lg n="4">
+                <l>Und des der angetan mit der könige purpur</l>
+                <l>Das schwere bleiche antlitz senkt auf den purpur.</l>
+              </lg>
+            </lg>
+          </div>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <pb n="58" facs="#f0062"/>
+            <l>Wo in des schlosses dröhnend dunkler diele</l>
+            <l>Hängen und rauschen viele saitenspiele</l>
+            <l>Von einer tiefern lust und grössern tat:</l>
+            <l>Wie kommt es dass dies <hi rendition="#k">erste</hi> früh und spat</l>
+            <l>Noch füllet mit dem gleichen freudengraun</l>
+            <l>Und dass sein keusch anfängliches geraun</l>
+            <l>Wenn es bei noch so leisem rühren klingt</l>
+            <l>Wie einst noch immer mich zum weinen zwingt?</l>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <pb n="59" facs="#f0063"/>
+            <l>Bei seiner reise mittag bald zurück</l>
+            <l>Bald vor sich zum gewölke bangen fragens</l>
+            <l>Hat lange sich der rastende gedreht ..</l>
+            <l>Durchwallt ist ganzer erden berg und tal</l>
+            <l>Soviel an glück und tränen hinter ihm.</l>
+            <l>Was kann noch sein? Soll er das haupt hier betten</l>
+            <l>Als an des weges marken oder soll er</l>
+            <l>In hellern höhen lauter noch frohlocken ·</l>
+            <l>In wildern schluchten tiefer noch erstöhnen ..</l>
+            <l>So war dies alles erst der morgengang?</l>
+          </lg>
+        </div>
+        <div n="2">
+          <pb n="61" facs="#f0065"/>
+          <head>ERINNERUNGEN AN EINIGE ABENDE INNERER GESELLIGKEIT</head>
+          <div n="3">
+            <pb n="62" facs="#f0066"/>
+            <head>BLUMEN</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>In märzentagen streuten wir die samen</l>
+                <l>Wann unser herz noch einmal heftig litt</l>
+                <l>An wehen die vom toten jahre kamen</l>
+                <l>Am lezten kampf den eis und sonne stritt.</l>
+              </lg>
+              <lg n="2">
+                <l>An schlanken stäbchen wollten wir sie ziehen ·</l>
+                <l>Wir suchten ihnen reinen wasserquell ·</l>
+                <l>Wir wussten dass sie unterm licht gediehen</l>
+                <l>Und unter blicken liebevoll und hell.</l>
+              </lg>
+              <lg n="3">
+                <l>Mit frohem fleisse wurden sie begossen ·</l>
+                <l>Wir schauten zu den wolken forschend bang</l>
+                <l>Zusammen auf und harrten unverdrossen</l>
+                <l>Ob sich ein blatt entrollt ein trieb entsprang.</l>
+              </lg>
+              <lg n="4">
+                <l>Wir haben in dem garten sie gepflückt</l>
+                <l>Und an den nachbarlichen weingeländen ·</l>
+                <l>Wir wandelten vom glanz der nacht entzückt</l>
+                <l>Und trugen sie in unsren kinderhänden.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="63" facs="#f0067"/>
+            <head>RÜCKKEHR</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Ich fahre heim auf reichem kahne ·</l>
+                <l>Das ziel erwacht im abendrot ·</l>
+                <l>Vom maste weht die weisse fahne</l>
+                <l>Wir übereilen manches boot.</l>
+              </lg>
+              <lg n="2">
+                <l>Die alten ufer und gebäude</l>
+                <l>Die alten glocken neu mir sind ·</l>
+                <l>Mit der verheissung neuer freude</l>
+                <l>Bereden mich die winde lind.</l>
+              </lg>
+              <lg n="3">
+                <l>Da taucht aus grünen wogenkämmen</l>
+                <l>Ein wort · ein rosenes gesicht:</l>
+                <l>Du wohntest lang bei fremden stämmen ·</l>
+                <l>Doch unsre liebe starb dir nicht.</l>
+              </lg>
+              <lg n="4">
+                <l>Du fuhrest aus im morgengrauen</l>
+                <l>Und als ob einen tag nur fern</l>
+                <l>Begrüssen dich die wellenfrauen</l>
+                <l>Die ufer und der erste stern.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="64" facs="#f0068"/>
+            <head>ENTFÜHRUNG</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Zieh mit mir geliebtes kind</l>
+                <l>In die wälder ferner kunde</l>
+                <l>Und behalt als angebind</l>
+                <l>Nur mein lied in deinem munde</l>
+              </lg>
+              <lg n="2">
+                <l>Baden wir im sanften blau</l>
+                <l>Der mit duft umhüllten gränzen:</l>
+                <l>Werden unsre leiber glänzen</l>
+                <l>Klarer scheinen als der tau.</l>
+              </lg>
+              <lg n="3">
+                <l>In der luft sich silbern fein</l>
+                <l>Fäden uns zu schleiern spinnen ·</l>
+                <l>Auf dem rasen bleichen linnen</l>
+                <l>Zart wie schnee und sternenschein.</l>
+              </lg>
+              <lg n="4">
+                <l>Unter bäumen um den see</l>
+                <l>Schweben wir vereint uns freuend ·</l>
+                <l>Sachte singend · blumen streuend ·</l>
+                <l>Weisse nelken weissen klee.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="65" facs="#f0069"/>
+            <head>REIFEFREUDEN</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Ein stolzes beben und ein reiches schallen</l>
+                <l>Durch später erde schwere fülle strich ..</l>
+                <l>Die kurzen worte waren kaum gefallen</l>
+                <l>Als tiefer rührung ruhe uns beschlich.</l>
+              </lg>
+              <lg n="2">
+                <l>Sie sanken hin wo sich am fruchtgeländer</l>
+                <l>Der purpurschein im gelben schmelz verlor ·</l>
+                <l>Sie stiegen auf zum schmuck der hügelränder</l>
+                <l>Wo für die dunkle lust die traube gor.</l>
+              </lg>
+              <lg n="3">
+                <l>Ich wagte dir nicht · du nicht mir zu nahen</l>
+                <l>Als schräger strahl um unsre häupter schoss ·</l>
+                <l>Noch gar mit rede störend zu bejahen</l>
+                <l>Was jezt uns band · was jedes stumm genoss</l>
+              </lg>
+              <lg n="4">
+                <l>Und was in uns bei jenes tages rüste</l>
+                <l>Auf zu den veilchenfarbnen wolken klomm:</l>
+                <l>Was mehr als unsre träume und gelüste</l>
+                <l>An diesem gluten-abend zart erglomm.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="66" facs="#f0070"/>
+            <head>WEISSER GESANG</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Dass ich für sie den weissen traum ersänne ..</l>
+                <l>Mir schien im schloss das herbe strahlen tränken</l>
+                <l>Und blasse blütenbäume nur umschränken</l>
+                <l>Dass er mit zweier kinder frühtag ränne:</l>
+              </lg>
+              <lg n="2">
+                <l>Ein jedes einen schlanken strauss umschlänge</l>
+                <l>Hell-flitternd wie von leichtgeregter espe</l>
+                <l>Daraus als wimpel eine silber-trespe</l>
+                <l>Hoch über ihre schwachen stirnen schwänge</l>
+              </lg>
+              <lg n="3">
+                <l>Und beide langsam kämen nach dem weiher</l>
+                <l>Auf breitem marmelstiege manchmal wankend</l>
+                <l>Bis bei dem flügelschlag der nahen reiher</l>
+                <l>Der arme sanfte bürde heftig schwankend</l>
+              </lg>
+              <lg n="4">
+                <l>Duft-nebel wirbelte von kühlen narden</l>
+                <l>Mit denen die Vereinten höherem raume</l>
+                <l>Entgegenschwebend immer lichter warden –</l>
+                <l>Bald eines mit dem reinen äther-flaume.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="67" facs="#f0071"/>
+            <head>NACHTWACHEN</head>
+            <div n="4">
+              <head>I</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Deine stirne verborgen halb durch die beiden</l>
+                  <l>Wölkchen von haaren (sie sind blond und seiden)</l>
+                  <l>Deine stirne spricht mir von jugendlichem leide.</l>
+                </lg>
+                <lg n="2">
+                  <l>Deine lippen (sie sind stumm) erzählen die geschichte</l>
+                  <l>Der seelen verurteilt in gottes gerichte.</l>
+                  <l>Erregender spiegel (dein auge) spiel damit nicht!</l>
+                </lg>
+                <lg n="3">
+                  <l>Wenn du lächelst (endlich flog über dir der schlummer her)</l>
+                  <l>Dein lächeln gleicht dem weinen sehr</l>
+                  <l>Und du neigst ein wenig dein haupt von kummer schwer.</l>
+                </lg>
+              </lg>
+            </div>
+            <div n="4">
+              <pb n="68" facs="#f0072"/>
+              <head>II</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Nicht nahm ich acht auf dich in meiner bahn</l>
+                  <l>In zeiten feucht und falb worin der wahn</l>
+                  <l>Des suchens fragens sich verlor.</l>
+                </lg>
+                <lg n="2">
+                  <l>Kann jemand in den zeiten feucht und falb</l>
+                  <l>Am dunklen tore harren meinethalb?</l>
+                  <l>Nun denk ich dein weil unterm dunklen tor</l>
+                </lg>
+                <lg n="3">
+                  <l>Wo ängstend säule und gemäuer knarrt</l>
+                  <l>Du meinethalben mein geharrt</l>
+                  <l>Als niemand ging und als es schweigsam fror.</l>
+                </lg>
+              </lg>
+            </div>
+            <div n="4">
+              <pb n="69" facs="#f0073"/>
+              <head>III</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Welche beiden mitternächte</l>
+                  <l>Als der selber schmerzdurchbohrte</l>
+                  <l>An der dulderin sich rächte!</l>
+                </lg>
+                <lg n="2">
+                  <l>Dass dein blick sich weich umflorte</l>
+                  <l>Dass dein wink ihr mildrung brächte!</l>
+                  <l>Eines sah des andren wunden</l>
+                </lg>
+                <lg n="3">
+                  <l>Durch des dunkels dichte mähne</l>
+                  <l>Zucken rieseln unverbunden ..</l>
+                  <l>Und nicht wort nicht träne.</l>
+                </lg>
+              </lg>
+            </div>
+            <div n="4">
+              <pb n="70" facs="#f0074"/>
+              <head>IV</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Erwachen aus dem tiefsten traumes-schoosse:</l>
+                  <l>Als ich von langer spiegelung betroffen</l>
+                  <l>Mich neigte auf die lippen die erblichen</l>
+                </lg>
+                <lg n="2">
+                  <l>– Ertragen sollet ihr nur mitleidgrosse!</l>
+                  <l>Seid nur aus dank den euch geweihten offen –</l>
+                  <l>Und die berührten dann in solchen gluten</l>
+                </lg>
+                <lg n="3">
+                  <l>Die antwort gaben wider höchstes hoffen</l>
+                  <l>Dass dem noch zweifelnden die sinne wichen ..</l>
+                  <l>O rinnen der glückseligen minuten!</l>
+                </lg>
+              </lg>
+            </div>
+            <div n="4">
+              <pb n="71" facs="#f0075"/>
+              <head>V</head>
+              <lg type="poem">
+                <lg n="1">
+                  <l>Wenn solch ein sausen in den wipfeln wühlt</l>
+                  <l>Ist es nicht mehr als dass ein sehnen drohe</l>
+                  <l>Durch blaue blicke · blumen blonde frohe?</l>
+                </lg>
+                <lg n="2">
+                  <l>Wenn solch ein branden um die festen spült</l>
+                  <l>Dass du verlassen irrend an dem strand</l>
+                  <l>Die rettung suchst in leerer himmel brand?</l>
+                </lg>
+                <lg n="3">
+                  <l>Dass ich wie nie dich blass und bebend finde ·</l>
+                  <l>Kaum mehr noch als am wegesrand die blinde</l>
+                  <l>Die unbeachtet ruft im lauten winde ..</l>
+                </lg>
+              </lg>
+            </div>
+          </div>
+        </div>
+        <div n="2">
+          <pb n="73" facs="#f0077"/>
+          <head>VERSTATTET DIES SPIEL: EURE FLÜCHTIG GESCHNITTENEN SCHATTEN ZUM SCHMUCK FÜR MEINER ANGEDENKEN SAAL</head>
+          <div n="3">
+            <lg type="poem">
+              <lg n="1">
+                <pb n="74" facs="#f0078"/>
+                <l>Soll nun der mund der von des eises bruch</l>
+                <l>Zum neuen reife längst erstarkt im wehe</l>
+                <l>Sich klagend öffnen und nach welchem spruch</l>
+                <l>Dem kinde? unterbrich mich nicht – ich flehe.</l>
+              </lg>
+              <lg n="2">
+                <l>Du stehst am strand · die segel blähn im porte ·</l>
+                <l>Es geht in tollen winden auf ein riff –</l>
+                <l>Bedenke dich und sage sanfte worte</l>
+                <l>Zum fremdling den dein weiter blick begriff.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <l>Die du ein glück vermehrst auch nicht es teilend ·</l>
+              <l>Für schmerzen balsam bist auch kaum sie fassend</l>
+              <l>Und gar aus schlimmen zeichen schönes rätst ·</l>
+              <l>Erfinderisch und gross im reich der güte ·</l>
+              <l>Du darfst dich rühmen: manchen geist am strand</l>
+              <l>Der nach dem schiffbruch hingeschleudert wurde ·</l>
+              <l>Den götter und genossen liegen liessen –</l>
+              <l>Ich jenes mädchen hab ihn aufgerichtet.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <pb n="75" facs="#f0079"/>
+              <l>Angenehm flossen bei dir unsre nächtlichen stunden</l>
+              <l>Dass wir der ampel vergassen · doch dir zum gewinn nicht.</l>
+              <l>Trieb dich verblendung mit misslicher wende zu reden</l>
+              <l>Was mir zu hören nicht noch zu erwidern vergönnt ist?</l>
+              <l>Kannst du bedächtige spräche nicht weiter erfinden</l>
+              <l>Meide mich! so nicht mein schmerzlich erstaunen dich zwinge</l>
+              <l>Lenke die eigne verachtung ob müssigen werbens</l>
+              <l>Und die gelächter von deiner zerknitterten seele.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <lg type="poem">
+              <l>So grüss ich öfter wenn das jahr sich dreht</l>
+              <l>Dich in der weile wo die nacht noch zögert</l>
+              <l>Vor dir verblichene bunte reiser breitend</l>
+              <l>Die du vielleicht nicht liebst – und scheide bald.</l>
+              <l>Ich bringe diesmal nur den trost: ich möchte</l>
+              <l>Doch einst an solchem früchte-abend nahen</l>
+              <l>Den glanz der schönen trauer auf den händen</l>
+              <l>Mit einer gabe die dich mehr erfreut.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="76" facs="#f0080"/>
+            <head>W. L.</head>
+            <lg type="poem">
+              <l>Der seltnen Einer die das loos erschüttert</l>
+              <l>Verbannter herrscher · ihr erhabnes trauern</l>
+              <l>Und unbemerkter tod · schon weil du bist</l>
+              <l>Sei dir in dank genaht · durch deine hoheit</l>
+              <l>Bestätigst du uns unser recht auf hoheit ·</l>
+              <l>Verwirfst und nimmst mit königlichem wink ·</l>
+              <l>Du richte unsrer manchmal schwanken tritte</l>
+              <l>Und leitstern über jeder edlen fahrt.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="77" facs="#f0081"/>
+            <head>P. G.</head>
+            <lg type="poem">
+              <l>Im offnen leben wo ihr all euch gleichet ·</l>
+              <l>Wo ihr fast niemals wie ihr fühlet saget ·</l>
+              <l>War manches kommen doch von starkem zittern ·</l>
+              <l>War manche trennung voll zerdrückter tränen ·</l>
+              <l>Es waren tage gross wo ihr euch gabet ·</l>
+              <l>Wo ihr die schleier eurer klugheit risset</l>
+              <l>Und abende wo nichts geschah doch töne</l>
+              <l>Und blicke fielen ewigen angedenkens.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="78" facs="#f0082"/>
+            <head>M. L.</head>
+            <lg type="poem">
+              <l>Wie unsre glorreichen himmel – bruder im stolz!</l>
+              <l>So breitet dein glänzendes gelb und wie reifender lohn ·</l>
+              <l>Es zittern in deinem lila und wehen grün</l>
+              <l>Gestaltlose stunden mit ihrem mühsamen rinnen</l>
+              <l>Und lange seufzer aus kerkern ohne erhebung.</l>
+              <l>Dein strahlendes blau umkleidet die wunschlosen götter ·</l>
+              <l>In deinem veilchendunkel voll purpurner scheine</l>
+              <l>Ist unser tödliches sehnen – bruder im leid!</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="79" facs="#f0083"/>
+            <head>H. H.</head>
+            <lg type="poem">
+              <l>Erfinder rollenden gesangs und sprühend</l>
+              <l>Gewandter zwiegespräche: frist und trennung</l>
+              <l>Erlaubt dass ich auf meine dächtnistafel</l>
+              <l>Den frühern gegner grabe – tu desgleichen!</l>
+              <l>Denn auf des rausches und der regung leiter</l>
+              <l>Sind beide wir im sinken · nie mehr werden</l>
+              <l>Der knaben preis und jubel so mir schmeicheln ·</l>
+              <l>Nie wieder strofen so im ohr dir donnern.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="80" facs="#f0084"/>
+            <head>K. W.</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Wir seligen! die gottentsandten sprecher</l>
+                <l>Nur wagen diesen laut · auf deinen fähren</l>
+                <l>Erklang er täglich aus umkränztem becher</l>
+                <l>Und dennoch fühl ich reue in mir gären:</l>
+              </lg>
+              <lg n="2">
+                <l>Dein leben ehrend muss ich es vermeiden ·</l>
+                <l>Dein lächeln und das glück (für dich das wahre)</l>
+                <l>Ich muss zurück auf meere dumpfer leiden ·</l>
+                <l>In meine wunderbaren wehmutjahre.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="81" facs="#f0085"/>
+            <head>E. R.</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Oft scheint es so als ob wir unsre besten</l>
+                <l>Erhebungen mit ihren süssen reizen</l>
+                <l>Aus früher frühe holen und mit resten</l>
+                <l>Die öde ganzer lebensräume heizen ·</l>
+              </lg>
+              <lg n="2">
+                <l>Bald so dass höchster schatz den wir besessen</l>
+                <l>Nur noch in seltner nacht uns mag bekümmern</l>
+                <l>Und wir auf eines schönen alters trümmern</l>
+                <l>Hin schreiten kühl mit grausamem vergessen.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="82" facs="#f0086"/>
+            <head>A. H.</head>
+            <lg type="poem">
+              <lg n="1">
+                <l>Du sanfter seher der du hilflos starrest</l>
+                <l>In trauer über ewig welke träume ·</l>
+                <l>Gib deine hand! wir zeigen dir gefilde</l>
+                <l>Um saaten der erlösung hinzustreun.</l>
+              </lg>
+              <lg n="2">
+                <l>Wir wollen gerne sie – verborgne wunder –</l>
+                <l>Mit unsrem blut und unsren tränen pflegen</l>
+                <l>Und heiter lächelnd wirst du uns umarmen</l>
+                <l>Wenn sie vor den erstaunten blicken blühn.</l>
+              </lg>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="83" facs="#f0087"/>
+            <head>A. V.</head>
+            <lg type="poem">
+              <l>Ihr ahnt die linien unsrer hellen welten ·</l>
+              <l>Die bunten halden mit den rebenkronen ·</l>
+              <l>Den zefir der durch grade pappeln flüstert</l>
+              <l>Und Tiburs wasser weich wie liebesflöten?</l>
+              <l>Da hebt sich euer blondes haupt: kennt <hi rendition="#k">ihr</hi></l>
+              <l>Der nebel tanz im moore grenzenlos ·</l>
+              <l>Im dünenried der stürme orgelton ·</l>
+              <l>Und das geräusch der ungeheuren see?</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="84" facs="#f0088"/>
+            <head>R. P.</head>
+            <lg type="poem">
+              <l>Was frommt die weisheit dem bezirk des wahnes nahe</l>
+              <l>Die uns mit grellem blenden schreckt und überwältigt</l>
+              <l>Des einen unkund wo sie bürde wird und frevel?</l>
+              <l>Wie friedenlos · du allerbleichster unsrer brüder ·</l>
+              <l>Durchirrst du deine traurigen und weiten lande!</l>
+              <l>Wann wirst du müde neue felder zu erobern</l>
+              <l>Und lernest einmal pflanzen pflegen und dich freuen</l>
+              <l>An dem was blüht und grünt und reift in dreien gärten?</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="85" facs="#f0089"/>
+            <head>C. S.</head>
+            <lg type="poem">
+              <l>Du teuer uns · doch rätsel das uns martert ·</l>
+              <l>Dein lächeln spielt: die klüfte zwischen uns</l>
+              <l>Erkennt wie ich als unergründbar an</l>
+              <l>Und haltet ihr geheimnis hoch – ja jubelt</l>
+              <l>Sie nie zu fassen ... und wir suchen schmerzlich</l>
+              <l>Mit unsrer liebe sie zu überbrücken</l>
+              <l>Und folgen deinem wandel ohne furcht:</l>
+              <l>Aus deinem antlitz dringt der blick der sieger.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="86" facs="#f0090"/>
+            <head>A. S.</head>
+            <lg type="poem">
+              <l>So war sie wirklich diese runde? da die fackeln</l>
+              <l>Die bleichen angesichter hellten · dämpfe stiegen</l>
+              <l>Aus schalen um den götterknaben und mit deinen worten</l>
+              <l>In wahneswelten grell-gerötet uns erhoben?</l>
+              <l>Dass wir der sinne kaum mehr mächtig · wie vergiftet</l>
+              <l>Nach schlimmem prunkmahl taglang uns nicht fassten ·</l>
+              <l>Stets um die stirn noch rosen brennen fühlten · leidend</l>
+              <l>Für neugierblicke in die pracht verhängter himmel.</l>
+            </lg>
+          </div>
+          <div n="3">
+            <pb n="87" facs="#f0091"/>
+            <head>L. K.</head>
+            <lg type="poem">
+              <l>Doch unser aller heimat bleibt das licht</l>
+              <l>Zu dem wir kehren auf gewundnen stegen.</l>
+              <l>Magst du dich einig nennen mit den recken</l>
+              <l>Und trotzigen gewalten bracher ebnen:</l>
+              <l>Sagt nicht bei jedem treffen die umschlingung</l>
+              <l>Und dass ich oft dich suche wie du viel</l>
+              <l>In mir erregst und mir gehörst? verrät nicht</l>
+              <l>Dass du mich fliehst wie sehr ich in dir bin?</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+      <div n="1">
+        <pb n="89" facs="#f0093"/>
+        <head>TRAURIGE TÄNZE</head>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="91" facs="#f0095"/>
+              <l>Des erntemondes ungestüme flammen</l>
+              <l>Verloschen · doch sie wirken in uns beiden ·</l>
+              <l>Nach kurzer trennung schritten wir zusammen</l>
+              <l>Am alten flusse mit den neuen leiden.</l>
+            </lg>
+            <lg n="2">
+              <l>Zum ersten male strittest du darüber ·</l>
+              <l>Ich selber konnte dir nicht mehr erklären</l>
+              <l>Warum die sturm- und wintertage trüber</l>
+              <l>Warum die frühlingslüfte froher wären.</l>
+            </lg>
+            <lg n="3">
+              <l>Du streichest zürnend über deine locken</l>
+              <l>Da ich dich heute schon so ruhig finde ..</l>
+              <l>Ich klage fast: sind meine tränen trocken ·</l>
+              <l>Die tränen fern von Lilia dem kinde?</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="92" facs="#f0096"/>
+              <l>Der raum mit sammetblumigen tapeten</l>
+              <l>So waren sie zur zeit der ahnin mode –</l>
+              <l>An meinem arme bist du eingetreten.</l>
+              <l>Nun reden wir vom guten tode.</l>
+            </lg>
+            <lg n="2">
+              <l>Die starren eisesranken an den scheiben</l>
+              <l>Entrücken uns den welten wo wir gingen ·</l>
+              <l>Des herdes flammen zuckend sich umschlingen ·</l>
+              <l>Vor ihnen lass uns eine weile bleiben.</l>
+            </lg>
+            <lg n="3">
+              <l>– So glaubst du fest dass auch das spiel der musen</l>
+              <l>Ihn den sie liebten niemals wieder freue –</l>
+              <l>Und ist das reiche licht in deinem busen</l>
+              <l>Auch ganz erloschen? sag es mir in treue!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="93" facs="#f0097"/>
+              <l>Es lacht in dem steigenden jahr dir</l>
+              <l>Der duft aus dem garten noch leis.</l>
+              <l>Flicht in dem flatternden haar dir</l>
+              <l>Eppich und ehrenpreis.</l>
+            </lg>
+            <lg n="2">
+              <l>Die wehende saat ist wie gold noch ·</l>
+              <l>Vielleicht nicht so hoch mehr und reich ·</l>
+              <l>Rosen begrüssen dich hold noch ·</l>
+              <l>Ward auch ihr glanz etwas bleich.</l>
+            </lg>
+            <lg n="3">
+              <l>Verschweigen wir was uns verwehrt ist ·</l>
+              <l>Geloben wir glücklich zu sein</l>
+              <l>Wenn auch nicht mehr uns beschert ist</l>
+              <l>Als noch ein rundgang zu zwein.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="94" facs="#f0098"/>
+              <l>Gib ein lied mir wieder</l>
+              <l>Im klaren tone deiner freudentage –</l>
+              <l>Du weisst es ja: mir wich der friede</l>
+              <l>Und meine hand ist zag.</l>
+            </lg>
+            <lg n="2">
+              <l>Wo dunkle seelen sinnen</l>
+              <l>Erscheinen bilder seltne hohe ·</l>
+              <l>Doch fehlt das leuchtende erinnern ·</l>
+              <l>Die farbe hell und froh.</l>
+            </lg>
+            <lg n="3">
+              <l>Wo sieche seelen reden</l>
+              <l>Da lindern schmeichelhafte töne ·</l>
+              <l>Da ist die stimme tief und edel</l>
+              <l>Doch nicht zum sang so schön.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="95" facs="#f0099"/>
+              <l>Das lied das jener bettler dudelt</l>
+              <l>Ist wie mein lob das dich vergeblich lädt ·</l>
+              <l>Ist wie ein bach der fern vom quelle sprudelt</l>
+              <l>Und den dein mund zu einem trunk verschmäht.</l>
+            </lg>
+            <lg n="2">
+              <l>Das lied das jene blinde leiert</l>
+              <l>Ist wie ein traum den ich nicht recht verstand ·</l>
+              <l>Ist wie mein blick der nur umschleiert</l>
+              <l>In deinen blicken nicht erwidrung fand.</l>
+            </lg>
+            <lg n="3">
+              <l>Das lied das jene kinder trillern</l>
+              <l>Ist fühllos wie die worte die du gibst ·</l>
+              <l>Ist wie der übergang zu stillern</l>
+              <l>Gefühlen wie du sie allein noch liebst.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="96" facs="#f0100"/>
+              <l>Drei weisen kennt vom dorf der blöde knabe</l>
+              <l>Die wenn er kommt sich ständig wiederholen:</l>
+              <l>Die eine wie der väter hauch vom grabe</l>
+              <l>Die eh sie starben sich dem herrn befohlen.</l>
+            </lg>
+            <lg n="2">
+              <l>Die andre hat die tugendhafte weihe</l>
+              <l>Als ob sie schwestern die beim spinnrad sassen</l>
+              <l>Und mägde sängen die in langer reihe</l>
+              <l>Vor zeiten zogen auf den abendstrassen.</l>
+            </lg>
+            <lg n="3">
+              <l>Die dritte droht – versündigung und rache –</l>
+              <l>Mit altem dolch in himmel-blauer scheide ·</l>
+              <l>Mit mancher sippe angestammtem leide ·</l>
+              <l>Mit bösen sternen über manchem dache.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="97" facs="#f0101"/>
+              <l>Stätte von quälenden lüsten</l>
+              <l>Wo ihr gestrandet seid –</l>
+              <l>Lass deine sonnigen küsten ·</l>
+              <l>Folge dem strengen bescheid!</l>
+            </lg>
+            <lg n="2">
+              <l>Mach dass dein ruder erstarke!</l>
+              <l>Langsam ohne gefahr</l>
+              <l>Schaukelt dann deine barke</l>
+              <l>Fort mit dem sinkenden jahr.</l>
+            </lg>
+            <lg n="3">
+              <l>Nicht vor der eisigen firnen</l>
+              <l>Drohendem rätsel erschrick</l>
+              <l>Und zu den ernsten gestirnen</l>
+              <l>Hebe den suchenden blick!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="98" facs="#f0102"/>
+              <l>Die wachen auen lockten wonnesam ·</l>
+              <l>Im veilchenteppich kam sie an das gitter</l>
+              <l>Geschmückt wie jährig für den bräutigam</l>
+              <l>Und dachte sein bis nach dem fest der schnitter.</l>
+            </lg>
+            <lg n="2">
+              <l>Nur eine lerche die im haine schlug</l>
+              <l>Bemerkte ihr erröten und erschrecken</l>
+              <l>Und wie in sommer-langer tage zug</l>
+              <l>Sie sann und welkte bei den eiben-hecken</l>
+            </lg>
+            <lg n="3">
+              <l>Von ihrer schlanken anmut spricht allein</l>
+              <l>Bei perlenschnüren eine seidne locke</l>
+              <l>Die eine fromme freundin birgt im schrein ..</l>
+              <l>Und schlichtes gras mit einem marmorblocke.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="99" facs="#f0103"/>
+              <l>Da kaum noch sand im stundenglase läuft</l>
+              <l>So zieh ihm nach dem wandrer tau-beträuft ·</l>
+              <l>Die heisse luft verwehte ihn geschwind ·</l>
+              <l>Den freund der blumen und der sterne kind ·</l>
+            </lg>
+            <lg n="2">
+              <l>Der eines morgens vor dem schnitt der saat</l>
+              <l>Die hände traurig vor die stirne tat</l>
+              <l>Und durch wer weiss welch frühen fluch gemahnt</l>
+              <l>Im heut den lezten jugendtag geahnt ·</l>
+            </lg>
+            <lg n="3">
+              <l>Der durch kein sonnenschmeicheln mehr erweicht</l>
+              <l>Solang er schön war ohne klage leicht</l>
+              <l>Gleich einem sommervogel überm ried</l>
+              <l>An jenem tag aus unsren kreisen schied.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="100" facs="#f0104"/>
+              <l>Trauervolle nacht!</l>
+              <l>Schwarze sammetdecke dämpft</l>
+              <l>Schritte im gemach</l>
+              <l>Worin die liebe kämpft.</l>
+            </lg>
+            <lg n="2">
+              <l>Den tod gab ihr dein wunsch ·</l>
+              <l>Nun siehst du bleich und stumm</l>
+              <l>Sie auf der bahre ruhn ·</l>
+              <l>Es stecken lichter drum.</l>
+            </lg>
+            <lg n="3">
+              <l>Die lichter brennen ab ·</l>
+              <l>Du eilest blind hinaus</l>
+              <l>Nachdem die liebe starb –</l>
+              <l>Und weinen schallt im haus.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="101" facs="#f0105"/>
+              <l>Wir werden nicht mehr starr und bleich</l>
+              <l>Den früheren liebeshelden gleich ·</l>
+              <l>An trübsal waren wir zu reich ·</l>
+              <l>Wir zucken leis und dulden weich.</l>
+            </lg>
+            <lg n="2">
+              <l>Sie hiessen tapfer · hiessen frei</l>
+              <l>Trotz ihrer lippen manchem schrei ·</l>
+              <l>Wir litten lang und vielerlei</l>
+              <l>Doch schweigen müssen wir dabei.</l>
+            </lg>
+            <lg n="3">
+              <l>Sie gingen um mit schwert und beil ·</l>
+              <l>Doch streiten ist nicht unser teil ·</l>
+              <l>Uns ist der friede nicht mehr feil</l>
+              <l>Um ihrer güter weh und heil.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="102" facs="#f0106"/>
+              <l>Ich weiss du trittst zu mir ins haus</l>
+              <l>Wie jemand der an leid gewöhnt</l>
+              <l>Nicht froh ist wo zu spiel und schmaus</l>
+              <l>Die saite zwischen säulen dröhnt.</l>
+            </lg>
+            <lg n="2">
+              <l>Hier schreitet man nicht laut nicht oft ·</l>
+              <l>Durchs fenster dringt der herbstgeruch</l>
+              <l>Hier wird ein trost dem der nicht hofft</l>
+              <l>Und bangem frager milder spruch.</l>
+            </lg>
+            <lg n="3">
+              <l>Beim eintritt leis ein händedruck ·</l>
+              <l>Beim weiterzug vom stillen heim</l>
+              <l>Ein kuss – und ein bescheidner schmuck</l>
+              <l>Als gastgeschenk: ein zarter reim.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="103" facs="#f0107"/>
+              <l>Dies leid und diese last: zu bannen</l>
+              <l>Was nah erst war und mein.</l>
+              <l>Vergebliches die arme spannen</l>
+              <l>Nach dem was nur mehr schein ·</l>
+            </lg>
+            <lg n="2">
+              <l>Dies heilungslose sich betäuben</l>
+              <l>Mit eitlem nein und kein ·</l>
+              <l>Dies unbegründete sich sträuben ·</l>
+              <l>Dies unabwendbar-sein.</l>
+            </lg>
+            <lg n="3">
+              <l>Beklemmendes gefühl der schwere</l>
+              <l>Auf müd gewordner pein ·</l>
+              <l>Dann dieses dumpfe weh der leere ·</l>
+              <l>O dies: mit mir allein!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="104" facs="#f0108"/>
+              <l>Nicht ist weise bis zur lezten frist</l>
+              <l>Zu geniessen wo vergängnis ist.</l>
+              <l>Vögel flogen südwärts an die see ·</l>
+              <l>Blumen welkend warten auf den schnee.</l>
+            </lg>
+            <lg n="2">
+              <l>Wie dein finger scheu die müden flicht!</l>
+              <l>Andre blumen schenkt dies jahr uns nicht ·</l>
+              <l>Keine bitte riefe sie herbei ·</l>
+              <l>Andre bringt vielleicht uns einst ein mai.</l>
+            </lg>
+            <lg n="3">
+              <l>Löse meinen arm und bleibe stark ·</l>
+              <l>Lass mit mir vorm scheidestrahl den park</l>
+              <l>Eh vom berg der nebel drüber fleucht ·</l>
+              <l>Schwinden wir eh winter uns verscheucht!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="105" facs="#f0109"/>
+              <l>Keins wie dein feines ohr</l>
+              <l>Merkt was tief innen singt ·</l>
+              <l>Was noch so schüchtern schwingt ·</l>
+              <l>Was halb sich schon verlor.</l>
+            </lg>
+            <lg n="2">
+              <l>Keins wie dein festes wort</l>
+              <l>Sucht so bestimmt den trost</l>
+              <l>In dem was wir erlost ·</l>
+              <l>Des wahren friedens hort.</l>
+            </lg>
+            <lg n="3">
+              <l>Keins wie dein fromm gemüt</l>
+              <l>Bespricht so leicht den gram ..</l>
+              <l>Der eines abends nahm</l>
+              <l>Was uns im tag geglüht.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="106" facs="#f0110"/>
+              <l>Mir ist kein weg zu steil zu weit</l>
+              <l>Den ich nicht ginge – mein geleit –</l>
+              <l>Mit dir · uns ängstet keine kluft</l>
+              <l>Und <hi rendition="#k">sühne</hi> steht auf jeder gruft.</l>
+            </lg>
+            <lg n="2">
+              <l>So kreuzen wir in wehmut nur</l>
+              <l>Der freudlos grauen aschen flur</l>
+              <l>Mit ihrem dürren gras und dorn ·</l>
+              <l>Doch rein von reue · rein von zorn.</l>
+            </lg>
+            <lg n="3">
+              <l>Mein feuchtes auge späht nur fern</l>
+              <l>Nach diesem <hi rendition="#k">einen</hi> aus der gern</l>
+              <l>Die harfe reich und wol gestimmt ·</l>
+              <l>Der unsre goldne harfe nimmt.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="107" facs="#f0111"/>
+              <l>Die stürme stieben über brache flächen</l>
+              <l>Und machen heller ahnung voll die runde ·</l>
+              <l>Da wollen sich erstickte fluren rächen ·</l>
+              <l>Da zittert seufzen aus dem bergesschlunde.</l>
+            </lg>
+            <lg n="2">
+              <l>Es scheint als ob die schrecklich fernen grollen ·</l>
+              <l>Doch eine stimme mahnt aus friedensföhren:</l>
+              <l>Hast du mir ehdem nicht versprechen sollen</l>
+              <l>Der gräber ruh mit klage nie zu stören!</l>
+            </lg>
+            <lg n="3">
+              <l>Ich zog vorbei am winterlichen pfahle</l>
+              <l>Vor dem wir nie in leerem weinen knieten ·</l>
+              <l>Ich bat dich nur der bald ihn sieht dem strahle</l>
+              <l>Des frohen lenzes meinen gruss zu bieten.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="108" facs="#f0112"/>
+              <l>Geführt vom sang der leis sich schlang ·</l>
+              <l>Dir ward er leicht der ufergang.</l>
+              <l>Ich sah der höhen dichten rauch</l>
+              <l>Verjährtes laub und distelstrauch.</l>
+            </lg>
+            <lg n="2">
+              <l>Dein auge schweift schon träumerisch</l>
+              <l>Auf eine erde gabenfrisch ·</l>
+              <l>Denn dein gedanke flattert fort</l>
+              <l>Voraus zu einem sichern hort.</l>
+            </lg>
+            <lg n="3">
+              <l>Ich frage noch: wer kommt wenn sanft</l>
+              <l>Die gelbe primel nickt am ranft</l>
+              <l>Und sich das wasser grün umschilft</l>
+              <l>Der mir den mai beginnen hilft?</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="109" facs="#f0113"/>
+              <l>Entflieht auf leichten kähnen</l>
+              <l>Berauschten sonnenwelten</l>
+              <l>Dass immer mildre tränen</l>
+              <l>Euch eure flucht entgelten.</l>
+            </lg>
+            <lg n="2">
+              <l>Seht diesen taumel blonder</l>
+              <l>Lichtblauer traumgewalten</l>
+              <l>Und trunkner wonnen sonder</l>
+              <l>Verzückung sich entfalten.</l>
+            </lg>
+            <lg n="3">
+              <l>Dass nicht der süsse schauer</l>
+              <l>In neues leid euch hülle –</l>
+              <l>Es sei die stille trauer</l>
+              <l>Die diesen frühling fülle.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="110" facs="#f0114"/>
+              <l>Langsame stunden überm fluss ·</l>
+              <l>Die welle zischt wie im verdruss</l>
+              <l>Da von dem feuchten wind gefrischt</l>
+              <l>Ein schein bald blendet bald verwischt.</l>
+            </lg>
+            <lg n="2">
+              <l>Wir standen hand in hand am strand</l>
+              <l>Da sah sie ähren in dem sand ·</l>
+              <l>Sie trat hinzu und brach davon</l>
+              <l>Und fand auf diesen tag den ton:</l>
+            </lg>
+            <lg n="3">
+              <l>Beginnend klang er hell und leicht</l>
+              <l>Wie von dem ziel das wir erreicht</l>
+              <l>Dann ward er dumpfer als sie sang</l>
+              <l>Vom fernen glück – wie bang! wie lang!</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="111" facs="#f0115"/>
+              <l>Der hügel wo wir wandeln liegt im schatten ·</l>
+              <l>Indes der drüben noch im lichte webt</l>
+              <l>Der mond auf seinen zarten grünen matten</l>
+              <l>Nur erst als kleine weisse wolke schwebt.</l>
+            </lg>
+            <lg n="2">
+              <l>Die strassen weithin-deutend werden blasser ·</l>
+              <l>Den wandrern bietet ein gelispel halt ·</l>
+              <l>Ist es vom berg ein unsichtbares wasser</l>
+              <l>Ist es ein vogel der sein schlaflied lallt?</l>
+            </lg>
+            <lg n="3">
+              <l>Der dunkelfalter zwei die sich verfrühten</l>
+              <l>Verfolgen sich von halm zu halm im scherz ..</l>
+              <l>Der rain bereitet aus gesträuch und blüten</l>
+              <l>Den duft des abends für gedämpften schmerz.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="112" facs="#f0116"/>
+              <l>Flammende wälder am bergesgrat ·</l>
+              <l>Schleppende ranken im gelbroten staat!</l>
+              <l>Vor ihrem schlummer in klärender haft</l>
+              <l>Hebst du die traube mit leuchtendem saft.</l>
+            </lg>
+            <lg n="2">
+              <l>Lang eh sie quoll mit dem sonnigen seim</l>
+              <l>Brachtest du strauss und kranz mit heim</l>
+              <l>Und du begrüssest den lohnenden herbst</l>
+              <l>Da du von sommers schätzen erbst.</l>
+            </lg>
+            <lg n="3">
+              <l>Ihm ward die frucht zum genuss nicht bestellt</l>
+              <l>Der sich nicht froh auch den knospen gesellt.</l>
+              <l>Fragst du ihn so sagt er dir: weil</l>
+              <l>Man mir nahm mein einzig heil ..</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="113" facs="#f0117"/>
+              <l>Der abend schwül · der morgen fahl und nüchtern</l>
+              <l>Sind ewiger wechsel ihrer trüben reise ·</l>
+              <l>Sie ganz in tränen ganz in schmerz und schüchtern</l>
+              <l>Bestimmten die gezogenen geleise.</l>
+            </lg>
+            <lg n="2">
+              <l>An hohen toren wo sie eintritt heische</l>
+              <l>Ist niemand der für ihre treue zeuge</l>
+              <l>Und keine hand die fleisch von ihrem fleische</l>
+              <l>Sich bis zu ihr herniederbeuge.</l>
+            </lg>
+            <lg n="3">
+              <l>So wird sie bald ergriffen vom getöse</l>
+              <l>Bald kehrt sie um mit seiner schlimmen beute</l>
+              <l>Und so wie früher murmelt sie noch heute</l>
+              <l>Den spruch der nahend sie erlöse.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="114" facs="#f0118"/>
+              <l>Ob schwerer nebel in den wäldern hängt:</l>
+              <l>Du sollst im weiterschreiten drum nicht zaudern ·</l>
+              <l>Sprich mit den bleichen bildern ohne schaudern ·</l>
+              <l>Schon regen sie sich sacht hinangedrängt.</l>
+            </lg>
+            <lg n="2">
+              <l>Wenn gras und furche auf dem pfad versteinen ·</l>
+              <l>Gehäufter reif die wipfel beugt · versteh</l>
+              <l>Zu lauschen auf der winterwinde weh</l>
+              <l>Die mit den welken einsamkeiten weinen.</l>
+            </lg>
+            <lg n="3">
+              <l>So hältst du immer wach die müde stirn</l>
+              <l>Und gleitest nicht herab von steiler bösche</l>
+              <l>Ob auch das matt erhellte ziel verlösche</l>
+              <l>Und über dir das einzige gestirn.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="115" facs="#f0119"/>
+              <l>Da vieles wankt und blasst und sinkt und splittert</l>
+              <l>Erstirbt das lied von dunst und schlaf umflutet</l>
+              <l>Bis jäher stoss das mürbe laub zerknittert ·</l>
+              <l>Von ehmals wilde wunde wieder blutet –</l>
+            </lg>
+            <lg n="2">
+              <l>Bis plötzlich sonne zuckt aus nassen wettern ·</l>
+              <l>Ein schwarzer fluss die bleichen felder spreitet</l>
+              <l>Und seltne donner durch die fröste schmettern ..</l>
+              <l>Es merkt nur in dem zug der grabwärts gleitet</l>
+            </lg>
+            <lg n="3">
+              <l>Die fackeln zwischen den geneigten nacken ·</l>
+              <l>Der klänge dröhnen aus dem trauerprunke</l>
+              <l>Und sucht ob unter rauhen leides schlacken</l>
+              <l>Noch glimme ewig klarer freude funke.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="116" facs="#f0120"/>
+              <l>Zu traurigem behuf</l>
+              <l>Erweckte sturm die flur ·</l>
+              <l>Aus finstrem tag entfuhr</l>
+              <l>Ein todesvogel-ruf.</l>
+            </lg>
+            <lg n="2">
+              <l>Kaum zeigt der hügelrund</l>
+              <l>Der grauen stunden flucht ·</l>
+              <l>Ein baum tiefhängend sucht</l>
+              <l>Nach halmen überm grund.</l>
+            </lg>
+            <lg n="3">
+              <l>Schon taucht die wüstenei</l>
+              <l>Zurück zum dunklen schacht –</l>
+              <l>Ein ton von qual und nacht</l>
+              <l>Bricht wie ein lezter schrei.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="117" facs="#f0121"/>
+              <l>Ob deine augen dich trogen</l>
+              <l>Durch fallender äste hauf?</l>
+              <l>Treiben die kämpfenden wogen</l>
+              <l>Den strom hinauf?</l>
+            </lg>
+            <lg n="2">
+              <l>Du jagest nach und sie steigen</l>
+              <l>Von fremden kräften erfasst ·</l>
+              <l>Wirbelndem rieselndem reigen</l>
+              <l>Folgt die begehrende hast.</l>
+            </lg>
+            <lg n="3">
+              <l>Hüte dich! führe nicht weiter</l>
+              <l>Das spiel mit schwerem kauf –</l>
+              <l>Ziehen nicht deine begleiter</l>
+              <l>Schon ihren alten lauf?</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="118" facs="#f0122"/>
+              <l>Ihr tratet zu dem herde</l>
+              <l>Wo alle glut verstarb ·</l>
+              <l>Licht war nur an der erde</l>
+              <l>Vom monde leichenfarb.</l>
+            </lg>
+            <lg n="2">
+              <l>Ihr tauchtet in die aschen</l>
+              <l>Die bleichen finger ein</l>
+              <l>Mit suchen tasten haschen –</l>
+              <l>Wird es noch einmal schein!</l>
+            </lg>
+            <lg n="3">
+              <l>Seht was mit trostgebärde</l>
+              <l>Der mond euch rät:</l>
+              <l>Tretet weg vom herde ·</l>
+              <l>Es ist worden spät.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="119" facs="#f0123"/>
+              <l>Wie in der gruft die alte</l>
+              <l>Lebendige ampel glüht!</l>
+              <l>Wie ihr karfunkel sprüht</l>
+              <l>Um schauernde basalte!</l>
+            </lg>
+            <lg n="2">
+              <l>Vom runden fenster droben</l>
+              <l>Entfliesst der ganze glanz ·</l>
+              <l>Von feuriger monstranz</l>
+              <l>Mit goldumreiften globen</l>
+            </lg>
+            <lg n="3">
+              <l>Und einem weissen lamme –</l>
+              <l>Und wenn die ampel glüht</l>
+              <l>Und wenn ihr kleinod sprüht</l>
+              <l>Ist es von eigner flamme?</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="120" facs="#f0124"/>
+              <l>Die jagd hat sich verzogen ·</l>
+              <l>Du bleibst mit trägem bogen ·</l>
+              <l>Blutspuren unter tannen –</l>
+              <l>Horch welch ein laut! von wannen?</l>
+            </lg>
+            <lg n="2">
+              <l>Das ist kein lärm der rüden ·</l>
+              <l>Kein schrei der flüchtig-müden ·</l>
+              <l>Du lauschst am grund beklommen ·</l>
+              <l>Sollst du entgegenkommen?</l>
+            </lg>
+            <lg n="3">
+              <l>Nur still! schon dringt er näher.</l>
+              <l>Dir schien verirrter späher</l>
+              <l>Im widerschall der hiefe</l>
+              <l>Dass jene stimme riefe.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="121" facs="#f0125"/>
+              <l>Es winkte der abendhauch</l>
+              <l>Mit dem geneigten glücke ·</l>
+              <l>Nimm und bewahr es auch</l>
+              <l>Eh dir ein andrer es pflücke.</l>
+            </lg>
+            <lg n="2">
+              <l>Doch wie in fesseln geschnürt</l>
+              <l>Jammert die seele erblassend</l>
+              <l>Die glückes nähe spürt</l>
+              <l>Es schauend und doch es nicht fassend.</l>
+            </lg>
+            <lg n="3">
+              <l>Da brachte der abendhauch</l>
+              <l>Ihr die erlösende kunde:</l>
+              <l>Meine trübste stunde</l>
+              <l>Nun kennest du sie auch.</l>
+            </lg>
+          </lg>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="122" facs="#f0126"/>
+              <l>Willst du noch länger auf den kahlen böden</l>
+              <l>Nach frühern vollen farben spähn ·</l>
+              <l>Auf früchte warten in den fahlen öden</l>
+              <l>Und ähren von verdrängten sommern mähn?</l>
+            </lg>
+            <lg n="2">
+              <l>Bescheide dich wenn nur im schattenschleier</l>
+              <l>Mild schimmernd du genossene fülle schaust</l>
+              <l>Und durch die müden lüfte ein befreier</l>
+              <l>Der wind der weiten zärtlich um uns braust.</l>
+            </lg>
+            <lg n="3">
+              <l>Und sieh! die tage die wie wunden brannten</l>
+              <l>In unsrer vorgeschichte schwinden schnell ..</l>
+              <l>Doch alle dinge die wir blumen nannten</l>
+              <l>Versammeln sich am toten quell.</l>
+            </lg>
+          </lg>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div n="1" type="appendix">
+        <pb n="123" facs="#f0127"/>
+        <head>ANHANG</head>
+        <pb n="124" facs="#f0128"/>
+        <p>Die erste ausgabe des Jahr der Seele erschien im herbst 1897 im verlag der Blätter für die Kunst. Sie ist das erste von Melchior Lechter ausgestattete buch: Er zeichnete das titel- und umschlagblatt und leitete den druck · der sich in format · verteilung und farbigkeit der titel und zeilenanfänge an die handschrift anschliesst. Die erste öffentliche ausgabe erschien bei Georg Bondi 1898 für 1899.</p>
+        <p>Aus dem Jahr der Seele erschienen vor der ersten ausgabe die folgenden gedichte: nach der überschrift ›aus einem buch Sagen und Sänge‹ unter Sagen mit dem vermerke: zuerst französisch gedichtet dann vom verfasser selbst übertragen: ›Indess deine mutter dich säugt‹ und ›Deine stirne verborgen ..‹ (Bl. f. d. K. I. F. 4. B.). Mit der überschrift Drei Gedichte I. C. einer freundin zur erinnerung an einige abende innerer geselligkeit: Blumen · Rückkehr · Entführung (Bl. f. d. K. II. F. 3. B. ohne namennennung). Nach der Lese (Bl. f. d. K. II. F. 5. B. ohne verfasserangabe) wo die mittlere strofe fehlt von ›Nun säume nicht‹ und das lezte gedicht in zweie geteilt ist. Ferner: aus Das Jahr der Seele (annum animae) Waller im Schnee: ›Die steine die ..‹ ›Mir ist als ob ein blick ..‹ ›Ich trat vor dich ..‹ (Bl. f. d. K. III. F. 1. B.). Traurige Tänze 1–3 (ebenda) · Sieg des Sommers 1–6 (Bl. f. d. K. III. F. 4. B.).<pb n="125" facs="#f0129"/> In der ersten ausgabe fehlten die widmung und die gedichte: Wo in des schlosses .. (s. 58) So grüss ich öfter .. (s. 75) So war sie wirklich .. (s. 86).</p>
+        <p>Die französische fassung des gedichtes Sprüche an die geladenen in T. stand zuerst in dem von Paul Gérardy herausgegebenen Floréal im februar 1893 · mit dem titel: Proverbes und der widmung: pour les invités de Sur-le-Mont T. Sie soll im nachtragband unter andern fremdsprachlichen versuchen ihre stelle finden. Über die oft missverstandene bedeutung des dichtens in fremdem sprachstoff siehe Anhang der hirtengedichte (band III der gesamtausgabe).</p>
+        <p>Von einigen gedichten die stärker verändert wurden · seien hier die früheren fassungen mitgeteilt: die aufzählung aller abweichungen aller gedichte konnte weil einem mehr gelehrten als dichterischen zwecke dienend unterbleiben.</p>
+        <div n="2">
+          <lg type="poem">
+            <lg n="1">
+              <pb n="126" facs="#f0130"/>
+              <l>Die steine die in meiner strasse staken</l>
+              <l>Verschwanden alle in dem weichen schooss</l>
+              <l>Der in der ferne bis zum himmel schwillt</l>
+              <l>Die flocken weben noch am bleichen laken</l>
+              <l>Und jagt an meine wimper sie ein stoss</l>
+              <l>So zittert sie wie wenn die träne quillt</l>
+            </lg>
+            <lg n="2">
+              <l>Die sterne – mich verwirrendes geleite –</l>
+              <l>Verschwimmen: schau ich führerlos hinan</l>
+              <l>Und lassen mich mit grauser nacht allein</l>
+              <l>Ich schrecke vor der ungeahnten weite</l>
+              <l>Ich möchte langsam auf dem weissen plan</l>
+              <l>Mir selber unbewusst gebettet sein</l>
+            </lg>
+            <lg n="3">
+              <l>Doch wenn die wirbel mich zum abgrund trügen</l>
+              <l>Ihr todes-winde mich gelinde träft:</l>
+              <l>Ich suchte noch einmal nach tor und dach –</l>
+              <l>Wie leicht dass hinter jenen höhenzügen</l>
+              <l>Geborgen eine junge hoffnung schläft!</l>
+              <l>Beim ersten lauen hauche wird sie wach.</l>
+            </lg>
+          </lg>
+          <p rendition="#c"><hi rendition="#smaller">FRÜHERE FASSUNG DES GEDICHTES S. 24.</hi></p>
+        </div>
+        <div n="2">
+          <lg type="poem">
+            <pb n="127" facs="#f0131"/>
+            <l>Deine stirne verborgen halb durch ein wölkchen von haaren</l>
+            <l>(sie sind blond und seiden)</l>
+            <l>deine stirne spricht mir von jugendlichem leiden</l>
+            <l>Deine lippen sie sind stumm erzählen die geschichte</l>
+            <l>der seelen die der herr gerichtet</l>
+            <l>Erregender spiegel deine augen</l>
+            <l>spiel nicht damit da er leicht zerbricht!</l>
+            <l>Auch wenn du lächelst (endlich flog über dir der schlummer her)</l>
+            <l>dein lächeln gleicht dem weinen sehr</l>
+            <l>und du neigst ein wenig dein haupt von kummer schwer.</l>
+          </lg>
+          <p rendition="#c"><hi rendition="#smaller">FRÜHERE FASSUNG DES GEDICHTES S. 67.</hi></p>
+          <pb n="128" facs="#f0132"/>
+          <p>Die handschrift die dem ersten druck zugrunde liegt und von der im folgenden einige proben gegeben werden ist die erste vom verfasser in sogenannter stilschrift geschriebene: 25 blatt ohne seitenzählung. Als format wurde ein kleinquart gewählt welches nur einen schmalen rand zulässt. Abwechselnd beginnen im einen gedicht die strofen mit einem blauen · die übrigen zeilen mit einem roten buchstaben · im andern umgekehrt .. ebenso sind die überschriften abwechselnd rot mit blauen wortanfängen oder umgekehrt. Bei den wiedergaben musste auf die farbe verzichtet werden.</p>
+        </div>
+        <div n="2">
+          <pb n="129" facs="#f0133"/>
+          <head>HANDSCHRIFTPROBEN</head>
+          <figure>
+            <note type="editorial">[Ich trat vor dich mit einem segenspruche], Wiedergabe der ersten Niederschrift des Gedichtes S. 28 (GAW 4, S. 130)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Nach der Lese: [Komm in den totgesagten park und schau], Erste Seite des handgeschriebenen Buches (GAW 4, S. 131). Nach der Lese: [Ihr rufe junger jahre die befahlen], Erste und zweite Seite des handgeschriebenen Buches (GAW 4, S. 131/132)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Nach der Lese: [Ja heil und dank dir die den segen brachte], Zweite Seite des handgeschriebenen Buches (GAW 4, S. 132). Nach der Lese: [Wir schreiten auf und ab im reichen flitter], Zweite Seite des handgeschriebenen Buches (GAW 4, S. 132)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Nach der Lese: [Wir werden heute nicht zum garten gehen], Schluss: Fünfte Seite des handgeschriebenen Buches (GAW 4, S. 133). Nach der Lese: [Ich schrieb es auf: nicht länger sei verhehlt], Fünfte Seite des handgeschriebenen Buches (GAW 4, S. 133). Nach der Lese: [Im freien viereck mit den gelben steinen], Fünfte Seite des handgeschriebenen Buches (GAW 4, S. 133)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Waller im Schnee: [Die steine die in meiner strasse staken], Schluss: Siebente Seite des handgeschriebenen Buches (GAW 4, S. 134). Waller im Schnee: [Mir ist als ob ein blick im dunkel glimme], Siebente Seite des handgeschriebenen Buches (GAW 4, S. 134). Waller im Schnee: [Mit frohem grauen haben wir im späten], Siebente Seite des handgeschriebenen Buches (GAW 4, S. 134)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Nachtwachen: IV [Erwachen aus dem tiefsten traumes-schoosse], Schluss: Sechsundzwanzigste Seite des handgeschriebenen Buches (GAW 4, S. 135). Nachtwachen: V [Wenn solch ein sausen in den wipfeln wühlt], Sechsundzwanzigste Seite des handgeschriebenen Buches (GAW 4, S. 135). Verstattet dies Spiel: [Soll nun der mund der von des eises bruch], Sechsundzwanzigste Seite des handgeschriebenen Buches (GAW 4, S. 135)</note>
+          </figure>
+          <figure>
+            <note type="editorial">Traurige Tänze: [Der raum mit sammetblumigen tapeten], Schluss: Dreiunddreissigste Seite des handgeschriebenen Buches (GAW 4, S. 136). Traurige Tänze: [Es lacht in dem steigenden jahr dir], Dreiunddreissigste Seite des handgeschriebenen Buches (GAW 4, S. 136). Traurige Tänze: [Gieb ein lied mir wieder], Dreiunddreissigste Seite des handgeschriebenen Buches (GAW 4, S. 136)</note>
+          </figure>
+        </div>
+      </div>
+    </back>
+  </text>
+</TEI>

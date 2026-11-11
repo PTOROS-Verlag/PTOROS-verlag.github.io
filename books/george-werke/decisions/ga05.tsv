@@ -1,0 +1,98 @@
+key	decision	text	note
+60|Mit|unsrern|überquellend	fix	unsrem	druck: unsrem (zeno rn für m)
+71|andere|rnitgefühle|Verzehrender	fix	mitgefühle	druck: mitgefühle (zeno rn für m)
+80|die|rnandeln|Dort	fix	mandeln	druck: mandeln (zeno rn für m)
+68|STUNDE|An Reinhold und Sabine Lepsius|Sieh	fix	AN REINHOLD UND SABINE LEPSIUS	widmung im druck in versalien
+69|DÜNENHAUS|An Albert und Kitty Verwey|Ist	fix	AN ALBERT UND KITTY VERWEY	widmung im druck in versalien
+73|SCHWERMUT|An Ernest Dowson|Blumen	fix	AN ERNEST DOWSON	widmung im druck in versalien
+74|ROM|An Ludwig von Hofmann|Von	fix	AN LUDWIG VON HOFMANN	widmung im druck in versalien
+75|BUCHT|An Ludwig von Hofmann|An	fix	AN LUDWIG VON HOFMANN	widmung im druck in versalien
+76|WINTERWENDE|An Clemens Franckenstein|Ist	fix	AN CLEMENS FRANCKENSTEIN	widmung im druck in versalien
+77|BRÜDERN|An Leopold Andrian|Als	fix	AN LEOPOLD ANDRIAN	widmung im druck in versalien
+78|EBENE|An Carl August Klein|Silberne	fix	AN CARL AUGUST KLEIN	widmung im druck in versalien
+79|ENDE|An Richard Perls|Wir	fix	AN RICHARD PERLS	widmung im druck in versalien
+70|:|I An Cyril Meir Scott|Sie	edited		widmung im druck in versalien (AN CYRIL MEIR SCOTT)
+12|Als|boten|:	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+13|vielen|kostbarkeiten|Ist	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+16|!|‹|$	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+19|.|Du|wohntest	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+21|zur|stätte|wo	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+23|›|Ich|weiss	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+28|neuer|tänze|.	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+29|›|Ist|dies	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+29|kleine|tiefe ‹|und	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+44|Am|kirchtag|trug	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+54|der|väter|paradies	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+57|uns|zurück|–	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+71|Ihr|kündigtet|dem	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+77|uns|stärkern|trieben	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+83|die|freude|schauet	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+94|dem|teppich|des	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+94|scheint|›|glücklichern	keep		druck bestätigt zeno; ocr-fehler (St.-G.-schrift)
+16|^|V|Du	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+18|^|VII|Ich	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+19|^|VIII|Du	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+26|^|XV|Dein	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+28|^|XVII|Er	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+29|^|XVIII|Einst	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+32|^|XXI|Solang	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+35|^|XXIV|Uns	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+85|GESANG|I|So	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+86|^|II|Bewältigt	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+87|^|III|An	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+88|GESANG|I|Mild	keep		ziffer als überschrift gedruckt; ocr erkennt sie nicht
+12|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+13|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+14|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+15|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+16|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+18|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+20|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+21|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+22|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+24|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+26|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+28|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+30|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+32|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+34|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+72|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+83|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+85|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+86|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+87|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+88|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+89|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+90|lines	keep		zeilenzahl stimmt mit dem druck; ocr übergeht die kurze überschrift
+3|uncovered	keep		Titelei (bildtafel)
+96|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+97|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+98|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+99|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+102|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+103|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+104|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+105|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+106|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+107|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+108|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+109|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+110|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+111|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+112|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+113|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+114|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+115|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+116|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+117|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+118|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+119|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+120|uncovered	keep		Abbildung (erstdruck- und handschriftproben)
+122|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+123|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+124|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+125|uncovered	keep		Inhaltsverzeichnis, nicht kodiert
+71|pb|70	edited		pb nach seitenabgleich mit den scans neu gesetzt
+72|pb|71	edited		pb nach seitenabgleich mit den scans neu gesetzt
+70|:|I|AN	keep		ziffer I als überschrift gedruckt
+ga05|widmungen	edited		zehn widmungszeilen wie im druck linksbündig (p ohne rendition) statt zenos rechtsbündig
