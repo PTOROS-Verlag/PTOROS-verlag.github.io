@@ -1,0 +1,92 @@
+\documentclass[
+  spinewidth=39mm,
+  coverheight=190mm,
+  coverwidth=125mm,
+  bleedwidth=3mm,
+  marklength=0mm
+]{bookcover}
+
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault]{AlegreyaSans}
+\usepackage{xcolor}
+
+\definecolor{stars}{HTML}{02174c}
+\newcommand{\booktitle}{Die Weisheit des Brahmanen}
+\newcommand{\bookauthor}{Friedrich Rückert}
+\newcommand{\booksubtitle}{Ein Lehrgedicht in Bruchstücken}
+
+\newbookcovercomponenttype{center rotate}{%
+  \parbox[t][\partheight][c]{\partwidth}{%
+    \begin{center}
+       \rotatebox[origin=c]{90}{#1}
+    \end{center}}}
+
+\begin{document}
+  \begin{bookcover}
+    \bookcovercomponent{color}{bg whole}{black!90!white}
+    \bookcovercomponent{color}{bg spine}{black!90!white}
+    \bookcovercomponent{color}{bg front}{stars!70!black}
+    \bookcovercomponent{normal}{front}[0.06\textwidth,0.06\textwidth,0.06\textwidth,0.06\textwidth]{
+      \Huge\color{white}
+      {\Large\bookauthor{}\\[0.5\baselineskip]}
+      {\Huge\bfseries Die Weisheit \\ des Brahmanen\\[0.5\baselineskip]}
+      {\huge\booksubtitle{}}\vfill
+      \par
+      PTOROS}
+
+
+  \bookcovercomponent{normal}{back}{%
+    \centering\large\color{white}\vspace{2em}
+    \parbox{0.38\textwidth}{%
+      \textbf{Friedrich Rückert}s imposantes Lehrgedicht \textit{Die Weisheit des Brahmanen}, zwischen 1836 und 1839 in sechs Bänden erschienen, bündelt in einzigartiger Weise Anregungen aus Christentum, Islam, Hinduismus und abendländischer Philosophie.
+
+      \medskip
+
+      \begin{quote}
+        \emph{%
+      Ein indischer Brahman, geboren auf der Flur,\\
+      Der nichts gelesen als den Weda der Natur;\\
+      Hat viel gesehn, gedacht, noch mehr geahnt, gefühlt,\\
+      Und mit Betrachtungen die Leidenschaft gekühlt;\\
+      Spricht bald was klar ihm ward, bald um sich’s klar zu machen,\\
+      Von ihn angeh’nden halb, halb nicht angeh’nden Sachen.\\
+      Er hat die Eigenheit, nur Einzelnes zu sehn,\\
+      Doch alles Einzelne als Ganzes zu verstehn.\\
+      Woran er immer nur sieht schimmern einen Glanz,\\
+      Wird ein Betkügelchen an seinem Rosenkranz.
+        }\\
+        \mbox{}\hfill(I. 1.)
+      \end{quote}
+      \medskip
+      \begin{quote}
+        \emph{%
+          Gar manches sagt nicht rein brahman’sches der Brahman;\\
+          Sei es rein menschlich nur, so nehmen wir es an.\\
+          Doch dieses, was aus gar zu fremden Augen schaut,\\
+          Hat ein europischer Bekannter ihm vertraut.
+        }\\
+        \mbox{}\hfill(XI. 1.)
+      \end{quote}
+      \medskip
+      \begin{quote}
+        \emph{%
+          Ich glaube nicht, daß ich viel eignes neues lehre,\\
+          Noch durch mein Scherflein Witz den Schatz der Weisheit mehre.\\
+          Doch denk’ ich von der Müh mir zweierlei Gewinn;\\
+          Einmal, daß ich nun selbst an Einsicht weiter bin;\\
+          Sodann, daß doch dadurch an manchen Mann wird kommen\\
+          Manches, wovon er sonst gar hätte nichts vernommen.\\
+          Und auch der dritte Grund scheint werth nicht des Gelächters:\\
+          Daß, wer dis Büchlein list, derweil doch list kein schlechters.
+        }\\
+        \mbox{}\hfill(VIII. 1.)
+      \end{quote}
+      \bigskip
+    }}
+
+    \bookcovercomponent{center rotate}{spine}{
+      \color{white}\Large
+      \bookauthor{} \hspace{8.4cm} \textbf{\booktitle{}}
+    }
+  \end{bookcover}
+\end{document}
