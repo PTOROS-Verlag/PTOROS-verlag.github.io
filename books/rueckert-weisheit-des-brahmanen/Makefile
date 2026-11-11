@@ -1,3 +1,6 @@
+.PHONY: all
+all: brahmane_all.pdf cover.pdf
+
 brahmane_all.pdf: brahmane_all.typ brahmane_1.typ brahmane_2.typ brahmane_3.typ brahmane_4.typ brahmane_5.typ brahmane_6.typ
 	typst compile brahmane_all.typ
 
