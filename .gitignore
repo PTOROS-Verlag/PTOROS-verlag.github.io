@@ -1,8 +1,10 @@
-venv/
+*.pdf
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
+*.xdv
+.direnv/
+venv/
 __pycache__/
 .claude/settings.local.json*
-*.pdf
